@@ -1,0 +1,3 @@
+# Article Annexe II : Chapitre Ier
+
+<p align='center'><strong>CHAPITRE Ier : Définitions</strong>. <br/></p><p align='center'></p><p>Dans la présente annexe II aux articles D. 131-1 à D.131-10 du code de l'aviation civile :</p><p>- le terme " service " correspond à la notion de fonction ou de service assurés alors que le terme " organisme " désigne une entité administrative chargée d'assurer un service ;</p><p>- les expressions définies au chapitre Ier de l'annexe I (Règles de l'air) aux articles D. 131-1 à D. 131-10 du code de l'aviation civile sont employées avec la même signification dans les chapitres II à V ci-après.</p>
