@@ -1,3 +1,3 @@
 # Article 38 undecies
 
-Les comptes de provisions doivent être ajustés à la fin de chaque exercice.
+⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006296565)⚠️
