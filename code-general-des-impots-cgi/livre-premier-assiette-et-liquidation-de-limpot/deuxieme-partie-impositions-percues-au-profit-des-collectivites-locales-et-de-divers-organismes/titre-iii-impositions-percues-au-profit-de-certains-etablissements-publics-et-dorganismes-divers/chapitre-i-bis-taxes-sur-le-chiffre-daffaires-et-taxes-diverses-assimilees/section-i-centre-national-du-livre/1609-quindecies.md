@@ -1,0 +1,3 @@
+# Article 1609 quindecies
+
+Un décret fixe les conditions d'application des <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-iii-impositions-percues-au-profit-de-certains-etablissements-publics-et-dorganismes-divers/chapitre-i-bis-taxes-sur-le-chiffre-daffaires-et-taxes-diverses-assimilees/section-i-fonds-national-du-livre/1609-undecies.md'>articles 1609 undecies à 1609 quaterdecies</a>. (1). (1) Annexe III, art. <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069574&idArticle=LEGIARTI000006297329&dateTexte=&categorieLien=cid'>331 L et 331 M</a>.
