@@ -1,0 +1,3 @@
+# Article Annexe II : Tableau n° 23
+
+<p align='center'><strong><br/>NYSTAGMUS PROFESSIONNEL</strong></p><p><br/><br/>Date de création : 18 juillet 1945. </p><br/><table border='1' cellSpacing='0' width='605' align='center' cellPadding='0'><tbody><tr><td width='242'><p align='center'>DÉSIGNATION DE LA MALADIE</p></td><td width='81'><p align='center'>DÉLAI DE prise en charge</p></td><td width='282'><p align='center'>LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie</p></td></tr><tr><td width='242' vAlign='top'><p>Nystagmus</p></td><td width='81' vAlign='top'><p align='center'>1 an</p></td><td width='282' vAlign='top'><p>Travaux exécutés dans les mines.</p></td></tr></tbody></table>
