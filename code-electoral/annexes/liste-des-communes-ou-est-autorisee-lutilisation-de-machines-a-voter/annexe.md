@@ -36,7 +36,7 @@ Meurthe-et-Moselle   Vandoeuvre-lès-Nancy.
 
 Morbihan   Lorient, Questembert.
 
-Nord   Dunkerque.
+Nord   Dunkerque.   Fort-Mardyck.   Saint-Pol-sur-Mer.
 
 Oise   Beauvais.
 
