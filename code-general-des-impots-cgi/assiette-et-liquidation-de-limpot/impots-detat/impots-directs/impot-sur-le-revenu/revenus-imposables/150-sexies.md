@@ -1,3 +1,3 @@
 # Article 150 sexies
 
-Les profits nets réalisés dans le cadre de contrats autres que ceux visés à l'article 150 quinquies sont imposés dans les conditions prévues par le premier alinéa de l'article 94 B.   Les pertes sont soumises aux dispositions de l'article 124 C.
+⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006307373)⚠️
