@@ -1,0 +1,3 @@
+# Article 310 quaterdecies
+
+Les coefficients d'adaptation définis aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069569&idArticle=LEGIARTI000006294859&dateTexte=&categorieLien=id' title='Code général des impôts, annexe 2, CGIAN2. - art. 310 quinquies (VT)'>articles 310 quinquies à 310 terdecies</a> sont fixés par la commission départementale des impôts directs et des taxes sur le chiffre d'affaires constituée dans la formation compétente pour arrêter les tarifs d'évaluations foncières des propriétés non bâties.

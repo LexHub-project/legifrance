@@ -1,0 +1,3 @@
+# Article 310 undecies
+
+En ce qui concerne les terrains à bâtir et autres propriétés évaluées par application d'un taux d'intérêt à la valeur vénale, le coefficient d'adaptation est tiré du rapport des valeurs vénales unitaires constatées respectivement à chacune des deux dates de référence indiquées à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069569&idArticle=LEGIARTI000006294862&dateTexte=&categorieLien=id' title='Code général des impôts, annexe 2, CGIAN2. - art. 310 octies (VT)'>l'article 310 octies</a>.
