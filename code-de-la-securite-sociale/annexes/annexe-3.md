@@ -166,7 +166,7 @@ NOMBRE DE MEMBRES représentants des affiliés :
 
 - Industriels et commerçants : 8    CAISSES : Caisse mutuelle régionale du Rhône
 
-CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et canton de La Verpillière (Isère)
+CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et cantons de La Verpillière et de l'Isle- d'Abeau (Isère)
 
 NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
 
