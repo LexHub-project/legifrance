@@ -1,0 +1,3 @@
+# Article 38 terdecies A
+
+Les entreprises dont l'activité est partiellement exercée à l'étranger sont également tenues de produire en double exemplaire, sur des imprimés identiques à ceux visés aux II et III de l'<a href='/code-general-des-impots-annexe-iii-cgianiii/assiette-et-liquidation-de-limpot/impots-detat/impots-directs-et-taxes-assimilees/impot-sur-le-revenu/benefices-industriels-et-commerciaux-bic/38.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 38 (V)'>article 38</a>, les renseignements afférents aux seules opérations qui participent à la réalisation du résultat imposable en France.

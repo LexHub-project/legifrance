@@ -1,0 +1,3 @@
+# Article 38 quinquies
+
+<p>Les immobilisations sont inscrites au bilan pour leur valeur d'origine.</p><p>Cette valeur d'origine s'entend :</p><p>Pour les immobilisations acquises à titre onéreux par l'entreprise, du coût d'acquisition, c'est-à-dire du prix d'achat majoré des frais accessoires nécessaires à la mise en état d'utilisation du bien ;</p><p>Pour les immobilisations acquises à titre gratuit, de la valeur vénale ;</p><p>Pour les immobilisations apportées à l'entreprise par des tiers, de la valeur d'apport ;</p><p>Pour les immobilisations créées par l'entreprise, du coût d'acquisition des matières ou fournitures consommées, augmenté de toutes les charges directes ou indirectes de production à l'exclusion des frais financiers.</p>
