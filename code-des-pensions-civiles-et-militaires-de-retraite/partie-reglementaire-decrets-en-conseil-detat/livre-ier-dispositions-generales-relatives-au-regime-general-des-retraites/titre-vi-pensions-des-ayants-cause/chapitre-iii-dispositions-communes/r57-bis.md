@@ -1,0 +1,3 @@
+# Article R57 bis
+
+Pour l'application de l'article <a href='/code-des-pensions-civiles-et-militaires-de-retraite/partie-legislative/livre-ier-dispositions-generales-relatives-au-regime-general-des-retraites/titre-vi-pensions-des-ayants-cause/chapitre-ier-fonctionnaires-civils/l45.md' title='Code des pensions civiles et militaires de retr... - art. L45 (Ab)'>L. 45</a>, la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de mois inférieur.
