@@ -1,0 +1,3 @@
+# Article 46 terdecies C
+
+Les sociétés qui ont exercé l'option mentionnée à <a href='/code-general-des-impots-annexe-iii-cgianiii/assiette-et-liquidation-de-limpot/impots-detat/impots-directs-et-taxes-assimilees/dispositions-communes-a-limpot-sur-le-revenu-ir-et-limpot-sur-les-societes-is/societes-a-responsabilite-limitee-sarl/46-terdecies-a.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A (V)'>l'article 46 terdecies A</a> et désirent y renoncer doivent notifier cette renonciation au service des impôts auprès duquel est souscrite la déclaration de résultats avant la date d'ouverture du premier exercice auquel elle s'applique. Dans ce cas, elles n'ont plus la possibilité d'opter à nouveau pour le régime des sociétés de personnes.
