@@ -2,7 +2,7 @@
 
 Date de création : 19 juin 1977.
 
-DESIGNATION DES MALADIES :                - A -
+DESIGNATION DES MALADIES :     - A -
 
 Rhinite, asthme ou dyspnée asthmatiforme confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition.
 
@@ -42,7 +42,7 @@ Travaux exposant aux sulfites, aux bisulfites ou aux persulfates alcalins.
 
 Préparation, emploi, manipulation de chloroplatinates et pentoxyde de vanadium, notamment dans la fabrication des catalyseurs.
 
-Travaux exposant à l'inhalation d'anhydrides d'acides volatils, notamment anhydrides phtaliques, trimellitiques, tétrachlorophtaliques, hexahydrophtaliques, himiques.
+Travaux exposant à l'inhalation d'anhydrides d'acides volatils, notamment anhydrides maléique, phtalique, trimellitique, tétrachlorophtalique, hexahydrophtalique, himique.
 
 Travaux exposant à la colophane chauffée, notamment lors de la soudure en électronique.
 
@@ -62,9 +62,11 @@ Travaux exposant à des émanations d'oxyde d'éthylène, notamment lors de la s
 
 Fabrication et conditionnement du chloramine T.
 
-DESIGNATION DES MALADIES :                - B -
+Manipulation de gypsophile (gypsophila paniculata).
 
-Syndrome respiratoire fébrile avec dyspnée, toux, expectoration, récidivant après nouvelle exposition au risque dont l'étiologie professionnelle est confirmée par la présence dans le sérum d'anticorps précipitants permettant d'identifier l'agent pathogène correspondant au produit responsable.
+DESIGNATION DES MALADIES :     - B -
+
+Syndrome respiratoire fébrile avec dyspnée, toux, expectoration, récidivant après nouvelle exposition au risque dont l'étiologie est confirmée par la présence dans le sérum d'anticorps précipitants permettant d'identifier l'agent pathogène correspondant au produit responsable.
 
 DELAI DE PRISE EN CHARGE : 30 jours
 
