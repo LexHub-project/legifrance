@@ -1,4 +1,4 @@
-# Article R233-151 annexe
+# Article Annexe à l'article R233-151
 
 2.0. Application.         En complément aux autres règles techniques définies par la présente annexe, les équipements de protection individuelle présentant les caractéristiques communes respectivement visées par les paragraphes ci-après doivent être conformes aux règles techniques qu'ils définissent.
 
