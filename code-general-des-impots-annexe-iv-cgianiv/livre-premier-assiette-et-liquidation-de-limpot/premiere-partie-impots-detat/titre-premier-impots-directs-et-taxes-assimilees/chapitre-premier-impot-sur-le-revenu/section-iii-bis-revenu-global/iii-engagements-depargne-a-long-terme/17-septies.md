@@ -1,3 +1,3 @@
 # Article 17 septies
 
-Les établissements de crédit visés à l'article 41 N de l'annexe III au code général des impôts peuvent ouvrir des comptes d'épargne s'ils justifient d'un capital au moins égal à celui fixé par l'article 16 modifié de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
+Les établissements de crédit visés à l'article 41 N de l'annexe III au code général des impôts peuvent ouvrir des comptes d'épargne s'ils justifient d'un capital au moins égal à celui fixé par <a href='/code-monetaire-et-financier/partie-legislative/livre-v-les-prestataires-de-services/titre-ier-etablissements-du-secteur-bancaire/chapitre-ier-regles-generales-applicables-aux-etablissements-de-credit/section-3-conditions-dacces-a-la-profession/sous-section-1-agrement/l511-11.md'>l'article L. 511-11</a> du code monétaire et financier.
