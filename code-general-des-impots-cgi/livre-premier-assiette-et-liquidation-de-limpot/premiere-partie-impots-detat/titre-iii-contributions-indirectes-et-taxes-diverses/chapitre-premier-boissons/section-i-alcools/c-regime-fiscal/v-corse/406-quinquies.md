@@ -1,3 +1,3 @@
 # Article 406 quinquies
 
-Les impositions prévues aux articles 402 bis, 403 et 406 A sont applicables en Corse (1).   (1) Disposition applicable le 1er février 1993.
+Les impositions prévues aux <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-premier-boissons/section-i-alcools/c-regime-fiscal/ii-droit-de-consommation/1-tarifs/402-bis.md'>articles 402 bis </a>et <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-premier-boissons/section-i-alcools/c-regime-fiscal/ii-droit-de-consommation/1-tarifs/403.md'>403</a> sont applicables en Corse.
