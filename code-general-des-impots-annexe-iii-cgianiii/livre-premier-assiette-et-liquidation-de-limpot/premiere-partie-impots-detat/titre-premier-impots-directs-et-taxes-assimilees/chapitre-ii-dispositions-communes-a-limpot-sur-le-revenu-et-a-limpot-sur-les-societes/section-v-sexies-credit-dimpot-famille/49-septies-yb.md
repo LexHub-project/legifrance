@@ -1,0 +1,3 @@
+# Article 49 septies YB
+
+Le crédit d'impôt prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xxxi-credit-dimpot-famille/244-quater-f.md' title='Code général des impôts, CGI. - art. 244 quater F (V)'>l'article 244 quater F</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt.

@@ -1,0 +1,3 @@
+# Article 49 septies YA
+
+En cas de clôture d'exercice en cours d'année, le crédit d'impôt et le montant du plafond de ce dernier, prévus à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xxxi-credit-dimpot-famille/244-quater-f.md' title='Code général des impôts, CGI. - art. 244 quater F (V)'>244 quater F</a> du code général des impôts, sont calculés en prenant en compte les dépenses éligibles engagées au titre de la dernière année civile écoulée.
