@@ -1,0 +1,3 @@
+# Article 65 bis
+
+Le droit de communication prévu aux articles <a href='/code-des-douanes/titre-ii-organisation-et-fonctionnement-du-service-des-douanes/chapitre-iv-pouvoirs-des-agents-des-douanes/section-3-droit-de-communication/paragraphe-1-droit-de-communication-de-ladministration-des-finances/64-a.md' title='Code des douanes - art. 64 A (V)'>64 A et 65</a> est étendu au profit des agents des douanes chargés du recouvrement de toutes sommes perçues selon les modalités prescrites par le présent code et aux conditions mentionnées à ces mêmes articles.
