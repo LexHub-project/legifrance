@@ -1,0 +1,3 @@
+# Article Annexe II : Tableau n° 81
+
+<p align='center'><br/><strong>AFFECTIONS MALIGNES PROVOQUEES PAR LE BIS (CHLOROMETHYLE) ETHER</strong></p><p><br/><br/></p><table border='1' cellSpacing='0' align='center' cellPadding='0'><tbody><tr><td width='246'><p align='center'>DÉSIGNATION DE LA MALADIE</p></td><td width='76'><p align='center'>DÉLAI de prise en charge</p></td><td width='284'><p align='center'>LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie</p></td></tr><tr><td width='246' vAlign='top'><p>Cancer bronchique primitif.</p></td><td width='76' vAlign='top'><p align='center'>40 ans</p></td><td width='284' vAlign='top'><p>Travaux de fabrication du chlorométhyl-méthyléther.</p></td></tr></tbody></table>
