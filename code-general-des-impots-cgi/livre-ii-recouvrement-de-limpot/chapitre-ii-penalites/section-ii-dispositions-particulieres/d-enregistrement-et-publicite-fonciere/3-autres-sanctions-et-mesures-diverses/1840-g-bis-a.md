@@ -1,3 +1,3 @@
 # Article 1840 G bis A
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006313986)⚠️
+La violation de l'engagement prévu au I de l'article 1131 met fin de plein droit à la réserve de jouissance et les biens donnés doivent être remis à l'Etat à la première réquisition, sous peine d'une astreinte de 150 euros au plus par jour de retard, établie et recouvrée selon les règles applicables en matière de droits d'enregistrement.
