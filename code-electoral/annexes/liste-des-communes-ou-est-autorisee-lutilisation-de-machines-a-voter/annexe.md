@@ -2,9 +2,9 @@
 
 Ain   Bourg-en-Bresse.
 
-Alpes-Maritimes   Nice.
+Alpes-Maritimes   Cannes, Nice, Villeneuve-Loubet.
 
-Bouches-du-Rhône   Marseille.
+Bouches-du-Rhône   Gémenos, Marseille.
 
 Charente-Maritime   Royan.
 
@@ -14,19 +14,17 @@ Corrèze   Brive-la-Gaillarde.
 
 Côte-d'Or   Dijon.
 
-Deux-Sèvres   Niort.
-
-Essonne   Bures-sur-Yvette, Orsay, Villebon-sur-Yvette.
+Drôme   Bourg-de-Péage.
 
 Finistère   Brest.
 
+Haute-Garonne   Castanet-Tolosan, Toulouse.
+
 Gironde   Mérignac.
 
-Haute-Garonne   Toulouse.
+Hérault   Juvignac.
 
-Hauts-de-Seine   Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
-
-Ille-et-Vilaine   Rennes.
+Ille-et-Vilaine   Rennes, Saint-Malo.
 
 Isère   Grenoble, Meylan.
 
@@ -38,18 +36,36 @@ Meurthe-et-Moselle   Vandoeuvre-lès-Nancy.
 
 Morbihan   Lorient, Questembert.
 
+Nord   Dunkerque.
+
 Oise   Beauvais.
+
+Pyrénées-Orientales   Perpignan.
+
+Haut-Rhin   Colmar, Mulhouse.
+
+Rhône   Chazay-d'Azergues, Sainte-Foy-lès-Lyon.
 
 Seine-Maritime   Le Havre.
 
-Seine-Saint-Denis   Rosny-sous-Bois.
-
-Val-de-Marne   Marolles-en-Brie.
+Deux-Sèvres   Niort.
 
 Var   Six-Fours-les-Plages.
+
+Vaucluse   Orange.
 
 Vendée   Les Herbiers.
 
 Vienne   Vouneuil-sous-Biard.
+
+Vosges   Rambervillers.
+
+Essonne   Bures-sur-Yvette, Evry, Juvisy-sur-Orge, Linas, Orsay, Villebon-sur-Yvette.
+
+Hauts-de-Seine   Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
+
+Seine-Saint-Denis   Aulnay-sous-Bois, Rosny-sous-Bois.
+
+Val-de-Marne   Marolles-en-Brie, Saint-Maur-des-Fossés.
 
 Yvelines   Versailles.
