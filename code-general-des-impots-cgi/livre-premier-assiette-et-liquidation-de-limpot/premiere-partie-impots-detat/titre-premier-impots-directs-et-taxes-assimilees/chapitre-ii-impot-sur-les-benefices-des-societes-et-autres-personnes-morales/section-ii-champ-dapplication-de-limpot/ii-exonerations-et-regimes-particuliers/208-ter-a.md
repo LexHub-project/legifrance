@@ -1,0 +1,3 @@
+# Article 208 ter A
+
+Les caisses locales de crédit agricole mutuel imposables en application du 2° du 6 de l'article <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs-et-taxes-assimilees/impot-sur-les-benefices-des-societes-et-autres-personnes-morales/champ-dapplication-de-limpot/206.md' title='Code général des impôts, CGI. - art. 206 (V)'>206</a> ne comprennent pas dans leur revenu imposable les intérêts versés aux parts sociales qu'elles détiennent dans le capital des caisses auxquelles elles sont affiliées.

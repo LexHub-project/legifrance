@@ -1,0 +1,3 @@
+# Article 41 undecies
+
+Les dispositions qui précèdent sont applicables aux obligations, effets publics et titres d'emprunt des sociétés et collectivités étrangères désignées au 1°, 2° et 7° de <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs/impot-sur-le-revenu/revenus-imposables/120.md' title='Code général des impôts, CGI. - art. 120 (V)'>l'article 120</a> du code général des impôts.

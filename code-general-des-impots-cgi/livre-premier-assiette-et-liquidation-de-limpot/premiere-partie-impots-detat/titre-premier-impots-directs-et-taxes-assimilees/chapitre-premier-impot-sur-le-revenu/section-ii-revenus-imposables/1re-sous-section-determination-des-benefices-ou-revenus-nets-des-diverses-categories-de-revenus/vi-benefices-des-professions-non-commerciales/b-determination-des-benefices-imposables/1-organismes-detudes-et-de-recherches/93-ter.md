@@ -1,0 +1,3 @@
+# Article 93 ter
+
+Les dispositions de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/1re-sous-section-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/ii-benefices-industriels-et-commerciaux/2-determination-des-benefices-imposables/39-quinquies-c.md' title='Code général des impôts, CGI. - art. 39 quinquies C (V)'>l'article 39 quinquies C</a> sont applicables aux organismes d'études et de recherches.

@@ -1,0 +1,3 @@
+# Article 8 bis
+
+Les associés ou actionnaires des sociétés visées à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006307006&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 1655 ter (V)'>l'article 1655 ter</a> sont personnellement soumis à l'impôt sur le revenu pour la part des revenus sociaux correspondant à leurs droits dans la société.

@@ -1,0 +1,3 @@
+# Article 70 septies
+
+Par dérogation aux dispositions de <a href='/code-general-des-impots-annexe-iii-cgianiii/assiette-et-liquidation-de-limpot/impots-detat/taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/taxe-sur-la-valeur-ajoutee-tva/champ-dapplication/70-sexies.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 70 sexies (V)'>l'article 70 sexies </a>les dispositions de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006304260&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 260 B (V)'>l'article 260 B</a> du code général des impôts ne s'appliquent pas aux opérations qui ne se rattachent pas spécifiquement au commerce des valeurs et de l'argent et aux opérations de crédit-bail.

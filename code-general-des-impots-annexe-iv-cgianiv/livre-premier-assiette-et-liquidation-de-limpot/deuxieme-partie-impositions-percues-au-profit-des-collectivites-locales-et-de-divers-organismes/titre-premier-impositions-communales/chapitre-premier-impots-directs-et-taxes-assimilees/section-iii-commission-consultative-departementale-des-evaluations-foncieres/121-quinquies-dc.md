@@ -1,0 +1,3 @@
+# Article 121 quinquies DC
+
+Il est institué au chef-lieu de chaque département une commission consultative des évaluations foncières chargée de donner un avis sur la quotité des coefficients fixés lors des actualisations des évaluations des propriétés bâties et non bâties prévues par <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006311754&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 1518 (V)'>l'article 1518</a> du code général des impôts.

@@ -1,0 +1,3 @@
+# Article 310 unvicies
+
+L'abattement d'un tiers pratiqué sur la valeur locative des usines nucléaires en application de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006311754&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 1518 (V)'>l'article 1518 A</a> du code général des impôts concerne les usines de traitement des combustibles nucléaires et les centrales nucléaires.

@@ -1,0 +1,3 @@
+# Article 313 BG bis
+
+Le droit de timbre prévu par <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006311059&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 916 A (V)'>l'article 916 A</a> du code général des impôts auquel sont soumises les formules de chèques ne répondant pas aux caractéristiques de barrement d'avance et de non-transmissibilité par voie d'endossement est acquitté sur la production d'états dans les conditions fixées par arrêté du ministre du budget.

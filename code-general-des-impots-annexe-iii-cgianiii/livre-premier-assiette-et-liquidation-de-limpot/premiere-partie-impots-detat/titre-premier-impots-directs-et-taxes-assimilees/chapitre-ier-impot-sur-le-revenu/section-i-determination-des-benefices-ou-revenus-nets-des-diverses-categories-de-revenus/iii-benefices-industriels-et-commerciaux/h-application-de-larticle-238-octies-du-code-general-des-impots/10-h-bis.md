@@ -1,0 +1,3 @@
+# Article 10 H bis
+
+Les dispositions de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006304086&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 238 octies (V)'>l'article 238 octies</a> du code général des impôts cessent de s'appliquer aux profits de construction provenant de la cession d'immeubles pour lesquels la délivrance du permis de construire ou le dépôt de la déclaration en tenant lieu est postérieur au 31 décembre 1971.

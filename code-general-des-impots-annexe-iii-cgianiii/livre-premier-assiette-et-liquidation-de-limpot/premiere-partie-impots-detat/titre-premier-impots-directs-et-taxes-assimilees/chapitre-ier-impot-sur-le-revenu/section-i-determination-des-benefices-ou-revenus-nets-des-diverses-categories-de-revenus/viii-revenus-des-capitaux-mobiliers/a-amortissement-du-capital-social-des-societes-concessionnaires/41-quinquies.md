@@ -1,0 +1,3 @@
+# Article 41 quinquies
+
+Pour chaque opération d'amortissement, l'exonération prévue au 2° de <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs/impot-sur-le-revenu/revenus-imposables/112.md' title='Code général des impôts, CGI. - art. 112 (V)'>l'article 112</a> du code général des impôts est accordée dans la mesure où le capital social ne pourrait se retrouver, compte tenu des amortissements qui ont été déjà effectués en franchise d'impôt, au moment où elle est réalisée.

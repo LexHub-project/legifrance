@@ -1,0 +1,3 @@
+# Article 6 quater
+
+Pour les catégories de titres ou de dépôts désignés à l'article 6 quinquies les organismes émetteurs ou dépositaires peuvent offrir au public des placements dont les produits sont dans tous les cas soumis au prélèvement institué par <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006307295&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 125 A (V)'>l'article 125 A</a> du code général des impôts sauf si le créancier est une personne physique option expresse de sa part pour l'imposition de droit commun.

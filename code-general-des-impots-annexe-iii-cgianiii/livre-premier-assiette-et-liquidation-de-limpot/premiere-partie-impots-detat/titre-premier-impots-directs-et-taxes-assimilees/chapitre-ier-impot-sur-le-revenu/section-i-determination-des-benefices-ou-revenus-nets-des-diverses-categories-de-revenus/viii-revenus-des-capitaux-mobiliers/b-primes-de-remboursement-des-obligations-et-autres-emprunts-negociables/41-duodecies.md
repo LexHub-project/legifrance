@@ -1,0 +1,3 @@
+# Article 41 duodecies
+
+La déclaration estimative visée à <a href='/code-general-des-impots-annexe-iii-cgianiii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ier-impot-sur-le-revenu/section-i-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/viii-revenus-des-capitaux-mobiliers/b-primes-de-remboursement-des-obligations-et-autres-emprunts-negociables/41-nonies.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 41 nonies (V)'>l'article 41 nonies</a>, deuxième alinéa, doit être certifiée et signée par les représentants de la personne morale émettrice.
