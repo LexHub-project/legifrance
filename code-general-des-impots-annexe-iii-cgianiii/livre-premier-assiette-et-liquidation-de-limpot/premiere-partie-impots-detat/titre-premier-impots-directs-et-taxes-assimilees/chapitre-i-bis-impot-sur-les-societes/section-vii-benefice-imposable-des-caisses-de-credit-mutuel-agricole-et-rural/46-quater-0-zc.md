@@ -1,0 +1,3 @@
+# Article 46 quater-0 ZC
+
+Les provisions, autres que les provisions pour risques sur crédit à moyen ou à long terme mentionnées à l'article 46 quater-0 ZB existant au bilan de clôture de l'exercice 1984, sont regardées comme des réserves exonérées de l'impôt si elles ne répondent pas aux conditions du 5° du 1 de <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs/impot-sur-le-revenu/revenus-imposables/determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/39.md' title='Code général des impôts, CGI. - art. 39 (VT)'>l'article 39</a> du code général des impôts ou si elles deviennent sans objet.
