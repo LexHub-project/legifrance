@@ -1,0 +1,3 @@
+# Article 350 undecies
+
+La direction générale des douanes et droits indirects est compétente pour constater les manquants mentionnés au deuxième alinéa de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-iv-tabacs/section-i-tabacs/ii-regime-fiscal/575-d.md' title='Code général des impôts, CGI. - art. 575 D (V)'>l'article 575 D</a> du code général des impôts et prescrire les mentions prévues au troisième alinéa du même article.
