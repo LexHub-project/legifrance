@@ -1,0 +1,3 @@
+# Article 310 HB bis
+
+La quotité et la durée de l'exonération prévue à <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impositions-percues-au-profit-des-collectivites-locales/impositions-communales/impots-directs-et-taxes-assimilees/taxe-professionnelle/1465.md' title='Code général des impôts, CGI. - art. 1465 (V)'>l'article 1465</a> du code général des impôts doivent être identiques pour toutes les opérations d'une même catégorie définies au premier alinéa de cet article.
