@@ -1,0 +1,3 @@
+# Article 2 novodecies B
+
+Pour l'application de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/1re-sous-section-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/i-revenus-fonciers/4-determination-du-revenu-imposable/31-bis.md' title='Code général des impôts, CGI. - art. 31 bis (V)'>l'article 31 bis</a> du code général des impôts, la déduction au titre de l'amortissement est calculée sur 95 % du montant de la souscription effectivement versée par le contribuable au 31 décembre de l'année au titre de laquelle la souscription a été effectuée.
