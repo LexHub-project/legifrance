@@ -1,3 +1,3 @@
 # Article 46 quater-0 B
 
-L'exonération prévue au a de l'article 208 ter du code général des impôts n'est pas applicable aux intérêts des sommes inscrites sur les livrets supplémentaires que les caisses d'épargne ont été autorisées à ouvrir par le décret n° 65-1158 du 24 décembre 1965.
+L'exonération prévue au a de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-ii-champ-dapplication-de-limpot/ii-exonerations-et-regimes-particuliers/208-ter.md' title='Code général des impôts, CGI. - art. 208 ter (V)'>l'article 208 ter</a> du code général des impôts n'est pas applicable aux intérêts des sommes inscrites sur les livrets supplémentaires que les caisses d'épargne ont été autorisées à ouvrir par décret.
