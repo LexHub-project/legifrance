@@ -1,0 +1,3 @@
+# Article 49 septies N
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour le calcul du crédit d'impôt peut être vérifiée dans les conditions prévues à <a href='/livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-detat/le-controle-de-limpot/le-droit-de-controle-de-ladministration/modalites-dexercice-du-droit-de-controle/r45-b-1.md' title='Livre des procédures fiscales - art. R45 B-1 (V)'>l'article R. 45 B-1</a> du livre des procédures fiscales.
