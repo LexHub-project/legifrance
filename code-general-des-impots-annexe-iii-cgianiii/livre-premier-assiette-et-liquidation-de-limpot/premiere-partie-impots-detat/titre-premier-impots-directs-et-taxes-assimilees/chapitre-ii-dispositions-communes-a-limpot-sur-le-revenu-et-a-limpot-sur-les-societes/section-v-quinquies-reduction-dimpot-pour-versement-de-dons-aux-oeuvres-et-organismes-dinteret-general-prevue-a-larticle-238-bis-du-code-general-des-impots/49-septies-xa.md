@@ -1,3 +1,3 @@
 # Article 49 septies XA
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298544)⚠️
+1. Pour l'application des dispositions de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-v-calcul-de-limpot/ii-impot-sur-le-revenu/21-imputation-de-la-reduction-dimpot-pour-versement-de-dons-aux-oeuvres-prevue-a-larticle-238-bis/200-bis.md' title='Code général des impôts, CGI. - art. 200 bis (V)'>l'article 200 bis</a> du code général des impôts, les personnes physiques titulaires de la réduction d'impôt doivent joindre à leur déclaration de revenus ou à leur déclaration de résultat de l'exercice, s'il s'agit d'exploitant individuel, un état de suivi conforme à un modèle établi par l'administration. 2. Abrogé.
