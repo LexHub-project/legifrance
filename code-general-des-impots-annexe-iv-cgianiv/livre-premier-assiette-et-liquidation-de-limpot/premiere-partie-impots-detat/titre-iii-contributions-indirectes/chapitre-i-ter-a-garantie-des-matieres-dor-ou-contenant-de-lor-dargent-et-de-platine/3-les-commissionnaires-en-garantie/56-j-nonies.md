@@ -1,0 +1,3 @@
+# Article 56 J nonies
+
+Le commissionnaire en garantie est tenu de porter à la connaissance de la direction générale des douanes et droits indirects tout changement affectant les justificatifs visés à <a href='/code-general-des-impots-annexe-iv-cgianiv/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes/chapitre-i-ter-a-garantie-des-matieres-dor-ou-contenant-de-lor-dargent-et-de-platine/3-les-commissionnaires-en-garantie/56-j-quinquies.md' title='Code général des impôts, annexe 4, CGIAN4. - art. 56 J quinquies (V)'>l'article 56 J quinquies</a> ainsi que tout changement relatif aux personnes physiques habilitées à représenter les personnes morales agréées.
