@@ -1,3 +1,3 @@
 # Article 54 bis
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006300739)⚠️
+Bénéficient des dispositions du 5° de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-premier-boissons/section-iii-circulation/i-dispositions-communes/6-exemption-des-formalites-a-la-circulation/458.md' title='Code général des impôts, CGI. - art. 458 (V)'>l'article 458</a> du code général des impôts les cidres et poirés libérés des droits indirects et livrés en récipients portant, de manière apparente, l'indication du nom et de l'adresse du fabricant ou de l'embouteilleur.
