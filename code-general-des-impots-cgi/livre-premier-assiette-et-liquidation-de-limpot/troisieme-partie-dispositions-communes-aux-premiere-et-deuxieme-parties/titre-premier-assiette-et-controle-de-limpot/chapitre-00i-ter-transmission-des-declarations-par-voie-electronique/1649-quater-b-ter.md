@@ -1,3 +1,3 @@
 # Article 1649 quater B ter
 
-Les dispositions de l'article 1649 quater B bis s'appliquent aux déclarations souscrites par les particuliers auprès de l'administration fiscale.
+Les dispositions de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-00i-ter-transmission-des-declarations-par-voie-electronique/1649-quater-b-bis.md' title='Code général des impôts, CGI. - art. 1649 quater B bis (V)'>l'article 1649 quater B bis</a> s'appliquent aux déclarations souscrites par les particuliers auprès de l'administration fiscale (1).<br/><br/><i>NOTA:   (1) Voir l'arrêté du 22 mars 2002, art. 6, JO du 3 mai.</i>
