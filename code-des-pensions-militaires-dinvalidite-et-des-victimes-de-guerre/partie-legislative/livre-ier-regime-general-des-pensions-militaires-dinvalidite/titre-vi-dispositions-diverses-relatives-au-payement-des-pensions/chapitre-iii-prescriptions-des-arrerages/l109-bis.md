@@ -1,3 +1,3 @@
 # Article L109 bis
 
-Abrogé
+⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006794342)⚠️
