@@ -1,0 +1,3 @@
+# Article 46 quindecies D
+
+Les contrats d'association à la production mentionnés au b de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/i-benefices-et-revenus-imposables/1-financement-en-capital-doeuvres-cinematographiques-ou-audiovisuelles/238-bis-hg.md' title='Code général des impôts, CGI. - art. 238 bis HG (V)'>l'article 238 bis HG</a> du code général des impôts comportent une clause prévoyant que l'oeuvre ne sera pas financée pour plus de 50 % de son coût total définitif par de tels contrats.
