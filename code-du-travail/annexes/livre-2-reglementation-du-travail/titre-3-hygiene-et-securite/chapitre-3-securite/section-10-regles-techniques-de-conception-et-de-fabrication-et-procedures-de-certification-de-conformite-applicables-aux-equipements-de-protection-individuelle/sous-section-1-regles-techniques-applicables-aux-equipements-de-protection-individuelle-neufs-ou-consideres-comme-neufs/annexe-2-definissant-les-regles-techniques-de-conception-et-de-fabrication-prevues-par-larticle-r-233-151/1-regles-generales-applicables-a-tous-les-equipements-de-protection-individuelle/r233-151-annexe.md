@@ -1,6 +1,6 @@
 # Article R233-151 annexe
 
-1.0. Généralités et champ d'application.   Les présentes règles générales s'appliquent à l'ensemble des équipements de protection individuelle neufs visés à l'article R. 233-83-3.
+1.0. Généralités et champ d'application.         Les présentes règles générales s'appliquent à l'ensemble des équipements de protection individuelle neufs visés à l'article R. 233-83-3.
 
 1.0.0. Définition.         On entend par utilisateur toute personne qui porte ou tient un équipement de protection individuelle tel que défini par l'article R. 233-83-3, en vue de se protéger contre un ou plusieurs risques susceptibles de menacer son intégrité physique.
 
