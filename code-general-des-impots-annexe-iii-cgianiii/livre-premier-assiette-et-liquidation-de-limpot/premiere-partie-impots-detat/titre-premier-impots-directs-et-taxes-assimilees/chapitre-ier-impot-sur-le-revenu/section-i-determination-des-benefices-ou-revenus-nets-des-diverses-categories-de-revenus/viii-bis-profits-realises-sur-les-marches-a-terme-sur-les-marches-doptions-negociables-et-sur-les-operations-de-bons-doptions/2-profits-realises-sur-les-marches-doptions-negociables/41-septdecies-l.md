@@ -1,0 +1,3 @@
+# Article 41 septdecies L
+
+Pour l'application du 2 de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/1re-sous-section-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/vii-bis-profits-realises-en-france-sur-les-marches-a-terme-sur-les-marches-doptions-negociables-et-sur-les-operations-de-bons-doption/150-nonies.md'>l'article 150 nonies</a> du code général des impôts, le dénouement d'un contrat intervient à la date de clôture définitive de la position ouverte par ce contrat.
