@@ -1,0 +1,3 @@
+# Article 80 terdecies
+
+Les indemnités, remboursements et allocations forfaitaires pour frais versés aux personnes mentionnées au troisième alinéa de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/1re-sous-section-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/v-traitements-salaires-pensions-et-rentes-viageres/1-definition-des-revenus-imposables/80.md' title='CODE GENERAL DES IMPOTS, CGI. - art. 80 (VT)'>80</a> sont, quel que soit leur objet, soumis à l'impôt sur le revenu.
