@@ -1,0 +1,3 @@
+# Article 10 bis
+
+Les architectes peuvent recourir à la publicité dans le cadre de la législation et de la réglementation en vigueur, notamment <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000509757&idArticle=LEGIARTI000006505215&dateTexte=&categorieLien=cid' title='Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)'>l'article 44</a> (1) de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat modifiée.<br/><br/><i>NOTA:<p>(1) Article abrogé par la loi n° 93-949 du 26 juillet 1993 art. 4.</p></i>
