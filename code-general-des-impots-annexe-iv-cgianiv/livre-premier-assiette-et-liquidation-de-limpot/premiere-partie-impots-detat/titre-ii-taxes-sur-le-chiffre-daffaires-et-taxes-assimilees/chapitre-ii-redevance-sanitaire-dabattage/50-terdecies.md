@@ -22,22 +22,4 @@ Par tonne : 29 F, Par kilogramme : 0,029 F   Pour les pintades
 
 Par tonne : 29 F, Par kilogramme : 0,029 F   Pour les oies
 
-Par tonne : 22 F, Par kilogramme : 0,022 F   Tarif applicable à compter du 1er juillet 1994 (Par carcasse abattue)   A. - Animaux de boucherie
-
-Pour les gros bovins, 30 F
-
-Pour les veaux, 12 F
-
-Pour les solipèdes domestiques, 21 F
-
-Pour les ovins et caprins :   - d'un poids carcasse inférieur à 12 kilogrammes, 1 F   - d'un poids carcasse de 12 kilogrammes ou plus, 1,7 F
-
-Pour les porcins, 5,8 F   B. - Volailles
-
-Pour les volailles du genre Gallus et les pintades, 0,035 F
-
-Pour les canards, 0,070 F
-
-Pour les oies, 0,100 F
-
-Pour les dindes, 0,145 F
+Par tonne : 22 F, Par kilogramme : 0,022 F   Tarif applicable à compter du 1er juillet 1994 (Par carcasse abattue)   A. - Animaux de boucherie   Pour les gros bovins, 30 F   Pour les veaux, 12 F   Pour les solipèdes domestiques, 21 F   Pour les ovins et caprins :   - d'un poids carcasse inférieur à 12 kilogrammes, 1 F   - d'un poids carcasse de 12 kilogrammes ou plus, 1,7 F   ((Pour les porcins :   - d'un poids carcasse inférieur à 25 kilogramme 3,80 F ;   - d'un poids carcasse de 25 kilogrammes ou plus 5,80 F)) (M).   B. - Volailles   Pour les volailles du genre Gallus et les pintades, 0,035 F   Pour les canards, 0,070 F   Pour les oies, 0,100 F   Pour les dindes, 0,145 F   (M) Modification de l'arrêté applicable à compter du 1er novembre 1996.
