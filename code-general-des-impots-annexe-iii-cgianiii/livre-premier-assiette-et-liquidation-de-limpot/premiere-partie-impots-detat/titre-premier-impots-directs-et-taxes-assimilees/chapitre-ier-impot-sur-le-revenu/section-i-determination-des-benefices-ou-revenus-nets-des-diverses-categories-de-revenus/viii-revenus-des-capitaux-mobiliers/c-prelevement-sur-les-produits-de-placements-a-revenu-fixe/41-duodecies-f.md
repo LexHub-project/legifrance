@@ -1,0 +1,3 @@
+# Article 41 duodecies F
+
+Lorsqu'il a été appliqué aux produits des bons de caisse émis par les établissements de crédit, le prélèvement tient lieu de la retenue à la source prévue au I de <a href='/code-general-des-impots-cgi/livre-ii-recouvrement-de-limpot/chapitre-premier-paiement-de-limpot/section-i-impots-directs-et-taxes-assimilees/ii-exigibilite-de-limpot/4-retenues-a-la-source-et-prelevements-sur-les-revenus-de-valeurs-mobilieres/b-retenue-a-la-source-afferente-aux-interets-des-bons-de-caisse/1678-bis.md' title='Code général des impôts, CGI. - art. 1678 bis (V)'>l'article 1678 bis</a> du code général des impôts.
