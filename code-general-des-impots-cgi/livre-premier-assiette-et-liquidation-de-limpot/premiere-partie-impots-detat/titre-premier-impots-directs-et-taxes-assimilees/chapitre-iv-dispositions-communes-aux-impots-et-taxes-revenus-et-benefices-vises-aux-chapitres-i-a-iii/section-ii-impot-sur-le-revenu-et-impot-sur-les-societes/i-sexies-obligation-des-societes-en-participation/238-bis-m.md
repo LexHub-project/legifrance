@@ -1,0 +1,3 @@
+# Article 238 bis M
+
+Les sociétés en participation doivent, pour l'application des <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs/impot-sur-le-revenu/dispositions-generales/8.md' title='Code général des impôts, CGI. - art. 8 (V)'>articles 8 </a>et <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs/impot-sur-le-revenu/revenus-imposables/determination-des-benefices-nets-industriels-et-commerciaux/60.md' title='Code général des impôts, CGI. - art. 60 (V)'>60</a>, inscrire à leur actif les biens dont les associés ont convenu de mettre la propriété en commun.
