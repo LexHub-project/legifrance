@@ -1,0 +1,3 @@
+# Article 49 octies D
+
+Les dispositions des <a href='/code-general-des-impots-annexe-iii-cgianiii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-dispositions-communes-a-limpot-sur-le-revenu-et-a-limpot-sur-les-societes/section-vi-indemnites-de-conge-paye/49-octies.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 49 octies (V)'>articles 49 octies à 49 octies C</a> s'appliquent aux apports partiels d'actif, aux scissions et aux transferts de salariés avec maintien du contrat de travail.

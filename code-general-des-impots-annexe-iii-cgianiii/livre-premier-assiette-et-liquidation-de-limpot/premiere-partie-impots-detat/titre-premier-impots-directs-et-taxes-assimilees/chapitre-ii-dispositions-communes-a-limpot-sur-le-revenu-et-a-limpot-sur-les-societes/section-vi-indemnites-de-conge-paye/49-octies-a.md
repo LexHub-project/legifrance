@@ -1,0 +1,3 @@
+# Article 49 octies A
+
+Pour l'application des dispositions de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/i-benefices-et-revenus-imposables/236-bis.md' title='Code général des impôts, CGI. - art. 236 bis (V)'>l'article 236 bis</a> du code général des impôts, la date d'effet de l'opération remplace celle de la fusion lorsque celle-ci a un caractère rétroactif.
