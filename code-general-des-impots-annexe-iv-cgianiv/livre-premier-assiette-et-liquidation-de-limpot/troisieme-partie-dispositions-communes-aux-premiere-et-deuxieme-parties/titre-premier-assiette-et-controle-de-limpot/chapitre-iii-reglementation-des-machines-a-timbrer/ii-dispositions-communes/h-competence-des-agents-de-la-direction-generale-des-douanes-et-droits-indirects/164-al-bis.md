@@ -1,0 +1,3 @@
+# Article 164 AL bis
+
+<p>Les dispositions prévues aux <a href='/code-general-des-impots-annexe-iv-cgianiv/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-iii-reglementation-des-machines-a-timbrer/i-definitions/164-l.md' title='Code général des impôts, annexe 4, CGIAN4. - art. 164 L (V)'>articles 164 L à 164 AL</a> relatives aux machines à timbrer peuvent également être mises en œuvre par les agents de la direction générale des douanes et droits indirects.</p>
