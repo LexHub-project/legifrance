@@ -1,3 +1,3 @@
 # Article 231 bis E
 
-Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du chapitre III du titre IV du livre IV du code du travail sont exonérées de la taxe sur les salaires prévue à l'article 231.<br/><br/><i>NOTA:   NOTA : Loi 2000-1352 art. 10 II : Article abrogé.   Loi 2000-1352 art. 10 V : L'abrogation s'applique à la taxe sur les salaires due à raison des rémunérations versées à compter du 1er janvier 2002.</i>
+⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006308895)⚠️
