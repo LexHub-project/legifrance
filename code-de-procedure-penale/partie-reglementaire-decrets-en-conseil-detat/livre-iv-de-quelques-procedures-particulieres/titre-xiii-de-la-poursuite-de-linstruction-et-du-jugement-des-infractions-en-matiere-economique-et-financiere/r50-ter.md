@@ -1,0 +1,3 @@
+# Article R50 ter
+
+Les personnes non fonctionnaires remplissant les conditions prévues au premier alinéa de <a href='/code-de-procedure-penale/partie-legislative/livre-iv-de-quelques-procedures-particulieres/titre-xiii-de-la-procedure-applicable-aux-infractions-en-matiere-economique-et-financiere/706.md' title='Code de procédure pénale - art. 706 (V)'>l'article 706 </a>sont recrutées en qualité d'agent contractuel. Le <a href='/affichTexte.do?cidTexte=JORFTEXT000000699956&categorieLien=cid' title='Décret n°86-83 du 17 janvier 1986 (V)'>décret n° 86-83 du 17 janvier 1986</a> relatif aux dispositions générales applicables aux agents non titulaires de l'Etat leur est applicable. Leur contrat comporte une période d'essai de trois mois.

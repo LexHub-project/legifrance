@@ -1,0 +1,3 @@
+# Article R50 bis
+
+Les assistants spécialisés prévus à <a href='/code-de-procedure-penale/partie-legislative/livre-iv-de-quelques-procedures-particulieres/titre-xiii-de-la-procedure-applicable-aux-infractions-en-matiere-economique-et-financiere/706.md' title='Code de procédure pénale - art. 706 (V)'>l'article 706</a> sont nommés pour une durée de trois ans renouvelable. Les fonctions d'assistant spécialisé sont exclusives de toute autre activité professionnelle rémunérée, à l'exception de l'enseignement.
