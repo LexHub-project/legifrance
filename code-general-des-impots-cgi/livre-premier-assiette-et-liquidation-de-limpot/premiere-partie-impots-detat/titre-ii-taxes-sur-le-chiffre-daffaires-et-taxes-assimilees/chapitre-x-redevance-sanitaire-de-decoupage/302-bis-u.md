@@ -1,0 +1,3 @@
+# Article 302 bis U
+
+La redevance sanitaire visée à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-x-redevance-sanitaire-de-decoupage/302-bis-s.md' title='Code général des impôts, CGI. - art. 302 bis S (V)'>l'article 302 bis S</a> est constatée et recouvrée suivant les mêmes règles, sous les mêmes garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.

@@ -1,0 +1,3 @@
+# Article 302 bis P
+
+La redevance visée à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-ix-redevance-sanitaire-dabattage/302-bis-n.md' title='Code général des impôts, CGI. - art. 302 bis N (V)'>l'article 302 bis N</a> est constatée et recouvrée suivant les mêmes règles, sous les mêmes garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
