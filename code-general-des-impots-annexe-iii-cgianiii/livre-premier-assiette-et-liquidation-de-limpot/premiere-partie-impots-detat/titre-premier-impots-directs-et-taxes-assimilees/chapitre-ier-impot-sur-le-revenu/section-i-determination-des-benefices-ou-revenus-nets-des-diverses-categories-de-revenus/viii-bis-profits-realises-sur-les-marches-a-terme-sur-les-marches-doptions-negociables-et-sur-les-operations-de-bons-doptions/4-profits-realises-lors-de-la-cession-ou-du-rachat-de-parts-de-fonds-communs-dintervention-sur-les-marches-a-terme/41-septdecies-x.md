@@ -1,0 +1,3 @@
+# Article 41 septdecies X
+
+Le gérant d'un fonds commun d'intervention sur les marchés à terme ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux <a href='/code-general-des-impots-annexe-iii-cgianiii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ier-impot-sur-le-revenu/section-i-determination-des-benefices-ou-revenus-nets-des-diverses-categories-de-revenus/viii-revenus-des-capitaux-mobiliers/g-fonds-communs-de-placement-fonds-professionnels-de-capital-investissement-et-fonds-professionnels-specialises/41-sexdecies-a.md'>articles 41 sexdecies A à 41 sexdecies F</a>.
