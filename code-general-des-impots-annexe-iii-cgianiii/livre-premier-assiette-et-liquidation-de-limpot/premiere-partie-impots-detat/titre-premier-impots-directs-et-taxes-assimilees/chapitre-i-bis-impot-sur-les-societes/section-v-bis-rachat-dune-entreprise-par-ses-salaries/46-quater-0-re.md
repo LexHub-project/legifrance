@@ -1,0 +1,3 @@
+# Article 46 quater-0 RE
+
+Les échéances d'intérêts des emprunts mentionnés au deuxième alinéa du I de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/220-quater-a.md' title='Code général des impôts, CGI. - art. 220 quater A (V)'>l'article 220 quater A</a> du code général des impôts sont fixées à la date de clôture des exercices de la société nouvelle.
