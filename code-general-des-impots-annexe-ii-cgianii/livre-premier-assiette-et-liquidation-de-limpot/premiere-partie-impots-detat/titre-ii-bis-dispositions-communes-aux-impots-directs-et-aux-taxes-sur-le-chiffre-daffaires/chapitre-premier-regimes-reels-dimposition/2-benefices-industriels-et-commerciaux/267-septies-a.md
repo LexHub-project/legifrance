@@ -1,0 +1,3 @@
+# Article 267 septies A
+
+L'option des entreprises placées de plein droit sous le régime simplifié de bénéfice réel qui désirent se placer sous le régime de bénéfice réel doit être exercée dans les conditions prévues au III de l'article <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-bis-dispositions-communes-aux-impots-directs-et-aux-taxes-sur-le-chiffre-daffaires/chapitre-premier-regimes-simplifies-dimposition/1-taxes-sur-le-chiffre-daffaires/267-quinquies.md' title='Code général des impôts, annexe 2, CGIAN2. - art. 267 quinquies (V)'>267 quinquies</a>.
