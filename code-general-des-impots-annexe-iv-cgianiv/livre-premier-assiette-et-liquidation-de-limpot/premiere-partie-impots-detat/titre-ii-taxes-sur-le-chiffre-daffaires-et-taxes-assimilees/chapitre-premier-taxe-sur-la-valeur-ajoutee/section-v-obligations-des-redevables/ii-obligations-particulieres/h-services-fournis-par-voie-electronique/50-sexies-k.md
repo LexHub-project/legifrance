@@ -1,0 +1,3 @@
+# Article 50 sexies K
+
+Lorsque l'assujetti cesse ou modifie son activité au point de ne plus se prévaloir du régime spécial prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-premier-taxe-sur-la-valeur-ajoutee/section-ix-regimes-speciaux/ix-services-fournis-par-voie-electronique/298-sexdecies-f.md' title='Code général des impôts, CGI. - art. 298 sexdecies F (VT)'>l'article 298 sexdecies F</a> du code général des impôts, il en informe l'administration par voie électronique.
