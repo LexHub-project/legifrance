@@ -1,0 +1,3 @@
+# Article 298 sexdecies D
+
+Pour les livraisons mentionnées au 1 et au 2 de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-premier-taxe-sur-la-valeur-ajoutee/section-ix-regimes-speciaux/viii-regime-applicable-a-lor-dinvestissement/298-sexdecies-b.md' title='Code général des impôts, CGI. - art. 298 sexdecies B (V)'>298 sexdecies B</a>, la taxe est acquittée par le destinataire. Toutefois, le vendeur est solidairement tenu au paiement de la taxe.
