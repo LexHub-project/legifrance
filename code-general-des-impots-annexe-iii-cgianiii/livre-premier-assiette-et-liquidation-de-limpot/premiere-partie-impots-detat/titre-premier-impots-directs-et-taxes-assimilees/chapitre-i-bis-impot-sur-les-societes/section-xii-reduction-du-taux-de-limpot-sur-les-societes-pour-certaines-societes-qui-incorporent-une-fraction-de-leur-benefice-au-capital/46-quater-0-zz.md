@@ -1,3 +1,3 @@
 # Article 46 quater-0 ZZ
 
-La réserve spéciale visée au cinquième alinéa du f du troisième alinéa du I de l'article 219 du code général des impôts doit être individualisée dans un sous-compte distinct des autres comptes de réserves au passif du bilan.
+La réserve spéciale visée au septième alinéa du f du I de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/219.md' title='Code général des impôts, CGI. - art. 219 (V)'>l'article 219</a> du code général des impôts doit être individualisée dans un sous-compte distinct des autres comptes de réserves au passif du bilan.
