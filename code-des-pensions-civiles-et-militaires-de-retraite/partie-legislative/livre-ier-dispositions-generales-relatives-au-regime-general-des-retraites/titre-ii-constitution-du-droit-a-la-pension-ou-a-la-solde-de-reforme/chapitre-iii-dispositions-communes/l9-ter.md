@@ -1,0 +1,3 @@
+# Article L9 ter
+
+La majoration de durée d'assurance prévue à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070302&idArticle=LEGIARTI000006362697&dateTexte=&categorieLien=cid' title='Code des pensions civiles et militaires de retr... - art. L12 bis (V)'>L. 12 bis</a> ne peut se cumuler avec la durée d'assurance prise en compte au titre du 1° de l'article L. 9 lorsque celle-ci est supérieure ou égale à six mois.
