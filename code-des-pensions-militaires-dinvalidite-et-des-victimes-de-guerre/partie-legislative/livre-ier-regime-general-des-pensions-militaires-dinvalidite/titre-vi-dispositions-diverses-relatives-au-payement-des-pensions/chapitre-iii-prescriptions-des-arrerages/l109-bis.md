@@ -1,3 +1,3 @@
 # Article L109 bis
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006794342)⚠️
+Les articles L. 91 à L. 93 du code des pensions civiles et militaires de retraite sont applicables aux pensions servies au titre du présent code.
