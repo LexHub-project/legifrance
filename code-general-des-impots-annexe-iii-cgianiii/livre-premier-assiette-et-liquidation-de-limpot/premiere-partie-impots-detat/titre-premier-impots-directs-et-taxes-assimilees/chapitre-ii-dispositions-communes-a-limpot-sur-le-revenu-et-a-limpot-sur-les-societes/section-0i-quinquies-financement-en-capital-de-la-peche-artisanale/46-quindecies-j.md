@@ -1,0 +1,3 @@
+# Article 46 quindecies J
+
+Le délai de détention de cinq ans des parts de copropriétés de navires de pêche mentionné à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/i-benefices-et-revenus-imposables/3-financement-de-la-peche-artisanale/238-bis-hp.md' title='Code général des impôts, CGI. - art. 238 bis HP (V)'>l'article 238 bis HP</a> du code général des impôts est décompté du jour de la mise en service du navire ou de la date de constitution de la copropriété si elle est postérieure.
