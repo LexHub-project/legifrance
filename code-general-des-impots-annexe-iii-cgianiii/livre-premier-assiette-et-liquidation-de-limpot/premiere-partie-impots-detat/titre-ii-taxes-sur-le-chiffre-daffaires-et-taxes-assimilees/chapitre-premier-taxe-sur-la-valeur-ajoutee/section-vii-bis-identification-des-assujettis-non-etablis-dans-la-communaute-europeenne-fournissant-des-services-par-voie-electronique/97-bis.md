@@ -1,0 +1,3 @@
+# Article 97 bis
+
+Le numéro individuel d'identification prévu au 3 de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-premier-taxe-sur-la-valeur-ajoutee/section-ix-regimes-speciaux/ix-services-fournis-par-voie-electronique/298-sexdecies-f.md' title='Code général des impôts, CGI. - art. 298 sexdecies F (VT)'>l'article 298 sexdecies F</a> du code général des impôts est composé de l'acronyme " EU ", suivi de trois chiffres propres à l'Etat membre d'identification, des cinq chiffres de l'identifiant unique et d'un chiffre clef.
