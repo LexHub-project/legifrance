@@ -1,3 +1,3 @@
 # Article 50 quaterdecies
 
-<p>Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) : </p><p>- pour les viandes de boucherie 11 F ; </p><p>- pour les viandes de volailles 9 F (M). </p><p>(M) Modification applicable à compter du 1er novembre 1996. </p>
+<p>Le tarif de la redevance sanitaire de découpage s'établit comme suit (par tonne) : </p><p>Pour les viandes de boucherie : 11 Francs. </p><p>Pour les viandes de volailles et de lapin : 9 Francs. </p><p>Pour les viandes de gibier d'élevage : </p><p>- petit gibier à plumes, petit gibier à poils : 9 Francs. </p><p>- ratites (autruche, émeu, nandou) : 19 Francs. </p><p>- sanglier et ruminants : 11 Francs. </p>
