@@ -1,0 +1,3 @@
+# Article Tableau n° 41
+
+<p align='center'>Intoxications professionnelles par l'hexane</p><table border='1' cellSpacing='0' align='center' cellPadding='0'><tbody><tr><td width='265'><p align='center'>DÉSIGNATION DE LA MALADIE</p></td><td width='113'><p align='center'>DÉLAI DE PRISE<br/>en charge</p></td><td width='265'><p align='center'>LISTE INDICATIVE DES PRINCIPAUX TRAVAUX<br/>susceptibles de provoquer la maladie</p></td></tr><tr><td width='265' vAlign='top'><p>Polynévrites, avec troubles des réactions électriques.</p></td><td width='113' vAlign='top'><p align='center'>30 jours</p></td><td width='265' vAlign='top'><p>Travaux de collage, notamment sur cuir ou matière plastique, avec des produits contenant de l'hexane.</p></td></tr></tbody></table>
