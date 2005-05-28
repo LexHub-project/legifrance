@@ -1,0 +1,3 @@
+# Article 49 septies YR
+
+Le crédit d'impôt prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xxxv-credit-dimpot-au-titre-des-avances-remboursables-ne-portant-pas-interet-pour-financer-lacquisition-ou-la-construction-dune-residence-principale/244-quater-j.md' title='Code général des impôts, CGI. - art. 244 quater J (VT)'>l'article 244 quater J</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôts.
