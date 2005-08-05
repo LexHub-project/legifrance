@@ -1,21 +1,3 @@
 # Article Annexe III à l'article D432-4
 
-Bassin du Rhin
-
-Département de Meurthe-et-Moselle   Le Sairon et ses affluents.   Le Grand Fontaine et ses affluents.   Le Champigneule et ses affluents.   La Plaine et ses affluents.   La Vezuze et ses affluents.   La Rochette et ses affluents.   La Bouvade et ses affluents.   Le Tray et ses affluents.   Le Saint-Anne et ses affluents.   L'Orne.   Le Rupt de Med.   La Moselle.   La Meurthe.   Le Woigot et ses affluents.
-
-Département de la Meuse   L'Orne.
-
-Département des Vosges   La Moselle, en aval de l'usine de Saulx (commune de Rupt-sur-Moselle).   La Vologne.   La Moselotte, en aval de l'usine de Mainqueyon (commune de Thiefosse).   La Cleurle.   Le Bouchoi.   La Basse sur Rupt.   La Meurthe.   La Montagne, en amont de sa confluence avec la Gaindrupt.   L'Arentèle.   Le Monseigneur.   La Fave.   La Hure.   Le Rabodeau.   Le Ravines.   La Valdange.   La Plaine.
-
-Bassin de la Meuse
-
-Département des Ardennes   La Marche.   L'Eunemane.   L'Audry.   La Sormonne.   Le Thin.   La Venee.   La Semoy.   La Chiers.   Le Virouin.   Le Meuse.
-
-Département de Meurthe-et-Moselle   Le Bastieux et ses affluents.   La Chiers.   La Crusnes et ses affluents.   Le Conroy et ses affluents.
-
-Département de la Meuse   La Chiers.   Le Loison.   La Crusnes.   La Meuse (canalisée et "sauvage").
-
-Bassin de la Loire
-
-Département de la Haute-Loire   L'Andrable et ses affluents.   L'Arzon et ses affluents.   La Borne et ses affluents.   La Gazeille et ses affluents.   La Dunières et ses affluents.   La Semène et ses affluents.   La Senouires et ses affluents.   Le Celoux et ses affluents.   La Cronce et ses affluents.   La Derges et ses affluents.   L'Ance du Sud, en aval du barrage de Pouzas.   L'Ance du Nord, en aval du barrage de Passouire.   La Sauge, en aval du barrage du Luchadou.   Le Lignon du Velay, en aval du barrage de la Chapelette.
+<p align='center'><strong>Bassin du Rhin<br/><br/></strong></p><p align='center'>Département de Meurthe-et-Moselle</p><p>Le Sairon et ses affluents.</p><p>Le Grand Fontaine et ses affluents.</p><p>Le Champigneule et ses affluents.</p><p>La Plaine et ses affluents.</p><p>La Vezuze et ses affluents.</p><p>La Rochette et ses affluents.</p><p>La Bouvade et ses affluents.</p><p>Le Tray et ses affluents.</p><p>Le Saint-Anne et ses affluents.</p><p>L'Orne.</p><p>Le Rupt de Med.</p><p>La Moselle.</p><p>La Meurthe.</p><p>Le Woigot et ses affluents.</p><p align='center'>Département de la Meuse</p><p>L'Orne.</p><p align='center'>Département des Vosges</p><p>La Moselle, en aval de l'usine de Saulx (commune de Rupt-sur-Moselle).</p><p>La Vologne.</p><p>La Moselotte, en aval de l'usine de Mainqueyon (commune de Thiefosse).</p><p>La Cleurle.</p><p>Le Bouchoi.</p><p>La Basse sur Rupt.</p><p>La Meurthe.</p><p>La Montagne, en amont de sa confluence avec la Gaindrupt.</p><p>L'Arentèle.</p><p>Le Monseigneur.</p><p>La Fave.</p><p>La Hure.</p><p>Le Rabodeau.</p><p>Le Ravines.</p><p>La Valdange.</p><p>La Plaine.</p><p align='center'><strong>Bassin de la Meuse<br/></strong></p><p align='center'>Département des Ardennes</p><p>La Marche.</p><p>L'Eunemane.</p><p>L'Audry.</p><p>La Sormonne.</p><p>Le Thin.</p><p>La Venee.</p><p>La Semoy.</p><p>La Chiers.</p><p>Le Virouin.</p><p>Le Meuse.</p><p align='center'>Département de Meurthe-et-Moselle</p><p>Le Bastieux et ses affluents.</p><p>La Chiers.</p><p>La Crusnes et ses affluents.</p><p>Le Conroy et ses affluents.</p><p>Département de la Meuse</p><p>La Chiers.</p><p>Le Loison.</p><p>La Crusnes.</p><p>La Meuse (canalisée et "sauvage").</p><p align='center'><strong>Bassin de la Loire</strong></p><p align='center'>Département de la Haute-Loire</p><p>L'Andrable et ses affluents.</p><p>L'Arzon et ses affluents.</p><p>La Borne et ses affluents.</p><p>La Gazeille et ses affluents.</p><p>La Dunières et ses affluents.</p><p>La Semène et ses affluents.</p><p>La Senouires et ses affluents.</p><p>Le Celoux et ses affluents.</p><p>La Cronce et ses affluents.</p><p>La Derges et ses affluents.</p><p>L'Ance du Sud, en aval du barrage de Pouzas.</p><p>L'Ance du Nord, en aval du barrage de Passouire.</p><p>La Sauge, en aval du barrage du Luchadou.</p><p>Le Lignon du Velay, en aval du barrage de la Chapelette.</p>
