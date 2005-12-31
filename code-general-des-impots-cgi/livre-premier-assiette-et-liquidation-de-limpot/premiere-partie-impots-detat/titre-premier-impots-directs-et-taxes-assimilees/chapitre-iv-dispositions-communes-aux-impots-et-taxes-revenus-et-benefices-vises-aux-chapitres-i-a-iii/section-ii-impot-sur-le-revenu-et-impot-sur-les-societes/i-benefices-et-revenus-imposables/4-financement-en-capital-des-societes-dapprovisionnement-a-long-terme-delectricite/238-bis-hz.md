@@ -1,0 +1,3 @@
+# Article 238 bis HZ
+
+En cas de dissolution de la société ou de réduction de son capital, le ministre de l'économie, des finances et du budget peut ordonner la réintégration des sommes déduites en application de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006303533&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 217 quindecies (V)'>l'article 217 quindecies</a> au résultat imposable de l'exercice au cours duquel elles ont été déduites.

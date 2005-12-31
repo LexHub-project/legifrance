@@ -1,0 +1,3 @@
+# Article 238 bis HZ bis
+
+Un décret fixe les modalités d'application des <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/i-benefices-et-revenus-imposables/4-financement-en-capital-des-societes-dapprovisionnement-a-long-terme-delectricite/238-bis-hv.md' title='Code général des impôts, CGI. - art. 238 bis HV (V)'>articles 238 bis HV à 238 bis HZ</a> et, notamment, les obligations déclaratives.
