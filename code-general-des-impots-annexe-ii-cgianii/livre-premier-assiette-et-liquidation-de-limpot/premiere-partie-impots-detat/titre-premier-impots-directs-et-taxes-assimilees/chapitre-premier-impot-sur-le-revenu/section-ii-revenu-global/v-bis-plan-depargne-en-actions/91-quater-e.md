@@ -1,3 +1,3 @@
 # Article 91 quater E
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006293907)⚠️
+Les dispositions relatives aux modalités d'ouverture d'un plan d'épargne en actions sont prévues par <a href='/code-monetaire-et-financier/partie-reglementaire/livre-ii-les-produits/titre-ii-les-produits-depargne/chapitre-ier-produits-depargne-generale-a-regime-fiscal-specifique/section-6-le-plan-depargne-en-actions/r221-111.md' title='Code monétaire et financier - art. R221-111 (V)'>l'article R. 221-111</a> du code monétaire et financier.

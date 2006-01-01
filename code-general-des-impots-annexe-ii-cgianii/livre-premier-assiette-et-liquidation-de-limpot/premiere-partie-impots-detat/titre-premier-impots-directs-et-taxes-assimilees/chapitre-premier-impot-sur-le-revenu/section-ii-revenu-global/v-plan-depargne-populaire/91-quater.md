@@ -1,3 +1,3 @@
 # Article 91 quater
 
-La date d'ouverture du plan d'épargne populaire est celle du premier versement effectué sur le compte ou au titre du contrat d'assurance vie.
+La date d'ouverture du plan d'épargne populaire est fixée conformément aux dispositions de <a href='/code-monetaire-et-financier/partie-reglementaire/livre-ii-les-produits/titre-ii-les-produits-depargne/chapitre-ier-produits-depargne-generale-a-regime-fiscal-specifique/section-2-lepargne-populaire/sous-section-2-le-plan-depargne-populaire/r221-69.md' title='Code monétaire et financier - art. R221-69 (V)'>l'article R. 221-69</a> du code monétaire et financier.
