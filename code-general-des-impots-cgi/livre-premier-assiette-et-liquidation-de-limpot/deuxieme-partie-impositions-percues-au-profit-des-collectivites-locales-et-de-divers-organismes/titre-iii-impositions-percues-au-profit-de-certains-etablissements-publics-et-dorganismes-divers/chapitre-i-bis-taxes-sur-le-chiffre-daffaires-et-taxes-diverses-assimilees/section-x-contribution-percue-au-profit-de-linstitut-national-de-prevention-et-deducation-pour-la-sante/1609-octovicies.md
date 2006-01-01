@@ -1,0 +1,3 @@
+# Article 1609 octovicies
+
+La contribution versée par les annonceurs et les promoteurs qui dérogent à l'obligation de faire figurer une information à caractère sanitaire dans les messages publicitaires est établie conformément à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&idArticle=LEGIARTI000041466290&dateTexte=&categorieLien=id' title='Code de la santé publique - art. L2133-1 (V)'>l'article L. 2133-1</a> du code de la santé publique.
