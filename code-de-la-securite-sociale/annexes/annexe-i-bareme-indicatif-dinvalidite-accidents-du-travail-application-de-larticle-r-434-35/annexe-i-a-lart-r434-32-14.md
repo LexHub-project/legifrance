@@ -1,3 +1,3 @@
-# Article Annexe I à l'art. R434-35 (14)
+# Article Annexe I à l'art. R434-32 (14)
 
 <p id='LEGISCTA000006141748'><br/>13 </p><p id='LEGISCTA000006156471'>13.1 SEQUELLES DE SPLENECTOMIES. </p><p id='LEGISCTA000006173187_corps'></p><p>- Cicatrice de bonne qualité, pas de modification de la formule sanguine 10</p><p>- Modification de la formule sanguine 15 à 30</p><p>Cicatrice de mauvaise qualité (voir " Appareil digestif ").</p><p id='LEGISCTA000006156472'>13.2 TETANOS. </p><p>Quand il guérit, le tétanos laisse rarement des séquelles, mais il faut prendre en charge les séquelles définitives laissées parfois par la thérapeutique (voir chapitre correspondant du barème).</p>
