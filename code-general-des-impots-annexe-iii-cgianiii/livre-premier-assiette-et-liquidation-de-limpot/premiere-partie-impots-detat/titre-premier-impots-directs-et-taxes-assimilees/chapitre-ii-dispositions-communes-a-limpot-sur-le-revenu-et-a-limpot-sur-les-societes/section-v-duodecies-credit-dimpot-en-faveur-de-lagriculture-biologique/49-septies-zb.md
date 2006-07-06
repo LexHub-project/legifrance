@@ -1,0 +1,3 @@
+# Article 49 septies ZB
+
+Le crédit d'impôt prévu à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006304203&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 244 quater L (V)'>l'article 244 quater L</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt. L'excédent de crédit d'impôt non imputé est restitué.
