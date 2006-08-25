@@ -1,0 +1,3 @@
+# Article 49 septies ZE
+
+Le taux horaire du salaire minimum de croissance mentionné au I de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/244-quater-m.md' title='Code général des impôts, CGI. - art. 244 quater M (V)'>l'article 244 quater M</a> du code général des impôts est celui en vigueur au 31 décembre de l'année au titre de laquelle est calculé le crédit d'impôt.

@@ -1,0 +1,3 @@
+# Article 49 septies ZC
+
+Pour l'application des dispositions de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/244-quater-m.md' title='Code général des impôts, CGI. - art. 244 quater M (V)'>244 quater M</a> du code général des impôts, les chefs d'entreprise s'entendent des exploitants individuels, des gérants, des présidents, des administrateurs, des directeurs généraux et des membres du directoire.
