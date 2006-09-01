@@ -1,3 +1,0 @@
-# Article Annexe 13-10
-
-<p align='center'>VALEURS ADMISES DE L'ÉMERGENCE MENTIONNÉE À L'ARTICLE R. 1336-9  </p><p>Les valeurs admises de l'émergence sont calculées à partir des valeurs de :</p><p>   1° 5 décibels A (dB A) en période diurne (de 7 heures à 22 heures) ;</p><p>   2° 3 décibels A (dB A) en période nocturne (de 22 heures à 7 heures) ;</p><p>   Valeurs auxquelles s'ajoute un terme correctif, fonction de la durée cumulée d'apparition du bruit particulier, selon le tableau ci-après :</p><p>  (Tableau non reproduit. Voir le fac-similé du JO n° 122 du 27 mai 2003 p. 37006 à 37231).</p>
