@@ -1,3 +1,3 @@
 # Article 1609 quaterdecies
 
-Les redevances prévues à l'article 1609 undecies sont assises, liquidées et recouvrées comme en matière de taxe sur la valeur ajoutée, avec les sûretés, garanties, privilèges et sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
+Les taxes prévues à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000025074866&dateTexte=&categorieLien=id' title='Code général des impôts, CGI. - art. 1609 undecies (Ab)'>l'article 1609 undecies</a> sont assises, liquidées et recouvrées comme en matière de taxe sur la valeur ajoutée, avec les sûretés, garanties, privilèges et sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.
