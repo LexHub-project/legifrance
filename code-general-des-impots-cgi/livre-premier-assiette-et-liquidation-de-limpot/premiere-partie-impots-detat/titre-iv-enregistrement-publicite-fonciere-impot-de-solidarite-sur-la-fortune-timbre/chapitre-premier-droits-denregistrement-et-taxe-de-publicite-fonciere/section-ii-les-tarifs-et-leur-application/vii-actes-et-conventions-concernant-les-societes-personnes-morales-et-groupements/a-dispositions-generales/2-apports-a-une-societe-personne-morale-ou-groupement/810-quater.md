@@ -1,0 +1,3 @@
+# Article 810 quater
+
+Les actes constatant les apports mobiliers effectués dans les conditions prévues à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/5-credit-dimpot-pour-le-rachat-du-capital-dune-societe/220-nonies.md' title='Code général des impôts, CGI. - art. 220 nonies (V)'>l'article 220 nonies</a> sont enregistrés gratuitement.
