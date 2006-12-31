@@ -1,0 +1,3 @@
+# Article 238 bis LA
+
+Les bénéfices réalisés par les associations d'avocats mentionnées à <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000508793&idArticle=LEGIARTI000006902963&dateTexte=&categorieLien=cid' title='Loi n° 71-1130 du 31 décembre 1971 - art. 17 (V)'>l'article 7</a> de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques sont imposés selon les règles prévues au présent code pour les sociétés en participation.
