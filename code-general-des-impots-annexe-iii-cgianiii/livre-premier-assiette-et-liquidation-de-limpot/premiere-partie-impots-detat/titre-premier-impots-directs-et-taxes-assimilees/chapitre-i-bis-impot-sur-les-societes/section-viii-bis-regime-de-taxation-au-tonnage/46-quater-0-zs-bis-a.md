@@ -1,3 +1,3 @@
 # Article 46 quater-0 ZS bis A
 
-Les entreprises qui ont exercé l'option mentionnée au III de l'article 209-0 B doivent joindre aux déclarations de résultat qu'elles sont tenues de souscrire un état de détermination des bénéfices conforme au modèle établi par l'administration.
+Les entreprises qui ont exercé l'option mentionnée au III de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-iii-determination-du-benefice-imposable/209-0-b.md' title='Code général des impôts, CGI. - art. 209-0 B (V)'>l'article 209-0 B</a> du code général des impôts doivent joindre aux déclarations de résultat qu'elles sont tenues de souscrire un état de détermination des bénéfices conforme au modèle établi par l'administration.
