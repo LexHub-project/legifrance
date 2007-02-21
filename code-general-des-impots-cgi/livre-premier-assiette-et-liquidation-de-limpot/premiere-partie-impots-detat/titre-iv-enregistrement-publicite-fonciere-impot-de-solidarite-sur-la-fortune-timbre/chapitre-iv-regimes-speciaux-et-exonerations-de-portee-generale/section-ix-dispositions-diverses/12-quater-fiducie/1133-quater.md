@@ -1,0 +1,3 @@
+# Article 1133 quater
+
+<p>Sous réserve des dispositions de l'article 1020, les actes constatant la formation, la modification ou l'extinction d'un contrat de fiducie ou constatant le transfert de biens ou droits supplémentaires au fiduciaire sont soumis à un droit fixe de 125 €. </p><p>Toutefois, <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iv-enregistrement-publicite-fonciere-impot-de-solidarite-sur-la-fortune-timbre/chapitre-iv-regimes-speciaux-et-exonerations-de-portee-generale/disposition-generale/1020.md' title='Code général des impôts, CGI. - art. 1020 (V)'>l'article 1020</a> ne s'applique pas aux actes constatant le retour de tout ou partie du patrimoine fiduciaire au constituant.</p>
