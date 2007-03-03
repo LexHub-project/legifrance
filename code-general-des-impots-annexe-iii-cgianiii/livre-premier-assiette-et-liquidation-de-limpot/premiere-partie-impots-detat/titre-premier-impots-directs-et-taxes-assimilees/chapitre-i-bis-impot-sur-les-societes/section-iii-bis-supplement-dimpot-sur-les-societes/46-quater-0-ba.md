@@ -1,3 +1,3 @@
 # Article 46 quater-0 BA
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298182)⚠️
+Pour l'application des dispositions des cinquième et sixième alinéas du 1 du II de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-iii-determination-du-benefice-imposable/212.md' title='Code général des impôts, CGI. - art. 212 (VT)'>l'article 212</a> du code général des impôts, les entreprises doivent joindre à leur déclaration de résultat de chaque exercice un état de détermination et de suivi des intérêts non admis en déduction conforme au modèle fourni par l'administration.
