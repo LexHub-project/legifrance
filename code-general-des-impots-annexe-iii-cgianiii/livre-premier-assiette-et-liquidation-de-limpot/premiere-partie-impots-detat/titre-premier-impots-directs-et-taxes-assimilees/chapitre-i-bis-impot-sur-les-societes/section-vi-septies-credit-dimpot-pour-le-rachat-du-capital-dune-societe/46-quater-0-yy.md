@@ -1,0 +1,3 @@
+# Article 46 quater-0 YY
+
+Les intérêts dus pris en compte dans le calcul du crédit d'impôt prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/5-credit-dimpot-pour-le-rachat-du-capital-dune-societe/220-nonies.md' title='Code général des impôts, CGI. - art. 220 nonies (V)'>l'article 220 nonies</a> du code général des impôts s'entendent de ceux qui viennent à échéance au cours de l'exercice au titre duquel le crédit d'impôt est calculé.
