@@ -1,3 +1,3 @@
 # Article 46 quater-0 YZC
 
-Le crédit d'impôt prévu à l'article 220 nonies est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt.
+<p>Le crédit d'impôt prévu à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/5-credit-dimpot-pour-le-rachat-du-capital-dune-societe/220-nonies.md'>220 nonies du code général des impôts</a> est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt.</p>

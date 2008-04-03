@@ -1,3 +1,3 @@
 # Article 46 AO bis
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298133)⚠️
+<p>Conformément aux dispositions du quatorzième alinéa de l'article <a href='/code-du-travail/partie-reglementaire-ancienne-decrets-simples/livre-ier-conventions-relatives-au-travail/titre-ii-contrat-de-travail/chapitre-ix-services-aux-personnes/section-5-agrements-des-associations-et-entreprises-de-services-a-la-personne/d129-38.md'>D. 129-38 du code du travail</a>, l'entreprise ou l'association qui assure la fourniture de prestations de services ouvrant droit à l'aide prévue à l'article 199 sexdecies du code général des impôts communique à chacun de ses clients une attestation fiscale comportant les informations mentionnées à l'article D. 129-38 précité.</p><br/><br/><i>NOTA:<p>Modification effectuée en conséquence de l'article D. 129-38 du code du travail.</p><p><br clear='none'/></p></i>
