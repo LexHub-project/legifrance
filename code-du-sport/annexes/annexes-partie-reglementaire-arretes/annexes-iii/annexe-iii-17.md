@@ -1,0 +1,3 @@
+# Article Annexe III-17
+
+<p align='center'><strong>CONTENU DE LA TROUSSE DE SECOURS</strong></p><p align='center'></p><p>(Art. A322-72 et A322-78).</p><p>La trousse de secours comprend au minimum :<br/>― des pansements compressifs tout préparés (grands et petits modèle : 1 boîte de chaque) ;<br/>― un antiseptique local de type amonium quaternaire (1 tube) ;<br/>― une crème antiactinique (1 tube) ;<br/>― une bande de type Velpeau de 5 centimètres de large ;<br/>― de l'aspirine en poudre non effervescente.</p>
