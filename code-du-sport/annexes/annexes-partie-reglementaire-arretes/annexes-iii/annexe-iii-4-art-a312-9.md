@@ -1,0 +1,3 @@
+# Article Annexe III-4 (art. A312-9)
+
+<p align='center'>AVIS D'HOMOLOGATION D'UNE ENCEINTE SPORTIVE OUVERTE AU PUBLIC</p><p align='center'></p><p>ARRÊTÉ PREFECTORAL N° du <br/>portant homologation d'une enceinte sportive ouverte au public, conformément au code du sport.<br/>Effectif maximal de spectateurs dans les installations existantes et prévu en cas d'extension : <br/>Effectif maximal de spectateurs assis en tribune et par zone : <br/>Effectif maximal de spectateurs debout hors tribune et par zone :</p>

@@ -1,0 +1,3 @@
+# Article Annexe II-5 (art. A212-115)
+
+<p align='center'>POINTS DE BONIFICATION ATTRIBUÉS AUX CANDIDATS À LA PARTIE COMMUNE DU BREVET D'ÉTAT D'ÉDUCATEUR SPORTIF DU PREMIER DEGRÉ </p><p align='justify'>Points de bonification correspondant aux titres acquis à titre individuel et en sport d'équipe en première division nationale ; dans ce cas, chaque coéquipier bénéficie de la bonification.<br/>Champion de France : 2 points.<br/>Champion d'Europe : 4 points.<br/>Champion du monde ou champion olympique : 6 points.<br/>Seul est pris en compte le titre acquis dans la catégorie senior ou junior donnant le plus grand nombre de points.<br/>Ces points n'étant pas cumulables entre eux, la bonification maximale est donc de : 6 points.</p>

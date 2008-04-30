@@ -1,0 +1,3 @@
+# Article Annexe II-18 (art. A222-7)
+
+<p align='center'><strong>PROGRAMME DE L'ÉPREUVE SPÉCIFIQUE</strong></p><p align='left'>Législation et réglementation applicables aux activités physiques et sportives.<br/>Le code du sport.<br/>Les règles relatives aux agents sportifs.<br/>Les règlements nationaux de la discipline.<br/>Règlements fédéraux et règlements propres au secteur professionnel (le cas échéant).<br/>Les règlements internationaux de la discipline.</p>
