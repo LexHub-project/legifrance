@@ -1,0 +1,3 @@
+# Article 231 bis T
+
+<p>Conformément aux dispositions du premier alinéa de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037075020&dateTexte=&categorieLien=id' title='Code du travail - art. L6332-8 (VT)'>l'article L. 6332-8 du code du travail</a>, les contributions versées par l'employeur aux fonds d'assurance-formation ne sont soumises ni aux cotisations de sécurité sociale ni à la taxe sur les salaires.</p><br/><br/><i>NOTA:<p>Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.</p></i>
