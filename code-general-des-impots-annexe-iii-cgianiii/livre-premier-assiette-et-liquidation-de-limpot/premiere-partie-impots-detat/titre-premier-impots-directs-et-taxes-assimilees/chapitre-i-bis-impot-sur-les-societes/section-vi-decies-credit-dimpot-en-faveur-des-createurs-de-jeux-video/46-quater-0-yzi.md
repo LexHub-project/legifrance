@@ -1,0 +1,3 @@
+# Article 46 quater-0 YZI
+
+<p>Le crédit d'impôt prévu à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/9-credit-dimpot-en-faveur-des-createurs-de-jeux-video/220-terdecies.md'>220 terdecies</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les crédits d'impôt non restituables.</p>
