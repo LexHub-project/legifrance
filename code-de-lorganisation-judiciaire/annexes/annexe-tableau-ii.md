@@ -1,3 +1,0 @@
-# Article Annexe Tableau II
-
-<p align='center'><strong>Siège et ressort des tribunaux d'instance<br/>ayant compétence exclusive en matière pénale<br/><br/><br/><br/></strong></p><table border='2' align='center'><tbody><tr><td><p align='center'>SIÈGE </p></td><td><p align='center'>RESSORT </p></td></tr><tr><td>Paris</td><td>Les vingt arrondissements de Paris</td></tr><tr><td>Lyon</td><td>La circonscription du Tribunal d'instance de Lyon</td></tr><tr><td><p>Marseille</p></td><td>La circonscription du Tribunal d'instance de Marseille</td></tr></tbody></table>
