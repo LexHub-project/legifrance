@@ -1,0 +1,5 @@
+# Article Annexe Tableau XII
+
+<p align='center'>Siège et ressort du tribunal pour la navigation du Rhin et du tribunal de première instance<br/>
+
+pour la navigation de la Moselle (annexe de l'article D. 223-2)</p><center><table border='1' align='center'><tbody><tr><td align='center'><p align='center'>SIÈGE</p></td><td colspan='2' align='center'><p align='center'>RESSORT</p></td></tr><tr><td colspan='2' align='center'><p align='center'>Tribunal pour la navigation du Rhin</p></td></tr><tr><td align='center'><p align='left'>Strasbourg</p></td><td align='center'><p align='left'>Partie du Rhin située en territoire français.</p></td></tr><tr><td colspan='2' align='center'><p align='center'>Tribunal de première instance pour la navigation de la Moselle</p></td></tr><tr><td align='center'><p align='left'>Thionville</p></td><td align='center'><p align='left'>Partie de la Moselle située entre Metz et la frontière.</p></td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>
