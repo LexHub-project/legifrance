@@ -1,0 +1,3 @@
+# Article Annexe Tableau II
+
+<p align='center'>Liste des secrétariats de parquet autonome<br/>(annexe de l'article R. 123-1)</p><center><table border='1' width='700'><tbody><tr align='center'><td><p align='center'>JURIDICTIONS DOTÉES D'UN SECRÉTARIAT DE PARQUET AUTONOME</p></td></tr><tr><td align='center'><p align='left'>Cour de cassation.<br/></p></td></tr><tr><td align='center'><p align='left'>Tribunal de grande instance de Paris.<br/></p></td></tr></tbody></table></center>
