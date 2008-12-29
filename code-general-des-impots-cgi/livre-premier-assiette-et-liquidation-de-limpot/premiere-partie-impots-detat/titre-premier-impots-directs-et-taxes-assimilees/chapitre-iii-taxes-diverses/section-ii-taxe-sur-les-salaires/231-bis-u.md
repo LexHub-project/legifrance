@@ -1,0 +1,3 @@
+# Article 231 bis U
+
+<p>Les rémunérations versées par les centres techniques industriels mentionnés à l'article <a href='/code-de-la-recherche/partie-legislative/livre-iii-les-etablissements-et-organismes-de-recherche/titre-iv-les-structures-de-cooperation/chapitre-ii-les-centres-techniques-industriels/l342-1.md'>L. 342-1</a> du code de la recherche sont exonérées de taxe sur les salaires.</p><br/><br/><i>NOTA:<p>Loi n° 2008-1415 du 27 décembre 2008 article 128 II : Ces dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 2009.</p></i>
