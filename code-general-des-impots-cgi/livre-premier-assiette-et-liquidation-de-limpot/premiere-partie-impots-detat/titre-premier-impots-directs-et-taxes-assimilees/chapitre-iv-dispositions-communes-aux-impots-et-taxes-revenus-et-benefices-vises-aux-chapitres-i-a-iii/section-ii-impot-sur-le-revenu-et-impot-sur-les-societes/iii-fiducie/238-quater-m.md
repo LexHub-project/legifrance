@@ -1,0 +1,3 @@
+# Article 238 quater M
+
+Le fiduciaire est tenu aux obligations déclaratives qui incombent normalement aux sociétés soumises au régime fiscal des sociétés de personnes défini à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-i-dispositions-generales/i-personnes-imposables/8.md' title='Code général des impôts, CGI. - art. 8 (V)'>l'article 8.</a>
