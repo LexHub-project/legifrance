@@ -1,0 +1,3 @@
+# Article 49 septies ZZC
+
+<p>Le crédit d'impôt prévu à l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xliii-credit-dimpot-en-faveur-des-debitants-de-tabac/244-quater-u.md'>article 244 quater U du code général des impôts</a> est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôts. </p>
