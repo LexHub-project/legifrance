@@ -1,3 +1,3 @@
 # Article 24 bis
 
-En application du d du 2° du I de l'article 262 du code général des impôts, est exonérée la livraison qui porte sur des biens acquis dans le même magasin et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 euros.
+<p>En application du <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-premier-taxe-sur-la-valeur-ajoutee/section-i-champ-dapplication/iii-operations-exonerees/262.md'>d du 2° du I de l'article 262 du code général des impôts</a>, est exonérée la livraison qui porte sur des biens acquis dans un magasin ou acquis le même jour dans plusieurs magasins disséminés dans une même ville et identifiés sous le même numéro TVA intracommunautaire, et dont la valeur globale, taxe sur la valeur ajoutée comprise, excède 175 €.</p>
