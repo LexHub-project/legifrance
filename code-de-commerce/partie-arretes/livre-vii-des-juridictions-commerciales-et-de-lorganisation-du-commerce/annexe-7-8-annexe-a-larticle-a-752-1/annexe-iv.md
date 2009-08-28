@@ -1,3 +1,0 @@
-# Article Annexe IV
-
-<p><br/></p><p align='center'> 					RENSEIGNEMENTS FACULTATIFS</p><p> 					 1. Mesures d'accompagnement.</p><p><br/> 					 Description des mesures d'accompagnement envisagées par le demandeur telles que :<br/> 					 ― partenariat avec les acteurs locaux, commerçants ou producteurs ;<br/> 					 ― desserte des communes non pourvues de commerces ;<br/> 					 ― développement de services de proximité.</p><p><br/> 					 2. Engagements éventuels.</p><p><br/> 					 Engagements de créer des magasins à dominante alimentaire d'une surface de vente inférieure à 300 m² dans les zones de redynamisation urbaine ou les territoires ruraux de développement prioritaire.<br/></p>
