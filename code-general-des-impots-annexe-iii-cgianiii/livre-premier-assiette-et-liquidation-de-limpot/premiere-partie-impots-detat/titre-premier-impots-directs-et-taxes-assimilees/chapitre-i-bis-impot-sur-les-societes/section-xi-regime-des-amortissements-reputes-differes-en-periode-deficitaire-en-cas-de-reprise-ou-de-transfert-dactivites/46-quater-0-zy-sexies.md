@@ -1,0 +1,3 @@
+# Article 46 quater-0 ZY sexies
+
+<p>Le crédit d'impôt prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/10-credit-dimpot-pour-depenses-de-production-executive-duvres-cinematographiques-et-audiovisuelles/220-quaterdecies.md'>l'article 220 quaterdecies</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt.</p>
