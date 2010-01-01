@@ -1,0 +1,3 @@
+# Article 1649 quater M
+
+<p>Après avoir informé les intéressés des manquements constatés dans l'exécution de la convention mentionnée à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-ier-quater-professionnels-de-lexpertise-comptable/1649-quater-l.md' title='CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater L (VD)'>l'article 1649 quater L</a> et les avoir entendus, le commissaire du Gouvernement peut retirer l'autorisation. Les clients ou adhérents du professionnel doivent être informés de cette décision.</p>
