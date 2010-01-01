@@ -1,0 +1,3 @@
+# Article 302 bis WF
+
+La redevance visée à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-x-quater-redevance-pour-lagrement-des-etablissements-du-secteur-de-lalimentation-animale/302-bis-wd.md' title='Code général des impôts, CGI. - art. 302 bis WD (VT)'>l'article 302 bis WD</a> est constatée et recouvrée suivant les mêmes règles, sous les mêmes garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
