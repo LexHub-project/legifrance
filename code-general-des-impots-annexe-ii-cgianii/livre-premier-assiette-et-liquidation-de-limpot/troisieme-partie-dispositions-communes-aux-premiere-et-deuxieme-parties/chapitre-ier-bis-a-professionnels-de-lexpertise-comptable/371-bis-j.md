@@ -1,0 +1,3 @@
+# Article 371 bis J
+
+L'autorisation et la convention mentionnées à l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-ier-quater-professionnels-de-lexpertise-comptable/1649-quater-l.md'>article 1649 quater L du code général des impôts </a>deviennent caduques lorsque le professionnel de l'expertise comptable fait l'objet d'une radiation du tableau ou d'une suspension de son inscription au tableau ou à la suite de celui-ci, prononcée à sa demande ou à titre de sanction disciplinaire non assortie d'un sursis.
