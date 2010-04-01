@@ -1,0 +1,3 @@
+# Article 158 sexdecies
+
+Dans les quinze premiers jours du mois suivant la réception, l'entrepositaire agréé ou le destinataire enregistré qui reçoit des produits en suspension de droits d'accise adresse à l'expéditeur l'exemplaire prévu à cet effet, dûment annoté et visé en tant que de besoin par l'administration des douanes et droits indirects, du document d'accompagnement mentionné au I de <a href='/code-des-douanes/titre-v-regimes-douaniers-economiques-exportation-temporaire-depots-speciaux/chapitre-iii-bis-regime-general-daccise-relatif-aux-produits-energetiques/158-quaterdecies.md'>l'article 158 quaterdecies</a>. <br/><br/>Il adresse un autre exemplaire de ce document à l'administration.
