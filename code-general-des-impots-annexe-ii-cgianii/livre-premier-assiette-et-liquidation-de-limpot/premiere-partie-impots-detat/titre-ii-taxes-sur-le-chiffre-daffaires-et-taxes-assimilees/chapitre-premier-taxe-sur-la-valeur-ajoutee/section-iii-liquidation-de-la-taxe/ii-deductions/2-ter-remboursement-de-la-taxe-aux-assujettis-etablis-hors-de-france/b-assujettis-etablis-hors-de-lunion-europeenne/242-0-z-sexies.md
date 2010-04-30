@@ -1,0 +1,3 @@
+# Article 242-0 Z sexies
+
+La taxe sur la valeur ajoutée n'est remboursée aux assujettis établis hors de l'Union européenne en application des articles <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-premier-taxe-sur-la-valeur-ajoutee/section-iii-liquidation-de-la-taxe/ii-deductions/2-ter-remboursement-de-la-taxe-aux-assujettis-etablis-hors-de-france/b-assujettis-etablis-hors-de-lunion-europeenne/242-0-z-quater.md'>242-0 Z quater à 242-0 Z decies</a> que si elle est au moins égale à une somme de 25 € ou 200 €, selon que le remboursement est demandé au titre d'une année ou d'un trimestre.
