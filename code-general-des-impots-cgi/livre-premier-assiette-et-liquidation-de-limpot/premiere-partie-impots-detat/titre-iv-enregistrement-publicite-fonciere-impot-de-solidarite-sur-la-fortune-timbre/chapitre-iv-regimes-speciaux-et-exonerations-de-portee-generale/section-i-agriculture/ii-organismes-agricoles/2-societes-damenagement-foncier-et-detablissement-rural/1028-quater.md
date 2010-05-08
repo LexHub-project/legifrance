@@ -1,3 +1,3 @@
 # Article 1028 quater
 
-Les conventions conclues en application du premier alinéa de l'article L. 142-6 et de l'article L. 144-6 du code rural sont exonérées des droits d'enregistrement.
+<p>Les conventions conclues en application du premier alinéa de l'article <a href='/code-rural-et-de-la-peche-maritime/partie-legislative/livre-ier-amenagement-et-equipement-de-lespace-rural/titre-iv-les-societes-damenagement-foncier-et-detablissement-rural/chapitre-ii-operations-immobilieres-et-mobilieres/section-2-mise-a-disposition-dimmeubles/l142-6.md' title='Code rural - art. L142-6 (V)'>L. 142-6 </a>et de l'article L. 144-6 du code rural et de la pêche maritime sont exonérées des droits d'enregistrement.</p>
