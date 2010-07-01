@@ -1,3 +1,0 @@
-# Article Annexe III-6 (art. R322-31)
-
-<p align='center'><strong>DÉCLARATION DE CONFORMITÉ " CE ".</strong></p><p>Raison sociale et adresse (1),</p><p>déclare que le modèle d'équipement de protection individuelle décrit ci-après (2)</p><p>est conforme aux dispositions du décret n° </p><p>est conforme à la norme (3).</p><p>Fait à , le </p><p>Signature (4) </p><p>(1) En cas de mandataire ou de responsable de la première mise sur le marché, indiquer également la raison sociale et l'adresse du fabricant.</p><p>(2) Description (marque, type, numéro de série, etc.).</p><p>(3) Si réalisation d'un essai de conformité aux normes.</p><p>(4) Nom et fonction du signataire.</p>

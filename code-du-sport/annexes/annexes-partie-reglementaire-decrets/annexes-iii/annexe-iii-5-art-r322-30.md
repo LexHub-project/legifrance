@@ -1,3 +1,0 @@
-# Article Annexe III-5 (art. R322-30)
-
-<p align='center'><strong>MARQUAGE " CE ". </strong></p><p>Le marquage de conformité " CE " est constitué par le symbole suivant : </p><p>+ n° distinctif de l'organisme (1) </p><p>Les différents éléments de ce marquage doivent avoir sensiblement la même dimension verticale, laquelle ne peut être inférieure à 5 mm. Il peut être dérogé à cette dimension pour les équipements de petite taille. </p><p>(1) Si intervention d'un organisme au titre des procédures définies aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071318&idArticle=LEGIARTI000006548255&dateTexte=&categorieLien=cid' title='Code du sport. - art. R322-35 (VT)'>articles R. 322-35 et R. 322-36</a> du code du sport.</p>
