@@ -1,0 +1,3 @@
+# Article Annexe I
+
+<p align='center'>RAYONNEMENTS OPTIQUES INCOHERENTS</p><p align='left'></p><p align='left'>Vous pouvez consulter l'annexe à l'adresse suivante :</p><p><font color='windowtext'><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=mIxLoDJLbfIjr6uohZ0xcDslHBs6k4KOYQma8Zvbils' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=mIxLoDJLbfIjr6uohZ0xcDslHBs6k4KOYQma8Zvbils</a>=</font></p>
