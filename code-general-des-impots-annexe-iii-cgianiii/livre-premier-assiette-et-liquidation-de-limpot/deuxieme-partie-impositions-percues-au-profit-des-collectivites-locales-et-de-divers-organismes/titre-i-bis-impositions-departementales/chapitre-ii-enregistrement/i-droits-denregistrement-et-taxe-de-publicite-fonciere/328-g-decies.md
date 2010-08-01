@@ -1,0 +1,3 @@
+# Article 328 G decies
+
+Pour l'application des dispositions de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-ii-impositions-departementales/chapitre-iii-enregistrement/section-i-droit-denregistrement-et-taxe-de-publicite-fonciere/iii-exoneration/1594-i-ter.md'>1594 I ter</a> du code général des impôts, le prix de cession au mètre carré doit être inférieur à 6 400 €.
