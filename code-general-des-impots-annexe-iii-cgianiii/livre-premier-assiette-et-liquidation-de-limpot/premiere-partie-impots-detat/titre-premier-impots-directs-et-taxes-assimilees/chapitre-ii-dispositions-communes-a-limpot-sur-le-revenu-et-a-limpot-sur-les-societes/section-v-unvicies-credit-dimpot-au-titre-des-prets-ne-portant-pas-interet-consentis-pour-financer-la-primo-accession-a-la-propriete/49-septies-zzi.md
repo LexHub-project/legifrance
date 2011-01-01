@@ -1,0 +1,3 @@
+# Article 49 septies ZZI
+
+<p>Le crédit d'impôt prévu à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xlvii-credit-dimpot-au-profit-des-etablissements-de-credit-qui-octroient-des-prets-a-taux-zero-permettant-la-premiere-accession-a-la-propriete/244-quater-v.md'>244 quater V</a> du code général des impôts est imputé sur l'impôt dû après les prélèvements non libératoires et les autres crédits d'impôt.</p>
