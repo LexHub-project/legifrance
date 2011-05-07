@@ -1,0 +1,3 @@
+# Article 275 E ter
+
+<p>Aux fins des articles <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes/chapitre-ii-tabacs/0i-definition-des-tabacs-manufactures/275-e.md'>275 E </a>et <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes/chapitre-ii-tabacs/0i-definition-des-tabacs-manufactures/275-e-bis.md'>275 E bis</a>, les déchets de tabac sont réputés être des restes de feuilles de tabac et des sous-produits obtenus dans le cadre du traitement du tabac ou de la fabrication des produits du tabac.</p>
