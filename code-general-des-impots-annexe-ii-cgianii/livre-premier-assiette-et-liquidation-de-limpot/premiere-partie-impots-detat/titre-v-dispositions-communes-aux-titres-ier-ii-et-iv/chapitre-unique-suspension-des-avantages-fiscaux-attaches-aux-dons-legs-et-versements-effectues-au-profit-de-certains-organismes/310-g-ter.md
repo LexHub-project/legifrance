@@ -1,0 +1,3 @@
+# Article 310 G ter
+
+<p>La demande mentionnée aux 1 et 2 du IV de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-v-dispositions-communes-aux-titres-i-ii-et-iv/chapitre-ier-mise-sous-condition-des-avantages-fiscaux-attaches-aux-dons/1378-octies.md' title='Code général des impôts, CGI. - art. 1378 octies (V)'>l'article 1378 octies du code général des impôts</a> tendant au rétablissement des avantages fiscaux attachés aux dons et legs est adressée à la direction générale des finances publiques par lettre recommandée avec demande d'avis de réception postale. </p><p>Cette demande est transmise, dans un délai d'un mois à compter de sa date de réception, à la Cour des comptes pour avis.</p>
