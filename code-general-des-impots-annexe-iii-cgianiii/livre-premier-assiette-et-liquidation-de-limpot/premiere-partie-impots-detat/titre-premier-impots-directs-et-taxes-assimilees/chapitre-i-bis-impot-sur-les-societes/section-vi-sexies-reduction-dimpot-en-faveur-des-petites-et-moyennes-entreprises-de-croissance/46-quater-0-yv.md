@@ -1,3 +1,3 @@
 # Article 46 quater-0 YV
 
-Pour l'application des dispositions de l'article 220 decies du code général des impôts, les dirigeants s'entendent des gérants, des présidents, des administrateurs, des directeurs généraux et des membres du directoire.<br/><br/><i>NOTA:<p>Article périmé en conséquence de la péremption de l'article 220 decies du code général des impôts. </p></i>
+⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298274)⚠️
