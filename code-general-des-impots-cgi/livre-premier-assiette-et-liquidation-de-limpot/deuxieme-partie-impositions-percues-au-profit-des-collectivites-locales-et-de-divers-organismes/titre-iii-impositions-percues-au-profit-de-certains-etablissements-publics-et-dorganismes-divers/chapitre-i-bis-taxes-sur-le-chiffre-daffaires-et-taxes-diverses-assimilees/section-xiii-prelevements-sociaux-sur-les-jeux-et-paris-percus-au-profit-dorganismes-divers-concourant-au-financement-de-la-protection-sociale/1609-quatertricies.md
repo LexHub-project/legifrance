@@ -1,0 +1,3 @@
+# Article 1609 quatertricies
+
+<p>Les prélèvements sociaux sur les jeux et paris sont assis, déclarés, liquidés, recouvrés et contrôlés conformément aux dispositions des <a href='/code-de-la-securite-sociale/partie-legislative/livre-i-generalites-dispositions-communes-a-tout-ou-partie-des-regimes-de-base/titre-iii-dispositions-communes-relatives-au-financement/chapitre-7-recettes-diverses/section-11-prelevements-sur-les-jeux-concours-et-paris/l137-20.md'>articles L. 137-20, L. 137-21, L. 137-22, L. 137-23, L. 137-25 et L. 137-26</a> du code de la sécurité sociale.</p>
