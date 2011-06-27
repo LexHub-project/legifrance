@@ -72,7 +72,7 @@ Martinique</td></tr><tr><td align='center'><p align='center'>Fort-de-France</p><
 
 Cour d'appel de Grenoble
 
-<p>Drôme</p></td></tr><tr><td align='center'><p align='center'>Valence</p></td><td align='center'><p align='left'>Romans-sur-Isère.</p></td></tr><tr align='center'><td colspan='2'><p align='center'>Hautes-Alpes</p></td></tr><tr><td align='center'>Gap</td><td align='left'><p align='left'>Briançon</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Drôme</p></td></tr><tr><td align='center'><p align='center'>Valence</p></td><td align='center'><p align='left'>Romans-sur-Isère.</p></td></tr><tr align='center'><td colspan='2'><p align='center'>Hautes-Alpes</p></td></tr><tr><td align='center'><p align='center'>Gap</p></td><td align='left'><p align='left'>Briançon</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Isère</td></tr><tr><td align='center'><p align='center'>Grenoble</p></td><td align='center'><p align='left'>Grenoble.</p></td></tr><tr><td align='center'><p align='center'>Vienne</p></td><td align='center'><p align='left'>Villefontaine.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -90,7 +90,7 @@ Rhône</td></tr><tr><td align='center'><p align='center'>Lyon</p></td><td align=
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p align='left'>Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
