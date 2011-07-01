@@ -1,0 +1,3 @@
+# Article R49 bis
+
+<p>Dans tous les cas, la décision d'admission à la retraite pour invalidité, prise en application de l'article <a href='/code-des-pensions-civiles-et-militaires-de-retraite/partie-legislative/livre-ier-dispositions-generales-relatives-au-regime-general-des-retraites/titre-v-invalidite/chapitre-ier-fonctionnaires-civils/paragraphe-iii-dispositions-communes/l31.md'>L. 31</a>, est subordonnée à l'avis conforme du ministre chargé du budget.</p>
