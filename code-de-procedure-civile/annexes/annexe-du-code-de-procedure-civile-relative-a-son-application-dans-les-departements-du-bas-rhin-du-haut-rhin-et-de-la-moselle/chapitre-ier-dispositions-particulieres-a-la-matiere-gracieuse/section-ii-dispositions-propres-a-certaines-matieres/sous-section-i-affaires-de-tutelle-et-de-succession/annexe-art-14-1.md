@@ -1,0 +1,3 @@
+# Article ANNEXE, art. 14-1
+
+Les dispositions du code de procédure civile relatives aux mesures conservatoires prises après l'ouverture d'une succession sont applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, concurremment avec les dispositions prévues aux <a href='/code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier-dispositions-particulieres-a-la-matiere-gracieuse/section-ii-dispositions-propres-a-certaines-matieres/sous-section-i-affaires-de-tutelle-et-de-succession/annexe-art-15.md'>articles 15 à 17</a> de la présente annexe.
