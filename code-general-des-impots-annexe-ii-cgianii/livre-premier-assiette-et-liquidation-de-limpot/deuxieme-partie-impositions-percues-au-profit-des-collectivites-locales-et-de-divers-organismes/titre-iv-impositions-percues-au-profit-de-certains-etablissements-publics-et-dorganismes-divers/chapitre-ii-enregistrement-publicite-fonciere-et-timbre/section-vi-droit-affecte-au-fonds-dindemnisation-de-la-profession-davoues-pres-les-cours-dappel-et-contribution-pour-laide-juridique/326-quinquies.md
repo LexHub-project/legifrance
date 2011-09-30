@@ -1,0 +1,3 @@
+# Article 326 quinquies
+
+Lorsque, pour une cause qui lui est étrangère, un auxiliaire de justice ne peut effectuer par voie électronique l'acquittement de la contribution pour l'aide juridique prévue à l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-iii-impositions-percues-au-profit-de-certains-etablissements-publics-et-dorganismes-divers/chapitre-iii-enregistrement-publicite-fonciere-et-timbre/section-xiii-contribution-pour-laide-juridique/1635-bis-q.md'>article 1635 bis Q du code général des impôts</a>, il est justifié de l'acquittement de la contribution par l'apposition de timbres mobiles.
