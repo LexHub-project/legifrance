@@ -1,0 +1,3 @@
+# Article R17 bis
+
+<p>Le service effectué lors d'opérations militaires qualifiées d'opérations extérieures dans les conditions prévues à l'<a href='/code-de-la-defense/partie-legislative/partie-4-le-personnel-militaire/livre-ier-statut-general-des-militaires/titre-ii-droits-et-obligations/chapitre-iii-remuneration-garanties-et-protections/section-2-garanties-et-couverture-des-risques/l4123-4.md'>article L. 4123-4 du code de la défense</a> et les blessures qui en résultent peuvent donner lieu, lorsque la nature des opérations le justifie, à l'attribution du bénéfice de la campagne double, par décret.</p><p>Le décret précise le champ d'application de l'opération à laquelle il s'applique et la période donnant droit à ce bénéfice. </p>
