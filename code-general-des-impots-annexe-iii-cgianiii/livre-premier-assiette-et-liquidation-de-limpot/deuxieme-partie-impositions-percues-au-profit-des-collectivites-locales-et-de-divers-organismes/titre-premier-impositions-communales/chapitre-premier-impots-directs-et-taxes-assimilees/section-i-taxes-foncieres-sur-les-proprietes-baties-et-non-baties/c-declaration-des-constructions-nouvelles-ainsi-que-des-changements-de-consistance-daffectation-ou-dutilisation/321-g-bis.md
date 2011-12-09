@@ -1,0 +1,3 @@
+# Article 321 G bis
+
+La déclaration mentionnée au <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-premier-impositions-communales/chapitre-premier-impots-directs-et-taxes-assimilees/section-ii-taxes-foncieres/iii-dispositions-communes-aux-taxes-foncieres-sur-les-proprietes-baties-et-non-baties/d-declaration-des-constructions-nouvelles-ainsi-que-des-changements-de-consistance-daffectation-ou-dutilisation/1406.md'>I bis de l'article 1406 du code général des impôts</a> est déposée par le propriétaire dans les trente jours suivant la réception de la demande de l'administration fiscale.
