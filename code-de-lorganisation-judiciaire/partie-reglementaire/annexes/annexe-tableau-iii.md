@@ -20,9 +20,7 @@ Cour d'appel d'Angers
 
 <p>Maine-et-Loire</p></td></tr><tr><td align='center'><p align='center'>Angers</p></td><td align='center'><p align='left'>Angers.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Sarthe</td></tr><tr><td align='center'><p align='center'>Le Mans</p></td><td align='center'><p align='left'>Allonnes.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Bastia<br/>
-
-Corse-du-Sud</p></td></tr><tr><td><p align='center'>Ajaccio</p></td><td><p align='left'>Porto-Vecchio.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Sarthe</td></tr><tr><td align='center'><p align='center'>Le Mans</p></td><td align='center'><p align='left'>Allonnes.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Bastia</p><p align='center'>Corse-du-Sud</p></td></tr><tr><td><p align='center'>Ajaccio</p></td><td><p align='left'>Porto-Vecchio.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Bordeaux
 
@@ -38,7 +36,7 @@ Cour d'appel de Bourges
 
 Cour d'appel de Caen
 
-<p>Calvados</p></td></tr><tr><td align='center'><p align='center'>Caen</p></td><td align='center'><p align='left'>Hérouville-Saint-Clair.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Calvados</p></td></tr><tr><td align='center'><p align='center'>Caen</p></td><td align='center'><p align='left'>Hérouville-Saint-Clair.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Cayenne</p><p align='center'>Guyane</p></td></tr><tr><td><p align='center'>Cayenne</p></td><td><p align='left'>Saint-Laurent-du-Maroni.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Chambéry
 
@@ -62,13 +60,7 @@ Cour d'appel de Douai
 
 <p>Nord</p></td></tr><tr><td align='center'><p align='center'>Avesnes-sur-Helpe</p></td><td align='center'><p align='left'>Aulnoy-Aymeries, Maubeuge.</p></td></tr><tr><td align='center'><p align='center'>Dunkerque</p></td><td align='center'><p align='left'>Dunkerque.</p></td></tr><tr><td align='center'><p align='center'>Lille</p></td><td align='center'><p align='left'>Roubaix, Tourcoing.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Pas-de-Calais</td></tr><tr><td align='center'><p align='center'>Valenciennes</p></td><td align='center'><p align='left'>Denain.</p></td></tr><tr><td align='center'><p align='center'>Béthune</p></td><td align='center'><p align='left'>Lens.</p></td></tr><tr><td align='center'><p align='center'>Boulogne-sur-Mer</p></td><td align='center'><p align='left'>Calais.</p></td></tr><tr><td colspan='2' align='center'><br/>
-
-Cour d'appel de Fort-de-France
-
-<p>Guyane</p></td></tr><tr><td align='center'><p align='center'>Cayenne</p></td><td align='center'><p align='left'>Saint-Laurent-du-Maroni.</p></td></tr><tr><td colspan='2' align='center'><br/>
-
-Martinique</td></tr><tr><td align='center'><p align='center'>Fort-de-France</p></td><td align='center'><p align='left'>Fort-de-France.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Pas-de-Calais</td></tr><tr><td align='center'><p align='center'>Valenciennes</p></td><td align='center'><p align='left'>Denain.</p></td></tr><tr><td align='center'><p align='center'>Béthune</p></td><td align='center'><p align='left'>Lens.</p></td></tr><tr><td align='center'><p align='center'>Boulogne-sur-Mer</p></td><td align='center'><p align='left'>Calais.</p></td></tr><tr><td colspan='2' align='center'><p>Cour d'appel de Fort-de-France</p><p>Martinique</p></td></tr><tr><td align='center'><p align='center'>Fort-de-France</p></td><td align='center'><p align='left'>Fort-de-France.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Grenoble
 
@@ -90,7 +82,7 @@ Rhône</td></tr><tr><td align='center'><p align='center'>Lyon</p></td><td align=
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
