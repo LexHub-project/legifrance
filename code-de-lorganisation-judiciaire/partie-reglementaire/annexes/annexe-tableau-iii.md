@@ -82,7 +82,7 @@ Rhône</td></tr><tr><td align='center'><p align='center'>Lyon</p></td><td align=
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
@@ -126,7 +126,7 @@ Cour d'appel de Reims
 
 <p>Ardennes</p></td></tr><tr><td align='center'><p align='center'>Charleville-Mézières</p></td><td align='center'><p align='left'>Charleville-Mézières, Sedan.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Aube</td></tr><tr><td align='center'><p align='center'>Troyes</p></td><td align='center'><p align='left'>Troyes.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Aube</td></tr><tr><td align='center'><p align='center'>Troyes</p></td><td align='center'><p align='left'>Romilly-sur-Seine, Troyes.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Marne</td></tr><tr><td align='center'><p align='center'>Reims</p></td><td align='center'><p align='left'>Reims.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
