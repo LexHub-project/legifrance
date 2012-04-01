@@ -1,3 +1,3 @@
 # Article 46 quater-0 RF
 
-<p>La demande d'accord du ministre chargé des finances pour l'application des dispositions de l'article 220 quater A du code général des impôts est présentée par l'ensemble des repreneurs ; elle est signée par chacun d'eux. Elle est adressée au directeur général des impôts.</p>
+<p>La demande d'accord du ministre chargé des finances pour l'application des <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/220-quater-a.md'>dispositions de l'article 220 quater A du code général des impôts</a> est présentée par l'ensemble des repreneurs ; elle est signée par chacun d'eux. Elle est adressée au directeur général des finances publiques.</p>
