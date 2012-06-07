@@ -42,7 +42,7 @@ Cour d'appel de Chambéry
 
 <p>Haute-Savoie</p></td></tr><tr><td align='center'><p align='center'>Thonon-les-Bains</p></td><td align='center'><p align='left'>Annemasse, Saint-Julien-en-Genevois.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Savoie</td></tr><tr><td align='center'><p align='center'>Albertville</p></td><td align='center'><p align='left'>Albertville (La Tarentaise).</p></td></tr><tr><td align='center'><p align='center'>Chambéry</p></td><td align='center'><p align='left'>Aix-les-Bains, Chambéry.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Savoie</td></tr><tr><td align='center'><p align='center'>Albertville</p></td><td align='center'><p align='left'>Albertville (La Tarentaise), Saint-Jean-de-Maurienne (La Maurienne).</p></td></tr><tr><td align='center'><p align='center'>Chambéry</p></td><td align='center'><p align='left'>Aix-les-Bains, Chambéry.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Colmar
 
@@ -82,7 +82,7 @@ Rhône</td></tr><tr><td align='center'><p align='center'>Lyon</p></td><td align=
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='center'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='center'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
