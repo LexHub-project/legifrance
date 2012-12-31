@@ -1,0 +1,3 @@
+# Article 18-0 bis C
+
+Pour l'application du premier alinéa du IV de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000026876399&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 199 novovicies (V)'>l'article 199 novovicies </a>du code général des impôts, les communes se caractérisant par un déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les zones A et B1 telles qu'elles sont définies à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000023361778&dateTexte=&categorieLien=cid' title='Code de la construction et de l'habitation. - art. R304-1 (V)'>l'article R. 304-1</a> du code de la construction et de l'habitation.
