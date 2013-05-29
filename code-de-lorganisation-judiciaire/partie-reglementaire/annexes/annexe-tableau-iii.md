@@ -10,11 +10,9 @@ Cour d'appel d'Amiens</td></tr><tr><td colspan='2' align='center'><br/>
 
 Oise</td></tr><tr><td align='center'><p align='left'>Beauvais</p></td><td align='center'><p align='left'>Méru/Vexin-Thelle-Sablons.</p></td></tr><tr><td align='center'><p align='left'>Compiègne</p></td><td align='center'><p align='left'>Noyon.</p></td></tr><tr><td align='center'><p align='left'>Senlis</p></td><td align='center'><p align='left'>Creil.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Somme</td></tr><tr><td align='center'><p align='left'>Amiens</p></td><td align='center'><p align='left'>Amiens.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Somme</td></tr><tr><td align='center'><p align='left'>Amiens</p></td><td align='center'><p align='left'>Amiens.</p></td></tr><tr><td colspan='2' align='center'><p align='center'><br/>
 
-Cour d'appel d'Angers
-
-<p>Maine-et-Loire</p></td></tr><tr><td align='center'><p align='left'>Angers</p></td><td align='center'><p align='left'>Angers.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Cour d'appel d'Angers</p><p>Maine-et-Loire</p></td></tr><tr><td align='center'><p align='left'>Angers</p></td><td align='center'><p align='left'>Angers.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Sarthe</td></tr><tr><td align='center'><p align='left'>Le Mans</p></td><td align='center'><p align='left'>Allonnes.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Bastia</p><p align='center'>Corse-du-Sud</p></td></tr><tr><td><p align='left'>Ajaccio</p></td><td><p align='left'>Porto-Vecchio.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -32,7 +30,7 @@ Cour d'appel de Bourges
 
 Cour d'appel de Caen
 
-<p>Calvados</p></td></tr><tr><td align='center'><p align='left'>Caen</p></td><td align='center'><p align='left'>Hérouville-Saint-Clair.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Cayenne</p><p align='center'>Guyane</p></td></tr><tr><td><p align='left'>Cayenne</p></td><td><p align='left'>Saint-Laurent-du-Maroni.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Calvados</p></td></tr><tr><td align='center'><p align='left'>Caen</p></td><td align='center'><p align='left'>Hérouville-Saint-Clair.</p></td></tr><tr align='center'><td colspan='2'><p align='center'>Manche</p></td></tr><tr><td align='center'><p align='left'>Coutances.</p></td><td><p align='left'>Saint-Lô.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Cayenne</p><p align='center'>Guyane</p></td></tr><tr><td><p align='left'>Cayenne</p></td><td><p align='left'>Saint-Laurent-du-Maroni.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Chambéry
 
