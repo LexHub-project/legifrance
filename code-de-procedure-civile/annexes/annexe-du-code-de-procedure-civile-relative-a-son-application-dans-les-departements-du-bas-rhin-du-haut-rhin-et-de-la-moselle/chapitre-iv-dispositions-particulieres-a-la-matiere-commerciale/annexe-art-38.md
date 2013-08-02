@@ -1,3 +1,3 @@
 # Article ANNEXE, art. 38
 
-La procédure applicable devant la chambre commerciale du tribunal de grande instance ou devant le tribunal de grande instance statuant en matière commerciale est celle qui est suivie devant le tribunal de grande instance, sans préjudice des règles particulières à la représentation des parties.
+<p>   La procédure applicable devant la chambre commerciale du tribunal de grande instance ou devant le tribunal de grande instance statuant en matière commerciale est celle qui est suivie devant le tribunal de grande instance, sans préjudice des règles particulières à la représentation des parties et des <a href='/code-de-commerce/partie-reglementaire/livre-vi-des-difficultes-des-entreprises/titre-vii-dispositions-derogatoires-particulieres-aux-departements-de-la-moselle-du-bas-rhin-et-du-haut-rhin/r670-1.md'>dispositions du second alinéa de l'article R. 670-1 du code de commerce</a>.</p>
