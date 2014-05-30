@@ -1,0 +1,3 @@
+# Article 111 quater V
+
+<p>Le taux du prélèvement prévu à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-xx-prelevements-sur-les-jeux-et-paris/302-bis-zg.md' title='Code général des impôts, CGI. - art. 302 bis ZG (V)'>302 bis ZG</a> du code général des impôts est fixé à 5,3 %.</p><br/><br/><i>NOTA:<p>Modifications effectuées en conséquence des articles 1 et 2 du décret n° 2013-1321 du 27 décembre 2013.</p></i>
