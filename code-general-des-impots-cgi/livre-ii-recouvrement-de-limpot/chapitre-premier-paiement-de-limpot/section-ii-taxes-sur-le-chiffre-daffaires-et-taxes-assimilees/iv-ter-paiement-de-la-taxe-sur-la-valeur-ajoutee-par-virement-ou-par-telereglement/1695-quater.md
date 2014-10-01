@@ -1,3 +1,3 @@
 # Article 1695 quater
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006313616)⚠️
+<p>Les redevables acquittent la taxe sur la valeur ajoutée ainsi que les taxes assimilées aux taxes sur le chiffre d'affaires par télérèglement.</p>
