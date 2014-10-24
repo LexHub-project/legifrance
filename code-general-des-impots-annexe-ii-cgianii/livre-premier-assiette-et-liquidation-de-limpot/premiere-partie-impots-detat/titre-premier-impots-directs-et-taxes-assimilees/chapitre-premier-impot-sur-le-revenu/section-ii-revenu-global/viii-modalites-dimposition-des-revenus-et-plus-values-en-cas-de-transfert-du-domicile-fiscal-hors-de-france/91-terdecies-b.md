@@ -1,0 +1,3 @@
+# Article 91 terdecies B
+
+<p>Le contribuable demande à bénéficier de l'option prévue à l'avant-dernier alinéa du VIII bis de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>167 bis</a> du code général des impôts sur le formulaire prévu au premier alinéa du 3 du IX du même article. Ce formulaire est déposé l'année suivant la survenance du premier événement prévu au VII de l'article précité.</p>

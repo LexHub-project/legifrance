@@ -1,0 +1,3 @@
+# Article 91 terdecies A
+
+<p>Les moins-values mentionnées au premier et au dernier alinéa du 4 bis du VIII de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>167 bis</a> du code général des impôts, imputables dans les conditions prévues au même 4 bis, font l'objet d'un suivi séparé sur le formulaire mentionné au 2 et au premier alinéa du 3 du IX de l'article précité.</p>
