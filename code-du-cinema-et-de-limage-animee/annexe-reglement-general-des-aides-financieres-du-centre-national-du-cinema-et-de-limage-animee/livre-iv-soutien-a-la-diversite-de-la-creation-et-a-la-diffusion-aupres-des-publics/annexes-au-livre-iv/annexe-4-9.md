@@ -1,0 +1,3 @@
+# Article Annexe 4-9
+
+<p>Aides après réalisation Liste d'associations (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031353484&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 411-52 (V)'>411-52</a>) </p><p><br/>Sélection par : <br/>1° L'Agence du court métrage, dans le cadre du dispositif du RADI (Réseau alternatif de diffusion).</p>

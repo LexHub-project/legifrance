@@ -1,0 +1,3 @@
+# Article Annexe 2-18
+
+<p>Décision d'attribution à titre définitif des aides à la réécriture (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031347690&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 212-39 (V)'>212-39</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Une lettre indiquant le montant de l'aide sollicitée ; <br/>2° Un devis des dépenses de réécriture.</p>

@@ -1,0 +1,3 @@
+# Article Annexe 2-5
+
+<p>Allocation à la création de fichiers numériques de sous-titrage et d'audiodescription (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031345187&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 211-96 (V)'>211-96</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Les factures acquittées détaillées correspondant aux travaux de création de fichiers numériques de sous-titrage et d'audiodescription, ainsi que des travaux de transfert multi-support desdits fichiers ; <br/>2° Un tableau récapitulatif de l'ensemble des aides de minimis reçues au cours des trois derniers exercices fiscaux par l'entreprise de production.</p>

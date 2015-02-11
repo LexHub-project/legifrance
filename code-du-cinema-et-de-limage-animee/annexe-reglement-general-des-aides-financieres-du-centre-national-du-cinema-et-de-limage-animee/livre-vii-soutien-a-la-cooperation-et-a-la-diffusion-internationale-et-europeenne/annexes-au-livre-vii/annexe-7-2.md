@@ -1,0 +1,3 @@
+# Article Annexe 7-2
+
+<p>Allocations directes au sous-titrage (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031393126&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 721-12 (V)'>721-12)</a></p><p>Liste des documents justificatifs : </p><p>1° Les factures détaillées des frais de sous-titrage au nom de l'entreprise qui sollicite l'aide en précisant, pour chaque facture, les frais auxquels elles correspondent ; </p><p>2° Une copie vidéo de l'œuvre cinématographique sous-titrée.</p>

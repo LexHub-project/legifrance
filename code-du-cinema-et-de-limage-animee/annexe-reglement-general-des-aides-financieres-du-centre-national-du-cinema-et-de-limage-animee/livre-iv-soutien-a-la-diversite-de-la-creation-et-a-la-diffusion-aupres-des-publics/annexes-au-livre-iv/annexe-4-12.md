@@ -1,0 +1,3 @@
+# Article Annexe 4-12
+
+<p>Agrément de diffusion (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031353537&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 412-17 (V)'>412-17</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Le contrat de cession des droits de diffusion de la ou des œuvres cinématographiques de courte durée ; <br/>2° Une copie DVD de la ou des œuvres cinématographiques de courte durée.</p>

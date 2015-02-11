@@ -1,0 +1,3 @@
+# Article Annexe 2-36
+
+<p>Aides à la programmation difficile (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031348409&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 231-24 (V)'>231-24</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Un tableau détaillant les créances et les dettes ; <br/>2° La dernière déclaration annuelle des données sociales ; <br/>3° Une attestation de comptes à jour délivrée par l'URSSAF et Pôle Emploi ; <br/>4° Les fiches comptables ; <br/>5° Le bilan comptable définitif ; <br/>6° La dernière liasse fiscale.</p>

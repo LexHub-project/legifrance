@@ -1,0 +1,3 @@
+# Article Annexe 6-6
+
+<p>Aides à la diffusion en ligne d'un programme d'œuvres (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031388308&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 612-31 (V)'>612-31</a>) </p><p>Liste des documents justificatifs : </p><p><br/>1° Un budget détaillé ; </p><p><br/>2° Un extrait K bis de moins de 3 mois (pour la première demande seulement sauf en cas de modifications) ; </p><p><br/>3° Le cas échéant, un moyen de visionnage des œuvres et des éventuels compléments de programme, ainsi qu'un moyen d'accès au service.</p>

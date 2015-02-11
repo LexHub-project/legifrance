@@ -1,0 +1,3 @@
+# Article Annexe 7-4
+
+<p>Aide à la promotion à l'étranger des activités et du catalogue d'une entreprise (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031393146&dateTexte=&categorieLien=cid' title='Code du cinéma et de l'image animée - art. 721-25 (V)'>721-25</a>) </p><p>Liste des documents justificatifs : </p><p>1° Une note détaillant la stratégie de prospection mise en place au cours de l'année de référence et la place réservée aux œuvres cinématographiques françaises ; </p><p>2° Une note décrivant les autres supports et actions de promotion réalisés ; </p><p>3° Les factures détaillées correspondant à l'ensemble des frais engagés ; </p><p>4° Un exemplaire de chaque support de promotion réalisé.</p>
