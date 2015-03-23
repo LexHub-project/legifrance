@@ -1,3 +1,3 @@
 # Article 1594 I quater
 
-<p>Les conseils généraux des départements d'outre-mer peuvent, sur délibération, exonérer de taxe de publicité foncière ou de droits d'enregistrement les cessions de logements visés au 1° du I de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-v-calcul-de-limpot/ii-impot-sur-le-revenu/12-reduction-dimpot-accordee-au-titre-de-certains-investissements-realises-outre-mer/199-undecies-c.md' title='Code général des impôts, CGI. - art. 199 undecies C (V)'>l'article 199 undecies C.</a></p><br/><br/><i>NOTA:</i>
+<p>Les conseils départementaux des départements d'outre-mer peuvent, sur délibération, exonérer de taxe de publicité foncière ou de droits d'enregistrement les cessions de logements visés au 1° du I de l'article 199 undecies C. </p><br/><br/><i>NOTA:</i>
