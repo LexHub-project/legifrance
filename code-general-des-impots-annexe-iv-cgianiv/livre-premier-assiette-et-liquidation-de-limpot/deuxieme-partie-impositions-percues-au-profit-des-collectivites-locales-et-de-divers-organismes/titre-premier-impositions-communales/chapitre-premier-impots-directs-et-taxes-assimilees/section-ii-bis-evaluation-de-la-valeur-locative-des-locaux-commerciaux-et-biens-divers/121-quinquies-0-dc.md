@@ -1,0 +1,3 @@
+# Article 121 quinquies-0 DC
+
+Pour l'application de l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-premier-impositions-communales/chapitre-premier-impots-directs-et-taxes-assimilees/section-vi-regles-devaluation-de-la-valeur-locative-des-biens-imposables/i-evaluation-des-proprietes-baties/c-locaux-commerciaux-et-biens-divers/1498-bis.md'>article 1498 bis du code général des impôts</a>, le contribuable déclare le montant du loyer annuel, charges et taxes non comprises, pour l'année au cours de laquelle intervient le dépôt de la déclaration.
