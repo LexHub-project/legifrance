@@ -1,3 +1,3 @@
 # Article 1636 B sexies A
 
-Les conseils départementaux votent chaque année le taux de la taxe foncière sur les propriétés bâties dans la limite prévue par le VI de l'article 1636 B septies.<br/><br/><i>NOTA:</i>
+<p>Les conseils départementaux votent chaque année le taux de la taxe foncière sur les propriétés bâties dans la limite prévue par le VI de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-v-dispositions-communes-aux-titres-i-a-iii-bis/chapitre-premier-fixation-des-taux-a-retenir-pour-le-calcul-des-impositions-directes-locales/section-i-dispositions-generales/1636-b-septies.md'>1636 B septies</a>.</p><br/><br/><i>NOTA:<p>Modifications effectuées en conséquence des articles 1er-1° et 51 de la loi n° 2013-403 du 17 mai 2013. </p></i>
