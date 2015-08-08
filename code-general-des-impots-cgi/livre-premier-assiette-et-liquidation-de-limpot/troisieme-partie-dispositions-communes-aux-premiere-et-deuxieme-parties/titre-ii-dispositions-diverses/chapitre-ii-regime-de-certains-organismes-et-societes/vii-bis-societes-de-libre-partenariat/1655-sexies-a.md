@@ -1,0 +1,3 @@
+# Article 1655 sexies A
+
+<p>Pour l'imposition de leurs bénéfices et celle de leurs associés, les sociétés de libre partenariat mentionnées à l'<a href='/code-monetaire-et-financier/partie-legislative/livre-ii-les-produits/titre-ier-les-instruments-financiers/chapitre-iv-placements-collectifs/section-2-fia/sous-section-3-fonds-ouverts-a-des-investisseurs-professionnels/paragraphe-2-fonds-declares/sous-paragraphe-1-fonds-professionnels-specialises/l214-154.md'>article L. 214-154 du code monétaire et financier</a> sont assimilées à un fonds professionnel de capital investissement constitué sous la forme d'un fonds commun de placement pour l'application du présent code et de ses annexes et elles sont soumises aux mêmes obligations déclaratives que ces fonds.</p>
