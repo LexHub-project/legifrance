@@ -1,0 +1,3 @@
+# Article 49 septies ZZO
+
+Pour l'application du a du <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xlviii-credit-dimpot-en-faveur-des-investissements-productifs-neufs-realises-outre-mer/244-quater-w.md'>2 du I de l'article 244 quater W du code général des impôts</a>, les véhicules strictement indispensables à l'activité de l'exploitant sont définis par arrêté du ministre chargé du budget.

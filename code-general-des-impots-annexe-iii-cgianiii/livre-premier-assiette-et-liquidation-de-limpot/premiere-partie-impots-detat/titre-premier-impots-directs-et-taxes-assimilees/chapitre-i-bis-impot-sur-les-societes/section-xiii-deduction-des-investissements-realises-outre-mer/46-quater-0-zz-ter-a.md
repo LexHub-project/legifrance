@@ -1,0 +1,3 @@
+# Article 46 quater-0 ZZ ter A
+
+Pour l'application du troisième alinéa du I de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-iii-determination-du-benefice-imposable/217-undecies.md' title='Code général des impôts, CGI. - art. 217 undecies (V)'>217 undecies</a> du code général des impôts, les véhicules strictement indispensables à l'activité de l'exploitant sont définis par arrêté du ministre chargé du budget.
