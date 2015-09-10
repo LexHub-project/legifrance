@@ -46,7 +46,7 @@ Haut-Rhin</td></tr><tr><td align='center'><p align='left'>Colmar</p></td><td ali
 
 Cour d'appel de Dijon
 
-<p>Côte-d'Or</p></td></tr><tr><td align='center'><p align='left'>Dijon</p></td><td align='center'><p align='left'>Chenôve.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Côte-d'Or</p></td></tr><tr><td align='center'><p align='left'>Dijon</p></td><td align='center'><p align='left'>Chenôve.</p></td></tr><tr align='center'><td colspan='2'>Haute-Marne</td></tr><tr><td>Chaumont</td><td>Saint-Dizier.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Saône-et-Loire</td></tr><tr><td align='center'><p align='left'>Chalon-sur-Saône</p></td><td align='center'><p align='left'>Chalon-sur-Saône.</p></td></tr><tr><td align='center'><p align='left'>Mâcon</p></td><td align='center'><p align='left'>Mâcon.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -128,7 +128,7 @@ Cour d'appel de Rennes
 
 <p>Côtes-d'Armor</p></td></tr><tr><td align='center'><p align='left'>Saint-Brieuc</p></td><td align='center'><p align='left'>Lannion, Loudéac</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Loire-Atlantique</td></tr><tr><td align='center'><p align='left'>Nantes</p></td><td align='center'><p align='left'>Nantes, Nantes-Rezé, Châteaubriant.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Loire-Atlantique</td></tr><tr><td align='center'><p align='left'>Nantes</p></td><td align='center'><p align='left'>Nantes, Nantes-Rezé, Châteaubriant.</p></td></tr><tr align='center'><td colspan='2'>Morbihan</td></tr><tr><td>Lorient</td><td>Pontivy.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Riom
 
