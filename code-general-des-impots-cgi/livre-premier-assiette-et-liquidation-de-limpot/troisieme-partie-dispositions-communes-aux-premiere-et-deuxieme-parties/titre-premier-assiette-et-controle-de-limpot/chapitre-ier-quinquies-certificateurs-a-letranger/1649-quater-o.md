@@ -1,0 +1,3 @@
+# Article 1649 quater O
+
+<p>Après avoir informé les intéressés des manquements constatés dans l'exécution de la convention mentionnée à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-ier-quinquies-certificateurs-a-letranger/1649-quater-n.md' title='Code général des impôts, CGI. - art. 1649 quater N (V)'>1649 quater N</a> et les avoir mis en mesure de présenter leurs observations sur les faits qui leur sont reprochés, le directeur général des finances publiques ou son délégataire peut dénoncer ladite convention. Les clients ou adhérents du certificateur sont informés de cette décision.</p>
