@@ -1,0 +1,3 @@
+# Article 170 septies I
+
+<p>Les agréments prévus aux <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/i-revenu-imposable/156-bis.md'>II et V de l'article 156 bis du code général des impôts</a> sont délivrés par le directeur régional des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône. </p><p>L'agrément est délivré par le ministre chargé du budget lorsque l'affaire est évoquée par le ministre.</p>
