@@ -1,0 +1,3 @@
+# Article liminaire
+
+<p>Pour l'application du présent code, on entend par :</p><p>- consommateur : toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole ;</p><p>- non-professionnel : toute personne morale qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole ;</p><p>- professionnel : toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.</p>
