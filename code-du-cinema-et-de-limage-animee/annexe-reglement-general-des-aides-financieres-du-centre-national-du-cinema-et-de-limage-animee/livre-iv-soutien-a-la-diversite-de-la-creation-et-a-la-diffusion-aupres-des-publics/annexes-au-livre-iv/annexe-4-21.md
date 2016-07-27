@@ -1,0 +1,3 @@
+# Article Annexe 4-21
+
+<p>Aides à la numérisation des lieux de festivals (art. 431-7) </p><p>Liste des documents justificatifs : </p><p>1°  Le devis détaillé des dépenses d'installation initiale des équipements  de projection numérique, indiquant la conformité de ces équipements aux  normes internationales ISO ; </p><p>2° Les justificatifs des autres sources de financement des équipements de projection numérique ; </p><p>3° Le cas échant, une copie de la décision d'aide financière attribuée par la direction régionale des affaires culturelles ; </p><p>4° Une note détaillant les autres projets cinématographiques en dehors du festival.</p>
