@@ -1,0 +1,3 @@
+# Article Annexe 2-28-1
+
+<p>Aides à la structure (article 221-76-5)<br/><br/> Liste des documents justificatifs :<br/><br/> 1° Un bilan de l'activité de distribution de l'année précédente ;<br/><br/> 2° Une présentation de l'activité  prévisionnelle de distribution pour l'année en cours et un budget  prévisionnel correspondant ;<br/><br/> 3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;<br/><br/> 4° Une note contenant des informations  détaillées d'ordre juridique, financier et comptable permettant  d'apprécier la situation de l'entreprise.  </p>

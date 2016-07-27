@@ -1,0 +1,3 @@
+# Article Annexe 2-20-2
+
+<p>Allocations directes en fonction des conditions de diffusion des  œuvres cinématographiques - Deuxième versement (article 221-23-7)<br/><br/> Liste des documents justificatifs :<br/><br/> 1° Un extrait du grand livre détaillant les dépenses définitives de distribution de l'œuvre concernée ;<br/><br/> 2° Une attestation émanant d'un expert-comptable indiquant le montant des dépenses définitives de distribution.  </p>
