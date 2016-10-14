@@ -1,0 +1,3 @@
+# Article 371 Z quinquies
+
+<p align='left'>Les organismes mixtes sont soumis aux obligations prévues à l'article <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/chapitre-i-bis-centres-de-gestion-agrees-et-associations-agreees-des-professions-liberales/section-i-centres-de-gestion-agrees/371-d.md' title='Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)'>371 D</a>.</p>

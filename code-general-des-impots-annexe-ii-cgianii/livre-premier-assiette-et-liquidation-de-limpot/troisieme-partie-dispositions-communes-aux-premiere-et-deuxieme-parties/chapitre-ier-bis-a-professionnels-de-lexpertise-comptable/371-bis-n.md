@@ -1,0 +1,3 @@
+# Article 371 bis N
+
+<p>En cas de manquements graves ou répétés aux dispositions de l'article <a href='/code-general-des-impots-annexe-ii-cgianii/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/chapitre-ier-bis-a-professionnels-de-lexpertise-comptable/371-bis-m.md' title='Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)'>371 bis M</a>, la lettre de mission des clients ou adhérents du professionnel de l'expertise comptable est résiliée.</p>

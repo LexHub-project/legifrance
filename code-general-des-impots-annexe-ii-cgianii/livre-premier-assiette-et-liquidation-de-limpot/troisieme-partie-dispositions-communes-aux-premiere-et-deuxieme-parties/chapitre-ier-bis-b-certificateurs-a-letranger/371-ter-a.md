@@ -1,0 +1,3 @@
+# Article 371 ter A
+
+<p>La convention prévue à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/troisieme-partie-dispositions-communes-aux-premiere-et-deuxieme-parties/titre-premier-assiette-et-controle-de-limpot/chapitre-ier-quinquies-certificateurs-a-letranger/1649-quater-n.md' title='Code général des impôts, CGI. - art. 1649 quater N (V)'>1649 quater N</a> du code général des impôts est délivrée par le directeur général des finances publiques sur demande accompagnée de justificatifs d'identité, de résidence, de moralité fiscale attestant que le professionnel ou organisme a respecté ses obligations déclaratives et de paiement en matière fiscale au regard de la législation de son pays d'établissement.</p>

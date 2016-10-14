@@ -1,0 +1,3 @@
+# Article 371 Z terdecies
+
+<p align='left'>Un organisme mixte ayant fait l'objet d'une décision de non-renouvellement ou de retrait d'agrément, pour un motif autre que les conditions posées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069569&idArticle=LEGIARTI000033230577&dateTexte=&categorieLien=cid' title='Code général des impôts, annexe 2, CGIAN2. - art. 371 Z ter (VD)'>371 Z ter</a>, ne peut déposer de nouvelle demande d'agrément au cours des deux années suivant ladite décision. </p><p>Ses administrateurs ne peuvent siéger au sein du conseil d'administration d'un centre, d'une association agréée, ou d'un organisme mixte de gestion agréé au cours des deux années suivant la décision de non-renouvellement ou de retrait d'agrément.</p>
