@@ -1,0 +1,3 @@
+# Article Annexe IV
+
+<p align='center'>ÉLÉMENTS OU PIÈCES D'ÉQUIPEMENT DES BATEAUX</p><p><br/><br/>1. Equipement protégé contre la déflagration pour moteurs "in-bord" et moteurs à embase arrière à essence et pour emplacements de réservoirs à essence.<br/><br/>2. Dispositifs de protection contre le démarrage des moteurs "hors-bord" lorsque le levier de vitesse est engagé.<br/><br/>3. Roues de gouvernail, mécanismes de direction et systèmes de câbles.<br/><br/>4. Réservoirs de carburant destinés à des installations fixes et conduites de carburant.<br/><br/>5. Panneaux préfabriqués et hublots.  </p>
