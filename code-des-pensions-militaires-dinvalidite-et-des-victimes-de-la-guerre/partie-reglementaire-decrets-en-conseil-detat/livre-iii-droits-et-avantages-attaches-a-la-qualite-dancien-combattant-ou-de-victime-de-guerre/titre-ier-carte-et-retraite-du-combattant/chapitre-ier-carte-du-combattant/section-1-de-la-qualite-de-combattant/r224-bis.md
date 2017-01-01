@@ -1,3 +1,0 @@
-# Article R224 bis
-
-<p>Peuvent également prétendre à la carte du combattant les personnes qui ont fait l'objet d'une citation individuelle avec croix, délivrée au titre de l'une des opérations mentionnées à <a href='/code-des-pensions-militaires-dinvalidite-et-des-victimes-de-la-guerre/partie-reglementaire-decrets-en-conseil-detat/livre-iii-droits-et-avantages-attaches-a-la-qualite-dancien-combattant-ou-de-victime-de-guerre/titre-ier-carte-et-retraite-du-combattant/chapitre-ier-carte-du-combattant/section-1-de-la-qualite-de-combattant/r224.md'>l'article R. 224</a>. <br/><br/>Cette citation doit avoir été homologuée si elle a été obtenue au titre de la guerre de 1939-1945.</p>
