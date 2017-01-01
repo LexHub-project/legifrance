@@ -1,3 +1,0 @@
-# Article 302 bis ZF
-
-La taxe sur les boues d'épuration urbaines et industrielles est déclarée, liquidée, recouvrée et contrôlée conformément au II de <a href='/code-des-assurances/partie-legislative/livre-iv-organisations-et-regimes-particuliers-dassurance/titre-ii-le-fonds-de-garantie/chapitre-v-fonds-de-garantie-des-risques-lies-a-lepandage-agricole-des-boues-depuration-urbaines-ou-industrielles/l425-1.md'>l'article L. 425-1</a> du code des assurances.
