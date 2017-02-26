@@ -14,7 +14,7 @@ Somme</td></tr><tr><td align='center'><p align='left'>Amiens</p></td><td align='
 
 Cour d'appel d'Angers</p><p>Maine-et-Loire</p></td></tr><tr><td align='center'><p align='left'>Angers</p></td><td align='center'><p align='left'>Angers.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Sarthe</td></tr><tr><td align='center'><p align='left'>Le Mans</p></td><td align='center'><p align='left'>Allonnes.</p></td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Bastia</p><p align='center'>Corse-du-Sud</p></td></tr><tr><td><p align='left'>Ajaccio</p></td><td><p align='left'>Porto-Vecchio.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Sarthe</td></tr><tr><td align='center'><p align='left'>Le Mans</p></td><td align='center'><p align='left'>Allonnes.</p></td></tr><tr align='center'><td colspan='2'><p>Cour d'appel de Basse-Terre</p><p>Guadeloupe</p></td></tr><tr><td><p>Pointe-à-Pitre</p></td><td>Les Abymes</td></tr><tr><td colspan='2'><p align='center'>Cour d'appel de Bastia</p><p align='center'>Corse-du-Sud</p></td></tr><tr><td><p align='left'>Ajaccio</p></td><td><p align='left'>Porto-Vecchio.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Bordeaux
 
