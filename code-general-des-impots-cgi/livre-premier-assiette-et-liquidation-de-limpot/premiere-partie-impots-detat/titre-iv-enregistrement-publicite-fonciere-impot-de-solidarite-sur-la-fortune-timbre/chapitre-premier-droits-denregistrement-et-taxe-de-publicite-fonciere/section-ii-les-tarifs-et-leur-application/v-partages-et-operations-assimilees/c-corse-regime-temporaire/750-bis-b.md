@@ -1,0 +1,3 @@
+# Article 750 bis B
+
+<div align='left'>Entre le 1er janvier 2017 et le 31 décembre 2027, les actes de partage de succession et les licitations de biens héréditaires répondant aux conditions prévues au II de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iv-enregistrement-publicite-fonciere-impot-de-solidarite-sur-la-fortune-timbre/chapitre-premier-droits-denregistrement-et-taxe-de-publicite-fonciere/section-ii-les-tarifs-et-leur-application/v-partages-et-operations-assimilees/b-licitations-et-cessions-de-droits-successifs/750.md' title='Code général des impôts, CGI. - art. 750 (V)'>750</a> sont exonérés du droit de 2,5 % à hauteur de la valeur des immeubles situés en Corse.</div>
