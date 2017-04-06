@@ -1130,9 +1130,29 @@ Encadrement en autonomie, par la découverte et l'initiation, des activités gym
 
 Activité exercée à titre secondaire.</td></tr><tr><td align='left'><p align='left'>CQP "animateur des activités gymniques", mention "activités gymniques d'expression".</p></td><td align='left'><p align='left'>Encadrement en autonomie, par la découverte et l'initiation des activités gymniques d'expression :</p><p>- activités gymniques dansées de groupe avec ou sans engins jusqu'à un premier niveau de compétition en gymnastique rythmique ;</p><p>- activités gymniques cardio-vasculaires jusqu'à un premier niveau de compétition en gymnastique aérobic.</p></td><td align='left'></td></tr><tr><td align='left'><br/>
 
-CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et d'expression".</td><td align='left'><p>Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression :</p><p>- techniques cardio ;</p><p>- renforcement musculaire ;</p><p>- techniques douces :</p><p>- activités d'expression.</p></td><td align='left'><p>Sans recours à des appareils de musculation.</p><p>A l'exclusion des cours individuels.</p><p>Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.</p></td></tr><tr><td align='left'><br/>
+CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et d'expression".</td><td align='left'><p>Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression :<br/><br/>
 
-CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td><td align='left'><p>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :</p><p>- arts et éducation par les activités physiques d'opposition ;</p><p>- jeux de raquettes ;</p><p>- jeux de ballons, petits et grands terrains.</p></td><td align='left'><p>A l'exclusion des pratiques compétitives.</p><p>A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.</p><p>A l'exclusion des cours individuels.</p><p>Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.</p></td></tr><tr><td align='left'><br/>
+- techniques cardio ;<br/><br/>
+
+- renforcement musculaire ;<br/><br/>
+
+- techniques douces ;<br/><br/>
+
+- activités d'expression.</p></td><td align='left'><br/>
+
+Sans recours à des appareils de musculation.<br/><br/>
+
+A l'exclusion des cours individuels.</td></tr><tr><td align='left'>CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td><td align='left'>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :<br/><br/>
+
+- arts et éducation par les activités physiques d'opposition ;<br/><br/>
+
+- jeux de raquettes ;<br/><br/>
+
+- jeux de ballons, petits et grands terrains.</td><td align='left'>A l'exclusion des pratiques compétitives.<br/><br/>
+
+A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.<br/><br/>
+
+A l'exclusion des cours individuels.</td></tr><tr><td align='left'><br/>
 
 CQP "assistant moniteur de tennis".</td><td align='left'><br/>
 
