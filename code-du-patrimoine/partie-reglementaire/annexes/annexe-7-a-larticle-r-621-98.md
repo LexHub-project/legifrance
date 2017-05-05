@@ -1,0 +1,3 @@
+# Article Annexe 7 à l'article R. 621-98
+
+<p align='center'>Périmètres des domaines nationaux</p><p align='center'></p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0105, texte n° 96 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000034567733' target='_blank'><font color='#0066cc' size='1'>https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000034567733</font></a></p>
