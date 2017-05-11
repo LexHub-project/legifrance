@@ -76,7 +76,7 @@ Rhône</td></tr><tr><td align='center'><p align='left'>Lyon</p></td><td align='c
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='left'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='left'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='left'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='left'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td>Thionville</td><td>Hayange (Val de Fensch).</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
