@@ -188,7 +188,7 @@ Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
 Solennelle (et cérémonies publiques).</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : rouge, à grandes manches.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
@@ -196,7 +196,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.</td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'><br/>
 
@@ -218,17 +218,13 @@ De laine noire, avec un galon d'argent.</td><td align='left'><br/>
 
 Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
-Solennelle (et cérémonies publiques).</td><td align='left'><br/>
+Solennelle (et cérémonies publiques).</td><td align='left'><p>Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</p></td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
-Comme ci-dessus.</td><td align='left'><br/>
-
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
-
-Comme ci-dessus.</td><td align='left'><br/>
+De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><p>Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</p></td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX SUPÉRIEURS D'APPEL</p><p align='center'>Présidents des tribunaux supérieurs d'appel<br/>
 
