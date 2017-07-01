@@ -218,13 +218,17 @@ De laine noire, avec un galon d'argent.</td><td align='left'><br/>
 
 Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
-Solennelle (et cérémonies publiques).</td><td align='left'><p>Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</p></td><td align='left'><br/>
+Solennelle (et cérémonies publiques).</td><td align='left'><br/>
+
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><p>Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</p></td><td align='left'><br/>
+De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
+
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX SUPÉRIEURS D'APPEL</p><p align='center'>Présidents des tribunaux supérieurs d'appel<br/>
 
@@ -298,17 +302,7 @@ De soie bleu-clair, avec franges.</td><td align='left'><br/>
 
 De laine noire, avec un galon d'argent.</td><td align='left'><br/>
 
-Blanche, plissée.</td></tr></tbody></table></center><p align='center'></p><p align='center'>Juridictions de proximité</p><p align='center'>Juges de proximité</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>BRONZE</td><td align='center'>AVERS</td><td align='center'>ATTACHE</td><td align='center'>RUBAN</td></tr><tr><td align='left'><br/>
-
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.</td><td align='left'><br/>
-
-Doré.</td><td align='left'><br/>
-
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.</td><td align='left'><br/>
-
-Largeur de 75 mm, portant un rameau d'olivier.</td><td align='left'><br/>
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm.</td></tr></tbody></table></center><p align='center'></p><p align='center'>Directeurs des services de greffe judiciaires et greffiers</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>GRADE</td><td align='center'>COSTUME</td></tr><tr><td align='left'><br/>
+Blanche, plissée.</td></tr></tbody></table></center><p align='center'></p><p align='center'></p><p align='center'></p><p align='center'>Directeurs des services de greffe judiciaires et greffiers</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>GRADE</td><td align='center'>COSTUME</td></tr><tr><td align='left'><br/>
 
 Cour de cassation.</td><td align='left'><br/>
 
