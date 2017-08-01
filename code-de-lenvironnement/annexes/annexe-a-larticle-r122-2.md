@@ -32,11 +32,11 @@ d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la 
 
 e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement.</td></tr><tr><td align='left'><br/>
 
-f) Stockage géologique de CO<sub>2</sub> soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement.</td></tr><tr><td colspan='3' align='left'><p align='center'><br/>
+f) Stockage géologique de CO <sub>2 </sub>soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement.</td></tr><tr><td colspan='3' align='left'><p align='center'><br/>
 
 Installations nucléaires de base (INB)</p></td></tr><tr><td align='left'><br/>
 
-2. Installations nucléaires de base (dans les conditions prévues au <a href='/affichTexte.do?cidTexte=JORFTEXT000000819043&idSectionTA=LEGISCTA000006111666&dateTexte=&categorieLien=cid'>titre IV de la loi n° 2006-686 du 13 juin 2006</a> et de ses décrets d'application, notamment en matière de modification ou d'extension en application de l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000469544&idArticle=LEGIARTI000006868922&dateTexte=&categorieLien=cid'>article 31 du décret n° 2007-1557 du 2 novembre 2007</a>).</td><td align='left'><br/>
+2. Installations nucléaires de base (dans les conditions prévues au <a href='/affichTexte.do?cidTexte=JORFTEXT000000819043&idSectionTA=LEGISCTA000006111666&dateTexte=&categorieLien=cid'>titre IV de la loi n° 2006-686 du 13 juin 2006 </a>et de ses décrets d'application, notamment en matière de modification ou d'extension en application de l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000469544&idArticle=LEGIARTI000006868922&dateTexte=&categorieLien=cid'>article 31 du décret n° 2007-1557 du 2 novembre 2007</a>).</td><td align='left'><br/>
 
 Installations soumises à une autorisation de création, une autorisation de courte durée, une autorisation de mise à l'arrêt définitif et de démantèlement ou une autorisation de mise à l'arrêt définitif et de passage en phase de surveillance.</td><td align='left'></td></tr><tr><td colspan='3' align='left'><p align='center'><br/>
 
@@ -66,7 +66,7 @@ a) Construction de voies ferroviaires principales non mentionnées à la colonne
 
 6. Infrastructures routières (les ponts, tunnels et tranchées couvertes supportant des infrastructures routières doivent être étudiés au titre de cette rubrique).
 
-<p>On entend par "route" une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des voies vertes et des voies destinées aux engins d'exploitation et d'entretien des parcelles.</p></td><td align='left'><br/>
+<p>On entend par " route " une voie destinée à la circulation des véhicules à moteur, à l'exception des pistes cyclables, des voies vertes et des voies destinées aux engins d'exploitation et d'entretien des parcelles.</p></td><td align='left'><br/>
 
 a) Construction d'autoroutes et de voies rapides.
 
@@ -86,7 +86,7 @@ b) Gares de tramways, de métros aériens et souterrains, de funiculaires.</td><
 
 8. Aérodromes.
 
-<p>On entend par "aérodrome" : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944 constituant l'Organisation de l'aviation civile internationale (annexe 14).</p></td><td align='left'><br/>
+<p>On entend par " aérodrome " : un aérodrome qui correspond à la définition donnée par la convention de Chicago de 1944 constituant l'Organisation de l'aviation civile internationale (annexe 14).</p></td><td align='left'><br/>
 
 Construction d'aérodromes dont la piste de décollage et d'atterrissage a une longueur d'au moins 2 100 mètres.</td><td align='left'><br/>
 
@@ -114,7 +114,7 @@ d) Zones de mouillages et d'équipements légers.</td></tr><tr><td align='left'>
 
 Ouvrages de canalisation, de reprofilage et de régularisation des cours d'eau s'ils entraînent une artificialisation du milieu sous les conditions de respecter les critères et seuils suivants :
 
-<p>-installations, ouvrages, travaux ou activités conduisant à modifier le profil en long ou le profil en travers du lit mineur d'un cours d'eau sur une longueur de cours d'eau supérieure ou égale à 100 m ;</p><p>-consolidation ou protection des berges, par des techniques autres que végétales vivantes sur une longueur supérieure ou égale à 200 m ;</p><p>-installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m<sup>2</sup> de frayères ;</p><p>-installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou égale à 100 m.</p></td></tr><tr><td align='left'><br/>
+<p>-installations, ouvrages, travaux ou activités conduisant à modifier le profil en long ou le profil en travers du lit mineur d'un cours d'eau sur une longueur de cours d'eau supérieure ou égale à 100 m ;</p><p>-consolidation ou protection des berges, par des techniques autres que végétales vivantes sur une longueur supérieure ou égale à 200 m ;</p><p>-installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m <sup>2 </sup>de frayères ;</p><p>-installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou égale à 100 m.</p></td></tr><tr><td align='left'><br/>
 
 11. Travaux, ouvrages et aménagements en zone côtière.</td><td align='left'></td><td align='left'><br/>
 
@@ -144,7 +144,7 @@ a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage 
 
 b) Projets d'hydraulique agricole nécessitant l'assèchement, la mise en eau, l'imperméabilisation, le remblaiement de zones humides ou de marais, la zone asséchée ou mise en eau étant d'une surface supérieure ou égale à 1 ha.</td></tr><tr><td align='left'><br/>
 
-c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m<sup>3</sup>/h dans une zone où des mesures permanentes de répartition quantitative ont été instituées.</td></tr><tr><td align='left'><br/>
+c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m <sup>3</sup>/ h dans une zone où des mesures permanentes de répartition quantitative ont été instituées.</td></tr><tr><td align='left'><br/>
 
 17. Dispositifs de captage et de recharge artificielle des eaux souterraines (telles que définies à l'article 2.2 de la directive 2000/60/ CE).</td><td align='left'><br/>
 
@@ -152,43 +152,43 @@ Dispositifs de captage ou de recharge artificielle des eaux souterraines lorsque
 
 a) Dispositifs de recharge artificielle des eaux souterraines (non mentionnés dans la colonne précédente).
 
-<p>b) Dispositifs de captage des eaux souterraines, lorsque le volume annuel prélevé est inférieur à 10 millions de mètres cubes et supérieur ou égal à 200 000 mètres cubes, excepté en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils.</p><p>c) Dispositifs de captage des eaux souterraines en nappe d'accompagnement :</p><p>-d'une capacité totale maximale supérieure ou égale à 1 000 m<sup>3</sup>/heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau ;</p><p>-lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m<sup>3</sup>/ heure.</p><p>d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m<sup>3</sup>/heure.</p></td></tr><tr><td align='left'><br/>
+<p>b) Dispositifs de captage des eaux souterraines, lorsque le volume annuel prélevé est inférieur à 10 millions de mètres cubes et supérieur ou égal à 200 000 mètres cubes, excepté en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils.</p><p>c) Dispositifs de captage des eaux souterraines en nappe d'accompagnement :</p><p>-d'une capacité totale maximale supérieure ou égale à 1 000 m <sup>3</sup>/ heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau ;</p><p>-lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m <sup>3</sup>/ heure.</p><p>d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m <sup>3</sup>/ heure.</p></td></tr><tr><td align='left'><br/>
 
 18. Dispositifs de prélèvement des eaux de mer.</td><td align='left'></td><td align='left'><br/>
 
-Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m<sup>3</sup> par heure d'eau de mer.</td></tr><tr><td align='left'><br/>
+Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m <sup>3 </sup>par heure d'eau de mer.</td></tr><tr><td align='left'><br/>
 
 19. Rejet en mer.</td><td align='left'></td><td align='left'><br/>
 
-Rejet en mer dont le débit est supérieur ou égal à 30 m<sup>3</sup>/h.</td></tr><tr><td align='left'><br/>
+Rejet en mer dont le débit est supérieur ou égal à 30 m <sup>3</sup>/ h.</td></tr><tr><td align='left'><br/>
 
 20. Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection.</td><td align='left'></td><td align='left'><br/>
 
 Tous travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection, à l'exclusion des travaux de recherche.</td></tr><tr><td align='left'><br/>
 
-21. Barrages et autres installations destinées à retenir les eaux ou à les stocker.</td><td align='left'><p>Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m<sup>3</sup> ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.</p></td><td align='left'><br/>
+21. Barrages et autres installations destinées à retenir les eaux ou à les stocker.</td><td align='left'><p>Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m <sup>3 </sup>ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.</p></td><td align='left'><br/>
 
 Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable non mentionnés à la colonne précédente :
 
-<p>a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m<sup>3</sup>.</p><p>b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m<sup>3</sup>.</p><p>c) Réservoirs de stockage d'eau "sur tour" (château d'eau) d'une capacité égale ou supérieure à 1 000 m<sup>3</sup>.</p><p>d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique ou à l'écoulement des crues, entraînant une différence de niveau supérieure ou égale à 50 cm pour le débit moyen annuel de la ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.</p><p>e) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les systèmes d'endiguement au sens de l'<a href='/code-de-lenvironnement/partie-reglementaire/livre-v-prevention-des-pollutions-des-risques-et-des-nuisances/titre-vi-prevention-des-risques-naturels/chapitre-ii-plans-de-prevention-des-risques-naturels-previsibles/section-2-dispositions-penales/sous-section-1-systeme-dendiguement/r562-13.md'>article R. 562-13 du code de l'environnement</a>.</p><p>f) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les aménagements hydrauliques au sens de l'<a href='/code-de-lenvironnement/partie-reglementaire/livre-v-prevention-des-pollutions-des-risques-et-des-nuisances/titre-vi-prevention-des-risques-naturels/chapitre-ii-plans-de-prevention-des-risques-naturels-previsibles/section-2-dispositions-penales/sous-section-2-amenagements-hydrauliques/r562-18.md'>article R. 562-18 du code de l'environnement</a>.</p></td></tr><tr><td align='left'><br/>
+<p>a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m <sup>3</sup>.</p><p>b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m <sup>3</sup>.</p><p>c) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité égale ou supérieure à 1 000 m <sup>3</sup>.</p><p>d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique ou à l'écoulement des crues, entraînant une différence de niveau supérieure ou égale à 50 cm pour le débit moyen annuel de la ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.</p><p>e) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les systèmes d'endiguement au sens de l'<a href='/code-de-lenvironnement/partie-reglementaire/livre-v-prevention-des-pollutions-des-risques-et-des-nuisances/titre-vi-prevention-des-risques-naturels/chapitre-ii-plans-de-prevention-des-risques-naturels-previsibles/section-2-dispositions-penales/sous-section-1-systeme-dendiguement/r562-13.md'>article R. 562-13 du code de l'environnement</a>.</p><p>f) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les aménagements hydrauliques au sens de l'<a href='/code-de-lenvironnement/partie-reglementaire/livre-v-prevention-des-pollutions-des-risques-et-des-nuisances/titre-vi-prevention-des-risques-naturels/chapitre-ii-plans-de-prevention-des-risques-naturels-previsibles/section-2-dispositions-penales/sous-section-2-amenagements-hydrauliques/r562-18.md'>article R. 562-18 du code de l'environnement</a>.</p></td></tr><tr><td align='left'><br/>
 
 22. Installation d'aqueducs sur de longues distances.</td><td align='left'></td><td align='left'><br/>
 
-Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 m<sup>2</sup>.</td></tr><tr><td rowspan='2' align='left'><br/>
+Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 m <sup>2</sup>.</td></tr><tr><td rowspan='2' align='left'><br/>
 
 23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/ CE.
 
 <p>Dans les deux cas, les transvasements d'eau potable amenée par canalisation sont exclus.</p></td><td align='left'><br/>
 
-a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m<sup>3</sup>.</td><td rowspan='2' align='left'><br/>
+a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m <sup>3</sup>.</td><td rowspan='2' align='left'><br/>
 
-Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m³/s.</td></tr><tr><td align='left'><br/>
+Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m ³/ s.</td></tr><tr><td align='left'><br/>
 
-b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m<sup>3</sup> et que le volume des eaux transvasées dépasse 5 % de ce débit.</td></tr><tr><td align='left'><br/>
+b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m <sup>3 </sup>et que le volume des eaux transvasées dépasse 5 % de ce débit.</td></tr><tr><td align='left'><br/>
 
 24. Système de collecte et de traitement des eaux résiduaires.
 
-<p>On entend par "un équivalent habitant (EH)" : la charge organique biodégradable ayant une demande biochimique d'oxygène en cinq jours (DB05) de 60 grammes d'oxygène par jour.</p></td><td align='left'><br/>
+<p>On entend par " un équivalent habitant (EH) " : la charge organique biodégradable ayant une demande biochimique d'oxygène en cinq jours (DB05) de 60 grammes d'oxygène par jour.</p></td><td align='left'><br/>
 
 Système d'assainissement dont la station de traitement des eaux usées est d'une capacité est supérieure ou égale à 150 000 équivalents-habitants.</td><td align='left'><br/>
 
@@ -202,7 +202,7 @@ Extraction de minéraux par dragage marin : ouverture de travaux d'exploitation 
 
 a) Dragage et/ ou rejet y afférent en milieu marin :
 
-<p>-dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence N2 pour l'un au moins des éléments qui y figurent ;</p><p>-dont la teneur des sédiments extraits est comprise entre les niveaux de référence N1 et N2 pour l'un des éléments qui y figurent :</p><p>i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m<sup>3</sup> ;</p><p>ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m<sup>3</sup> ;</p><p>-dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m<sup>3</sup>.</p><p>b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'<a href='/code-de-lenvironnement/partie-legislative/livre-ii-milieux-physiques/titre-ier-eau-et-milieux-aquatiques/chapitre-v-dispositions-propres-aux-cours-deau-non-domaniaux/section-3-entretien-et-restauration-des-milieux-aquatiques/l215-14.md'>article L. 215-14 du code de l'environnement</a> réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :</p><p>-supérieure à 2 000 m<sup>3</sup> ;</p><p>-inférieure ou égal à 2 000 m<sup>3</sup> dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.</p></td></tr><tr><td rowspan='2' align='left'><br/>
+<p>-dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence N2 pour l'un au moins des éléments qui y figurent ;</p><p>-dont la teneur des sédiments extraits est comprise entre les niveaux de référence N1 et N2 pour l'un des éléments qui y figurent :</p><p>i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m <sup>3 </sup>;</p><p>ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m <sup>3 </sup>;</p><p>-dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m <sup>3</sup>.</p><p>b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'<a href='/code-de-lenvironnement/partie-legislative/livre-ii-milieux-physiques/titre-ier-eau-et-milieux-aquatiques/chapitre-v-dispositions-propres-aux-cours-deau-non-domaniaux/section-3-entretien-et-restauration-des-milieux-aquatiques/l215-14.md'>article L. 215-14 du code de l'environnement </a>réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :</p><p>-supérieure à 2 000 m <sup>3 </sup>;</p><p>-inférieure ou égal à 2 000 m <sup>3 </sup>dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.</p></td></tr><tr><td rowspan='2' align='left'><br/>
 
 26. Stockage et épandages de boues et d'effluents.</td><td rowspan='2' align='left'></td><td align='left'><br/>
 
@@ -220,9 +220,7 @@ a) Ouverture de travaux de forage pour l'exploitation de mines.
 
 a) Forages pour l'approvisionnement en eau d'une profondeur supérieure ou égale à 50 m.
 
-<p>b) Ouverture de travaux d'exploration de mines par forages de moins de 100 mètres de profondeur sous forme de campagne de forages.</p><p>c) Ouverture de travaux de puits de contrôle pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, de produits chimiques à destination industrielle.<br/><br/>
-
-d) Autres forages en profondeur de plus de 100 m.</p></td></tr><tr><td align='left'><br/>
+<p>b) Ouverture de travaux d'exploration de mines par forages de moins de 100 mètres de profondeur sous forme de campagne de forages.</p><p>c) Ouverture de travaux de puits de contrôle pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, de produits chimiques à destination industrielle.</p><p>d) Autres forages en profondeur de plus de 100 m.</p></td></tr><tr><td align='left'><br/>
 
 28. Exploitation minière.</td><td align='left'><br/>
 
@@ -292,17 +290,17 @@ Travaux, ouvrages, aménagements ruraux et urbains</p></td></tr><tr><td rowspan=
 
 39. Travaux, constructions et opérations d'aménagement y compris ceux donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone d'aménagement concerté.</td><td align='left'><br/>
 
-Travaux, constructions et opérations constitués ou en création qui créent une surface de plancher supérieure ou égale à 40 000 m<sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares.</td><td align='left'><br/>
+Travaux, constructions et opérations constitués ou en création qui créent une surface de plancher supérieure ou égale à 40 000 m <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares.</td><td align='left'><br/>
 
-Travaux, constructions et opérations d'aménagement constitués ou en création qui soit crée une surface de plancher supérieure ou égale à 10 000 m<sup>2</sup> et inférieure à 40 000 m<sup>2</sup> et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit couvre un terrain d'assiette d'une superficie supérieure ou égale à 5 ha et inférieure à 10 ha et dont la surface de plancher créée est inférieure à 40 000 m<sup>2</sup>.</td></tr><tr><td colspan='2' align='left'><br/>
+Travaux, constructions et opérations d'aménagement constitués ou en création qui soit crée une surface de plancher supérieure ou égale à 10 000 m <sup>2 </sup>et inférieure à 40 000 m <sup>2 </sup>et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit couvre un terrain d'assiette d'une superficie supérieure ou égale à 5 ha et inférieure à 10 ha et dont la surface de plancher créée est inférieure à 40 000 m <sup>2</sup>.</td></tr><tr><td colspan='2' align='left'><br/>
 
 Les composantes d'un projet donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone d'aménagement concerté ne sont pas concernées par la présente rubrique si le projet dont elles font partie fait l'objet d'une étude d'impact ou en a été dispensé à l'issue d'un examen au cas par cas.</td></tr><tr><td align='left'><br/>
 
 40. Villages de vacances et aménagements associés.</td><td align='left'><br/>
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m<sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares.</td><td align='left'><br/>
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares.</td><td align='left'><br/>
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m<sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td></tr><tr><td rowspan='2' align='left'><br/>
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m <sup>2 </sup>ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td></tr><tr><td rowspan='2' align='left'><br/>
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs.</td><td rowspan='2' align='left'></td><td align='left'><br/>
 
@@ -332,13 +330,13 @@ c) Installations et aménagements associés permettant d'enneiger une superficie
 
 c) Installations et aménagements associés permettant d'enneiger une superficie inférieure à 2 hectares en site vierge ou une superficie inférieure à 4 hectares hors site vierge.</td></tr><tr><td align='left'></td><td colspan='2' align='left'><br/>
 
-Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief.</td></tr><tr><td align='left'><br/>
+Pour la rubrique 43, est considéré comme " site vierge " un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne revenant pas gravitairement sur une piste de ski ou un départ de remontée mécanique du même domaine skiable au sens de l'article <a href='/code-de-lurbanisme/partie-reglementaire-decrets-en-conseil-detat/livre-ier-reglementation-de-lurbanisme/titre-ii-regles-applicables-dans-certaines-parties-du-territoire/chapitre-ii-amenagement-et-protection-de-la-montagne/section-1-dispositions-generales/sous-section-3-unites-touristiques-nouvelles/paragraphe-1-creation-dune-unite-touristique-nouvelle-dans-une-commune-couverte-par-un-schema-de-coherence-territoriale/r122-4.md' title='Code de l'urbanisme - art. R122-4 (VD)'>R. 122-10</a> du code de l'urbanisme. (1)</td></tr><tr><td align='left'><br/>
 
 44. Equipements sportifs, culturels ou de loisirs et aménagements associés.</td><td align='left'></td><td align='left'><br/>
 
 a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés.
 
-<p>b) Parcs d'attractions à thème et attractions fixes.</p><p>c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.</p><p>d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (1)</p></td></tr><tr><td align='left'><br/>
+<p>b) Parcs d'attractions à thème et attractions fixes.</p><p>c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.</p><p>d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)</p></td></tr><tr><td align='left'><br/>
 
 45. Opérations d'aménagements fonciers agricoles et forestiers mentionnées au <a href='/code-rural-et-de-la-peche-maritime/partie-legislative/livre-ier-amenagement-et-equipement-de-lespace-rural/titre-ii-amenagement-foncier-rural/chapitre-ier-dispositions-communes-aux-divers-modes-damenagement-foncier/l121-1.md'>1° de l'article L. 121-1 du code rural et de la pêche maritime</a>, y compris leurs travaux connexes.</td><td align='left'><br/>
 
@@ -354,9 +352,9 @@ b) Projets d'affectation de plus de 4 hectares d'étendues semi-naturelles à l'
 
 a) Défrichements portant sur une superficie totale, même fragmentée, égale ou supérieure à 25 hectares.</td><td align='left'><br/>
 
-a) Défrichements soumis à autorisation au titre de l'<a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-iv-defrichements/chapitre-ier-regime-dautorisation-prealable/l341-3.md'>article L. 341-3 du code forestier</a> en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare.</td></tr><tr><td align='left'><br/>
+a) Défrichements soumis à autorisation au titre de l'<a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-iv-defrichements/chapitre-ier-regime-dautorisation-prealable/l341-3.md'>article L. 341-3 du code forestier </a>en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare.</td></tr><tr><td align='left'><br/>
 
-b) Pour La Réunion et Mayotte, dérogations à l'interdiction générale de défrichement, mentionnée aux articles <a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-vii-dispositions-particulieres-a-loutre-mer/chapitre-iv-la-reunion/section-1-defrichement/l374-1.md'>L. 374-1</a> et <a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-vii-dispositions-particulieres-a-loutre-mer/chapitre-v-mayotte/section-2-defrichement/l375-4.md'>L. 375-4</a> du code forestier, ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux.</td><td align='left'><br/>
+b) Pour La Réunion et Mayotte, dérogations à l'interdiction générale de défrichement, mentionnée aux articles <a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-vii-dispositions-particulieres-a-loutre-mer/chapitre-iv-la-reunion/section-1-defrichement/l374-1.md'>L. 374-1 </a>et <a href='/code-forestier-nouveau/partie-legislative/livre-iii-bois-et-forets-des-particuliers/titre-vii-dispositions-particulieres-a-loutre-mer/chapitre-v-mayotte/section-2-defrichement/l375-4.md'>L. 375-4 </a>du code forestier, ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux.</td><td align='left'><br/>
 
 b) Autres déboisements en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare.</td></tr><tr><td align='left'></td><td align='left'><p>c) Premiers boisements d'une superficie totale de plus de 0,5 hectare.</p></td></tr><tr><td align='left'><p>48. Crématoriums.</p></td><td align='left'><p align='left'></p></td><td align='left'><p>Toute création ou extension.</p></td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><br/><br/><i>NOTA:<p>Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que " Les dispositions de la présente ordonnance s'appliquent :<br clear='none'/>
 
@@ -364,4 +362,4 @@ b) Autres déboisements en vue de la reconversion des sols, portant sur une supe
 
 - aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant la publication de la présente ordonnance ;<br clear='none'/>
 
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "</p><p>(1) Conseil d’Etat, décision n° <font color='#000000'>404391</font><font color='#000000'>du 8 décembre 2017 (</font><font color='#000000'>ECLI:FR:CECHR:2017:404391.20171208), Art. 1 : </font><font color='#000000'>Au a) de la rubrique 44 du tableau annexé à l’article R. 122-2 du code de l’environnement, sont annulés les mots : " d’une emprise supérieure ou égale à 4 hectares " et au d) de la même rubrique, les mots : " susceptibles d’accueillir plus de 5 000 personnes ".</font></p></i>
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "</p><p>(1) Au lieu de lire " R. 122-10 ", il convient de lire " R. 122-4 ".</p><p>(2) Conseil d’Etat, décision n° <font color='#000000'>404391</font><font color='#000000'>du 8 décembre 2017 (</font><font color='#000000'>ECLI:FR:CECHR:2017:404391.20171208), Art. 1 : </font><font color='#000000'>Au a) de la rubrique 44 du tableau annexé à l’article R. 122-2 du code de l’environnement, sont annulés les mots : " d’une emprise supérieure ou égale à 4 hectares " et au d) de la même rubrique, les mots : " susceptibles d’accueillir plus de 5 000 personnes ".</font></p></i>
