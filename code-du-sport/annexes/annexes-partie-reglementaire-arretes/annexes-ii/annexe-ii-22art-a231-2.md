@@ -1,4 +1,4 @@
-# Article Annexe II-22(art. A231-1)
+# Article Annexe II-22(art. A231-2)
 
 <p align='center'></p><p align='center'>Renouvellement de licence d'une fédération sportive</p><p align='center'>Questionnaire de santé “ QS-SPORT ”</p><p>Ce questionnaire de santé permet de savoir si vous devez fournir un certificat médical pour renouveler votre licence sportive.</p><center><table border='1'><tbody><tr><th>RÉPONDEZ AUX QUESTIONS SUIVANTES PAR OUI OU PAR NON.<br/>
 
