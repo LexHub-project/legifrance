@@ -46,7 +46,7 @@ Haut-Rhin</td></tr><tr><td align='center'><p align='left'>Colmar</p></td><td ali
 
 Cour d'appel de Dijon
 
-<p>Côte-d'Or</p></td></tr><tr><td align='center'><p align='left'>Dijon</p></td><td align='center'><p align='left'>Chenôve.</p></td></tr><tr align='center'><td colspan='2'>Haute-Marne</td></tr><tr><td>Chaumont</td><td>Saint-Dizier.</td></tr><tr><td colspan='2' align='center'><br/>
+<p>Côte-d'Or</p></td></tr><tr><td align='center'><p align='left'>Dijon</p></td><td align='center'><p align='left'>Chenôve.</p></td></tr><tr align='center'><td colspan='2'><p>Haute-Marne</p></td></tr><tr><td><p>Chaumont</p></td><td>Saint-Dizier.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Saône-et-Loire</td></tr><tr><td align='center'><p align='left'>Chalon-sur-Saône</p></td><td align='center'><p align='left'>Chalon-sur-Saône.</p></td></tr><tr><td align='center'><p align='left'>Mâcon</p></td><td align='center'><p align='left'>Mâcon.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -76,13 +76,13 @@ Rhône</td></tr><tr><td align='center'><p align='left'>Lyon</p></td><td align='c
 
 Cour d'appel de Metz
 
-<p>Moselle</p></td></tr><tr><td align='center'><p align='left'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='left'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td>Thionville</td><td>Hayange (Val de Fensch).</td></tr><tr><td colspan='2' align='center'><br/>
+<p>Moselle</p></td></tr><tr><td align='center'><p align='left'>Metz</p></td><td align='center'><p align='left'>Faulquemont, Woippy.</p></td></tr><tr><td align='center'><p align='left'>Sarreguemines</p></td><td align='center'><p align='left'>Forbach.</p></td></tr><tr><td><p>Thionville</p></td><td>Hayange (Val de Fensch).</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Montpellier
 
 <p>Aude</p></td></tr><tr><td align='center'><p align='left'>Narbonne</p></td><td align='center'><p align='left'>Narbonne.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Hérault</td></tr><tr><td align='center'><p align='left'>Béziers</p></td><td align='center'><p align='left'>Agde.</p></td></tr><tr><td align='center'><p align='left'>Montpellier</p></td><td align='center'><p align='left'>Lodève, Lunel, Montpellier (La Paillade).</p></td></tr><tr><td colspan='2' align='center'><br/>
+Hérault</td></tr><tr><td align='center'><p align='left'>Béziers</p></td><td align='center'><p align='left'>Agde.</p></td></tr><tr><td align='center'><p align='left'>Montpellier</p></td><td align='center'><p align='left'>Lodève, Lunel, Montpellier (La Paillade).</p></td></tr><tr><td colspan='2' align='center'><p>Pyrénées-Orientales</p></td></tr><tr><td><p>Perpignan</p></td><td>Perpignan</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Nancy
 
@@ -128,7 +128,7 @@ Cour d'appel de Rennes
 
 <p>Côtes-d'Armor</p></td></tr><tr><td align='center'><p align='left'>Saint-Brieuc</p></td><td align='center'><p align='left'>Lannion, Loudéac</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Loire-Atlantique</td></tr><tr><td align='center'><p align='left'>Nantes</p></td><td align='center'><p align='left'>Nantes, Nantes-Rezé, Châteaubriant.</p></td></tr><tr align='center'><td colspan='2'>Morbihan</td></tr><tr><td>Lorient</td><td>Pontivy.</td></tr><tr><td colspan='2' align='center'><br/>
+Loire-Atlantique</td></tr><tr><td align='center'><p align='left'>Nantes</p></td><td align='center'><p align='left'>Nantes, Nantes-Rezé, Châteaubriant.</p></td></tr><tr align='center'><td colspan='2'><p>Morbihan</p></td></tr><tr><td><p>Lorient</p></td><td>Pontivy.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Riom
 
