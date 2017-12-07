@@ -1,3 +1,51 @@
 # Article Annexe II-12-3
 
-<p>PIÈCES NÉCESSAIRES À LA DÉCLARATION D'ACTIVITÉ DES RESSORTISSANTS D'UN ÉTAT MEMBRE DE LA COMMUNAUTÉ EUROPÉENNE OU D'UN AUTRE ÉTAT PARTIE À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN SOUHAITANT EXERCER EN FRANCE DANS LE CADRE D'UNE PRESTATION DE SERVICES </p><p>Formulaire de déclaration (1) </p><p>Nom : </p><p>Prénom (s) : </p><p>Adresse : </p><p>Nationalité : </p><p>Etat membre d'établissement : </p><p>Activité physique ou sportive encadrée : </p><p>Fonction exercée : </p><p>Déclaration établie en qualité :</p><p>- de travailleur indépendant ;</p><p>- de salarié ;</p><p>- date, durée et lieu de la prestation : </p><p>Indication de la compagnie d'assurance auprès de laquelle a été souscrite la police d'assurance couvrant la responsabilité civile du déclarant et des personnes qu'il encadre, ainsi que numéro de la police : </p><p>Déclaration sur l'honneur </p><p>Je soussigné (e), éducateur (trice) sportif (ve), </p><p>atteste l'exactitude des informations portées dans la présente déclaration. </p><p>Fait à, le </p><p>(Signature) </p><p>(1) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article <a href='/code-du-sport/partie-legislative/livre-ii-acteurs-du-sport/titre-ier-formation-et-enseignement/chapitre-ii-enseignement-du-sport-contre-remuneration/section-1-obligation-de-qualification/l212-1.md'>L. 212-1</a>. (2) Informations à caractère facultatif. </p><p>Documents à joindre à la déclaration et renseignements à fournir lors de la première prestation ou en cas de changement matériel relatif à la situation établie par les pièces produites lors de cette première prestation </p><p>1. Photographie d'identité. </p><p>2. Copie d'une pièce d'identité. </p><p>3. Copie de l'attestation de compétences ou du titre de formation. </p><p>4. Copie des documents attestant que le déclarant est légalement établi dans l'Etat membre d'établissement et qu'il n'encourt aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés. </p><p>5. Dans le cas où ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat membre d'établissement, copie de toutes pièces justifiant que le déclarant a exercé cette activité dans cet Etat pendant au moins deux ans au cours des dix années précédentes, traduites en français par un traducteur ou un organisme assermentés. </p><p>6. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (1) :</p><p>- copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;</p><p>- copie d'une attestation de niveau en français délivrée par une institution spécialisée ;</p><p>- copie d'un document attestant d'une expérience professionnelle acquise en France. </p><p>Dans le cas où le déclarant n'est pas en mesure de produire l'un de ces trois documents, un entretien permet de vérifier sa connaissance de la langue française. </p><p>(1) Afin de garantir l'exercice en sécurité des activités physiques et sportives et la capacité à alerter les secours.</p>
+<p>Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<br/><br/>
+
+Formulaire de déclaration (7)</p><p><br/>
+
+Nom :<br/><br/>
+
+Prénom (s) :<br/><br/>
+
+Adresse :<br/><br/>
+
+Nationalité :<br/><br/>
+
+Etat membre d'établissement :<br/><br/>
+
+Activité physique ou sportive encadrée :<br/><br/>
+
+Fonction exercée :<br/><br/>
+
+Déclaration établie en qualité :</p><p><br/>
+
+-de travailleur indépendant<br/><br/>
+
+-de salarié<br/><br/>
+
+-date, durée et lieu de la prestation (8) :</p><p><br/>
+
+Indication de la compagnie d'assurance auprès de laquelle a été souscrite la police d'assurance couvrant la responsabilité civile du déclarant et des personnes qu'il encadre, ainsi que n° de la police :</p><p><br/>
+
+Déclaration sur l'honneur</p><p><br/>
+
+Je soussigné (e), éducateur sportif ou éducatrice sportive<br/><br/>
+
+atteste l'exactitude des informations portées dans la présente déclaration<br/><br/>
+
+Fait à le<br/><br/>
+
+Signature<br/><br/>
+
+Documents à joindre à la déclaration et renseignements à fournir lors de la première prestation ou en cas de changement matériel relatif à la situation établie par les pièces produites lors de cette première prestation<br/><br/>
+
+1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;<br/><br/>
+
+2. Copie d'une pièce d'identité ;<br/><br/>
+
+3. Copie de l'attestation de compétences ou du titre de formation ;<br/><br/>
+
+4. Copie des documents attestant que le déclarant est légalement établi dans l'Etat membre d'établissement et qu'il n'encourt aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés ;<br/><br/>
+
+5. Dans le cas où ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat membre d'établissement, copie de toutes pièces justifiant que le déclarant a exercé cette activité dans cet Etat pendant au moins une année à temps plein ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes, traduites en français par un traducteur ou un organisme assermenté.</p><br/><br/><i>NOTA:<p>(7) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1.</p><p>(8) Informations à caractère facultatif.</p></i>
