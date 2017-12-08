@@ -336,7 +336,7 @@ Pour la rubrique 43, est considéré comme " site vierge " un site non accessibl
 
 a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés.
 
-<p>b) Parcs d'attractions à thème et attractions fixes.</p><p>c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.</p><p>d) Autres équipements sportifs ou de loisirs et aménagements associés susceptibles d'accueillir plus de 5 000 personnes. (2)</p></td></tr><tr><td align='left'><br/>
+<p>b) Parcs d'attractions à thème et attractions fixes.</p><p>c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.</p><p>d) Autres équipements sportifs ou de loisirs et aménagements associés.</p></td></tr><tr><td align='left'><br/>
 
 45. Opérations d'aménagements fonciers agricoles et forestiers mentionnées au <a href='/code-rural-et-de-la-peche-maritime/partie-legislative/livre-ier-amenagement-et-equipement-de-lespace-rural/titre-ii-amenagement-foncier-rural/chapitre-ier-dispositions-communes-aux-divers-modes-damenagement-foncier/l121-1.md'>1° de l'article L. 121-1 du code rural et de la pêche maritime</a>, y compris leurs travaux connexes.</td><td align='left'><br/>
 
