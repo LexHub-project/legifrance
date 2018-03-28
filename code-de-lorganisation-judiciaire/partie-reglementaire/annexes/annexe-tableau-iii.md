@@ -132,7 +132,11 @@ Loire-Atlantique</td></tr><tr><td align='center'><p align='left'>Nantes</p></td>
 
 Cour d'appel de Riom
 
-<p>Allier</p></td></tr><tr><td align='center'><p align='left'>Montluçon</p></td><td align='center'><p align='left'>Montluçon.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Allier</p></td></tr><tr><td align='center'><p align='left'>Montluçon</p></td><td align='center'><p align='left'>Montluçon.</p></td></tr><tr><td colspan='2' align='center'>Puy-de-Dôme</td></tr><tr><td><br/>
+
+Clermont-Ferrand</td><td><br/>
+
+Clermont-Ferrand</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Rouen
 
