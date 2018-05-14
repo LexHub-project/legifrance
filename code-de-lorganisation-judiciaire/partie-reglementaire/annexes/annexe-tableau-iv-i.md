@@ -948,7 +948,7 @@ Tribunal d'instance</td></tr><tr><td align='left'><br/>
 
 Palaiseau</td><td align='left'><br/>
 
-Tribunal d'instance</td></tr><tr><td colspan='2' align='center'>Paris<br/></td></tr><tr><td align='left'>Paris</td><td align='left'><p>Tribunal de grande instance</p></td></tr><tr><td colspan='2' align='center'><p>Seine-et-Marne</p></td></tr><tr><td align='left'><br/>
+Tribunal d'instance</td></tr><tr><td colspan='2' align='center'>Paris</td></tr><tr><td align='left'>Paris</td><td align='left'><p>Tribunal de grande instance, tribunal d'instance</p></td></tr><tr><td colspan='2' align='center'><p>Seine-et-Marne</p></td></tr><tr><td align='left'><br/>
 
 Fontainebleau</td><td align='left'><br/>
 
