@@ -1,3 +1,31 @@
 # Article 52 ter
 
-<p>Le contingent annuel d'exportation de 120 000 hectolitres d'alcool pur fixé par <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-premier-boissons/section-i-alcools/b-bis-regime-du-rhum/362.md' title='Code général des impôts, CGI. - art. 362 (V)'>l'article 362</a> du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer, jusqu'au 31 décembre 2013, conformément au tableau ci-après : </p><p>Martinique : rhum traditionnel agricole, 43 157,76 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 11 327,78 hectolitres d'alcool pur ; </p><p>Guadeloupe : rhum traditionnel agricole, 11 285 hectolitres d'alcool pur ; rhum traditionnel de sucrerie, 30 823,89 hectolitres d'alcool pur ; </p><p>Réunion : rhum traditionnel de sucrerie, 22 905,57 hectolitres d'alcool pur ; </p><p>Guyane : rhum traditionnel agricole, 500 hectolitres d'alcool pur.</p>
+<p>Le contingent annuel d'exportation de 144 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer, conformément au tableau ci-après :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+
+rhum traditionnel agricole</th><th><br/>
+
+rhum traditionnel de sucrerie</th></tr><tr><td align='justify'><br/>
+
+Martinique</td><td align='justify'><br/>
+
+52 789,1 hectolitres d'alcool pur</td><td align='justify'><br/>
+
+11 327,78 hectolitres d'alcool pur</td></tr><tr><td align='justify'><br/>
+
+Guadeloupe</td><td align='justify'><br/>
+
+17 007,36 hectolitres d'alcool pur</td><td align='justify'><br/>
+
+34 522,76 hectolitres d'alcool pur</td></tr><tr><td align='justify'><br/>
+
+La Réunion</td><td align='justify'><br/>
+
+0 hectolitres d'alcool pur</td><td align='justify'><br/>
+
+27 353 hectolitres d'alcool pur</td></tr><tr><td align='justify'><br/>
+
+Guyane</td><td align='justify'><br/>
+
+1 000 hectolitres d'alcool pur</td><td align='justify'><br/>
+
+0 hectolitres d'alcool pur</td></tr></tbody></table></center>
