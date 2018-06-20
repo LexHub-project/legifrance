@@ -72,7 +72,7 @@ Cour d'appel de Lyon
 
 <p>Ain</p></td></tr><tr><td><p align='left'>Bourg-en-Bresse</p></td><td><p align='left'>Bourg-en-Bresse.</p></td></tr><tr><td colspan='2'><p align='center'>Loire</p></td></tr><tr><td align='center'><p align='left'>Saint-Etienne</p></td><td align='center'><p align='left'>Saint-Etienne.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Rhône</td></tr><tr><td align='center'><p align='left'>Lyon</p></td><td align='center'><p align='left'>Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.</p></td></tr><tr><td colspan='2' align='center'><br/>
+Rhône</td></tr><tr><td align='center'><p align='left'>Lyon</p></td><td align='center'><p align='left'>Bron, Givors, Lyon-Sud, Rillieux-la-Pape, Vaulx-en-Velin, Villeurbanne, Vénissieux.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Metz
 
@@ -90,7 +90,7 @@ Cour d'appel de Nancy
 
 Cour d'appel de Nîmes
 
-<p>Gard</p></td></tr><tr><td align='center'><p align='left'>Nîmes</p></td><td align='center'><p align='left'>Bagnols-sur-Cèze, Nîmes, Vauvert.</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Gard</p></td></tr><tr><td align='center'><p align='left'>Nîmes</p></td><td align='center'><p align='left'>Bagnols-sur-Cèze, Nîmes, Vauvert.</p></td></tr><tr><td colspan='2' align='center'><p>Vaucluse</p></td></tr><tr><td>Avignon</td><td><p>Avignon</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel d'Orléans
 
