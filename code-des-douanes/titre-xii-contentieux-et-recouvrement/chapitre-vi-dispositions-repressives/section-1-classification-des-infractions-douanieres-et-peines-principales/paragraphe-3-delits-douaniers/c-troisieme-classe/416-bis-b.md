@@ -1,0 +1,3 @@
+# Article 416 bis B
+
+<p>Est passible d'une amende de 10 000 € par logiciel, application ou système de caisse vendu ou par client pour lequel une prestation a été réalisée dans l'année tout manquement aux obligations prévues à l'article <a href='/code-des-douanes/titre-ii-organisation-et-fonctionnement-du-service-des-douanes/chapitre-iv-pouvoirs-des-agents-des-douanes/section-3-droit-de-communication/paragraphe-2-droit-de-communication-particulier-a-ladministration-des-douanes/65-quater.md'>65 quater</a>.</p>
