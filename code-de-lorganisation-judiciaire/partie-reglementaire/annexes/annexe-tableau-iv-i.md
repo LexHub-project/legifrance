@@ -204,15 +204,7 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td></t
 
 Cour d'appel de Basse-Terre</td></tr><tr><td colspan='2' align='center'><br/>
 
-Guadeloupe</td></tr><tr><td align='left'><br/>
-
-Basse-Terre</td><td align='left'><br/>
-
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td></tr><tr><td align='left'><br/>
-
-Saint-Martin</td><td align='left'><br/>
-
-Tribunal d'instance</td></tr><tr><td colspan='2' align='center'><br/>
+Guadeloupe</td></tr><tr><td align='left'>Basse-Terre</td><td align='left'>Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td></tr><tr><td align='left'>Saint-Martin</td><td align='left'>Tribunal d'instance</td></tr><tr><td align='left'>Pointe-à-Pitre</td><td align='left'>Tribunal de grande instance</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Bastia</td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -996,7 +988,7 @@ Saint-Denis</td><td align='left'><br/>
 
 Tribunal d'instance</td></tr><tr><td align='left'><br/>
 
-Saint-Ouen</td><td align='left'><br/>
+Saint-Ouen*</td><td align='left'><br/>
 
 Tribunal d'instance</td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -1212,7 +1204,7 @@ Tribunal de grande instance, tribunal d'instance</td></tr><tr><td align='left'><
 
 Saint-Malo</td><td align='left'><br/>
 
-Tribunal de grande instance, conseil de prud'hommes</td></tr><tr><td colspan='2' align='center'><br/>
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td></tr><tr><td colspan='2' align='center'><br/>
 
 Loire-Atlantique</td></tr><tr><td align='left'><br/>
 
@@ -1438,8 +1430,4 @@ Tribunal d'instance, conseil de prud'hommes</td></tr><tr><td align='left'><br/>
 
 Saint-Germain-en-Laye</td><td align='left'><br/>
 
-Tribunal d'instance, conseil de prud'hommes</td></tr><tr><td align='left'><br/>
-
-Versailles</td><td align='left'><br/>
-
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td></tr></tbody></table></center>
+Tribunal d'instance, conseil de prud'hommes</td></tr><tr><td align='left'>Versailles</td><td align='left'><p>Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</p></td></tr></tbody></table><p align='justify'>* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de <em>Saint-Ouen</em> est désormais dénommée <em>Saint-Ouen-sur-Seine</em>.</p></center>
