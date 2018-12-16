@@ -1,6 +1,6 @@
 # Article Emplois classés
 
-<p align='center'>Code des pensions civiles et militaires de retraite</p><p align='center'>(Article L 24 I 1°)</p><p align='center'>Emplois classés dans la catégorie B ou active</p><p>En vertu du 1° du I de l'article <a href='/code-des-pensions-civiles-et-militaires-de-retraite/partie-legislative/livre-ier-dispositions-generales-relatives-au-regime-general-des-retraites/titre-iv-jouissance-de-la-pension-ou-de-la-solde-de-reforme/l24.md' title='Code des pensions civiles et militaires de retr... - art. L24 (V)'>L. 24</a> modifié du code des pensions civiles et militaires de retraite, les agents ayant occupé l'un des emplois énumérés dans le tableau ci-dessous et y ayant accompli 17 années de services effectifs, peuvent sur leur demande obtenir leur admission à la retraite et la concession d'une pension à jouissance immédiate dès l'âge de 57 ans.</p><p align='center'>AGRICULTURE</p><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Code<br/>
+<p align='center'>Code des pensions civiles et militaires de retraite</p><p align='center'>(Article L 24 I 1°)</p><p align='center'>Emplois classés dans la catégorie B ou active</p><p>En vertu du 1° du I de l'article <a href='/code-des-pensions-civiles-et-militaires-de-retraite/partie-legislative/livre-ier-dispositions-generales-relatives-au-regime-general-des-retraites/titre-iv-jouissance-de-la-pension-ou-de-la-solde-de-reforme/l24.md'>L. 24</a> modifié du code des pensions civiles et militaires de retraite, les agents ayant occupé l'un des emplois énumérés dans le tableau ci-dessous et y ayant accompli 17 années de services effectifs, peuvent sur leur demande obtenir leur admission à la retraite et la concession d'une pension à jouissance immédiate dès l'âge de 57 ans.</p><p align='center'>AGRICULTURE</p><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Code<br/>
 
 grade</p></td><td><p align='center'>Dénomination<br/>
 
@@ -66,13 +66,13 @@ grade</p></td><td><p align='center'>Dénomination<br/>
 
 des emplois</p></td><td><p align='center'>Statut d'emploi</p></td><td><p align='center'>Texte de classement<br/>
 
-en catégorie B</p></td><td><p align='center'>Catégorie d'emploi et limite d'âge</p></td><td><p align='center'>Observations</p></td></tr><tr><td><p>9965</p></td><td><p>Agent d'exploitation des T. P. E.</p></td><td rowspan='4'><p>Décret n° 91-393 du 25.04.1991<br/>
+en catégorie B</p></td><td><p align='center'>Catégorie d'emploi et limite d'âge</p></td><td><p align='center'>Observations</p></td></tr><tr><td><p>9965</p></td><td><p>Agent d'exploitation des T. P. E.</p></td><td rowspan='5'><p>Décret n° 91-393 du 25.04.1991<br/>
 
-(J. O. du 26.04.1991)</p></td><td rowspan='4'><p>Décret n° 91-393 du 25.04.1991 Art. 35<br/>
+(J. O. du 26.04.1991)</p></td><td rowspan='5'><p>Décret n° 91-393 du 25.04.1991 Art. 35<br/>
 
-(J. O. du 26.04.1991)</p></td><td rowspan='4'><p>Catégorie B<br/>
+(J. O. du 26.04.1991)</p></td><td rowspan='5'><p>Catégorie B<br/>
 
-60 ans</p></td><td rowspan='4'></td></tr><tr><td><p>9966</p></td><td><p>Agent d'exploitation spécialisé des T. P. E.</p></td></tr><tr><td><p>9967</p></td><td><p>Chef d'équipe d'exploitation des T. P. E.</p></td></tr><tr><td><p>9968</p></td><td><p>Chef d'équipe d'exploitation principal des T. P. E.</p></td></tr><tr><td><p>9502</p></td><td><p>Conducteur des T. P. E.</p></td><td rowspan='5'><p>Décret n° 66-900 du 18.11.1966<br/>
+60 ans</p></td><td rowspan='5'></td></tr><tr><td><p>9966</p></td><td><p>Agent d'exploitation spécialisé des T. P. E.</p></td></tr><tr><td></td><td>Agent d'exploitation principal des TPE</td></tr><tr><td><p>9967</p></td><td><p>Chef d'équipe d'exploitation des T. P. E.</p></td></tr><tr><td><p>9968</p></td><td><p>Chef d'équipe d'exploitation principal des T. P. E.</p></td></tr><tr><td><p>9502</p></td><td><p>Conducteur des T. P. E.</p></td><td rowspan='5'><p>Décret n° 66-900 du 18.11.1966<br/>
 
 (J. O. du 07.12.1966)</p></td><td rowspan='5'><p>Décret n° 77-1235 du 28.10.1977<br/>
 
