@@ -82,7 +82,7 @@ Cour d'appel de Montpellier
 
 <p>Aude</p></td></tr><tr><td align='center'><p align='left'>Narbonne</p></td><td align='center'><p align='left'>Narbonne.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Hérault</td></tr><tr><td align='center'><p align='left'>Béziers</p></td><td align='center'><p align='left'>Agde.</p></td></tr><tr><td align='center'><p align='left'>Montpellier</p></td><td align='center'><p align='left'>Lodève, Lunel, Montpellier (La Paillade).</p></td></tr><tr><td colspan='2' align='center'><p>Pyrénées-Orientales</p></td></tr><tr><td><p>Perpignan</p></td><td>Perpignan</td></tr><tr><td colspan='2' align='center'><br/>
+Hérault</td></tr><tr><td align='center'><p align='left'>Béziers</p></td><td align='center'><p align='left'>Agde.</p></td></tr><tr><td><p>Montpellier</p></td><td>Lattes (Montpellier Méditerranée Métropole), Lodève, Lunel, Montpellier (La Paillade).</td></tr><tr><td colspan='2' align='center'><p>Pyrénées-Orientales</p></td></tr><tr><td><p>Perpignan</p></td><td>Perpignan</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel de Nancy
 
