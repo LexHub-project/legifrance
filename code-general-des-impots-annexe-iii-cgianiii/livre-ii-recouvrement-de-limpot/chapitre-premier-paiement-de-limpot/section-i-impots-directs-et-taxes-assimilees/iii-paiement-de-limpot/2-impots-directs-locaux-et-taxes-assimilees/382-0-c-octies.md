@@ -1,0 +1,3 @@
+# Article 382-0 C octies
+
+<p>Le montant des prélèvements mensuels mentionnés à l' article 1681 ter du code général des impôts  et les recouvrements effectués dans les conditions prévues au A de l'article <a href='/code-general-des-impots-cgi/livre-ii-recouvrement-de-limpot/chapitre-premier-paiement-de-limpot/section-i-impots-directs-et-taxes-assimilees/iii-paiement-de-limpot/4-bis-paiement-de-la-cotisation-fonciere-des-entreprises-et-des-taxes-additionnelles/1681-quater-a.md' title='Code général des impôts, CGI. - art. 1681 quater A (VD)'>1681 quater A</a> du même code sont imputés en l'acquit de l'impôt direct local établi au cours de l'année pendant laquelle les versements ont été effectués.</p>

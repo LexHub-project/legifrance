@@ -1,0 +1,3 @@
+# Article 382-0 C quinquies
+
+<p>Sous réserve de l'article <a href='/code-general-des-impots-annexe-iii-cgianiii/livre-ii-recouvrement-de-limpot/chapitre-premier-paiement-de-limpot/section-i-impots-directs-et-taxes-assimilees/iii-paiement-de-limpot/1-dispositions-communes/382-0.md' title='Code général des impôts, annexe 3, CGIAN3. - art. 382-0 (VD)'>382-0</a>, les prélèvements mensuels sont effectués le 15 de chaque mois.</p>
