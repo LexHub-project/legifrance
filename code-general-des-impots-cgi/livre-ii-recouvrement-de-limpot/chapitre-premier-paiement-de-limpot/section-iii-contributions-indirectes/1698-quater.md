@@ -1,3 +1,0 @@
-# Article 1698 quater
-
-La contribution prévue à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006309998&dateTexte=&categorieLien=id' title='Code général des impôts, CGI. - art. 527 (Ab)'>l'article 527</a> est recouvrée selon les procédures et sous le bénéfice des sûretés prévues par le présent code en matière de contributions indirectes. Les infractions sont constatées, poursuivies et réprimées comme en matière de contributions indirectes.
