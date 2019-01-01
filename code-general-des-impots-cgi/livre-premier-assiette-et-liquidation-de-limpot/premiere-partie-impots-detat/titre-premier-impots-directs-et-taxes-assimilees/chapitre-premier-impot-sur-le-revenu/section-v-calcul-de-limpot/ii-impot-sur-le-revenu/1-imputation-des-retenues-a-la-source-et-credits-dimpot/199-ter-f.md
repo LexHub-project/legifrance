@@ -1,3 +1,0 @@
-# Article 199 ter F
-
-Le crédit d'impôt défini à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/xxxi-credit-dimpot-famille/244-quater-g.md'>244 quater G</a> est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle il a employé des apprentis dans les conditions prévues à cet article. Si le montant du crédit d'impôt excède l'impôt dû au titre de ladite année, l'excédent est restitué.
