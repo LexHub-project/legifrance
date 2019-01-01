@@ -1,3 +1,3 @@
 # Article 111 quinquies
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006296981)⚠️
+<p>Dès lors qu'il est tenu d'accomplir, en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000033780826&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 1671 (V)'>article 1671 du code général des impôts</a>, les obligations incombant à une personne représentée, le représentant unique prévu à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000036354323&dateTexte=&categorieLien=cid' title='Code général des impôts, CGI. - art. 302 decies (VT)'>302 decies</a> du même code s'acquitte de l'ensemble des obligations incombant à cette même personne auprès du service des impôts des entreprises étrangères de la direction des impôts des non-résidents.</p>
