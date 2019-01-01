@@ -302,7 +302,23 @@ De soie bleu-clair, avec franges.</td><td align='left'><br/>
 
 De laine noire, avec un galon d'argent.</td><td align='left'><br/>
 
-Blanche, plissée.</td></tr></tbody></table></center><p align='center'></p><p align='center'></p><p align='center'></p><p align='center'>Directeurs des services de greffe judiciaires et greffiers</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>GRADE</td><td align='center'>COSTUME</td></tr><tr><td align='left'><br/>
+Blanche, plissée.</td></tr></tbody></table></center><p align='center'></p><p align='center'>Assesseurs (L. 211-16 et L. 311-16)</p><center><table border='1'><tbody><tr><th><br/>
+
+MÉDAILLE</th><th><br/>
+
+MÉTAL</th><th><br/>
+
+AVERS</th><th><br/>
+
+RUBAN</th></tr><tr><td align='justify'><br/>
+
+D'un module de 45 mm sur 65 mm, suspendue à un ruban, en sautoir.</td><td align='justify'><br/>
+
+Doré.</td><td align='justify'><br/>
+
+Comportant la mention “ République française ” et la mention du nom de la juridiction à laquelle ils appartiennent entourant le motif d'une balance sur un fond noir et rouge.</td><td align='justify'><br/>
+
+Largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire et verte.</td></tr></tbody></table></center><p align='center'>Directeurs des services de greffe judiciaires et greffiers</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>GRADE</td><td align='center'>COSTUME</td></tr><tr><td align='left'><br/>
 
 Cour de cassation.</td><td align='left'><br/>
 
