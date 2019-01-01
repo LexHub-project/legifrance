@@ -1,3 +1,0 @@
-# Article 1609 undecies
-
-<p>Il est perçu : </p><p>a Une taxe sur l'édition des ouvrages de librairie ; </p><p>b Une taxe sur les appareils de reproduction ou d'impression ; </p>Le produit de chacune de ces taxes est affecté au Centre national du livre dans la limite du plafond fixé au I de <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000025044460&idArticle=LEGIARTI000037989696&dateTexte=&categorieLien=id' title='LOI n°2011-1977 du 28 décembre 2011 - art. 46 (M)'>l'article 46</a> de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
