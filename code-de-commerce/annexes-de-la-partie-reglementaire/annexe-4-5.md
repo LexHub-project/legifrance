@@ -1,3 +1,61 @@
 # Article Annexe 4-5
 
-<p align='center'>TABLEAU RÉCAPITULATIF DES DONNÉES FINANCIÈRES CONCERNANT UNE ACTIVITÉ SANS PERSONNALITÉ<br/>JURIDIQUE À JOINDRE AU DOSSIER DE NOTIFICATION D'UNE OPÉRATION DE CONCENTRATION<br/></p><p>Activité :</p><table border='1' cellSpacing='1' width='740' align='center' cellPadding='0'><thead><tr><td width='143'><p align='center'></p><p align='center'></p></td><td colSpan='2' width='104'><p align='center'></p><p align='center'>Exercice</p><p align='center'>N</p><p align='center'>clos le :</p></td><td colSpan='2' width='104'><p align='center'></p><p align='center'>Exercice</p><p align='center'>N-1</p><p align='center'>clos le :</p></td><td colSpan='2' width='104'><p align='center'></p><p align='center'>Exercice</p><p align='center'>N-2</p><p align='center'>clos le :</p></td></tr></thead><tbody><tr><td vAlign='top'><p align='center'></p><p align='center'>Comptes de résultat</p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p>Chiffres d'affaires total hors taxes</p><p>Chiffres d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne</p><p>Chiffre d'affaire hors taxes réalisé auprès des clients situés en France</p><p>Valeur ajoutée brute</p><p>Excédent brut d'exploitation</p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p align='center'></p><p align='center'>Eléments du Bilan</p></td><td vAlign='top'><p align='center'></p><p align='center'>Brut</p></td><td vAlign='top'><p align='center'></p><p align='center'>Net</p></td><td vAlign='top'><p align='center'></p><p align='center'>Brut</p></td><td vAlign='top'><p align='center'></p><p align='center'>Net</p></td><td vAlign='top'><p align='center'></p><p align='center'>Brut</p></td><td vAlign='top'><p align='center'></p><p align='center'>Net</p></td></tr><tr><td vAlign='top'><p>Immobilisations incorporelles utilisées pour l'activité</p><p>Immobilisations corporelles utilisées pour l'activité</p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td><td vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p>Créances de l'actif circulant pour l'activité</p><p>Disponibilités relatives à l'activité</p><p>Dettes financières relatives à l'activité</p><p>Autres dettes relatives à l'activité</p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p align='center'></p><p align='center'>Investissement et cessions</p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p>Acquisition d'immobilisations corporelles et incorporelles</p><p>Prix de cessions des immobilisations corporelles et incorporelles cédées</p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p align='center'></p><p align='center'>Autres renseignements</p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td></tr><tr><td vAlign='top'><p>Dépenses de recherche et développement</p><p>Dépenses de publicité</p><p>Effectifs moyens</p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p><p align='center'></p></td><td colSpan='2' vAlign='top'><p align='center'></p></td></tr></tbody></table>
+<p align='center'>TABLEAU RÉCAPITULATIF DES DONNÉES FINANCIÈRES CONCERNANT UNE ACTIVITÉ SANS PERSONNALITÉ<br/>
+
+JURIDIQUE À JOINDRE AU DOSSIER DE NOTIFICATION D'UNE OPÉRATION DE CONCENTRATION</p><p>Activité :</p><center><table border='1'><tbody><tr><th></th><th colspan='2'><br/>
+
+Exercice<br/><br/>
+
+N<br/><br/>
+
+clos le :</th><th colspan='2'><br/>
+
+Exercice<br/><br/>
+
+N-1<br/><br/>
+
+clos le :</th><th colspan='2'><br/>
+
+Exercice<br/><br/>
+
+N-2<br/><br/>
+
+clos le :</th></tr><tr><td align='left'><br/>
+
+Comptes de résultat</td><td colspan='2' align='left'></td><td colspan='2' align='left'></td><td colspan='2' align='left'></td></tr><tr><td align='left'><br/>
+
+Chiffre d'affaires total hors taxes<br/><br/>
+
+Chiffre d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne<br/><br/>
+
+Chiffre d'affaires hors taxes réalisé auprès des clients situés en France<br/><br/>
+
+Valeur ajoutée brute<br/><br/>
+
+Excédent brut d'exploitation</td><td colspan='2' align='left'></td><td colspan='2' align='left'></td><td colspan='2' align='left'></td></tr><tr><td align='left'><br/>
+
+Eléments du bilan</td><td align='left'><br/>
+
+Brut</td><td align='left'><br/>
+
+Net</td><td align='left'><br/>
+
+Brut</td><td align='left'><br/>
+
+Net</td><td align='left'><br/>
+
+Brut</td><td align='left'><br/>
+
+Net</td></tr><tr><td align='left'><br/>
+
+Immobilisations incorporelles utilisées pour l'activité<br/><br/>
+
+Immobilisations corporelles utilisées pour l'activité</td><td align='left'></td><td align='left'></td><td align='left'></td><td align='left'></td><td align='left'></td><td align='left'></td></tr><tr><td align='left'><br/>
+
+Créances de l'actif circulant pour l'activité<br/><br/>
+
+Disponibilités relatives à l'activité<br/><br/>
+
+Dettes financières relatives à l'activité<br/><br/>
+
+Autres dettes relatives à l'activité<br/></td><td colspan='2' align='left'></td><td colspan='2' align='left'></td><td colspan='2' align='left'></td></tr></tbody></table></center><p><br/></p>
