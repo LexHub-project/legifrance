@@ -170,7 +170,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
-Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX DE GRANDE INSTANCE</p><p align='center'>ET TRIBUNAUX D'INSTANCE</p><p align='center'>Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux et procureur de la République financier près le tribunal de grande instance de Paris</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>ROBE</td><td align='center'>SIMARRE</td><td align='center'>ÉPITOGE</td><td align='center'>CEINTURE</td><td align='center'>TOQUE</td><td align='center'>CRAVATE</td></tr><tr><td align='left'><br/>
+Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX DE GRANDE INSTANCE</p><p align='center'>ET TRIBUNAUX D'INSTANCE</p><p align='center'>Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux, procureur de la République antiterroriste et procureur de la République financier près</p><p align='center'>le tribunal de grande instance de Paris</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>ROBE</td><td align='center'>SIMARRE</td><td align='center'>ÉPITOGE</td><td align='center'>CEINTURE</td><td align='center'>TOQUE</td><td align='center'>CRAVATE</td></tr><tr><td align='left'><br/>
 
 Ordinaire.</td><td align='left'><br/>
 
@@ -188,7 +188,7 @@ Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
 Solennelle (et cérémonies publiques).</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : rouge, à grandes manches.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches.<br/></td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
@@ -196,7 +196,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.<br/></td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'><br/>
 
@@ -220,7 +220,7 @@ Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
 Solennelle (et cérémonies publiques).</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
@@ -228,7 +228,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX SUPÉRIEURS D'APPEL</p><p align='center'>Présidents des tribunaux supérieurs d'appel<br/>
 
