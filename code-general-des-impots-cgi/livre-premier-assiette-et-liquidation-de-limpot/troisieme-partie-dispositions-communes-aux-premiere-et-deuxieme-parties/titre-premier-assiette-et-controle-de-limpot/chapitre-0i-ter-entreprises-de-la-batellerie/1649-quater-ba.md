@@ -1,3 +1,0 @@
-# Article 1649 quater BA
-
-<p>Conformément à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000023086525&idArticle=LEGIARTI000023082689&dateTexte=&categorieLien=id' title='Code des transports - art. L4431-3 (VT)'>l'article L. 4431-3 du code des transports</a>, pour l'application de la législation fiscale les entreprises inscrites sur un registre tenu par la chambre nationale de la batellerie artisanale sont assimilées aux entreprises artisanales immatriculées au répertoire des métiers.</p><br/><br/><i>NOTA:<p>Conformément aux dispositions du G du XV de l'article 26 de la loi n° 2018-1317 du 28 décembre 2018, l'article 1649 quater BA est abrogé à compter du 1er juillet 2019. </p></i>
