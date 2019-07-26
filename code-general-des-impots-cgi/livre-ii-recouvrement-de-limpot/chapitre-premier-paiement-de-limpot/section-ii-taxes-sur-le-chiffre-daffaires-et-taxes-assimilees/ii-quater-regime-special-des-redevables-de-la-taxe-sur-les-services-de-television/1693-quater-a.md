@@ -1,0 +1,3 @@
+# Article 1693 quater A
+
+<p>En cas de cessation d'activité du redevable, le montant de la taxe prévue à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-ii-taxes-sur-le-chiffre-daffaires-et-taxes-assimilees/chapitre-ii-taxe-speciale-sur-les-activites-bancaires-et-financieres/299.md' title='Code général des impôts, CGI. - art. 299 (V)'>299</a> qui est dû au titre de l'année de cessation d'activité est établi immédiatement. Elle est déclarée, acquittée et, le cas échéant, régularisée selon les modalités prévues pour la taxe sur la valeur ajoutée dont il est redevable ou, à défaut, dans les soixante jours suivant la cessation d'activité.</p>
