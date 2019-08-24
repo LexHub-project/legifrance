@@ -1,0 +1,3 @@
+# Article 41 tervicies C
+
+<p>Les moins-values mentionnées au premier et au dernier alinéas du 4 bis du <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>VIII de l'article 167 bis du code général des impôts</a>, imputables dans les conditions prévues au même 4 bis, font l'objet d'un suivi sur le formulaire mentionné au premier alinéa du 3 du IX de l'article précité et, le cas échéant, sur celui mentionné au 2 du même IX.</p>

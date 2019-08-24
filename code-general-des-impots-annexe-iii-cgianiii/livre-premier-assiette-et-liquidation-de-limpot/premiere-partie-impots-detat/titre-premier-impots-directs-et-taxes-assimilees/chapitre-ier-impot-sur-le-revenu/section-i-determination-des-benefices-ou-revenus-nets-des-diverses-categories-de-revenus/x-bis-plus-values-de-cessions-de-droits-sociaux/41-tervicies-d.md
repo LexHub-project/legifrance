@@ -1,0 +1,3 @@
+# Article 41 tervicies D
+
+<p>Lorsque le contribuable demande à bénéficier de l'option prévue à l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>avant-dernier alinéa du VIII bis de l'article 167 bis du code général des impôts</a>, il utilise le formulaire prévu au premier alinéa du 3 du IX du même article. Ce formulaire est déposé l'année suivant la survenance du premier de l'un des événements prévus au VII de l'article précité.</p>

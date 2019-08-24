@@ -1,0 +1,3 @@
+# Article 41 tervicies H
+
+<p>Lors du paiement de l'impôt définitif, le contribuable joint aux documents mentionnés au <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>premier alinéa du 3 du IX de l'article 167 bis du code général des impôts </a>une copie des avis d'imposition établis en application des dispositions de l'article 41 tervicies B.</p>

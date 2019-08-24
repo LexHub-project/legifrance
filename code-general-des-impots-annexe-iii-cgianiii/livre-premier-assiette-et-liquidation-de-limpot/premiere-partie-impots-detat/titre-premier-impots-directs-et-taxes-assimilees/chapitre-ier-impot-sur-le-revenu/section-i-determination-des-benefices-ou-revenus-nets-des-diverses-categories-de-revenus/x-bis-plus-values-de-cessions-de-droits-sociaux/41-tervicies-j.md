@@ -1,0 +1,5 @@
+# Article 41 tervicies J
+
+<p>Pour l'application du <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-ii-revenus-imposables/2e-sous-section-revenu-global/iv-modalites-dimposition-des-revenus-et-plus-values-en-cas-de-transfert-du-domicile-hors-de-france/167-bis.md'>dernier alinéa du 3 du IX de l'article 167 bis du code général des impôts</a>, le contribuable demande le dégrèvement de l'impôt bénéficiant du sursis de paiement ou la restitution de l'impôt acquitté sur le formulaire prévu au premier alinéa du 3 du IX de l'article 167 bis du même code et déposé l'année suivant la réalisation de l'événement entraînant le dégrèvement ou la restitution, selon les modalités prévues au premier alinéa de l'article 41 tervicies E.<br/><br/>
+
+Il indique la nature et la date de l'événement à l'origine de sa demande et joint, à l'appui du formulaire, les éléments de calcul et les justificatifs correspondant au montant du dégrèvement ou de la restitution demandé.</p>
