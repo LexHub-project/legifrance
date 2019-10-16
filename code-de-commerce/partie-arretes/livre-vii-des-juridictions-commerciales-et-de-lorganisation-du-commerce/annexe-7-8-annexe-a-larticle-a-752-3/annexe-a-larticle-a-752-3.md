@@ -1,0 +1,3 @@
+# Article ANNEXE À L'ARTICLE A. 752-3
+
+<p align='center'>CERTIFICAT DE CONFORMITÉ PRÉVU À L'ARTICLE L. 752-23 DU <a href='/affichCode.do?cidTexte=LEGITEXT000005634379&dateTexte=&categorieLien=cid'>CODE DE COMMERCE </a></p><p>Vous pouvez consulter le formulaire à l'adresse suivante :</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039216507' target='_blank'> https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039216507</a></p>
