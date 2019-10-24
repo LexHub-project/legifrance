@@ -1,3 +1,3 @@
 # Article Annexe 7-9
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020162789)⚠️
+<p>TABLEAU RÉCAPITULATIF DES CARACTÉRISTISQUES DU PROJET PRÉVU AUX ARTICLES R. 752-16 ET R. 752-38 DU CODE DE COMMERCE</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 247 du 23 octobre 2019, texte n° 15, accessible à l’adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039256456' target='_blank'> https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039256456</a></p>
