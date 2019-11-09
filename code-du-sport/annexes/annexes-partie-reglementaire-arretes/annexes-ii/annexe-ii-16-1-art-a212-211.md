@@ -1,8 +1,6 @@
 # Article Annexe II-16-1 (art. A212-211)
 
-<p align='center'>Epreuve d'aptitude</p><p>A.-Option “ méthode traditionnelle ” (TRAD) de la mention “ parachutisme ” du BP JEPS</p><p>L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ méthode traditionnelle ”.</p><p><br/>
-
-1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité</p><p>Il se déroule au sol et vise à vérifier quatre types de connaissances, dans l'ordre chronologique suivant :<br/><br/>
+<p align='center'>Epreuve d'aptitude</p><p>A.-Option “ méthode traditionnelle ” (TRAD) de la mention “ parachutisme ” du BP JEPS</p><p>L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ méthode traditionnelle ”.</p><p>1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité</p><p>Il se déroule au sol et vise à vérifier quatre types de connaissances, dans l'ordre chronologique suivant :<br/><br/>
 
 a) Connaissances relatives aux techniques de sortie en progression traditionnelle et aux consignes de manœuvres sous voile.<br/><br/>
 
@@ -18,9 +16,7 @@ Cette partie du test consiste, pour le candidat, à démontrer qu'il possède le
 
 d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires<br/><br/>
 
-Chaque partie a, b et c du test est éliminatoire.</p><p><br/>
-
-2. Test technique de sécurité</p><p>Il se déroule en vol à une hauteur minimale de 1 000 mètres et vise à vérifier si le candidat est en capacité de restituer la manipulation des sangles à ouverture automatique.<br/><br/>
+Chaque partie a, b et c du test est éliminatoire.</p><p>2. Test technique de sécurité</p><p>Il se déroule en vol à une hauteur minimale de 1 000 mètres et vise à vérifier si le candidat est en capacité de restituer la manipulation des sangles à ouverture automatique.<br/><br/>
 
 Il consiste dans le parachutage des deux évaluateurs incluant :</p><p>- les corrections demandées au pilote sur la prise d'axe de l'avion ;<br/><br/>
 
@@ -28,9 +24,7 @@ Il consiste dans le parachutage des deux évaluateurs incluant :</p><p>- les cor
 
 - le respect du cheminement des sangles à ouverture automatique avant et pendant le largage ;<br/><br/>
 
-- le parachutage des deux évaluateurs dans la zone optimale.</p><p>A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.</p><p><br/>
-
-B.-Option “ progression accompagnée en chute ” (PAC) de la mention “ parachutisme ” du BP JEPS</p><p>L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ progression accompagnée en chute ”.</p><p>1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité</p><p>Il se déroule au sol et vise à vérifier trois types de connaissances, dans l'ordre chronologique suivant :<br/><br/>
+- le parachutage des deux évaluateurs dans la zone optimale.</p><p>A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.</p><p>B.-Option “ progression accompagnée en chute ” (PAC) de la mention “ parachutisme ” du BP JEPS</p><p>L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ progression accompagnée en chute ”.</p><p>1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité</p><p>Il se déroule au sol et vise à vérifier trois types de connaissances, dans l'ordre chronologique suivant :<br/><br/>
 
 a) Connaissances relatives aux techniques de sortie en progression accompagnée en chute et aux consignes de manœuvres sous voile.<br/><br/>
 
@@ -42,9 +36,7 @@ Cette partie du test consiste, pour le candidat, à contrôler si les deux éval
 
 c) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires.<br/><br/>
 
-Chaque partie a et b du test est éliminatoire.</p><p><br/>
-
-2. Test technique de sécurité</p><p>Il se déroule en vol à une hauteur minimale de 3 500 mètres et vise à vérifier si le candidat est en capacité :</p><p>- de stabiliser une sortie accrochée ;<br/><br/>
+Chaque partie a et b du test est éliminatoire.</p><p>2. Test technique de sécurité</p><p>Il se déroule en vol à une hauteur minimale de 3 500 mètres et vise à vérifier si le candidat est en capacité :</p><p>- de stabiliser une sortie accrochée ;<br/><br/>
 
 - de voler sans prise au contact et avec prise sans tension ;<br/><br/>
 
@@ -148,7 +140,7 @@ Exercices en chute :</p><p>- sortie d'avion, l'évaluateur provoque des perturba
 
 - atterrissage en sécurité dans le périmètre d'atterrissage prévu.</p><p>A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.<br/><br/>
 
-D.-Mention “ parachutisme ” du DE JEPS<br/><br/>
+D.- Mention “ activités du parachutisme ” du DE JEPS<br/><br/>
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.<br/><br/>
 
