@@ -172,15 +172,13 @@ Quelle que soit la procédure : 22 000 €</td></tr><tr><td align='left'><br/>
 
 La taxe est perçue par modification présentée, qu'elle soit demandée ou notifiée.</td><td colspan='3' align='left'></td></tr><tr><td align='left'><br/>
 
-a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</td><td colspan='3' align='center'><br/>
+a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</td><td colspan='3' align='center'><br/>
 
 Quelle que soit la procédure : 2 500 €</td></tr><tr><td align='left'><br/>
 
 b) Pour les modifications de type II au sens du règlement précité, à l'exception du cas prévu au 4°) du III du présent article.</td><td colspan='3' align='center'><br/>
 
-Quelle que soit la procédure : 3 500 €</td></tr><tr><td align='left'><br/>
-
-6° Toute demande de modification d'une autorisation de mise sur le marché sollicitée en application des articles R. 5121-41 et R. 5121-46 du code de la santé publique</td><td colspan='3' align='center'><br/>
+Quelle que soit la procédure : 3 500 €</td></tr><tr><td align='left'><p>6° Toute demande de modification d'une autorisation de mise sur le marché sollicitée en application des articles R. 5121-41 et R. 5121-46 du code de la santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un changement de nom ou d'adresse de l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.</p></td><td colspan='3' align='center'><br/>
 
 Quelle que soit la procédure : 2 500 €</td></tr><tr><td align='left'><br/>
 
@@ -254,15 +252,13 @@ f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'ar
 
 La taxe est perçue par modification présentée, qu'elle soit demandée ou notifiée.</td><td align='left'></td></tr><tr><td align='left'><br/>
 
-a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</td><td align='left'><br/>
+a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</td><td align='left'><br/>
 
 2 500 €</td></tr><tr><td align='left'><br/>
 
 b) Pour les modifications de type II au sens du règlement précité, à l'exception du cas prévu au 4°) du III du présent article.</td><td align='left'><br/>
 
-3 500 €</td></tr><tr><td align='left'><br/>
-
-7° Toute demande de modification d'une autorisation de mise sur le marché bénéficiant de la reconnaissance par au moins un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen mentionnée au 4° de l'article 1635 bis AE du code général des impôts, sollicitée en application des articles 61 (3) de la Directive 2001/83/ CE du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, R. 5121-41 et R. 5121-46 du code de la santé publique </td><td align='left'><br/>
+3 500 €</td></tr><tr><td align='left'><p>7° Toute demande de modification d'une autorisation de mise sur le marché bénéficiant de la reconnaissance par au moins un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen mentionnée au 4° de l'article 1635 bis AE du code général des impôts, sollicitée en application des articles 61 (3) de la Directive 2001/83/ CE du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, R. 5121-41 et R. 5121-46 du code de la santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un changement de nom ou d'adresse de l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.</p></td><td align='left'><br/>
 
 2 500 €</td></tr><tr><td align='left'><br/>
 
