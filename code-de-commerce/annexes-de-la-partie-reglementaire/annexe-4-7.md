@@ -544,7 +544,7 @@ Rédaction de la déclaration de créance et le certificat constatant cette déc
 
 101</td><td><br clear='none'/>
 
-Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de fabrique et de commerce, aux dessins et modèles industriels</td></tr><tr><td align='center'><br clear='none'/>
+Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles industriels</td></tr><tr><td align='center'><br clear='none'/>
 
 102</td><td><br clear='none'/>
 
@@ -1150,7 +1150,7 @@ Acte de saisie, prévu aux articles  L. 123-2 et  R. 123-9 du code de l'aviation
 
 Saisie-contrefaçon</td><td><br clear='none'/>
 
-Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du code de la propriété intellectuelle</td></tr><tr><td align='center'><br clear='none'/>
+Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-4-6 du code de la propriété intellectuelle</td></tr><tr><td align='center'><br clear='none'/>
 
 70</td><td rowspan='4' align='center'><br clear='none'/>
 
