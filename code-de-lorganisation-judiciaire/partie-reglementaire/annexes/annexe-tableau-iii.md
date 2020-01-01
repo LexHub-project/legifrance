@@ -1,6 +1,6 @@
 # Article Annexe Tableau III
 
-<p align='center'>Liste des maisons de justice et du droit</p><p align='center'>(annexe de l'article R. 131-11)</p><p align='left'></p><center><table border='1'><tbody><tr><td><p align='center'>TRIBUNAUX DE GRANDE INSTANCE</p></td><td><p align='center'>MAISONS DE JUSTICE ET DU DROIT</p></td></tr><tr><td colspan='2' align='center'><p align='center'>Cour d'appel d'Aix-en-Provence</p></td></tr><tr><td colspan='2'><p align='center'>Alpes-Maritimes</p></td></tr><tr><td align='center'><p align='left'>Nice</p></td><td align='center'><p align='left'>Menton, Nice (Ariane).</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p align='center'>Liste des maisons de justice et du droit</p><p align='center'>(annexe de l'article R. 131-11)</p><p align='left'></p><center><table border='1'><tbody><tr><td><p align='center'>TRIBUNAUX JUDICIAIRES</p></td><td><p align='center'>MAISONS DE JUSTICE ET DU DROIT</p></td></tr><tr><td colspan='2' align='center'><p align='center'>Cour d'appel d'Aix-en-Provence</p></td></tr><tr><td colspan='2'><p align='center'>Alpes-Maritimes</p></td></tr><tr><td align='center'><p align='left'>Nice</p></td><td align='center'><p align='left'>Menton, Nice (Ariane).</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Bouches-du-Rhône</td></tr><tr><td align='center'><p align='left'>Aix-en-Provence</p></td><td align='center'><p align='left'>Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.</p></td></tr><tr><td align='center'><p align='left'>Marseille</p></td><td align='center'><p align='left'>Aubagne.</p></td></tr><tr><td align='center'><p align='left'>Tarascon</p></td><td align='center'><p align='left'>Arles</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -102,7 +102,7 @@ Loiret</td></tr><tr><td align='center'><p align='left'>Orléans</p></td><td alig
 
 Cour d'appel de Paris
 
-<p>Essonne</p></td></tr><tr><td align='center'><p align='left'>Evry</p></td><td align='center'><p align='left'>Athis-Mons, Etampes (Etampois sud Essonne), Les Ulis, Villemoisson-sur-Orge (Val d'Orge).</p></td></tr><tr><td colspan='2' align='center'><br/>
+<p>Essonne</p></td></tr><tr><td align='center'><p align='left'>Evry-Courcouronnes</p></td><td align='center'><p align='left'>Athis-Mons, Etampes (Etampois sud Essonne), Les Ulis, Villemoisson-sur-Orge (Val d'Orge).</p></td></tr><tr><td colspan='2' align='center'><br/>
 
 Paris</td></tr><tr><td align='center'><p align='left'>Paris</p></td><td align='center'><p align='left'>Paris (10e), Paris (14e), Paris (17e).</p></td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -158,4 +158,4 @@ Hauts-de-Seine</td></tr><tr><td align='center'><p align='left'>Nanterre</p></td>
 
 Val-d'Oise</td></tr><tr><td align='center'><p align='left'>Pontoise</p></td><td align='center'><p align='left'>Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel.</p></td></tr><tr><td colspan='2' align='center'><br/>
 
-Yvelines</td></tr><tr><td align='center'><p align='left'>Versailles</p></td><td align='center'><p align='left'>Les Mureaux, Saint-Quentin-en-Yvelines.</p></td></tr><tr><td colspan='2'><p>(3) Applicable jusqu'au 31 décembre 2010.</p><p align='left'>(4) Applicable à compter du 1er janvier 2011.</p></td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p>
+Yvelines</td></tr><tr><td align='center'><p align='left'>Versailles</p></td><td align='center'><p align='left'>Les Mureaux, Saint-Quentin-en-Yvelines.</p></td></tr><tr><td colspan='2'><p>(3) Applicable jusqu'au 31 décembre 2010.</p><p align='left'>(4) Applicable à compter du 1er janvier 2011.</p></td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><br/><br/><i>NOTA:<p>Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.</p></i>
