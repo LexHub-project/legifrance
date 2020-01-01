@@ -1,3 +1,0 @@
-# Article 1599 quaterdecies
-
-Le taux de la taxe mentionnée à <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006306451&dateTexte=&categorieLien=id' title='Code général des impôts, CGI. - art. 1599 terdecies (Ab)'>l'article 1599 terdecies</a> est fixé par le conseil régional. Il ne peut être institué qu'un seul taux. Les décisions du conseil régional prennent effet le premier jour du deuxième mois à compter de la date à laquelle les décisions concernées sont devenues exécutoires.
