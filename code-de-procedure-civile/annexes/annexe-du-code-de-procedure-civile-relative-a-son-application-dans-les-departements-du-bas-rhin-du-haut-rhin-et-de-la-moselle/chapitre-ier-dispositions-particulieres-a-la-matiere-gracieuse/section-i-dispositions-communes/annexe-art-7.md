@@ -1,3 +1,3 @@
 # Article ANNEXE, art. 7
 
-Le recours est ouvert à tout intéressé.   Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction d'instance.
+<p>Le recours est ouvert à tout intéressé.</p><p>Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction.</p><br/><br/><i>NOTA:<p><font color='black'>Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.</font></p></i>
