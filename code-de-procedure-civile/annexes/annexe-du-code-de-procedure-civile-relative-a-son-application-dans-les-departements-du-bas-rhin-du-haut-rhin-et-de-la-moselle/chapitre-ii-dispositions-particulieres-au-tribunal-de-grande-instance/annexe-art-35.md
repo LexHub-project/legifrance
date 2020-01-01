@@ -1,3 +1,3 @@
 # Article ANNEXE, art. 35
 
-<p>Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de procédure civile sont également applicables.</p>
+<p>Dans les cas prévus au présent chapitre, les <a href='/code-de-procedure-civile/livre-ii-dispositions-particulieres-a-chaque-juridiction/titre-ier-dispositions-particulieres-au-tribunal-de-grande-instance/sous-titre-ier-la-procedure-devant-le-tribunal/chapitre-ier-la-procedure-en-matiere-contentieuse/section-i-la-procedure-ordinaire/sous-section-ii-renvoi-a-laudience/760.md'>articles 760 et 768</a> du code de procédure civile sont également applicables.</p><br/><br/><i>NOTA:<p>Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.</p></i>
