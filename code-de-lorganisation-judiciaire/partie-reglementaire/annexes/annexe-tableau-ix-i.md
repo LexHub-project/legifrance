@@ -1,5 +1,105 @@
 # Article Annexe Tableau IX-I
 
-<p align='center'>Siège et ressort des tribunaux d'instance compétents, dans le ressort de certains tribunaux de grande instance, pour connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement personnel (annexe de l'article D. 221-1)</p><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>SIÈGE DU TRIBUNAL<br/>
+<p>SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES OU DES CHAMBRES DE PROXIMITÉ DONT LES JUGES DES CONTENTIEUX DE LA PROTECTION SONT SEULS COMPÉTENTS, DANS LE RESSORT DE CERTAINS TRIBUNAUX JUDICIAIRES, POUR CONNAÎTRE DES MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT DES PARTICULIERS ET DES PROCÉDURES DE RÉTABLISSEMENT PERSONNEL<br/><br/>
 
-de grande instance</p></td><td><p align='center'>SIÈGE DU TRIBUNAL d'instance</p></td><td><p align='center'>RESSORT</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel d'Aix-en-Provence</p></td></tr><tr><td colspan='3'><p align='center'>Alpes-Maritimes</p></td></tr><tr><td><p align='left'>Nice</p></td><td><p align='left'>Nice</p></td><td><p align='left'>Ressort des tribunaux d'instance de Nice et Menton</p></td></tr><tr><td colspan='3'><p align='center'>Bouches-du-Rhône</p></td></tr><tr><td><p align='left'>Aix-en-Provence</p></td><td><p align='left'>Aix-en-Provence</p></td><td><p align='left'>Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence</p></td></tr><tr><td><p align='left'>Marseille</p></td><td><p align='left'>Marseille</p></td><td><p align='left'>Ressort des tribunaux d'instance d'Aubagne et Marseille</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel d'Angers</p></td></tr><tr><td colspan='3'><p align='center'>Maine-et-Loire</p></td></tr><tr><td><p align='left'>Angers</p></td><td><p align='left'>Angers</p></td><td><p align='left'>Ressort des tribunaux d'instance d'Angers et Cholet</p></td></tr><tr><td colspan='3'><p align='center'>Sarthe</p></td></tr><tr><td><p align='left'>Le Mans</p></td><td><p align='left'>Le Mans</p></td><td><p align='left'>Ressort des tribunaux d'instance de La Flèche et Le Mans</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Paris</p></td></tr><tr><td colspan='3'><p align='center'>Seine-Saint-Denis</p></td></tr><tr><td><p align='left'>Bobigny</p></td><td><p align='left'>Bobigny</p></td><td><p align='left'>Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et Saint-Ouen*</p></td></tr><tr><td colspan='3'><p align='center'>Val-de-Marne</p></td></tr><tr><td><p align='left'>Créteil</p></td><td><p align='left'>Villejuif</p></td><td><p align='left'>Ressort des tribunaux d'instance de Sucy-en-Brie, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Reims</p></td></tr><tr><td colspan='3'><p align='center'>Ardennes</p></td></tr><tr><td><p align='left'>Charleville-Mézières</p></td><td><p align='left'>Charleville-Mézières</p></td><td><p align='left'>Ressort des tribunaux d'instance de Charleville-Mézières et Sedan</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Toulouse</p></td></tr><tr><td colspan='3'><p align='center'>Ariège</p></td></tr><tr><td><p align='left'>Foix</p></td><td><p align='left'>Foix</p></td><td><p align='left'>Ressort des tribunaux d'instance de Foix et Saint-Girons</p></td></tr><tr><td colspan='3'><p align='center'>Tarn-et-Garonne</p></td></tr><tr><td><p align='left'>Montauban</p></td><td><p align='left'>Montauban</p></td><td><p align='left'>Ressort des tribunaux d'instance de Castelsarrasin et Montauban</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Versailles</p></td></tr><tr><td colspan='3'><p align='center'>Hauts-de-Seine</p></td></tr><tr><td><p align='left'>Nanterre</p></td><td><p align='left'>Asnières-sur-Seine</p></td><td><p align='left'>Ressort des tribunaux d'instance d'Antony, Asnières-sur-Seine, Boulogne-Billancourt, Colombes, Courbevoie, Puteaux et Vanves</p></td></tr><tr><td colspan='3'><p align='center'>Val-d'Oise</p></td></tr><tr><td><p align='left'>Pontoise</p></td><td><p align='left'>Pontoise</p></td><td><p align='left'>Ressort des tribunaux d'instance de Gonesse, Montmorency, Pontoise et Sannois</p></td></tr><tr><td colspan='3'><p align='center'>Yvelines</p></td></tr><tr><td><p align='left'>Versailles</p></td><td><p align='left'>Versailles</p></td><td><p align='left'>Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Versailles</p></td></tr></tbody></table><p align='left'>* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de <em>Saint-Ouen</em> est désormais dénommée <em>Saint-Ouen-sur-Seine</em>.</p><p align='left'></p><p align='left'></p><p align='left'></p><br/><br/><i>NOTA:<p>Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.</p></i>
+(annexe de l'article R. 213-9-6)</p><center><table border='1'><tbody><tr><th colspan='2'><br/>
+
+SIÈGE</th><th rowspan='2'><br/>
+
+RESSORT</th></tr><tr><th><br/>
+
+TRIBUNAL<br/><br/>
+
+JUDICIAIRE</th><th><br/>
+
+CHAMBRE<br/><br/>
+
+DE PROXIMITE</th></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel d'Aix-en-Provence</td></tr><tr><td colspan='3' align='center'><br/>
+
+Alpes-Maritimes</td></tr><tr><td align='left'><br/>
+
+Nice</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Nice</td></tr><tr><td colspan='3' align='center'><br/>
+
+Bouches-du-Rhône</td></tr><tr><td align='left'><br/>
+
+Aix-en-Provence</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire d'Aix-en-Provence à l'exception du ressort de la chambre de proximité de Martigues</td></tr><tr><td align='left'><br/>
+
+Marseille</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Marseille</td></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel d'Angers</td></tr><tr><td colspan='3' align='center'><br/>
+
+Maine-et-Loire</td></tr><tr><td align='left'><br/>
+
+Angers</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire d'Angers</td></tr><tr><td colspan='3' align='center'><br/>
+
+Sarthe</td></tr><tr><td align='left'><br/>
+
+Le Mans</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire du Mans</td></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel de Paris</td></tr><tr><td colspan='3' align='center'><br/>
+
+Seine-Saint-Denis</td></tr><tr><td align='left'><br/>
+
+Bobigny</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Bobigny</td></tr><tr><td colspan='3' align='center'><br/>
+
+Val-de-Marne</td></tr><tr><td align='left'></td><td align='left'><br/>
+
+Villejuif</td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Créteil</td></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel de Reims</td></tr><tr><td colspan='3' align='center'><br/>
+
+Ardennes</td></tr><tr><td align='left'><br/>
+
+Charleville-Mézières</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Charleville-Mézières</td></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel de Toulouse</td></tr><tr><td colspan='3' align='center'><br/>
+
+Ariège</td></tr><tr><td align='left'><br/>
+
+Foix</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Foix</td></tr><tr><td colspan='3' align='center'><br/>
+
+Tarn-et-Garonne</td></tr><tr><td align='left'><br/>
+
+Montauban</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Montauban</td></tr><tr><td colspan='3' align='center'><br/>
+
+Cour d'appel de Versailles</td></tr><tr><td colspan='3' align='center'><br/>
+
+Hauts-de-Seine</td></tr><tr><td align='left'></td><td align='left'><br/>
+
+Asnières-sur-Seine</td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Nanterre</td></tr><tr><td colspan='3' align='center'><br/>
+
+Val-d'Oise</td></tr><tr><td align='left'><br/>
+
+Pontoise</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Pontoise</td></tr><tr><td colspan='3' align='center'><br/>
+
+Yvelines</td></tr><tr><td align='left'><br/>
+
+Versailles</td><td align='left'></td><td align='left'><br/>
+
+Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la chambre de proximité de Saint-Germain-en-Laye</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>

@@ -1,3 +1,27 @@
 # Article Annexe Tableau XI
 
-<p align='center'>SIÈGE ET RESSORT DES GREFFES DÉTACHÉS </p><p align='center'>(annexe des articles D. 212-17-2 et D. 222-7) </p><p align='left'></p><center><table border='1' cellPadding='0'><tbody><tr><td><p align='center'><br/>TRIBUNAL<br/>de grande instance </p></td><td><p align='center'>TRIBUNAL<br/>d'instance </p></td><td><p align='center'>SIÈGE DU GREFFE<br/>détaché </p></td><td><p align='center'>RESSORT DU GREFFE<br/>détaché </p></td></tr><tr><td colSpan='4'><p align='center'><br/>Cour d'appel d'Agen </p></td></tr><tr><td><p>Agen </p></td><td></td><td><p>Marmande </p></td><td><p>Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins </p></td></tr><tr><td colSpan='4'><p align='center'> Cour d'appel de Basse-Terre</p></td></tr><tr><td> Basse-Terre</td><td></td><td> Saint-Martin</td><td> Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.</td></tr><tr><td colSpan='4'><p align='center'><br/>Cour d'appel de Besançon </p></td></tr><tr><td><p>Lons-le-Saunier </p></td><td></td><td><p>Dôle </p></td><td><p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. </p></td></tr><tr><td colSpan='4'><p align='center'><br/>Cour d'appel de Cayenne </p></td></tr><tr><td><p>Cayenne </p></td><td></td><td><p>Saint-Laurent-du-Maroni </p></td><td><p>Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni </p></td></tr><tr><td></td><td><p>Cayenne </p></td><td><p>Saint-Laurent-du-Maroni </p></td><td><p>Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni </p></td></tr><tr><td colSpan='4'><p align='center'>Cour d'appel de Montpellier</p></td></tr><tr><td><p>Rodez</p></td><td><p>Millau</p></td><td colSpan='2'><p>Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou</p></td></tr><tr><td colSpan='4'><p align='center'><br/>Cour d'appel de Rennes </p></td></tr><tr><td><p>St-Brieuc </p></td><td></td><td><p>Guingamp </p></td><td><p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier </p></td></tr><tr><td colSpan='4'><p align='center'><br/>Cour d'appel de Saint-Denis </p></td></tr><tr><td></td><td><p>Mamoudzou </p></td><td><p>Sada </p></td><td><p>Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada</p></td></tr></tbody></table></center><p align='left'></p><p align='left'></p>
+<p>SIÈGE ET RESSORT DES GREFFES DÉTACHÉS IMPLANTÉS HORS DU SIÈGE D'UNE CHAMBRE DE PROXIMITÉ<br/><br/>
+
+(annexe de l'article D. 212-17-2)</p><center><table border='1'><tbody><tr><th><br/>
+
+TRIBUNAL JUDICIAIRE</th><th><br/>
+
+CHAMBRE<br/><br/>
+
+DE PROXIMITE</th><th><br/>
+
+SIEGE<br/><br/>
+
+DU GREFFE<br/><br/>
+
+DÉTACHÉ</th><th><br/>
+
+RESSORT DU GREFFE DÉTACHÉ</th></tr><tr><td colspan='4' align='center'><br/>
+
+Cour d'appel de Saint-Denis</td></tr><tr><td align='center'><br/>
+
+Mamoudzou</td><td align='left'></td><td align='left'><br/>
+
+Sada</td><td align='justify'><br/>
+
+Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada </td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
