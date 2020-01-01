@@ -1264,7 +1264,7 @@ Sommation de prendre communication du cahier des charges, prévue à l'article 1
 
 Successions</td><td><br clear='none'/>
 
-Sommation de prendre parti, prévu à l' article 771 du code civil </td></tr><tr><td align='center'><br clear='none'/>
+Sommation de prendre parti, prévu à l'article 771 du code civil</td></tr><tr><td align='center'><br clear='none'/>
 
 92</td><td align='left'></td><td align='center'><br clear='none'/>
 
@@ -3708,4 +3708,4 @@ Incidents</td><td align='left'><br clear='none'/>
 
 Incidents</td><td colspan='2' align='left'><br clear='none'/>
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l' article 771 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center>
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center><br/><br/><i>NOTA:<p><font color='black'>Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur le 1er janvier 2020 et sont applicable aux instances en cours.</font></p></i>
