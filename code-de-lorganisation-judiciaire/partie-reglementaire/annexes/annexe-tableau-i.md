@@ -170,7 +170,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
-Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX DE GRANDE INSTANCE</p><p align='center'>ET TRIBUNAUX D'INSTANCE</p><p align='center'>Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux, procureur de la République antiterroriste et procureur de la République financier près</p><p align='center'>le tribunal de grande instance de Paris</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>ROBE</td><td align='center'>SIMARRE</td><td align='center'>ÉPITOGE</td><td align='center'>CEINTURE</td><td align='center'>TOQUE</td><td align='center'>CRAVATE</td></tr><tr><td align='left'><br/>
+Comme ci-dessus.</td></tr></tbody></table></center><p align='center'></p><p align='center'>TRIBUNAUX JUDICIAIRES</p><p align='center'>Présidents des tribunaux judiciaires, procureurs de la République près lesdits tribunaux, procureur de la République antiterroriste et procureur de la République financier près le tribunal judiciaire de Paris</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>ROBE</td><td align='center'>SIMARRE</td><td align='center'>ÉPITOGE</td><td align='center'>CEINTURE</td><td align='center'>TOQUE</td><td align='center'>CRAVATE</td></tr><tr><td align='left'><br/>
 
 Ordinaire.</td><td align='left'><br/>
 
@@ -188,7 +188,7 @@ Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
 Solennelle (et cérémonies publiques).</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches.<br/></td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
@@ -196,11 +196,11 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.<br/></td><td align='left'><br/>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, le procureur de la République antiterroriste et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.</td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'><br/>
 
-Premiers vice-présidents, vice-présidents et juges des tribunaux de grande instance,<br/>
+Premiers vice-présidents, vice-présidents et juges des tribunaux judiciaires,<br/>
 
 procureurs de République adjoints, vice-procureurs et substituts près lesdits tribunaux</p><center><table border='1'><tbody><tr><td align='center'>AUDIENCE</td><td align='center'>ROBE</td><td align='center'>SIMARRE</td><td align='center'>ÉPITOGE</td><td align='center'>CEINTURE</td><td align='center'>TOQUE</td><td align='center'>CRAVATE</td></tr><tr><td align='left'><br/>
 
@@ -220,7 +220,7 @@ Blanche, plissée.</td></tr><tr><td align='left'><br/>
 
 Solennelle (et cérémonies publiques).</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal judiciaire de Paris : rouge, à grandes manches.</td><td align='left'><br/>
 
 Comme ci-dessus.</td><td align='left'><br/>
 
@@ -228,7 +228,7 @@ Comme ci-dessus.</td><td align='left'><br/>
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.</td><td align='left'><br/>
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</td><td align='left'><br/>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux judiciaires de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers et antiterroristes adjoints près le tribunal judiciaire de Paris : de laine noire, avec un double galon d'argent.</td><td align='left'><br/>
 
 Comme ci-dessus.</td></tr></tbody></table></center><p align='center'>TRIBUNAUX SUPÉRIEURS D'APPEL</p><p align='center'>Présidents des tribunaux supérieurs d'appel<br/>
 
@@ -322,7 +322,7 @@ Largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire e
 
 Cour de cassation.</td><td align='left'><br/>
 
-Greffier en chef.</td><td align='left'><br/>
+Directeur des services de greffe judiciaires</td><td align='left'><br/>
 
 Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
@@ -332,20 +332,14 @@ Robe noire sans simarre ni toque noire.</td></tr><tr><td align='left'><br/>
 
 Cour d'appel.</td><td align='left'><br/>
 
-Greffier en chef.</td><td align='left'><br/>
+Directeur des services de greffe judiciaires</td><td align='left'><br/>
 
 Même costume que les conseillers de la cour d'appel, sans galon à la toque.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Greffier.</td><td align='left'><br/>
 
-Robe noire sans simarre ni toque noire.</td></tr><tr><td align='left'><br/>
-
-Tribunal de grande instance et tribunal d'instance</td><td align='left'><br/>
-
-Greffier en chef.</td><td align='left'><br/>
-
-Même costume que les juges du tribunal de grande instance, sans galon à la toque.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Robe noire sans simarre ni toque noire.</td></tr><tr><td align='left'>Tribunal judiciaire</td><td align='left'>Directeur des services de greffe judiciaires</td><td align='left'>Même costume que les juges du tribunal judiciaire, sans galon à la toque.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Greffier.</td><td align='left'><br/>
 
-Robe noire sans simarre ni toque noire.</td></tr></tbody></table></center>
+Robe noire sans simarre ni toque noire.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
