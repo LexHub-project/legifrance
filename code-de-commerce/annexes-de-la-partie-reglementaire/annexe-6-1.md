@@ -454,17 +454,17 @@ Ressort du TC</td></tr><tr><td align='center'><br/>
 
 Moselle</td><td align='center'><br/>
 
-TGI de Metz</td><td align='center'><br/>
+Tribunal judiciaire de Metz</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'></td><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'></td><td align='center'><br/>
 
-TGI de Sarreguemines</td><td align='center'><br/>
+Tribunal judiciaire de Sarreguemines</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'></td><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'></td><td align='center'><br/>
 
-TGI de Thionville</td><td align='center'><br/>
+Tribunal judiciaire de Thionville</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'><br/>
 
 Nièvre</td><td align='center'><br/>
 
@@ -552,23 +552,23 @@ Le département</td></tr><tr><td align='center'><br/>
 
 Rhin (Bas-)</td><td align='center'><br/>
 
-TGI de Saverne</td><td align='center'><br/>
+Tribunal judiciaire de Saverne</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'></td><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'></td><td align='center'><br/>
 
-TGI de Strasbourg</td><td align='center'><br/>
+Tribunal judiciaire de Strasbourg</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'><br/>
 
 Rhin (Haut-)</td><td align='center'><br/>
 
-TGI de Colmar</td><td align='center'><br/>
+Tribunal judiciaire de Colmar</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'></td><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'></td><td align='center'><br/>
 
-TGI de Mulhouse</td><td align='center'><br/>
+Tribunal judiciaire de Mulhouse</td><td align='center'><br/>
 
-Ressort du TGI</td></tr><tr><td align='center'><br/>
+Ressort du tribunal judiciaire</td></tr><tr><td align='center'><br/>
 
 Rhône</td><td align='center'><br/>
 
@@ -758,4 +758,4 @@ Yvelines</td><td align='center'><br/>
 
 TC de Versailles</td><td align='center'><br/>
 
-Le département</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><br/><br/><i>NOTA:<p>Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.</p></i>
+Le département</td></tr></tbody></table></center><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><p align='left'></p><br/><br/><i>NOTA:<p><font color='black'>Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.</font></p></i>
