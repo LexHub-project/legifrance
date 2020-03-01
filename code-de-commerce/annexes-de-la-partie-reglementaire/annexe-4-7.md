@@ -56,7 +56,7 @@ Formalités</td><td align='center'><br clear='none'/>
 
 Expéditions</td><td><br clear='none'/>
 
-Expédition ou extrait du procès-verbal prévu à l'article R. 444-50</td></tr><tr><td align='center'><br clear='none'/>
+Expédition ou extrait du procès-verbal prévu à l'article R. 444-47</td></tr><tr><td align='center'><br clear='none'/>
 
 9</td><td align='center'><br clear='none'/>
 
@@ -1264,7 +1264,7 @@ Sommation de prendre communication du cahier des charges, prévue à l'article 1
 
 Successions</td><td><br clear='none'/>
 
-Sommation de prendre parti, prévu à l'article 771 du code civil</td></tr><tr><td align='center'><br clear='none'/>
+Sommation de prendre parti, prévu à l'article 789 du code civil</td></tr><tr><td align='center'><br clear='none'/>
 
 92</td><td align='left'></td><td align='center'><br clear='none'/>
 
@@ -2016,7 +2016,7 @@ Sous-ensemble</td><td align='center'><br clear='none'/>
 
 Nature de la prestation</td></tr><tr><td align='center'><br clear='none'/>
 
-1</td><td rowspan='187' align='center'><br clear='none'/>
+1</td><td rowspan='188' align='center'><br clear='none'/>
 
 Actes</td><td rowspan='45' align='center'><br clear='none'/>
 
@@ -2200,9 +2200,9 @@ Elaboration d'un projet de liquidation du régime matrimonial, prévue au  10° 
 
 Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l' article 311-20 du code civil </td></tr><tr><td align='center'>43-1</td><td>Consentement à l'adoption réalisé en application de l'article 348-3 du code civil</td></tr><tr><td align='center'><br clear='none'/>
 
-44</td><td rowspan='56'><br clear='none'/>
+44</td><td rowspan='57'><br clear='none'/>
 
-Actes relatifs principalement aux biens immobiliers et fonciers</td><td rowspan='30'><br clear='none'/>
+Actes relatifs principalement aux biens immobiliers et fonciers</td><td rowspan='31'><br clear='none'/>
 
 Actes relatifs à la propriété et la mutation de propriété</td><td><br clear='none'/>
 
@@ -2242,7 +2242,7 @@ Résiliation ou résolution de vente</td></tr><tr><td align='center'><br clear='
 
 53</td><td><br clear='none'/>
 
-Transfert de propriété ou de jouissance entre collectivités territoriales et/ ou établissements publics</td></tr><tr><td align='center'><br clear='none'/>
+Transfert de propriété ou de jouissance entre collectivités territoriales et/ ou établissements publics</td></tr><tr><td align='center'>53-1</td><td>Transfert de propriété à titre gratuit des biens mobiliers et immobiliers mentionnés à l'article L. 719-14 du code de l'éducation</td></tr><tr><td align='center'><br clear='none'/>
 
 54</td><td><br clear='none'/>
 
@@ -3708,4 +3708,4 @@ Incidents</td><td align='left'><br clear='none'/>
 
 Incidents</td><td colspan='2' align='left'><br clear='none'/>
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center><br/><br/><i>NOTA:<p><font color='black'>Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur le 1er janvier 2020 et sont applicable aux instances en cours.</font></p></i>
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center>
