@@ -10,7 +10,7 @@ b) Soit de ceux qui respectent les exigences de performance énergétique, défi
 
 2. isolation des murs donnant sur l'extérieur ;<br/><br/>
 
-3. isolation des parois vitrés donnant sur l'extérieur ;<br/><br/>
+3. isolation des parois vitrées donnant sur l'extérieur ;<br/><br/>
 
 4. systèmes de chauffage ;<br/><br/>
 
