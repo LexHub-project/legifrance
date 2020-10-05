@@ -424,11 +424,11 @@ Strasbourg</td><td align='center'><br/>
 
 Haguenau</td><td align='left'><br/>
 
-Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim.</td></tr><tr><td align='center'><br/>
+Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim.</td></tr><tr><td align='center'><br/>
 
 Schiltigheim</td><td align='left'><br/>
 
-Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim.</td></tr><tr><td align='center'><br/>
+Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim.</td></tr><tr><td align='center'><br/>
 
 Strasbourg</td><td align='left'><br/>
 
@@ -1080,11 +1080,11 @@ Châlons-en-Champagne</td><td align='center'><br/>
 
 Châlons-en-Champagne</td><td align='left'><br/>
 
-Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne.</td></tr><tr><td align='left'></td><td align='center'><br/>
+Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et à l'exception de la partie de la commune de Blancs-Coteaux correspondant aux anciennes communes de Vertus et de Voipreux.</td></tr><tr><td align='left'></td><td align='center'><br/>
 
 Epernay</td><td align='left'><br/>
 
-Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne.</td></tr><tr><td align='center'><br/>
+Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et commune de Blancs-Coteaux.</td></tr><tr><td align='center'><br/>
 
 Reims</td><td align='center'><br/>
 
@@ -1226,15 +1226,11 @@ Evreux</td><td align='center'><br/>
 
 Bernay</td><td align='left'><br/>
 
-Ressort de la chambre de proximité de Bernay.</td></tr><tr><td align='left'></td><td align='center'><br/>
-
-Evreux</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay, des Andélys et des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td align='left'></td><td align='center'><br/>
+Ressort de la chambre de proximité de Bernay et commune des Monts du Roumois</td></tr><tr><td align='center'></td><td align='center'>Evreux</td><td align='left'>Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay, des Andélys et des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td align='left'></td><td align='center'><br/>
 
 Louviers</td><td align='left'><br/>
 
-Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td rowspan='3' align='center'><br/>
+Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne (à l'exception de la partie de la commune des Monts du Roumois correspondant à l'ancienne commune de Houlbec-près-le-Gros-Theil), Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td rowspan='3' align='center'><br/>
 
 Seine-Maritime</td><td align='center'><br/>
 
