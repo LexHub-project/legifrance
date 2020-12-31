@@ -86,11 +86,11 @@ Matériaux d'isolation thermique des parois opaques mentionnés au 3° du b du 1
 
 50 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses</td><td align='center'><br/>
 
-25 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses</td></tr><tr><td rowspan='7' align='center'><br/>
+25 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses</td></tr><tr><td rowspan='8' align='center'><br/>
 
 Équipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses ou à l'énergie solaire thermique mentionnés au 1° du c du 1</td><td align='center'><br/>
 
-4 000 € pour les chaudières à alimentation automatique fonctionnant au bois ou autres biomasses</td><td rowspan='7' align='center'><br/>
+4 000 € pour les chaudières à alimentation automatique fonctionnant au bois ou autres biomasses</td><td rowspan='8' align='center'><br/>
 
 (Sans objet)</td></tr><tr><td align='center'><br/>
 
@@ -102,7 +102,7 @@ Matériaux d'isolation thermique des parois opaques mentionnés au 3° du b du 1
 
 1 500 € pour les poêles à granulés et cuisinières à granulés</td></tr><tr><td align='center'><br/>
 
-1 000 € pour les poêles à bûches et cuisinières à bûches</td></tr><tr><td align='center'><br/>
+1 000 € pour les poêles à bûches et cuisinières à bûches</td></tr><tr><td align='center'>600 € pour les foyers fermés et inserts à bûches ou granulés</td></tr><tr><td align='center'><br/>
 
 1 000 € pour les équipements de chauffage ou de production d'eau chaude fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide</td></tr><tr><td rowspan='3' align='center'><br/>
 
@@ -238,4 +238,4 @@ a) Du crédit d'impôt prévu à l'article 199 sexdecies ;<br/><br/>
 
 b) Ou d'une déduction de charges pour la détermination de ses revenus catégoriels ;<br/><br/>
 
-c) Ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.</p><p>7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-v-calcul-de-limpot/ii-impot-sur-le-revenu/3-reduction-dimpot-accordee-au-titre-des-cotisations-versees-aux-organisations-syndicales/199-quater-c.md'>articles 199 quater B à 200 bis</a>, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.</p><p>Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait le cas échéant l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale à la différence entre le montant de l'avantage fiscal initialement accordé et le montant de l'avantage fiscal déterminé en application des dispositions du 5 ter sur la base de la dépense finalement supportée par le contribuable. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.</p><br/><br/><i>NOTA:<p>Conformément au A du III de l’article 15 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 2020. Se reporter aux dispositions transitoires précisées aux B et C dudit III.</p></i>
+c) Ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.</p><p>7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-premier-impot-sur-le-revenu/section-v-calcul-de-limpot/ii-impot-sur-le-revenu/3-reduction-dimpot-accordee-au-titre-des-cotisations-versees-aux-organisations-syndicales/199-quater-c.md'>articles 199 quater B à 200 bis</a>, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.</p><p>Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait le cas échéant l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale à la différence entre le montant de l'avantage fiscal initialement accordé et le montant de l'avantage fiscal déterminé en application des dispositions du 5 ter sur la base de la dépense finalement supportée par le contribuable. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.</p><br/><br/><i>NOTA:<p>Conformément au A du III de l’article 53 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux dépenses payées en 2020. Se reporter aux dispositions précisées au B dudit III.</p></i>
