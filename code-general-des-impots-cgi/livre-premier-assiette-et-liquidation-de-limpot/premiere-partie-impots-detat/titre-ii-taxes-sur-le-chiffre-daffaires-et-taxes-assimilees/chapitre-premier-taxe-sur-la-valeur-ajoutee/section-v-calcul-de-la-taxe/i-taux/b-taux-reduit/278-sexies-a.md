@@ -20,9 +20,9 @@ c) Les locaux dont la livraison est éligible au taux réduit conformément au 1
 
 4° Les travaux de démolition des logements mentionnés au a du 3° du présent I, dans le cadre d'une reconstitution de l'offre des logements locatifs sociaux prévue par la convention de renouvellement urbain.<br/><br/>
 
-Le présent I ne s'applique pas aux travaux pour lesquels l'article 278-0 bis A prévoit un taux réduit inférieur à celui mentionné au II.<br/><br/>
+Le présent I ne s'applique pas aux travaux pour lesquels l'article 278-0 bis A prévoit un taux réduit inférieur à celui mentionné au II.</p><p>5° Les travaux suivants réalisés en vue de la conclusion d'un bail réel solidaire dans les conditions prévues au chapitre V du titre V du livre II du code de la construction et de l'habitation :</p><p> a) Ceux acquis par un organisme de foncier solidaire et portant sur un immeuble destiné à faire l'objet d'un bail réel solidaire ;</p><p> b) Ceux acquis par le détenteur des droits réels immobiliers avant qu'ils n'aient été cédés à l'occupant ou que les logements n'aient été mis en location et portant sur un immeuble faisant l'objet d'un bail réel solidaire.<br/><br/>
 
-II.-Les taux réduits prévus au I sont égaux à :<br/><br/></p><center><table border='1'><tbody><tr><th><br/>
+II.-Les taux réduits prévus au I sont égaux à :</p><center><table border='1'><tbody><tr><th><br/>
 
 Travaux concernés</th><th><br/>
 
@@ -60,6 +60,4 @@ Travaux de démolition portant sur des logements locatifs sociaux situés dans l
 
 4° du I</td><td align='center'><br/>
 
-5,5 %</td></tr></tbody></table></center><p><br/>
-
-Pour les travaux mentionnés au 1° du I, le taux applicable est celui prévu pour la livraison du local sur lequel ils portent, conformément à l'article 278 sexies-0 A. A cette fin, un logement dont la construction n'a été financée ni par un prêt locatif aidé d'intégration, ni par un prêt locatif à usage social, ni par un prêt locatif social est assimilé à un logement dont la construction a été financée par un prêt locatif à usage social.</p><br/><br/><i>NOTA:<p>Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations intervenant à compter du 1er décembre 2019.</p></i>
+5,5 %</td></tr><tr><td align='center'>Travaux réalisés dans le cadre d'un bail réel solidaire</td><td align='center'>5° du I</td><td align='center'>5,5 %</td></tr></tbody></table></center><p>Pour les travaux mentionnés au 1° du I, le taux applicable est celui prévu pour la livraison du local sur lequel ils portent, conformément à l'article 278 sexies-0 A. A cette fin, un logement dont la construction n'a été financée ni par un prêt locatif aidé d'intégration, ni par un prêt locatif à usage social, ni par un prêt locatif social est assimilé à un logement dont la construction a été financée par un prêt locatif à usage social.</p>
