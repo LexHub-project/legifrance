@@ -1,3 +1,451 @@
 # Article Annexe tableau n° 7
 
-<table border='1' width='680'><tbody><tr><th>RÉGION<br/></th><th><br/>EFFECTIF <br/>du conseil régional<br/></th><th>DÉPARTEMENT<br/></th><th><br/>NOMBRE DE CANDIDATS <br/>par section départementale<br/></th></tr><tr><td rowSpan='10' vAlign='top'><br/>Alsace, Champagne-Ardenne et Lorraine<br/></td><td rowSpan='10' align='left' vAlign='middle'><p align='center'><br/>169</p></td><td vAlign='middle'><br/>Ardennes<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Aube<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Marne<br/></td><td align='center' vAlign='middle'><br/>19<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Marne<br/></td><td align='center' vAlign='middle'><br/>8<br/></td></tr><tr><td vAlign='middle'><br/>Meurthe-et-Moselle<br/></td><td align='center' vAlign='middle'><br/>24<br/></td></tr><tr><td vAlign='middle'><br/>Meuse<br/></td><td align='center' vAlign='middle'><br/>8<br/></td></tr><tr><td vAlign='middle'><br/>Moselle<br/></td><td align='center' vAlign='middle'><br/>34<br/></td></tr><tr><td vAlign='middle'><br/>Bas-Rhin<br/></td><td align='center' vAlign='middle'><br/>35<br/></td></tr><tr><td vAlign='middle'><br/>Haut-Rhin<br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr><tr><td vAlign='middle'><br/>Vosges<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td rowSpan='12' vAlign='top'><br/>Aquitaine, Limousin et Poitou-Charentes<br/></td><td rowSpan='12' align='left' vAlign='middle'><p align='center'><br/>183</p></td><td vAlign='middle'><br/>Charente<br/></td><td align='center' vAlign='middle'><br/>13<br/></td></tr><tr><td vAlign='middle'><br/>Charente-Maritime<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Corrèze<br/></td><td align='center' vAlign='middle'><br/>10<br/></td></tr><tr><td vAlign='middle'><br/>Creuse<br/></td><td align='center' vAlign='middle'><br/>6<br/></td></tr><tr><td vAlign='middle'><br/>Dordogne<br/></td><td align='center' vAlign='middle'><br/>15<br/></td></tr><tr><td vAlign='middle'><br/>Gironde<br/></td><td align='center' vAlign='middle'><br/>48<br/></td></tr><tr><td vAlign='middle'><br/>Landes<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td vAlign='middle'><br/>Lot-et-Garonne<br/></td><td align='center' vAlign='middle'><br/>12<br/></td></tr><tr><td vAlign='middle'><br/>Pyrénées-Atlantiques<br/></td><td align='center' vAlign='middle'><br/>23<br/></td></tr><tr><td vAlign='middle'><br/>Deux-Sèvres<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td vAlign='middle'><br/>Vienne<br/></td><td align='center' vAlign='middle'><br/>16<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Vienne<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td rowSpan='13' vAlign='top'><br/>Auvergne et Rhône-Alpes<br/></td><td rowSpan='13' align='left' vAlign='middle'><p align='center'><br/>204</p></td><td vAlign='middle'><br/>Ain<br/></td><td align='center' vAlign='middle'><br/>18<br/></td></tr><tr><td vAlign='middle'><br/>Allier<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Ardèche<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Cantal<br/></td><td align='center' vAlign='middle'><br/>6<br/></td></tr><tr><td vAlign='middle'><br/>Drôme<br/></td><td align='center' vAlign='middle'><br/>15<br/></td></tr><tr><td vAlign='middle'><br/>Isère<br/></td><td align='center' vAlign='middle'><br/>34<br/></td></tr><tr><td vAlign='middle'><br/>Loire<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Loire<br/></td><td align='center' vAlign='middle'><br/>8<br/></td></tr><tr><td vAlign='middle'><br/>Métropole de Lyon<br/></td><td align='center' vAlign='middle'><br/>37<br/></td></tr><tr><td vAlign='middle'><br/>Puy-de-Dôme<br/></td><td align='center' vAlign='middle'><br/>19<br/></td></tr><tr><td vAlign='middle'><br/>Rhône<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td vAlign='middle'><br/>Savoie<br/></td><td align='center' vAlign='middle'><br/>13<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Savoie<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td rowSpan='8' vAlign='top'><br/>Bourgogne et Franche-Comté<br/></td><td rowSpan='8' align='left' vAlign='middle'><p align='center'><br/>100</p></td><td vAlign='middle'><br/>Côte-d'Or<br/></td><td align='center' vAlign='middle'><br/>21<br/></td></tr><tr><td vAlign='middle'><br/>Doubs<br/></td><td align='center' vAlign='middle'><br/>21<br/></td></tr><tr><td vAlign='middle'><br/>Jura<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Nièvre<br/></td><td align='center' vAlign='middle'><br/>10<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Saône<br/></td><td align='center' vAlign='middle'><br/>10<br/></td></tr><tr><td vAlign='middle'><br/>Saône-et-Loire<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Yonne<br/></td><td align='center' vAlign='middle'><br/>14<br/></td></tr><tr><td vAlign='middle'><br/>Territoire de Belfort<br/></td><td align='center' vAlign='middle'><br/>7<br/></td></tr><tr><td rowSpan='4' vAlign='top'><br/>Bretagne<br/></td><td rowSpan='4' align='left' vAlign='middle'><p align='center'><br/>83</p></td><td vAlign='middle'><br/>Côtes-d'Armor<br/></td><td align='center' vAlign='middle'><br/>17<br/></td></tr><tr><td vAlign='middle'><br/>Finistère<br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr><tr><td vAlign='middle'><br/>Ille-et-Vilaine<br/></td><td align='center' vAlign='middle'><br/>28<br/></td></tr><tr><td vAlign='middle'><br/>Morbihan<br/></td><td align='center' vAlign='middle'><br/>21<br/></td></tr><tr><td rowSpan='6' vAlign='top'><br/>Centre<br/></td><td rowSpan='6' align='left' vAlign='middle'><p align='center'><br/>77</p></td><td vAlign='middle'><br/>Cher<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Eure-et-Loir<br/></td><td align='center' vAlign='middle'><br/>15<br/></td></tr><tr><td vAlign='middle'><br/>Indre<br/></td><td align='center' vAlign='middle'><br/>9<br/></td></tr><tr><td vAlign='middle'><br/>Indre-et-Loire<br/></td><td align='center' vAlign='middle'><br/>20<br/></td></tr><tr><td vAlign='middle'><br/>Loir-et-Cher<br/></td><td align='center' vAlign='middle'><br/>12<br/></td></tr><tr><td vAlign='middle'><br/>Loiret<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Guadeloupe<br/></td><td align='left' vAlign='middle'><p align='center'><br/>41</p></td><td vAlign='middle'><br/>Guadeloupe<br/></td><td align='center' vAlign='middle'><br/>43<br/></td></tr><tr><td rowSpan='8' vAlign='top'><br/>Ile-de-France<br/></td><td rowSpan='8' align='left' vAlign='middle'><p align='center'><br/>209</p></td><td vAlign='middle'><br/>Paris<br/></td><td align='center' vAlign='middle'><br/>42<br/></td></tr><tr><td vAlign='middle'><br/>Seine-et-Marne<br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr><tr><td vAlign='middle'><br/>Yvelines<br/></td><td align='center' vAlign='middle'><br/>27<br/></td></tr><tr><td vAlign='middle'><br/>Essonne<br/></td><td align='center' vAlign='middle'><br/>24<br/></td></tr><tr><td vAlign='middle'><br/>Hauts-de-Seine<br/></td><td align='center' vAlign='middle'><br/>30<br/></td></tr><tr><td vAlign='middle'><br/>Seine-Saint-Denis<br/></td><td align='center' vAlign='middle'><br/>29<br/></td></tr><tr><td vAlign='middle'><br/>Val-de-Marne<br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr><tr><td vAlign='middle'><br/>Val-d'Oise<br/></td><td align='center' vAlign='middle'><br/>23<br/></td></tr><tr><td rowSpan='13' vAlign='top'><br/>Languedoc-Roussillon et Midi-Pyrénées<br/></td><td rowSpan='13' align='left' vAlign='middle'><p align='center'><br/>158</p></td><td vAlign='middle'><br/>Ariège<br/></td><td align='center' vAlign='middle'><br/>6<br/></td></tr><tr><td vAlign='middle'><br/>Aude<br/></td><td align='center' vAlign='middle'><br/>12<br/></td></tr><tr><td vAlign='middle'><br/>Aveyron<br/></td><td align='center' vAlign='middle'><br/>10<br/></td></tr><tr><td vAlign='middle'><br/>Gard<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Haute-Garonne<br/></td><td align='center' vAlign='middle'><br/>38<br/></td></tr><tr><td vAlign='middle'><br/>Gers<br/></td><td align='center' vAlign='middle'><br/>7<br/></td></tr><tr><td vAlign='middle'><br/>Hérault<br/></td><td align='center' vAlign='middle'><br/>32<br/></td></tr><tr><td vAlign='middle'><br/>Lot<br/></td><td align='center' vAlign='middle'><br/>7<br/></td></tr><tr><td vAlign='middle'><br/>Lozère<br/></td><td align='center' vAlign='middle'><br/>4<br/></td></tr><tr><td vAlign='middle'><br/>Hautes-Pyrénées<br/></td><td align='center' vAlign='middle'><br/>9<br/></td></tr><tr><td vAlign='middle'><br/>Pyrénées-Orientales<br/></td><td align='center' vAlign='middle'><br/>15<br/></td></tr><tr><td vAlign='middle'><br/>Tarn<br/></td><td align='center' vAlign='middle'><br/>13<br/></td></tr><tr><td vAlign='middle'><br/>Tarn-et-Garonne<br/></td><td align='center' vAlign='middle'><br/>9<br/></td></tr><tr><td rowSpan='5' vAlign='top'><br/>Nord - Pas-de-Calais et Picardie<br/></td><td rowSpan='5' align='left' vAlign='middle'><p align='center'><br/>170</p></td><td vAlign='middle'><br/>Aisne<br/></td><td align='center' vAlign='middle'><br/>17<br/></td></tr><tr><td vAlign='middle'><br/>Nord<br/></td><td align='center' vAlign='middle'><br/>76<br/></td></tr><tr><td vAlign='middle'><br/>Oise<br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr><tr><td vAlign='middle'><br/>Pas-de-Calais<br/></td><td align='center' vAlign='middle'><br/>44<br/></td></tr><tr><td vAlign='middle'><br/>Somme<br/></td><td align='center' vAlign='middle'><br/>18<br/></td></tr><tr><td rowSpan='5' vAlign='top'><br/>Basse-Normandie et Haute-Normandie<br/></td><td rowSpan='5' align='left' vAlign='middle'><p align='center'><br/>102</p></td><td vAlign='middle'><br/>Calvados<br/></td><td align='center' vAlign='middle'><br/>23<br/></td></tr><tr><td vAlign='middle'><br/>Eure<br/></td><td align='center' vAlign='middle'><br/>20<br/></td></tr><tr><td vAlign='middle'><br/>Manche<br/></td><td align='center' vAlign='middle'><br/>17<br/></td></tr><tr><td vAlign='middle'><br/>Orne<br/></td><td align='center' vAlign='middle'><br/>11<br/></td></tr><tr><td vAlign='middle'><br/>Seine-Maritime<br/></td><td align='center' vAlign='middle'><br/>41<br/></td></tr><tr><td rowSpan='5' vAlign='top'><br/>Pays de la Loire<br/></td><td rowSpan='5' align='left' vAlign='middle'><p align='center'><br/>93</p></td><td vAlign='middle'><br/>Loire-Atlantique<br/></td><td align='center' vAlign='middle'><br/>35<br/></td></tr><tr><td vAlign='middle'><br/>Maine-et-Loire<br/></td><td align='center' vAlign='middle'><br/>22<br/></td></tr><tr><td vAlign='middle'><br/>Mayenne<br/></td><td align='center' vAlign='middle'><br/>10<br/></td></tr><tr><td vAlign='middle'><br/>Sarthe<br/></td><td align='center' vAlign='middle'><br/>17<br/></td></tr><tr><td vAlign='middle'><br/>Vendée<br/></td><td align='center' vAlign='middle'><br/>19<br/></td></tr><tr><td rowSpan='6' vAlign='top'><br/>Provence-Alpes-Côte d'Azur<br/></td><td rowSpan='6' align='left' vAlign='middle'><p align='center'><br/>123</p></td><td vAlign='middle'><br/>Alpes-de-Haute-Provence<br/></td><td align='center' vAlign='middle'><br/>6<br/></td></tr><tr><td vAlign='middle'><br/>Hautes-Alpes<br/></td><td align='center' vAlign='middle'><br/>6<br/></td></tr><tr><td vAlign='middle'><br/>Alpes-Maritimes<br/></td><td align='center' vAlign='middle'><br/>29<br/></td></tr><tr><td vAlign='middle'><br/>Bouches-du-Rhône<br/></td><td align='center' vAlign='middle'><br/>51<br/></td></tr><tr><td vAlign='middle'><br/>Var<br/></td><td align='center' vAlign='middle'><br/>27<br/></td></tr><tr><td vAlign='middle'><br/>Vaucluse<br/></td><td align='center' vAlign='middle'><br/>16<br/></td></tr><tr><td vAlign='top'><br/>La Réunion<br/></td><td align='left' vAlign='middle'><p align='center'><br/>45</p></td><td vAlign='middle'><br/>La Réunion<br/></td><td align='center' vAlign='middle'><br/>47<br/></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu dans le cadre des régions définies à l'article 1er.</p></i>
+<table border='1'><tbody><tr><th>RÉGION</th><th><br/>
+
+EFFECTIF<br/>
+
+du conseil régional</th><th>DÉPARTEMENT</th><th><br/>
+
+NOMBRE DE CANDIDATS<br/>
+
+par section départementale</th></tr><tr><td rowspan='9'><br/>
+
+Alsace, Champagne-Ardenne et Lorraine</td><td rowspan='9' align='left'><p align='center'><br/>
+
+169</p></td><td><br/>
+
+Ardennes</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Aube</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Marne</td><td align='center'><br/>
+
+19</td></tr><tr><td><br/>
+
+Haute-Marne</td><td align='center'><br/>
+
+8</td></tr><tr><td><br/>
+
+Meurthe-et-Moselle</td><td align='center'><br/>
+
+24</td></tr><tr><td><br/>
+
+Meuse</td><td align='center'><br/>
+
+8</td></tr><tr><td><br/>
+
+Moselle</td><td align='center'><br/>
+
+34</td></tr><tr><td><br/>
+
+Collectivité européenne d'Alsace</td><td align='center'><br/>
+
+58</td></tr><tr><td><br/>
+
+Vosges</td><td align='center'><br/>
+
+14</td></tr><tr><td rowspan='12'><br/>
+
+Aquitaine, Limousin et Poitou-Charentes</td><td rowspan='12' align='left'><p align='center'><br/>
+
+183</p></td><td><br/>
+
+Charente</td><td align='center'><br/>
+
+13</td></tr><tr><td><br/>
+
+Charente-Maritime</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Corrèze</td><td align='center'><br/>
+
+10</td></tr><tr><td><br/>
+
+Creuse</td><td align='center'><br/>
+
+6</td></tr><tr><td><br/>
+
+Dordogne</td><td align='center'><br/>
+
+15</td></tr><tr><td><br/>
+
+Gironde</td><td align='center'><br/>
+
+48</td></tr><tr><td><br/>
+
+Landes</td><td align='center'><br/>
+
+14</td></tr><tr><td><br/>
+
+Lot-et-Garonne</td><td align='center'><br/>
+
+12</td></tr><tr><td><br/>
+
+Pyrénées-Atlantiques</td><td align='center'><br/>
+
+23</td></tr><tr><td><br/>
+
+Deux-Sèvres</td><td align='center'><br/>
+
+14</td></tr><tr><td><br/>
+
+Vienne</td><td align='center'><br/>
+
+16</td></tr><tr><td><br/>
+
+Haute-Vienne</td><td align='center'><br/>
+
+14</td></tr><tr><td rowspan='13'><br/>
+
+Auvergne et Rhône-Alpes</td><td rowspan='13' align='left'><p align='center'><br/>
+
+204</p></td><td><br/>
+
+Ain</td><td align='center'><br/>
+
+18</td></tr><tr><td><br/>
+
+Allier</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Ardèche</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Cantal</td><td align='center'><br/>
+
+6</td></tr><tr><td><br/>
+
+Drôme</td><td align='center'><br/>
+
+15</td></tr><tr><td><br/>
+
+Isère</td><td align='center'><br/>
+
+34</td></tr><tr><td><br/>
+
+Loire</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Haute-Loire</td><td align='center'><br/>
+
+8</td></tr><tr><td><br/>
+
+Métropole de Lyon</td><td align='center'><br/>
+
+37</td></tr><tr><td><br/>
+
+Puy-de-Dôme</td><td align='center'><br/>
+
+19</td></tr><tr><td><br/>
+
+Rhône</td><td align='center'><br/>
+
+14</td></tr><tr><td><br/>
+
+Savoie</td><td align='center'><br/>
+
+13</td></tr><tr><td><br/>
+
+Haute-Savoie</td><td align='center'><br/>
+
+22</td></tr><tr><td rowspan='8'><br/>
+
+Bourgogne et Franche-Comté</td><td rowspan='8' align='left'><p align='center'><br/>
+
+100</p></td><td><br/>
+
+Côte-d'Or</td><td align='center'><br/>
+
+21</td></tr><tr><td><br/>
+
+Doubs</td><td align='center'><br/>
+
+21</td></tr><tr><td><br/>
+
+Jura</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Nièvre</td><td align='center'><br/>
+
+10</td></tr><tr><td><br/>
+
+Haute-Saône</td><td align='center'><br/>
+
+10</td></tr><tr><td><br/>
+
+Saône-et-Loire</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Yonne</td><td align='center'><br/>
+
+14</td></tr><tr><td><br/>
+
+Territoire de Belfort</td><td align='center'><br/>
+
+7</td></tr><tr><td rowspan='4'><br/>
+
+Bretagne</td><td rowspan='4' align='left'><p align='center'><br/>
+
+83</p></td><td><br/>
+
+Côtes-d'Armor</td><td align='center'><br/>
+
+17</td></tr><tr><td><br/>
+
+Finistère</td><td align='center'><br/>
+
+25</td></tr><tr><td><br/>
+
+Ille-et-Vilaine</td><td align='center'><br/>
+
+28</td></tr><tr><td><br/>
+
+Morbihan</td><td align='center'><br/>
+
+21</td></tr><tr><td rowspan='6'><br/>
+
+Centre</td><td rowspan='6' align='left'><p align='center'><br/>
+
+77</p></td><td><br/>
+
+Cher</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Eure-et-Loir</td><td align='center'><br/>
+
+15</td></tr><tr><td><br/>
+
+Indre</td><td align='center'><br/>
+
+9</td></tr><tr><td><br/>
+
+Indre-et-Loire</td><td align='center'><br/>
+
+20</td></tr><tr><td><br/>
+
+Loir-et-Cher</td><td align='center'><br/>
+
+12</td></tr><tr><td><br/>
+
+Loiret</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Guadeloupe</td><td align='left'><p align='center'><br/>
+
+41</p></td><td><br/>
+
+Guadeloupe</td><td align='center'><br/>
+
+43</td></tr><tr><td rowspan='8'><br/>
+
+Ile-de-France</td><td rowspan='8' align='left'><p align='center'><br/>
+
+209</p></td><td><br/>
+
+Paris</td><td align='center'><br/>
+
+42</td></tr><tr><td><br/>
+
+Seine-et-Marne</td><td align='center'><br/>
+
+25</td></tr><tr><td><br/>
+
+Yvelines</td><td align='center'><br/>
+
+27</td></tr><tr><td><br/>
+
+Essonne</td><td align='center'><br/>
+
+24</td></tr><tr><td><br/>
+
+Hauts-de-Seine</td><td align='center'><br/>
+
+30</td></tr><tr><td><br/>
+
+Seine-Saint-Denis</td><td align='center'><br/>
+
+29</td></tr><tr><td><br/>
+
+Val-de-Marne</td><td align='center'><br/>
+
+25</td></tr><tr><td><br/>
+
+Val-d'Oise</td><td align='center'><br/>
+
+23</td></tr><tr><td rowspan='13'><br/>
+
+Languedoc-Roussillon et Midi-Pyrénées</td><td rowspan='13' align='left'><p align='center'><br/>
+
+158</p></td><td><br/>
+
+Ariège</td><td align='center'><br/>
+
+6</td></tr><tr><td><br/>
+
+Aude</td><td align='center'><br/>
+
+12</td></tr><tr><td><br/>
+
+Aveyron</td><td align='center'><br/>
+
+10</td></tr><tr><td><br/>
+
+Gard</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Haute-Garonne</td><td align='center'><br/>
+
+38</td></tr><tr><td><br/>
+
+Gers</td><td align='center'><br/>
+
+7</td></tr><tr><td><br/>
+
+Hérault</td><td align='center'><br/>
+
+32</td></tr><tr><td><br/>
+
+Lot</td><td align='center'><br/>
+
+7</td></tr><tr><td><br/>
+
+Lozère</td><td align='center'><br/>
+
+4</td></tr><tr><td><br/>
+
+Hautes-Pyrénées</td><td align='center'><br/>
+
+9</td></tr><tr><td><br/>
+
+Pyrénées-Orientales</td><td align='center'><br/>
+
+15</td></tr><tr><td><br/>
+
+Tarn</td><td align='center'><br/>
+
+13</td></tr><tr><td><br/>
+
+Tarn-et-Garonne</td><td align='center'><br/>
+
+9</td></tr><tr><td rowspan='5'><br/>
+
+Nord - Pas-de-Calais et Picardie</td><td rowspan='5' align='left'><p align='center'><br/>
+
+170</p></td><td><br/>
+
+Aisne</td><td align='center'><br/>
+
+17</td></tr><tr><td><br/>
+
+Nord</td><td align='center'><br/>
+
+76</td></tr><tr><td><br/>
+
+Oise</td><td align='center'><br/>
+
+25</td></tr><tr><td><br/>
+
+Pas-de-Calais</td><td align='center'><br/>
+
+44</td></tr><tr><td><br/>
+
+Somme</td><td align='center'><br/>
+
+18</td></tr><tr><td rowspan='5'><br/>
+
+Basse-Normandie et Haute-Normandie</td><td rowspan='5' align='left'><p align='center'><br/>
+
+102</p></td><td><br/>
+
+Calvados</td><td align='center'><br/>
+
+23</td></tr><tr><td><br/>
+
+Eure</td><td align='center'><br/>
+
+20</td></tr><tr><td><br/>
+
+Manche</td><td align='center'><br/>
+
+17</td></tr><tr><td><br/>
+
+Orne</td><td align='center'><br/>
+
+11</td></tr><tr><td><br/>
+
+Seine-Maritime</td><td align='center'><br/>
+
+41</td></tr><tr><td rowspan='5'><br/>
+
+Pays de la Loire</td><td rowspan='5' align='left'><p align='center'><br/>
+
+93</p></td><td><br/>
+
+Loire-Atlantique</td><td align='center'><br/>
+
+35</td></tr><tr><td><br/>
+
+Maine-et-Loire</td><td align='center'><br/>
+
+22</td></tr><tr><td><br/>
+
+Mayenne</td><td align='center'><br/>
+
+10</td></tr><tr><td><br/>
+
+Sarthe</td><td align='center'><br/>
+
+17</td></tr><tr><td><br/>
+
+Vendée</td><td align='center'><br/>
+
+19</td></tr><tr><td rowspan='6'><br/>
+
+Provence-Alpes-Côte d'Azur</td><td rowspan='6' align='left'><p align='center'><br/>
+
+123</p></td><td><br/>
+
+Alpes-de-Haute-Provence</td><td align='center'><br/>
+
+6</td></tr><tr><td><br/>
+
+Hautes-Alpes</td><td align='center'><br/>
+
+6</td></tr><tr><td><br/>
+
+Alpes-Maritimes</td><td align='center'><br/>
+
+29</td></tr><tr><td><br/>
+
+Bouches-du-Rhône</td><td align='center'><br/>
+
+51</td></tr><tr><td><br/>
+
+Var</td><td align='center'><br/>
+
+27</td></tr><tr><td><br/>
+
+Vaucluse</td><td align='center'><br/>
+
+16</td></tr><tr><td><br/>
+
+La Réunion</td><td align='left'><p align='center'><br/>
+
+45</p></td><td><br/>
+
+La Réunion</td><td align='center'><br/>
+
+47</td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu dans le cadre des régions définies à l'article 1er.</p><p>Conformément à l’article 18 de l’ordonnance n° 2020-1304 du 28 octobre 2020, ces dispositions entrent en vigueur <a shape='rect' name='ANCRE_ARTICLE_JORFARTI000042472275' target='_blank'></a><a shape='rect' name='6' target='_blank'></a>le 1er janvier 2021.</p></i>
