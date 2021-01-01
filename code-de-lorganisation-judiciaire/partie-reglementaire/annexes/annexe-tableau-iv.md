@@ -332,11 +332,11 @@ Cher</td></tr><tr><td align='left'><br/>
 
 Bourges</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton et Vierzon 2e Canton.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton et Vierzon 2e Canton et commune de Corquoy.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Saint-Amand-Montrond</td><td align='justify'><br/>
 
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.</td></tr><tr><td colspan='3' align='center'><br/>
+Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher (à l'exception de la fraction de commune de Corquoy), Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.</td></tr><tr><td colspan='3' align='center'><br/>
 
 Indre</td></tr><tr><td align='left'><br/>
 
@@ -374,11 +374,11 @@ Manche</td></tr><tr><td align='left'><br/>
 
 Cherbourg-en-Cotentin</td><td align='left'></td><td align='justify'><br/>
 
-Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à l'exception de la fraction de commune de Carentan les Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes et commune de Picauville.</td></tr><tr><td align='left'><br/>
+Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à l'exception de la fraction de commune de Carentan-les-Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes et communes de Picauville et de Port-Bail-Sur-Mer.</td></tr><tr><td align='left'><br/>
 
 Coutances</td><td align='left'></td><td align='justify'><br/>
 
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes de Carentan les Marais et de Tessy-Bocage.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception des fractions de communes de Picauville et de Port-Bail-sur-Mer), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes de Carentan-les-Marais et de Tessy-Bocage.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Avranches</td><td align='justify'><br/>
 
@@ -388,11 +388,11 @@ Orne</td></tr><tr><td align='left'><br/>
 
 Alençon</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées et Tourouvre et commune de Chailloué.</td></tr><tr><td align='left'><br/>
+Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué.</td></tr><tr><td align='left'><br/>
 
 Argentan</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et commune de Mortrée.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Flers</td><td align='justify'><br/>
 
@@ -1438,4 +1438,4 @@ Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de Jo
 
 Saint-Germain-en-Laye</td><td align='justify'><p>Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons-Laffitte, Marly-le-Roi, Saint-Germain-en-Laye-Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.</p></td></tr></tbody></table></center><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Siège du tribunal de première instance</p></td><td><p align='center'>Siège de la section détachée</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Nouméa</p></td></tr><tr><td colspan='3'><p align='center'>Nouvelle-Calédonie</p></td></tr><tr><td rowspan='3'><p>Nouméa</p></td><td><p align='center'></p></td><td><p>Nouvelle-Calédonie.</p></td></tr><tr><td><p>Koné</p></td><td><p>Province Nord.</p></td></tr><tr><td><p>Lifou</p></td><td><p>Province des Îles Loyauté.</p></td></tr><tr><td colspan='3'><p align='center'>Wallis-eft-Futuna</p></td></tr><tr><td colspan='2'><p>Mata-Utu</p></td><td><p align='center'>Territoire des îles Wallis et Futuna.</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Papeete</p></td></tr><tr><td colspan='3'><p align='center'>Polynésie française</p></td></tr><tr><td rowspan='3'><p>Papeete</p></td><td><p align='center'></p></td><td><p>Collectivité d'outre-mer de la Polynésie française.</p></td></tr><tr><td><p>Uturoa</p></td><td><p>Îles Sous-le-Vent.</p></td></tr><tr><td><p>Nuku-Hiva</p></td><td><p>Îles Marquises.</p></td></tr></tbody></table><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>Siège du tribunal de première instance<br/>
 
-et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
+et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2020-1151 du 18 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.</p></i>
