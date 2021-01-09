@@ -42,10 +42,6 @@ Maison de justice et du droit de Saint-Lô</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes de Cherbourg-en-Cotentin</td></tr><tr><td align='center'><br/>
 
-Cour d'appel de Cayenne</td></tr><tr><td align='justify'><br/>
-
-Maison de justice et du droit de Saint-Laurent-du-Maroni</td></tr><tr><td align='center'><br/>
-
 Cour d'appel de Chambéry</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes d'Aix-les-bains</td></tr><tr><td align='center'><br/>
@@ -118,4 +114,4 @@ Conseil de prud'hommes de Châteaudun</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes d'Argenteuil</td></tr><tr><td align='left'><br/>
 
-Conseil de prud'hommes de Saint-Germain-en-Laye</td></tr></tbody></table></center><center><p align='justify'></p></center><br/><br/><i>NOTA:<p>Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.</p></i>
+Conseil de prud'hommes de Saint-Germain-en-Laye</td></tr></tbody></table></center>
