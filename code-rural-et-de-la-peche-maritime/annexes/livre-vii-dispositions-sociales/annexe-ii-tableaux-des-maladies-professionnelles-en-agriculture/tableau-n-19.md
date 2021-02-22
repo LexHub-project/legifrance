@@ -1,3 +1,35 @@
 # Article Tableau n° 19
 
-<p align='center'>Hémopathies provoquées par le benzène et tous les produits en renfermant</p><table border='1' cellSpacing='0' align='center' cellPadding='0'><tbody><tr><td width='280'><p align='center'>DÉSIGNATION DES MALADIES</p></td><td width='120'><p align='center'>DÉLAI DE PRISE<br/>en charge</p></td><td width='280'><p align='center'>LISTE INDICATIVE DES PRINCIPAUX TRAVAUX<br/>susceptibles de provoquer ces maladies</p></td></tr><tr><td width='280' vAlign='top'><p>Affections acquises isolées ou associées de type hypoplasique, aplasique ou dysplasique :</p><p>- anémie ;</p><p>- leuconeutropénie ;</p><p>- thrombopénie.</p></td><td width='120' vAlign='top'><p align='center'>3 ans</p></td><td rowSpan='4' width='280' vAlign='top'><p>Emplois du benzène ou des produits en renfermant comme agent d'extraction, d'élution, d'imprégnation, d'agglomération ou de nettoyage, de décapage, de dissolution ou de dilution.</p><p>Opérations de séchage de tous les produits, articles, préparations, substances où le benzène (ou les produits en renfermant) est intervenu au cours des opérations ci-dessus énumérées.</p><p>Préparation et emploi des vernis, peintures, émaux, mastics, colles, d'entretien du benzène.</p><p>encres, produits renfermant</p></td></tr><tr><td width='280' vAlign='top'><p>Hypercytoses d'origine myélodysplasique.</p></td><td width='120' vAlign='top'><p align='center'>3 ans</p></td></tr><tr><td width='280' vAlign='top'><p>Syndrome myéloprolifératif.</p></td><td width='120' vAlign='top'><p align='center'>15 ans</p></td></tr><tr><td width='280' vAlign='top'><p>Leucémies (sous réserve d'une durée d'exposition de 1 an).</p></td><td width='120' vAlign='top'><p align='center'>15 ans</p></td></tr></tbody></table>
+<p align='center'>Hémopathies provoquées par le benzène et tous les produits en renfermant</p><table border='1' align='center'><tbody><tr><th><br/>
+
+Désignation de la maladie</th><th><br/>
+
+Délai de prise<br/><br/>
+
+en charge</th><th><br/>
+
+Liste indicative des principaux travaux susceptibles<br/><br/>
+
+de provoquer ces maladies</th></tr><tr><td align='justify'><br/>
+
+Hypoplasies et aplasies médullaires isolées ou associées (anémie, leuconeutropénie, thrombopénie), acquises, non réversibles</td><td align='left'><br/>
+
+3 ans</td><td rowspan='4' align='justify'><br/>
+
+Opérations de production, transport et utilisation du benzène et autres produits contenant du benzène, notamment :<br/><br/>
+
+-Préparation, transport, utilisation de carburants renfermant du benzène ; transvasement, manipulation de ces carburants, travaux en citerne ; emploi et entretien mécanique de véhicules, d'engins ou d'outils à moteur thermique utilisant ce type de carburants.<br/><br/>
+
+-Emploi du benzène comme solvant, éluant ou réactif de laboratoire.</td></tr><tr><td align='justify'><br/>
+
+Syndromes myélodysplasiques acquis</td><td align='left'><br/>
+
+3 ans</td></tr><tr><td align='justify'><br/>
+
+Leucémies aiguës myéloblastiques et lymphoblastiques</td><td align='left'><br/>
+
+20 ans</td></tr><tr><td align='justify'><br/>
+
+Syndrome myéloprolifératif</td><td align='left'><br/>
+
+20 ans</td></tr></tbody></table>
