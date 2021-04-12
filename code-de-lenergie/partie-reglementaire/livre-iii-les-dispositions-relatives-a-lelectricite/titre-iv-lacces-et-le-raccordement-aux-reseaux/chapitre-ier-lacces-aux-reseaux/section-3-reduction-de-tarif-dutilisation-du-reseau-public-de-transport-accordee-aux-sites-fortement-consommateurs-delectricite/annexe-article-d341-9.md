@@ -1,73 +1,33 @@
 # Article Annexe article D341-9
 
-<center><table border='1'><tbody><tr><th colspan='3'><br/>
+<center><table border='1'><tbody><tr><th><br/>
 
-TYPE D'ÉLIGIBILITÉ</th><th colspan='4'><br/>
+Catégories de sites éligibles</th><th><br/>
 
-TAUX DE RÉDUCTION ACCORDÉ</th></tr><tr><td><br/>
+Taux de réduction accordé (*)</th></tr><tr><td align='justify'><br/>
 
-Profil stable</td><td><br/>
+Profil stable<br/><br/>
 
-Profil anti-cyclique</td><td><br/>
+[électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh ; durée d'utilisation du réseau supérieure ou égale à 7 000 heures ; hors sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau]</td><td align='center'><br/>
 
-Grand consommateur d'électricité</td><td><br/>
+81 %</td></tr><tr><td align='justify'><br/>
 
-Sites hyper électro-intensifs au sens de l'article D. 351-3</td><td><br/>
+Profil anti-cyclique<br/><br/>
 
-Sites électro-intensifs au sens de l'article D. 351-2 ou qui appartiennent à une entreprise électro-intensive au sens de l'article D. 351-1</td><td><br/>
+[électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh ; taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.44 ; hors sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau]</td><td align='center'><br/>
 
-Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau</td><td><br/>
+74 %</td></tr><tr><td align='justify'><br/>
 
-Autres sites</td></tr><tr><td><br/>
+Grand consommateur d'électricité<br/><br/>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
+[électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 500 GWh ; taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.40 et inférieur à 0.44 ; hors sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau]</td><td align='center'><br/>
 
-<p>durée d'utilisation du réseau supérieure ou égale à 7000 heures</p></td><td><br/>
+76 %</td></tr><tr><td align='justify'><br/>
 
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
+Sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau (**)<br/><br/>
 
-<p>taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.44</p></td><td><br/>
+[électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh ; taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.44]</td><td align='center'><br/>
 
-électricité annuelle consommée supérieure à 500 GWh
+50 %</td></tr></tbody></table></center><p>(*) Sous réserve d'assurer individuellement pour chaque site la couverture des coûts directement imputables à son utilisation du réseau évalués selon les modalités définies à l'article D. 341-9-2.<br/><br/>
 
-<p>taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.40 et inférieur à 0.44</p></td><td align='center'><br/>
-
-80 %</td><td align='center'><br/>
-
-45 %</td><td align='center'><br/>
-
-30 % (*)</td><td align='center'><br/>
-
-5 %</td></tr><tr><td><br/>
-
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
-
-<p>durée d'utilisation du réseau supérieure ou égale à 7500 heures</p></td><td><br/>
-
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
-
-<p>taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.48</p></td><td></td><td align='center'><br/>
-
-85 %</td><td align='center'><br/>
-
-50 %</td><td align='center'><br/>
-
-40 % (*)</td><td align='center'><br/>
-
-10 %</td></tr><tr><td><br/>
-
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
-
-<p>durée d'utilisation du réseau supérieure ou égale à 8000 heures</p></td><td><br/>
-
-électricité annuelle soutirée sur le réseau de transport d'électricité supérieure à 10 GWh
-
-<p>taux d'utilisation du réseau en heures creuses supérieur ou égal à 0.53</p></td><td></td><td align='center'><br/>
-
-90 %</td><td align='center'><br/>
-
-60 %</td><td align='center'><br/>
-
-50 % (*)</td><td align='center'><br/>
-
-20 %</td></tr></tbody></table></center><p>(*) Pour les sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau, si, au cours de la période considérée pour le calcul des critères susmentionnés, la moyenne sur trois ans du rapport entre la quantité d'énergie injectée par le site et celle de l'énergie soutirée par lui sur le réseau de transport d'électricité est inférieure à 70 %, le taux de réduction dont il bénéficie est diminué de 10 points de pourcentage.</p>
+(**) Pour les sites permettant le stockage de l'énergie en vue de sa restitution ultérieure au réseau, si, au cours de la période considérée pour le calcul des critères susmentionnés, la moyenne sur trois ans du rapport entre la quantité d'énergie injectée par le site et celle de l'énergie soutirée par lui sur le réseau de transport d'électricité est inférieure à 70 %, le taux de réduction dont il bénéficie est diminué de 10 points de pourcentage.</p>
