@@ -36,12 +36,6 @@ Ressort du tribunal judiciaire de Marseille</td></tr><tr><td colspan='3' align='
 
 Cour d'appel d'Angers</td></tr><tr><td colspan='3' align='center'><br/>
 
-Maine-et-Loire</td></tr><tr><td align='left'><br/>
-
-Angers</td><td align='left'></td><td align='left'><br/>
-
-Ressort du tribunal judiciaire d'Angers</td></tr><tr><td colspan='3' align='center'><br/>
-
 Sarthe</td></tr><tr><td align='left'><br/>
 
 Le Mans</td><td align='left'></td><td align='left'><br/>
@@ -102,4 +96,4 @@ Yvelines</td></tr><tr><td align='left'><br/>
 
 Versailles</td><td align='left'></td><td align='left'><br/>
 
-Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la chambre de proximité de Saint-Germain-en-Laye</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
+Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la chambre de proximité de Saint-Germain-en-Laye</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2021-439 du 13 avril 2021, ces dispositions sont applicables aux instances introduites à compter du 1er juillet 2021.</p></i>
