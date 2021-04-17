@@ -76,8 +76,6 @@ Conseil de prud'hommes de Bobigny</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes de Créteil</td></tr><tr><td align='left'><br/>
 
-Conseil de prud'hommes de Sens</td></tr><tr><td align='left'><br/>
-
 Conseil de prud'hommes de Villeneuve-Saint-Georges</td></tr><tr><td align='center'><br/>
 
 Cour d'appel de Poitiers</td></tr><tr><td align='left'><br/>
