@@ -1,3 +1,19 @@
 # Article 46 quater-0 YZD
 
-<p>Pour l'application des dispositions de l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-v-calcul-de-limpot/7-reduction-dimpot-pour-souscription-au-capital-de-societes-de-presse/220-undecies.md'>220 undecies </a>du code général des impôts, les entreprises déposent une déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006309793&dateTexte=&categorieLien=cid'>360 </a>auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-iv-personnes-imposables-lieu-dimposition/218-a.md'>l'article 218 A</a> du code général des impôts. </p><p>S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-ii-impot-sur-les-benefices-des-societes-et-autres-personnes-morales/section-viii-groupes-de-societes/1re-sous-section-dispositions-generales/223-a.md'>223 A </a>du code général des impôts, la société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.</p>
+<p>I.-Pour l'application des dispositions de l'article 220 undecies du code général des impôts, les entreprises déclarent les réductions d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration annuelle de résultat qu'elles sont tenues de souscrire en application de l'article 223 du même code.<br/><br/>
+
+La société mère d'un groupe au sens de l'article 223 A du code général des impôts déclare les réductions d'impôt pour le compte des sociétés du groupe, y compris celles la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble du groupe.<br/><br/>
+
+II.-Lorsqu'une entreprise souscrit au capital d'une société de presse remplissant les conditions prévues au I de l'article 220 undecies du code général des impôts, cette société de presse lui délivre un état individuel qui mentionne :<br/><br/>
+
+a) L'objet pour lequel il est établi ;<br/><br/>
+
+b) La raison sociale, l'objet social, le siège social et le régime fiscal de la société ;<br/><br/>
+
+c) L'identité et l'adresse de l'entreprise souscriptrice ;<br/><br/>
+
+d) Le nombre des titres souscrits, le montant et la date de leur souscription ;<br/><br/>
+
+e) La date et le montant des versements effectués.<br/><br/>
+
+La société de presse atteste sur cet état qu'elle répond aux conditions mentionnées au I et au VII de l'article 220 undecies du code général des impôts.</p>
