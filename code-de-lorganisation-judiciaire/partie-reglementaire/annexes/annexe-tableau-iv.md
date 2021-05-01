@@ -246,15 +246,15 @@ Doubs</td></tr><tr><td align='left'><br/>
 
 Besançon</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-Doubs, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Pontarlier</td><td align='justify'><br/>
 
-Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp et communes d'Etalans et Levier.</td></tr><tr><td align='left'><br/>
+Cantons du Russey, Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans, Vercel-Villedieu-le-Camp et communes d'Etalans et Levier.</td></tr><tr><td align='left'><br/>
 
 Montbéliard</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Audincourt, Étupes, Hérimoncourt, Le Russey, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont et Valentigney.</td></tr><tr><td colspan='3' align='center'><br/>
+Cantons d'Audincourt, Clerval, Étupes, Hérimoncourt, L'Isle-sur-le-Doubs, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont et Valentigney.</td></tr><tr><td colspan='3' align='center'><br/>
 
 Haute-Saône</td></tr><tr><td align='left'><br/>
 
@@ -774,11 +774,11 @@ Hérault</td></tr><tr><td align='left'><br/>
 
 Béziers</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Agde, Bédarieux, Béziers 1er Canton, Béziers 2e Canton, Béziers 3e Canton, Béziers 4e Canton, Capestang, Florensac, La Salvetat-sur-Agout, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian.</td></tr><tr><td align='left'><br/>
+Cantons d'Agde, Bédarieux, Béziers 1er Canton, Béziers 2e Canton, Béziers 3e Canton, Béziers 4e Canton, Capestang, Florensac, La Salvetat-sur-Agout, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian et communes d'Avène, Brénas, Ceilhes-et-Rocozels, Dio-et-Valquières, Joncels, Le Bousquet-d'Orb et Lunas.</td></tr><tr><td align='left'><br/>
 
 Montpellier</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Aniane, Castelnau-le-Lez, Castries, Claret, Clermont-l'Hérault, Ganges, Gignac, Lattes, Le Caylar, Les Matelles, Lodève, Lunas, Lunel, Mauguio, Montpellier 1er Canton, Montpellier 2e Canton, Montpellier 3e Canton, Montpellier 4e Canton, Montpellier 5e Canton, Montpellier 6e Canton, Montpellier 7e Canton, Montpellier 8e Canton, Montpellier 9e Canton, Montpellier 10e Canton, Pignan et Saint-Martin-de-Londres.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Aniane, Castelnau-le-Lez, Castries, Claret, Clermont-l'Hérault, Ganges, Gignac, Lattes, Le Caylar, Les Matelles, Lodève, Lunas (à l'exception des communes d'Avène, Brénas, Ceilhes-et-Rocozels, Dio-et-Valquières, Joncels, Le Bousquet-d'Orb et Lunas), Lunel, Mauguio, Montpellier 1er Canton, Montpellier 2e Canton, Montpellier 3e Canton, Montpellier 4e Canton, Montpellier 5e Canton, Montpellier 6e Canton, Montpellier 7e Canton, Montpellier 8e Canton, Montpellier 9e Canton, Montpellier 10e Canton, Pignan et Saint-Martin-de-Londres.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Sète</td><td align='justify'><br/>
 
@@ -1438,4 +1438,4 @@ Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de Jo
 
 Saint-Germain-en-Laye</td><td align='justify'><p>Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons-Laffitte, Marly-le-Roi, Saint-Germain-en-Laye-Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.</p></td></tr></tbody></table></center><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Siège du tribunal de première instance</p></td><td><p align='center'>Siège de la section détachée</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Nouméa</p></td></tr><tr><td colspan='3'><p align='center'>Nouvelle-Calédonie</p></td></tr><tr><td rowspan='3'><p>Nouméa</p></td><td><p align='center'></p></td><td><p>Nouvelle-Calédonie.</p></td></tr><tr><td><p>Koné</p></td><td><p>Province Nord.</p></td></tr><tr><td><p>Lifou</p></td><td><p>Province des Îles Loyauté.</p></td></tr><tr><td colspan='3'><p align='center'>Wallis-eft-Futuna</p></td></tr><tr><td colspan='2'><p>Mata-Utu</p></td><td><p align='center'>Territoire des îles Wallis et Futuna.</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Papeete</p></td></tr><tr><td colspan='3'><p align='center'>Polynésie française</p></td></tr><tr><td rowspan='3'><p>Papeete</p></td><td><p align='center'></p></td><td><p>Collectivité d'outre-mer de la Polynésie française.</p></td></tr><tr><td><p>Uturoa</p></td><td><p>Îles Sous-le-Vent.</p></td></tr><tr><td><p>Nuku-Hiva</p></td><td><p>Îles Marquises.</p></td></tr></tbody></table><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>Siège du tribunal de première instance<br/>
 
-et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2020-1151 du 18 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.</p></i>
+et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 2 du décret n° 2021-46 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.</p><p>Conformément à l'article 2 du décret n° 2021-47 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.</p></i>
