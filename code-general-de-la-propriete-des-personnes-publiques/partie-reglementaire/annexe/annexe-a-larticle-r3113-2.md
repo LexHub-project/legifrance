@@ -130,7 +130,7 @@ Yonne.</td><td align='center'><br/>
 
 Pont Colbert à Auxerre.</td><td align='center'><br/>
 
-Confluent avec la Seine.</td></tr></tbody></table><p><p>(*) En dehors de la Loire et de la Garonne, ne sont visées dans le tableau que les sections sur lesquelles s'effectue officiellement la navigation, à l'exclusion des boucles court-circuitées, bras..., non utilisés par la navigation de commerce ou dépourvus d'ouvrages (barrages, prise d'eau), indispensables à la gestion de son niveau d'eau.</p></p><p>B. - Canaux non transférables</p><center><table border='1'><tbody><tr><th><br/>
+Confluent avec la Seine.</td></tr></tbody></table><p>(*) En dehors de la Loire et de la Garonne, ne sont visées dans le tableau que les sections sur lesquelles s'effectue officiellement la navigation, à l'exclusion des boucles court-circuitées, bras..., non utilisés par la navigation de commerce ou dépourvus d'ouvrages (barrages, prise d'eau), indispensables à la gestion de son niveau d'eau.</p><p>B. - Canaux non transférables</p><center><table border='1'><tbody><tr><th><br/>
 
 NOM DE LA VOIE</th><th><br/>
 
@@ -214,7 +214,7 @@ Canal de la Marne au Rhin y compris l'embranchement d'Houdelaincourt.</td><td al
 
 Vitry-le-François.</td><td align='center'><br/>
 
-Toul.</td></tr><tr><td align='center'><br/></td><td align='center'><br/>
+Toul.</td></tr><tr><td align='center'></td><td align='center'><br/>
 
 Frouard.</td><td align='center'><br/>
 
@@ -302,4 +302,4 @@ Canal des Vosges (anciennement canal de l'Est branche Sud).</td><td align='cente
 
 Corre.</td><td align='center'><br/>
 
-Neuves-Maisons.</td></tr></tbody></table></center><p>C. - Ports intérieurs non transférables</p><p>Port autonome de Paris.</p><p>Port autonome de Strasbourg.</p>
+Neuves-Maisons.</td></tr></tbody></table></center><p>C. - Ports intérieurs non transférables</p><p>Grand port fluvio-maritime de l'axe Seine (secteur fluvial)</p><p>Port autonome de Strasbourg.</p><br/><br/><i>NOTA:<p>Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.</p></i>
