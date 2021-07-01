@@ -1,3 +1,3 @@
 # Article 265 octies B
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041406524)⚠️
+<p>Le tarif de la taxe intérieure de consommation applicable au gazole utilisé pour le transport ferroviaire de personnes ou de marchandises sur le réseau ferroviaire, au sens de l'article <a href='/code-des-transports/partie-legislative/deuxieme-partie-transport-ferroviaire-ou-guide/livre-ier-systeme-de-transport-ferroviaire-ou-guide/titre-ii-exploitation/chapitre-ii-regles-generales-dacces-au-reseau/section-1-dispositions-communes/l2122-1.md' title='Code des transports - art. L2122-1 (V)'>L. 2122-1</a> du code des transports, est fixé à 18,82 € par hectolitre.</p><br/><br/><i>NOTA:<p>Version en vigueur à compter du 1er juillet 2021 conformément au 4° bis du A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020).</p></i>
