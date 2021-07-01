@@ -2,7 +2,7 @@
 
 <p>COMPÉTENCES MATÉRIELLES DES CHAMBRES DE PROXIMITÉ NON MENTIONNÉES AU TABLEAU IV-III<br/><br/>
 
-(annexe de l'article D. 212-19-1)</p><p><table border='1'><tbody><tr><th>COUR D'APPEL</th><th><br/>
+(annexe de l'article D. 212-19-1)</p><table border='1'><tbody><tr><th>COUR D'APPEL</th><th><br/>
 
 TRIBUNAL JUDICIAIRE</th><th><br/>
 
@@ -90,7 +90,7 @@ Villeneuve-sur-Lot.</td><td rowspan='69' align='justify'><br/>
 
 36° Des demandes de désignation d'expert prévues à l'article L. 429-32 du code de l'environnement ;<br/><br/>
 
-37° Des actions mentionnées à l'article R. 136-2 du code de la construction et de l'habitation ;<br/><br/>
+37° Des actions mentionnées aux articles R. 113-7 à R. 113-10 du code de la construction et de l'habitation ;<br/><br/>
 
 38° Des actions mentionnées à l'article L. 271-5 du code de l'action sociale et des familles ;<br/><br/>
 
@@ -470,4 +470,4 @@ Gonesse, Montmorency, Sannois.</td></tr><tr><td align='left'><br/>
 
 Versailles</td><td align='left'><br/>
 
-Mantes-la-Jolie, Poissy, Rambouillet, Saint-Germain-en-Laye.</td></tr></tbody></table></p><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
+Mantes-la-Jolie, Poissy, Rambouillet, Saint-Germain-en-Laye.</td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
