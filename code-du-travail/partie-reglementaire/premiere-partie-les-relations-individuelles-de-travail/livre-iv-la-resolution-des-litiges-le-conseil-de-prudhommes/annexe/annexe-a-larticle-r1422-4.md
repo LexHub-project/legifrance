@@ -340,9 +340,9 @@ Ressort du tribunal judiciaire de Lisieux.</td></tr><tr><td rowspan='3' align='c
 
 Manche</td><td align='center'><br/>
 
-Cherbourg-en-Corentin</td><td align='center'><br/>
+Cherbourg-en-Cotentin</td><td align='center'><br/>
 
-Cherbourg-en-Corentin</td><td align='left'><br/>
+Cherbourg-en-Cotentin</td><td align='left'><br/>
 
 Ressort du tribunal judiciaire de Cherbourg-en-Cotentin.</td></tr><tr><td align='center'><br/>
 
@@ -1226,11 +1226,9 @@ Evreux</td><td align='center'><br/>
 
 Bernay</td><td align='left'><br/>
 
-Ressort de la chambre de proximité de Bernay et commune des Monts du Roumois</td></tr><tr><td align='center'></td><td align='center'>Evreux</td><td align='left'>Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay, des Andélys et des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td align='left'></td><td align='center'><br/>
+Ressort de la chambre de proximité de Bernay</td></tr><tr><td align='center'></td><td align='center'>Evreux</td><td align='left'>Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts des chambres de proximité de Bernay et de Louviers.</td></tr><tr><td align='left'></td><td align='center'><br/>
 
-Louviers</td><td align='left'><br/>
-
-Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne (à l'exception de la partie de la commune des Monts du Roumois correspondant à l'ancienne commune de Houlbec-près-le-Gros-Theil), Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td></tr><tr><td rowspan='3' align='center'><br/>
+Louviers</td><td align='left'>Ressort de la chambre de proximité de Louviers.</td></tr><tr><td rowspan='3' align='center'><br/>
 
 Seine-Maritime</td><td align='center'><br/>
 
@@ -1436,4 +1434,4 @@ Saint-Pierre</td><td align='left'><br/>
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.</td></tr><tr><td colspan='4' align='left'><br/>
 
-(*) Siège à compter du 1er janvier 2022.</td></tr></tbody></table><br/><br/><i>NOTA:<p><font color='black'>Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.</font></p><p><font color='black'>Conformément aux dispositions du II de l'article 18 du décret n° 2011-338 du 29 mars 2011 modifié en dernier lieu par le décret n° 2018-122 du 20 février 2018, </font> l'installation du conseil des prud'hommes à Mayotte, créé par l'article 9 dudit décret, sera effective à compter d'une date fixée par décret et au plus tard à la date mentionnée au II de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à-dire au plus tard à compter du 1er janvier 2022.</p></i>
+(*) Siège à compter du 1er janvier 2022.</td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2021-886 du 2 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.</p><p><font color='black'>Conformément aux dispositions du II de l'article 18 du décret n° 2011-338 du 29 mars 2011 modifié en dernier lieu par le décret n° 2018-122 du 20 février 2018, </font> l'installation du conseil des prud'hommes à Mayotte, créé par l'article 9 dudit décret, sera effective à compter d'une date fixée par décret et au plus tard à la date mentionnée au II de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à-dire au plus tard à compter du 1er janvier 2022.</p></i>
