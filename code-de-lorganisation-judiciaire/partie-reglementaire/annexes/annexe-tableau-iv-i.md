@@ -1,6 +1,6 @@
 # Article Annexe Tableau IV-I
 
-<p align='center'>Conseils de prud'hommes et maisons de justice et du droit dans lesquels est implanté un service d'accueil unique du justiciable (annexe R. 123-26)</p><p align='center'>Tableau IV-I</p><center><table border='1'><tbody><tr><th><br/>
+<p>Conseils de prud'hommes et maisons de justice et du droit dans lesquels est implanté un service d'accueil unique du justiciable (annexe R. 123-26)</p><center><table border='1'><tbody><tr><th><br/>
 
 CONSEIL DE PRUD'HOMMES ET MAISONS DE JUSTICE ET DU DROIT DANS LESQUELS EST IMPLANTE UN SERVICE D'ACCUEIL UNIQUE DU JUSTICIABLE</th></tr><tr><td align='center'><br/>
 
@@ -100,10 +100,6 @@ Conseil de prud'hommes de Lorient</td></tr><tr><td align='left'><br/>
 
 Maison de justice et du droit de Pontivy</td></tr><tr><td align='center'><br/>
 
-Cour d'appel de Rouen</td></tr><tr><td align='left'><br/>
-
-Conseil de prud'hommes de Louviers</td></tr><tr><td align='center'><br/>
-
 Cour d'appel de Versailles</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes de Boulogne-Billancourt</td></tr><tr><td align='left'><br/>
@@ -112,4 +108,4 @@ Conseil de prud'hommes de Châteaudun</td></tr><tr><td align='left'><br/>
 
 Conseil de prud'hommes d'Argenteuil</td></tr><tr><td align='left'><br/>
 
-Conseil de prud'hommes de Saint-Germain-en-Laye</td></tr></tbody></table></center>
+Conseil de prud'hommes de Saint-Germain-en-Laye</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 2 de l'arrêté du 23 avril 2021 (NOR : JUSB2112667A), ces dispositions entrent en vigueur le 1er septembre 2021.</p></i>
