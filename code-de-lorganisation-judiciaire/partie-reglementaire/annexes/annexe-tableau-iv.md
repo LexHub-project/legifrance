@@ -1260,15 +1260,13 @@ Eure</td></tr><tr><td align='left'><br/>
 
 Evreux</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Amfreville-la-Campagne (à l'exception de la fraction de commune des Monts du Roumois), Breteuil, Conches-en-Ouche, Damville, Évreux-Est, Évreux-Nord, Évreux-Ouest, Évreux-Sud, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Nonancourt, Pacy-sur-Eure, Pont-de-l'Arche, Rugles, Saint-André-de-l'Eure, Val-de-Reuil, Verneuil-sur-Avre, Vernon-Nord et Vernon-Sud.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons de Breteuil, Conches-en-Ouche, Damville, Évreux-Est, Évreux-Nord, Évreux-Ouest, Évreux-Sud, Nonancourt, Pacy-sur-Eure, Rugles, Saint-André-de-l'Eure, Verneuil-sur-Avre, Vernon-Nord et Vernon-Sud.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Bernay</td><td align='justify'><br/>
 
 Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay-Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie, Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre, Thiberville et commune des Monts du Roumois.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
-Les Andelys</td><td align='justify'><br/>
-
-Cantons d'Écos, Étrépagny, Fleury-sur-Andelle, Gisors, Les Andelys et Lyons-la-Forêt.</td></tr><tr><td colspan='3' align='center'><br/>
+Louviers</td><td align='justify'>Cantons d'Amfreville-la-Campagne (à l'exception de la fraction de commune des Monts du Roumois), Écos, Étrépagny, Fleury-sur-Andelle, Gaillon, Gaillon-Campagne, Gisors, Le Neubourg, Les Andelys, Louviers-Nord, Louviers-Sud, Lyons-la-Forêt, Pont-de-l'Arche et Val-de-Rueil.</td></tr><tr><td colspan='3' align='center'><br/>
 
 Seine-Maritime</td></tr><tr><td align='left'><br/>
 
@@ -1438,4 +1436,14 @@ Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de Jo
 
 Saint-Germain-en-Laye</td><td align='justify'><p>Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons-Laffitte, Marly-le-Roi, Saint-Germain-en-Laye-Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.</p></td></tr></tbody></table></center><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Siège du tribunal de première instance</p></td><td><p align='center'>Siège de la section détachée</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Nouméa</p></td></tr><tr><td colspan='3'><p align='center'>Nouvelle-Calédonie</p></td></tr><tr><td rowspan='3'><p>Nouméa</p></td><td><p align='center'></p></td><td><p>Nouvelle-Calédonie.</p></td></tr><tr><td><p>Koné</p></td><td><p>Province Nord.</p></td></tr><tr><td><p>Lifou</p></td><td><p>Province des Îles Loyauté.</p></td></tr><tr><td colspan='3'><p align='center'>Wallis-eft-Futuna</p></td></tr><tr><td colspan='2'><p>Mata-Utu</p></td><td><p align='center'>Territoire des îles Wallis et Futuna.</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Papeete</p></td></tr><tr><td colspan='3'><p align='center'>Polynésie française</p></td></tr><tr><td rowspan='3'><p>Papeete</p></td><td><p align='center'></p></td><td><p>Collectivité d'outre-mer de la Polynésie française.</p></td></tr><tr><td><p>Uturoa</p></td><td><p>Îles Sous-le-Vent.</p></td></tr><tr><td><p>Nuku-Hiva</p></td><td><p>Îles Marquises.</p></td></tr></tbody></table><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>Siège du tribunal de première instance<br/>
 
-et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 2 du décret n° 2021-46 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.</p><p>Conformément à l'article 2 du décret n° 2021-47 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.</p></i>
+et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 3 du décret n° 2020-1563 du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er septembre 2021.<br clear='none'/>
+
+A cette date, les procédures en cours devant le tribunal judiciaire d'Evreux et la chambre de proximité des Andelys sont transférées en l'état à la nouvelle chambre de proximité de Louviers, dans la mesure où elles relèvent désormais de sa compétence.<br clear='none'/>
+
+Les convocations, citations et assignations données aux parties et aux témoins délivrées avant le 1er septembre 2021 pour une comparution postérieure à cette date le sont devant la chambre de proximité nouvellement compétente.<br clear='none'/>
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le 1er septembre 2021, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas été suivies d'une comparution devant le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys. Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.<br clear='none'/>
+
+Le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys informent les parties ayant comparu devant l'un ou l'autre, de ce qu'il leur appartient d'accomplir les actes de la procédure devant la chambre de proximité de Louviers à laquelle la procédure a été transférée.<br clear='none'/>
+
+Les archives et les minutes du greffe du tribunal judiciaire d'Evreux antérieurement compétent et de la chambre de proximité des Andelys sont transférées au greffe de la chambre de proximité de Louviers nouvellement compétente. Les frais de transfert de ces archives et minutes sont imputés sur le crédit ouvert à cet effet au budget du ministère de la justice.</p></i>

@@ -1202,11 +1202,9 @@ Ressort de la chambre de proximité de Bernay.</td></tr><tr><td align='center'><
 
 Evreux</td><td align='left'></td><td align='left'><br/>
 
-Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay et des Andélys.</td></tr><tr><td align='left'></td><td align='center'><br/>
+Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay et de Louviers.</td></tr><tr><td align='left'></td><td align='center'><br/>
 
-Les Andélys</td><td align='left'><br/>
-
-Ressort de la chambre de proximité des Andelys.</td></tr><tr><td rowspan='3' align='center'><br/>
+Louviers</td><td align='left'>Ressort de la chambre de proximité de Louviers.</td></tr><tr><td rowspan='3' align='center'><br/>
 
 Seine-Maritime</td><td align='center'><br/>
 
@@ -1366,4 +1364,14 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon</td><td align='justify'><
 
 Saint-Pierre-et-Miquelon</td><td align='justify'><br/>
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 5 du décret n° 2019-1408 du 19 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.</p><p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
+Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 3 du décret n° 2020-1563 du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er septembre 2021.<br clear='none'/><br clear='none'/>
+
+A cette date, les procédures en cours devant le tribunal judiciaire d'Evreux et la chambre de proximité des Andelys sont transférées en l'état à la nouvelle chambre de proximité de Louviers, dans la mesure où elles relèvent désormais de sa compétence.<br clear='none'/><br clear='none'/>
+
+Les convocations, citations et assignations données aux parties et aux témoins délivrées avant le 1er septembre 2021 pour une comparution postérieure à cette date le sont devant la chambre de proximité nouvellement compétente.<br clear='none'/><br clear='none'/>
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le 1er septembre 2021, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas été suivies d'une comparution devant le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys. Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.<br clear='none'/><br clear='none'/>
+
+Le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys informent les parties ayant comparu devant l'un ou l'autre, de ce qu'il leur appartient d'accomplir les actes de la procédure devant la chambre de proximité de Louviers à laquelle la procédure a été transférée.<br clear='none'/><br clear='none'/>
+
+Les archives et les minutes du greffe du tribunal judiciaire d'Evreux antérieurement compétent et de la chambre de proximité des Andelys sont transférées au greffe de la chambre de proximité de Louviers nouvellement compétente. Les frais de transfert de ces archives et minutes sont imputés sur le crédit ouvert à cet effet au budget du ministère de la justice.</p></i>
