@@ -118,7 +118,7 @@ Moniteur-chef d'entraînement physique, militaire et sportif, délivré jusqu'au
 
 Encadrement et coordination des activités physiques ou sportives.</td><td align='left'><br/>
 
-A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.</td></tr><tr><td colspan='4' align='left'><br/>
+A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.</td></tr><tr><td align='left'><p>Adjoint éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.</p></td><td align='left'>3</td><td align='left'>Animation des activités physiques ou sportives.</td><td align='left'>Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4.</td></tr><tr><td align='left'><p>Éducateur sportif opérationnel délivré jusqu'au 16 juin 2025.</p></td><td align='left'>4</td><td align='left'>Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles.</td><td align='left'>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.</td></tr><tr><td align='left'><p>Chef d'équipe éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.</p></td><td align='left'>5</td><td align='left'>Encadrement et coordination des activités physiques ou sportives.</td><td align='left'>A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.</td></tr><tr><td colspan='4' align='left'><br/>
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'><br/>
 
@@ -386,12 +386,6 @@ DES JEPS, spécialité " performance sportive " mention " sport adapté ", déli
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'><br/>
-
-CQP moniteur en sport adapté , délivré jusqu'au 7 juin 2021.</td><td align='left'></td><td align='left'><br/>
-
-Encadrement des activités en sport adapté aux personnes en situation de handicap mental ou psychique.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
-
 AÏKIDO, AÏKIBUDO
 
 <p>y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</p></td></tr><tr><td colspan='4' align='left'><br/>
@@ -408,7 +402,13 @@ DES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et 
 
 6</td><td align='left'><br/>
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><p>ARTS MARTIAUX MIXTES y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</p></td></tr><tr><td align='left'><p>CC " encadrer les arts martiaux mixtes " (MMA) " associé :<br/><br/>
+
+-au BP JEPS, spécialité " éducDES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et disciplines associées " délivré jusqu'au 1er janvier 2024. ateur sportif ", mentions " activités de la savate ", " boxe ", " judo-jujitsu ", " karaté, wushu et disciplines associées ", " lutte et disciplines associées ", " sports de contact et disciplines associées "<br/><br/>
+
+-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS spécialité "performance sportive ", mentions " boxe ", " boxe thaï-muay thaï ", " full contact ", " full contact-boxe américaine ", " judo-jujitsu ", " karaté et disciplines associées ", " kick-boxing ", " muay-thaï ", " lutte et disciplines associées "<br/><br/>
+
+-au DES JEPS, spécialité " performance sportive ", mention " savate boxe française ".</p></td><td align='left'></td><td align='left'>Encadrement et conduite de cycles d'initiation et d'apprentissage en arts martiaux mixtes.</td><td align='left'>Pour les titulaires du DE JEPS spécialité " perfectionnement sportif ", mention " judo-jujitsu ", sous réserve d'être titulaire du 2ème dan</td></tr><tr><td colspan='4' align='left'><br/>
 
 ATHLÉTISME
 
@@ -1176,13 +1176,7 @@ Animateur d'équitation, délivré du 2 mars 2020 au 2 mars 2023.</td><td align=
 
 3</td><td align='left'>Encadrement, découverte et initiation des activités équestres.</td><td align='left'><br/>
 
-Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres.</td></tr><tr><td align='left'><br/>
-
-Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021.</td><td align='left'><br/>
-
-4</td><td align='left'><br/>
-
-Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres.</td></tr><tr><td colspan='4' align='left'><br/>
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres</td></tr><tr><td align='left'><br/>
 
@@ -1360,29 +1354,17 @@ DES JEPS, spécialité " performance sportive " mention " football ", délivré 
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
-Titres à finalité professionnelle délivrés par la fédération française de football</td></tr><tr><td align='left'><br/>
-
-Moniteur de football, délivré jusqu'au 7 juin 2021.</td><td align='left'><br/>
-
-4</td><td align='left'><br/>
+Titres à finalité professionnelle délivrés par la fédération française de football</td></tr><tr><td align='left'>Moniteur de football, délivré jusqu'au 19 mai 2023.<br/></td><td align='left'>4</td><td align='left'><br/>
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football.</td><td align='left'></td></tr><tr><td align='left'><br/>
 
-Entraîneur de football, délivré jusqu'au 7 juin 2021.</td><td align='left'><br/>
+Entraîneur de football, délivré jusqu'au 19 mai 2023.</td><td align='left'>5<br/></td><td align='left'><br/>
 
-5</td><td align='left'><br/>
-
-Entraînement en football.</td><td align='left'></td></tr><tr><td align='left'><br/>
-
-Entraîneur formateur de football, délivré jusqu'au 7 juin 2021.</td><td align='left'><br/>
+Entraînement en football.</td><td align='left'></td></tr><tr><td align='left'>Entraîneur formateur de football, délivré jusqu'au 19 mai 2023.<br/></td><td align='left'><br/>
 
 6</td><td align='left'><br/>
 
-Encadrement et entraînement en football dans une structure de préformation ou de formation.</td><td align='left'></td></tr><tr><td align='left'><br/>
-
-Entraîneur professionnel de football, délivré jusqu'au 7 juin 2021.</td><td align='left'><br/>
-
-6</td><td align='left'><br/>
+Encadrement et entraînement en football dans une structure de préformation ou de formation.<br/></td><td align='left'></td></tr><tr><td align='left'>Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023.<br/></td><td align='left'>6<br/></td><td align='left'><br/>
 
 Encadrement et entraînement en football, dans un club professionnel.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
@@ -2342,9 +2324,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau.</td></tr><tr><td align='left'><br/>
 
-CC " plongée profonde et tutorat " associé au DE JEPS spécialité " perfectionnement sportif " mention " activités de plongée subaquatique ", délivré jusqu'au 1er janvier 2021.</td><td align='left'></td><td align='left'><br/>
-
-Enseignement, animation, encadrement des activités de plongée subaquatique ou entraînement de leurs pratiquants.</td><td align='left'><br/>
+CC “ plongée profonde et tutorat ” associé au DE JEPS spécialité “ perfectionnement sportif ” mention “ activités de plongée subaquatique ”.</td><td align='left'></td><td align='left'>Enseignement, animation, encadrement des activités de plongée subaquatique ou entraînement de leurs pratiquants.</td><td align='left'><br/>
 
 Dans la limite de 60 mètres pour l'encadrement de l'enseignement et de la plongée en exploration. Au-delà de 60 mètres pour l'encadrement de l'enseignement et de l'exploration en plongée aux mélanges autres que l'air, s'il est assorti des qualifications complémentaires.</td></tr><tr><td colspan='4' align='left'><br/>
 
@@ -2516,11 +2496,7 @@ DES JEPS, spécialité " performance sportive " mention " rugby à XV ", délivr
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'>CQP " moniteur de rugby à XV ", délivré jusqu'au 7 juin 2021</td><td align='left'></td><td align='left'><br/>
-
-Animation des activités de rugby à XV à des fins de découverte et d'initiation.<br/><br/>
-
-Encadrement des activités de rugby à XV dans les catégories d'âge des écoles de rugby (7 à 15 ans).</td><td align='left'></td></tr><tr><td align='left'><br/>
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'><br/>
 
 CQP " technicien sportif de rugby à XV ", délivré jusqu'au 21 juillet 2023.</td><td align='left'></td><td align='left'><br/>
 
