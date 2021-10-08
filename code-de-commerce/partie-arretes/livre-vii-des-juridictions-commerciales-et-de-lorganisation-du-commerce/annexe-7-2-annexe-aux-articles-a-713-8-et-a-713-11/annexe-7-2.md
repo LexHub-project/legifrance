@@ -1,3 +1,3 @@
 # Article Annexe 7-2
 
-<div align='center'>ÉLECTION DES MEMBRES DES CHAMBRES DE COMMERCE ET D'INDUSTRIE TERRITORIALES<br/></div><p>Vous pouvez consulter les clichés dans le JO n° 244 du 20/10/2010 texte numéro 8 </p>
+<p>ÉLECTION DES MEMBRES DES CHAMBRES DE COMMERCE ET D'INDUSTRIE TERRITORIALES</p><p>Vous pouvez consulter le JORF n° 0234 du 7 octobre 2021, texte n° 36, à l'adresse suivante :</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Zt1Ecc84fYFXnMSAsmBEC9wSiaBg-vd4cyS7UvEMzw8=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Zt1Ecc84fYFXnMSAsmBEC9wSiaBg-vd4cyS7UvEMzw8=</a></p>
