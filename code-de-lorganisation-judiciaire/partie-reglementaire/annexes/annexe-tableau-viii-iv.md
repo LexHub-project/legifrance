@@ -1,6 +1,6 @@
 # Article Annexe Tableau VIII-IV
 
-<p>SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES COMPÉTENTS POUR CONNAÎTRE DES ACTIONS RELATIVES AU PRÉJUDICE ÉCOLOGIQUE FONDÉES SUR LES ARTICLES 1246 À 1252 DU CODE CIVIL, DES ACTIONS EN RESPONSABILITÉ CIVILE PRÉVUES PAR LE <a href='/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=&categorieLien=cid'>CODE DE L'ENVIRONNEMENT </a>ET DES ACTIONS EN RESPONSABILITÉ CIVILE FONDÉES SUR LES RÉGIMES SPÉCIAUX DE RESPONSABILITÉ APPLICABLES EN MATIÈRE ENVIRONNEMENTALE RÉSULTANT DE RÈGLEMENTS EUROPÉENS, DE CONVENTIONS INTERNATIONALES ET DES LOIS PRISES POUR L'APPLICATION DE CES CONVENTIONS<br/><br/>
+<p>SIÈGE ET RESSORT  DES TRIBUNAUX JUDICIAIRES COMPÉTENTS POUR CONNAÎTRE DES ACTIONS RELATIVES AU PRÉJUDICE ÉCOLOGIQUE FONDÉES SUR LES ARTICLES 1246 À 1252 DU CODE CIVIL, DES ACTIONS EN RESPONSABILITÉ CIVILE PRÉVUES PAR LE <a href='/affichCode.do?cidTexte=LEGITEXT000006074220&dateTexte=&categorieLien=cid'>CODE DE L'ENVIRONNEMENT </a>ET DES ACTIONS EN RESPONSABILITÉ CIVILE FONDÉES SUR LES RÉGIMES SPÉCIAUX DE RESPONSABILITÉ APPLICABLES EN MATIÈRE ENVIRONNEMENTALE RÉSULTANT DE RÈGLEMENTS EUROPÉENS, DE CONVENTIONS INTERNATIONALES ET DES LOIS PRISES POUR L'APPLICATION DE CES CONVENTIONS<br/><br/>
 
 (annexe de l'article D. 211-10-4-1)</p><center><table border='1'><tbody><tr><th><br/>
 
@@ -190,7 +190,7 @@ Ressort de la cour d'appel de Reims</td></tr><tr><td colspan='2' align='center'>
 
 Cour d'appel de Rennes</td></tr><tr><td align='justify'><br/>
 
-Rennes</td><td align='justify'><br/>
+Brest</td><td align='justify'><br/>
 
 Ressort de la cour d'appel de Rennes</td></tr><tr><td colspan='2' align='center'><br/>
 
@@ -228,4 +228,4 @@ Tribunal supérieur d'appel de Saint-Pierre-et-Miquelon</td></tr><tr><td align='
 
 Saint-Pierre-et-Miquelon</td><td align='justify'><br/>
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 4 du décret n° 2021-286 du 16 mars 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> avril 2021.</p><p>La juridiction saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date d'entrée en vigueur des articles 2 et 3 dudit décret.</p></i>
+Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 3 du décret n° 2021-1305 du 7 octobre 2021, la juridiction saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date d'entrée en vigueur de l'article 2 dudit décret.</p></i>
