@@ -1,8 +1,6 @@
 # Article Annexe 1
 
-<p align='center'><strong>Article 1er </strong></p><p>La liste des établissements pénitentiaires spécialisés pour mineurs prévue à l'article R. 124-9 est fixée comme suit :</p><p><br/>
-
--établissement spécialisé pour mineurs de Lavaur (Tarn) ;<br/><br/>
+<p align='center'><strong>Article 1er </strong></p><p>La liste des établissements pénitentiaires spécialisés pour mineurs prévue à l'article R. 124-9 est fixée comme suit :</p><p>-établissement spécialisé pour mineurs de Lavaur (Tarn) ;<br/><br/>
 
 -établissement spécialisé pour mineurs de Marseille (Bouches-du-Rhône) ;<br/><br/>
 
@@ -12,9 +10,7 @@
 
 -établissement spécialisé pour mineurs de Quiévrechain (Nord) ;<br/><br/>
 
--établissement spécialisé pour mineurs du Rhône (Meyzieu-Rhône).</p><p align='center'><strong>Article 2</strong></p><p>La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée comme suit :</p><p><br/>
-
--quartier des mineurs du centre pénitentiaire d'Aix-Luynes (Bouches-du-Rhône) ;<br/><br/>
+-établissement spécialisé pour mineurs du Rhône (Meyzieu-Rhône).</p><p align='center'><strong>Article 2</strong></p><p>La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée comme suit :</p><p>-quartier des mineurs du centre pénitentiaire d'Aix-Luynes (Bouches-du-Rhône) ;<br/><br/>
 
 -quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;<br/><br/>
 
@@ -74,9 +70,7 @@
 
 -quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;<br/><br/>
 
--quartier des mineurs de la maison d'arrêt de Mulhouse (Haut-Rhin) ;<br/><br/>
-
--quartier des mineurs du quartier de semi-liberté de la maison d'arrêt de Mulhouse (Haut-Rhin) ;<br/><br/>
+- quartier des mineurs du centre pénitentiaire de Mulhouse-Lutterbach (Haut-Rhin) ;<br/><br/>
 
 -quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;<br/><br/>
 
@@ -104,9 +98,7 @@
 
 -quartier des mineurs de la maison d'arrêt de Villeneuve-lès-Maguelone (Hérault) ;<br/><br/>
 
--quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).</p><p align='center'><strong>Article 3</strong></p><p>La liste des unités affectées à la prise en charge des mineures prévue à l'article R. 124-9 est fixée comme suit :</p><p><br/>
-
--unité de l'établissement spécialisé pour mineurs de Lavaur (Tarn) ;<br/><br/>
+-quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).</p><p align='center'><strong>Article 3</strong></p><p>La liste des unités affectées à la prise en charge des mineures prévue à l'article R. 124-9 est fixée comme suit :</p><p>-unité de l'établissement spécialisé pour mineurs de Lavaur (Tarn) ;<br/><br/>
 
 -unité de l'établissement spécialisé pour mineurs de Quiévrechain (Nord) ;<br/><br/>
 
@@ -118,4 +110,4 @@
 
 -unité de la maison d'arrêt des femmes de Fleury-Mérogis (Essonne) ;<br/><br/>
 
--unité du centre pénitentiaire pour femmes de Rennes (Ille-et-Vilaine).</p><br/><br/><i>NOTA:<p>Conformément à l'article 3 de l'arrêté du 27 mai 2021 (NOR : JUSF2113088A), ces dispositions entrent en vigueur à la date fixée par l'article 9 de l'ordonnance n° 2019-950 du 11 septembre 2019 (30 septembre 2021).</p></i>
+-unité du centre pénitentiaire pour femmes de Rennes (Ille-et-Vilaine).</p><br/><br/><i>NOTA:<p>Conformément à l'article 2 de l'arrêté du 4 novembre 2021 (NOR : JUSK2133007A), ces dispositions entrent en vigueur le 10 novembre 2021.</p></i>
