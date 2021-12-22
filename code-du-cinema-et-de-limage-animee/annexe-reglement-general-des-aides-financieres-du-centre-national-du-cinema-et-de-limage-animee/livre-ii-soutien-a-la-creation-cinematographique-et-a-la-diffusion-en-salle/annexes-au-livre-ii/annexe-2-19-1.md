@@ -1,8 +1,6 @@
 # Article Annexe 2-19-1
 
-<p>INVESTISSEMENT POUR LA DISTRIBUTION D'ŒUVRES CINÉMATOGRAPHIQUES DE LONGUE DURÉE RÉPONDANT À CERTAINES CONDITIONS (ARTICLE. 221-14)</p><p><br/>
-
-Liste des festivals<br/><br/>
+<p>INVESTISSEMENT POUR LA DISTRIBUTION D'ŒUVRES CINÉMATOGRAPHIQUES DE LONGUE DURÉE RÉPONDANT À CERTAINES CONDITIONS (ARTICLE. 221-14)</p><p>Liste des festivals<br/><br/>
 
 1° Sélection en compétition dans l'un des festivals suivants en France :<br/><br/>
 
@@ -10,7 +8,11 @@ Liste des festivals<br/><br/>
 
 - Cannes : Festival International du Film/Quinzaine des Réalisateurs/Semaine Internationale de la Critique/ Sélection de l'Association du Cinéma Indépendant pour sa Diffusion ;<br/><br/>
 
-- Paris : Cinéma du Réel ;<br/><br/>
+- Paris : Cinéma du Réel ;</p><p>- Marseille : Festival international de cinéma ;<br/><br/>
+
+- Lussas : Etats généraux du film documentaire ;<br/><br/>
+
+- Biarritz : Festival international de programmes audiovisuels documentaires.<br/><br/>
 
 2° Sélection en compétition dans l'un des festivals étrangers suivants :<br/><br/>
 
