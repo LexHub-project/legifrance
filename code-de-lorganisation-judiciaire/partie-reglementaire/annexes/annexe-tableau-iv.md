@@ -316,15 +316,15 @@ Gironde</td></tr><tr><td align='left'><br/>
 
 Bordeaux</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-André-de-Cubzac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon .</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Arcachon</td><td align='left'><br/>
 
-Cantons d'Arcachon, Audenge, Belin-Béliet et La Teste-de-Buch.</td></tr><tr><td align='left'><br/>
+Cantons d'Arcachon, Audenge, Belin-Béliet et La Teste-de-Buch.</td></tr><tr><td colspan='2' align='left'><br/>
 
-Libourne</td><td align='left'></td><td align='justify'><br/>
+Libourne</td><td align='justify'><br/>
 
-Cantons de Blaye, Bourg, Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols, Saint-Ciers-sur-Gironde, Saint-Savin et Sainte-Foy-la-Grande.</td></tr><tr><td colspan='3' align='center'><br/>
+Cantons de Blaye, Bourg, Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols, Saint-André-de-Cubzac, Saint-Ciers-sur-Gironde, Saint-Savin et Sainte-Foy-la-Grande.</td></tr><tr><td colspan='3' align='center'><br/>
 
 Cour d'appel de Bourges</td></tr><tr><td colspan='3' align='center'><br/>
 
@@ -1436,14 +1436,4 @@ Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de Jo
 
 Saint-Germain-en-Laye</td><td align='justify'><p>Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons-Laffitte, Marly-le-Roi, Saint-Germain-en-Laye-Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.</p></td></tr></tbody></table></center><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Siège du tribunal de première instance</p></td><td><p align='center'>Siège de la section détachée</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Nouméa</p></td></tr><tr><td colspan='3'><p align='center'>Nouvelle-Calédonie</p></td></tr><tr><td rowspan='3'><p>Nouméa</p></td><td><p align='center'></p></td><td><p>Nouvelle-Calédonie.</p></td></tr><tr><td><p>Koné</p></td><td><p>Province Nord.</p></td></tr><tr><td><p>Lifou</p></td><td><p>Province des Îles Loyauté.</p></td></tr><tr><td colspan='3'><p align='center'>Wallis-eft-Futuna</p></td></tr><tr><td colspan='2'><p>Mata-Utu</p></td><td><p align='center'>Territoire des îles Wallis et Futuna.</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Papeete</p></td></tr><tr><td colspan='3'><p align='center'>Polynésie française</p></td></tr><tr><td rowspan='3'><p>Papeete</p></td><td><p align='center'></p></td><td><p>Collectivité d'outre-mer de la Polynésie française.</p></td></tr><tr><td><p>Uturoa</p></td><td><p>Îles Sous-le-Vent.</p></td></tr><tr><td><p>Nuku-Hiva</p></td><td><p>Îles Marquises.</p></td></tr></tbody></table><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>Siège du tribunal de première instance<br/>
 
-et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 3 du décret n° 2020-1563 du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er septembre 2021.<br clear='none'/>
-
-A cette date, les procédures en cours devant le tribunal judiciaire d'Evreux et la chambre de proximité des Andelys sont transférées en l'état à la nouvelle chambre de proximité de Louviers, dans la mesure où elles relèvent désormais de sa compétence.<br clear='none'/>
-
-Les convocations, citations et assignations données aux parties et aux témoins délivrées avant le 1er septembre 2021 pour une comparution postérieure à cette date le sont devant la chambre de proximité nouvellement compétente.<br clear='none'/>
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le 1er septembre 2021, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas été suivies d'une comparution devant le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys. Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.<br clear='none'/>
-
-Le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys informent les parties ayant comparu devant l'un ou l'autre, de ce qu'il leur appartient d'accomplir les actes de la procédure devant la chambre de proximité de Louviers à laquelle la procédure a été transférée.<br clear='none'/>
-
-Les archives et les minutes du greffe du tribunal judiciaire d'Evreux antérieurement compétent et de la chambre de proximité des Andelys sont transférées au greffe de la chambre de proximité de Louviers nouvellement compétente. Les frais de transfert de ces archives et minutes sont imputés sur le crédit ouvert à cet effet au budget du ministère de la justice.</p></i>
+et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2021-1517 du 23 novembre 2021, ces dispositions sont applicables aux procédures introduites à compter du 1er janvier 2022.</p></i>
