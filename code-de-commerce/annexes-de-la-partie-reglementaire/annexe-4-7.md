@@ -3678,7 +3678,7 @@ Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec
 
 42</td><td colspan='2' align='left'><br clear='none'/>
 
-Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire sans demande d'obtention d'un titre exécutoire en application de l' article R. 531-1 du code des procédures civiles d'exécution ou en application de l' article 2412 du code civil </td></tr><tr><td align='center'><br clear='none'/>
+Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire ou légale sans demande d'obtention d'un titre exécutoire en application de l' article R. 531-1 du code des procédures civiles d'exécution ou en application de l'article 2401 du code civil</td></tr><tr><td align='center'><br clear='none'/>
 
 43</td><td rowspan='5' align='left'><br clear='none'/>
 
@@ -3708,4 +3708,4 @@ Incidents</td><td align='left'><br clear='none'/>
 
 Incidents</td><td colspan='2' align='left'><br clear='none'/>
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.</p></i>
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.</p></i>
