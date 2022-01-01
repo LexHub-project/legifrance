@@ -1,3 +1,77 @@
 # Article Annexe II
 
-<p align='center'>TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE <a href='/code-forestier-nouveau/partie-reglementaire/livre-iii-bois-et-forets-des-particuliers/titre-ii-institutions-intervenant-dans-la-mise-en-valeur-des-bois-et-forets-des-particuliers/chapitre-ier-centre-national-de-la-propriete-forestiere/section-1-centre-national/sous-section-2-conseil-dadministration/paragraphe-1-composition/r321-5.md'>R. 321-5</a></p><p align='center'>Répartition des représentants des centres régionaux de la propriété forestière <br/>au conseil d'administration du Centre national de la propriété forestière <br/></p><center><table border='1'><tbody><tr><th><br/>CENTRES RÉGIONAUX <br/></th><th><br/>RÉGIONS REPRÉSENTÉES <br/></th><th><br/>NOMBRE DE SIÈGES <br/></th></tr><tr><td align='center' vAlign='middle'><br/>Nouvelle-Aquitaine <br/></td><td align='center' vAlign='middle'><br/>Nouvelle-Aquitaine <br/></td><td align='center' vAlign='middle'><br/>5 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Auvergne-Rhône-Alpes <br/></td><td align='center' vAlign='middle'><br/>Auvergne-Rhône-Alpes <br/></td><td align='center' vAlign='middle'><br/>3 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Bourgogne-Franche-Comté <br/></td><td align='center' vAlign='middle'><br/>Bourgogne-Franche-Comté <br/></td><td align='center' vAlign='middle'><br/>3 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Bretagne-Pays de la Loire <br/></td><td align='center' vAlign='middle'><br/>Bretagne et Pays de la Loire <br/></td><td align='center' vAlign='middle'><br/>2 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Grand-Est <br/></td><td align='center' vAlign='middle'><br/>Grand-Est <br/></td><td align='center' vAlign='middle'><br/>2 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Corse <br/></td><td align='center' vAlign='middle'><br/>Corse <br/></td><td align='center' vAlign='middle'><br/>1 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Ile-de-France-Centre-Val de Loire <br/></td><td align='center' vAlign='middle'><br/>Ile-de-France <p>et Centre-Val de Loire <br/></p></td><td align='center' vAlign='middle'><br/>2 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Occitanie <br/></td><td align='center' vAlign='middle'><br/>Occitanie <br/></td><td align='center' vAlign='middle'><br/>3 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Hauts-de-France <br/></td><td align='center' vAlign='middle'><br/>Hauts-de-France <br/></td><td align='center' vAlign='middle'><br/>1 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Normandie <br/></td><td align='center' vAlign='middle'><br/>Normandie <br/></td><td align='center' vAlign='middle'><br/>1 <br/></td></tr><tr><td align='center' vAlign='middle'><br/>Provence-Alpes-Côte d'Azur <br/></td><td align='center' vAlign='middle'><br/>Provence-Alpes-Côte d'Azur <br/></td><td align='center' vAlign='middle'><br/>2 <br/></td></tr><tr><td colSpan='2' align='left' vAlign='middle'><br/>Total <br/></td><td align='center' vAlign='middle'><br/>25<br/></td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 1er de l'arrêté du 30 novembre 2016 ces dispositions entrent en vigueur à la date de la première réunion des conseillers régionaux élus en 2017 et au plus tard le 1er avril 2017.<br clear='none'/></p></i>
+<p align='center'>TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE R. 321-5<br/><br/>
+
+Répartition des représentants des centres régionaux de la propriété forestière au conseil d'administration du Centre national de la propriété forestière</p><center><table border='1'><tbody><tr><th><br/>
+
+CRPF</th><th><br/>
+
+Régions représentées</th><th><br/>
+
+Nombre de sièges au CA du CNPF</th></tr><tr><td align='center'><br/>
+
+Nouvelle-Aquitaine</td><td align='center'><br/>
+
+Nouvelle-Aquitaine</td><td align='center'><br/>
+
+5</td></tr><tr><td align='center'><br/>
+
+Auvergne-Rhône-Alpes</td><td align='center'><br/>
+
+Auvergne-Rhône-Alpes</td><td align='center'><br/>
+
+3</td></tr><tr><td align='center'><br/>
+
+Bourgogne-Franche-Comté</td><td align='center'><br/>
+
+Bourgogne-Franche-Comté</td><td align='center'><br/>
+
+3</td></tr><tr><td align='center'><br/>
+
+Bretagne-Pays de la Loire</td><td align='center'><br/>
+
+Bretagne et Pays de la Loire</td><td align='center'><br/>
+
+2</td></tr><tr><td align='center'><br/>
+
+Grand Est</td><td align='center'><br/>
+
+Grand Est</td><td align='center'><br/>
+
+2</td></tr><tr><td align='center'><br/>
+
+Corse</td><td align='center'><br/>
+
+Corse</td><td align='center'><br/>
+
+1</td></tr><tr><td align='center'><br/>
+
+Île-de-France-Centre-Val de Loire</td><td align='center'><br/>
+
+Île-de-France<br/><br/>
+
+et Centre-Val de Loire</td><td align='center'><br/>
+
+2</td></tr><tr><td align='center'><br/>
+
+Occitanie</td><td align='center'><br/>
+
+Occitanie</td><td align='center'><br/>
+
+3</td></tr><tr><td align='center'><br/>
+
+Hauts-de-France-Normandie</td><td align='center'><br/>
+
+Hauts-de-France et Normandie</td><td align='center'><br/>
+
+2</td></tr><tr><td align='center'><br/>
+
+Provence-Alpes-Côte d'Azur</td><td align='center'><br/>
+
+Provence-Alpes-Côte d'Azur</td><td align='center'><br/>
+
+2</td></tr><tr><td align='right'><br/>
+
+Total</td><td align='left'></td><td align='center'><br/>
+
+25</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 2 de l'arrêté du 23 décembre 2021 (NOR : AGRT2132553A), ces dispositions entrent en vigueur à la date du 1er janvier 2022.</p></i>
