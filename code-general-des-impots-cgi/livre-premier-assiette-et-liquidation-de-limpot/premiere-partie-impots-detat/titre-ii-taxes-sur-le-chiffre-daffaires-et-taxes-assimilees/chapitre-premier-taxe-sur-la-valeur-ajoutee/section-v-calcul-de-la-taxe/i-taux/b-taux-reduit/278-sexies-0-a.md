@@ -26,7 +26,7 @@ Autres logements locatifs sociaux</td><td align='center'><br/>
 
 10 %</td></tr><tr><td align='center'><br/>
 
-Locaux faisant l'objet d'une acquisition-amélioration lorsque l'acquisition est financée par un prêt locatif aidé d'intégration ou un prêt locatif à usage social</td><td align='center'><br/>
+Locaux faisant l'objet d'une acquisition-amélioration, d'une opération assimilée sous certaines conditions de financement ou d'une opération assimilée au sens du 2° bis du B du II du présent article</td><td align='center'><br/>
 
 2° du B du II</td><td align='center'><br/>
 
@@ -54,8 +54,6 @@ Terrains à bâtir destinés à des locaux faisant l'objet d'une opération taxa
 
 V</td><td align='center'><br/>
 
-10 %</td></tr></tbody></table></center><p><br/>
+10 %</td></tr></tbody></table></center><p>Pour les opérations mentionnées au 1° du B du II de l'article 278 sexies, le taux applicable est celui prévu par le tableau du deuxième alinéa du présent article pour la livraison mentionnée au A du II de l'article 278 sexies portant sur la même catégorie de logements.<br/><br/>
 
-Pour les opérations mentionnées au 1° du B du II de l'article 278 sexies, le taux applicable est celui prévu par le tableau du deuxième alinéa du présent article pour la livraison mentionnée au A du II de l'article 278 sexies portant sur la même catégorie de logements.<br/><br/>
-
-Par dérogation aux trois premiers alinéas du présent article, le taux applicable aux livraisons des logements, terrains et locaux mentionnés aux II à IV du même article 278 sexies postérieures à la première livraison ou livraison à soi-même de ces mêmes logements, terrains et locaux est celui applicable à cette première livraison ou livraison à soi-même.</p><br/><br/><i>NOTA:<p>Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations intervenant à compter du 1er décembre 2019.</p></i>
+Par dérogation aux trois premiers alinéas du présent article, le taux applicable aux livraisons des logements, terrains et locaux mentionnés aux II à IV du même article 278 sexies postérieures à la première livraison ou livraison à soi-même de ces mêmes logements, terrains et locaux est celui applicable à cette première livraison ou livraison à soi-même.</p><br/><br/><i>NOTA:<p>Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.<br clear='none'/><br clear='none'/></p></i>

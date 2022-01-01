@@ -50,13 +50,21 @@ B.-Les opérations suivantes :<br/><br/>
 
 1° Les cessions de droits immobiliers démembrés de logements locatifs sociaux lorsque l'usufruitier bénéficie du prêt réglementé et a conclu la convention conditionnant l'application de l'aide personnalisée au logement ;<br/><br/>
 
-2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration financées par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;<br/><br/>
+2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration qui sont financées :<br/><br/>
+
+a) Par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;<br/><br/>
+
+b) Ou par un prêt locatif social, lorsque les travaux consistent en une transformation en logements locatifs sociaux de locaux à usage autre que d'habitation.<br/><br/>
+
+Le présent 2° s'applique également, dans les mêmes conditions, aux livraisons de logements dans le cadre de l'article L. 262-1 du code de la construction et de l'habitation ;<br/><br/>
+
+2° bis Les livraisons à soi-même de logements sociaux dans les cas où les travaux réalisés dans ce cadre ont rendu l'immeuble à l'état neuf au sens du 2° du 2 du I de l'article 257 du présent code ;<br/><br/>
 
 C.-Les livraisons et livraisons à soi-même de logements à usage locatif autres que sociaux destinés à être occupés par des ménages dont le total des ressources n'excède pas celui prévu au 1° du I de l'article 279-0 bis A lorsque le destinataire est :<br/><br/>
 
 1° Pour les logements situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou d'une convention de renouvellement urbain, ou entièrement situés à moins de 300 mètres de la limite de ces quartiers, l'association foncière logement ou des sociétés civiles immobilières dont cette association détient la majorité des parts ;<br/><br/>
 
-2° Pour les logements situés sur des terrains octroyés au titre des contreparties mentionnées au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000042912017&dateTexte=&categorieLien=id' title='Code de la construction et de l'habitation. - art. L313-3 (V)'>onzième alinéa de l'article L. 313-3 du code de la construction et de l'habitation</a>, un organisme réalisant, en substitution de l'association foncière logement, des opérations immobilières qui relèvent d'une convention de rénovation urbaine.<br/><br/>
+2° Pour les logements situés sur des terrains octroyés au titre des contreparties mentionnées au <a href='/code-de-la-construction-et-de-lhabitation/partie-legislative/livre-iii-aides-diverses-a-la-construction-dhabitations-et-a-lamelioration-de-lhabitat-aide-personnalisee-au-logement/titre-ier-mesures-tendant-a-favoriser-la-construction-dhabitations/chapitre-iii-participation-des-employeurs-a-leffort-de-construction/section-1-participation-des-employeurs-a-leffort-de-construction/l313-3.md'>onzième alinéa de l'article L. 313-3 du code de la construction et de l'habitation</a>, un organisme réalisant, en substitution de l'association foncière logement, des opérations immobilières qui relèvent d'une convention de rénovation urbaine.<br/><br/>
 
 III.-Dans le secteur de l'accession sociale à la propriété, relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à l'article 278 sexies-0 A :<br/><br/>
 
@@ -92,4 +100,4 @@ d) Les établissements mentionnés à l'<a href='/code-de-la-construction-et-de-
 
 Le présent IV s'applique aux seules opérations faisant l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et l'Etat formalisant l'engagement d'héberger les publics concernés dans les conditions prévues au présent article et, selon le cas, par le code de l'action sociale et des familles ou le code de la construction et de l'habitation.<br/><br/>
 
-V.-Relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à l'article 278 sexies-0 A les livraisons de terrains à bâtir destinés à la construction de locaux faisant l'objet d'une opération taxable au taux réduit conformément au présent article, autres que celles mentionnées au a du 4° du III, lorsque l'acquéreur atteste de cette destination dans l'acte de vente.</p><br/><br/><i>NOTA:<p>Conformément au III de l'article 50 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux livraisons de logements réalisées à compter du 1er janvier 2021 intervenant dans le cadre d'opérations de construction ou de transformation n'ayant pas fait l'objet d'un agrément conformément à l'article 279-0 bis A du code général des impôts, dans sa rédaction antérieure au 1er janvier 2021.</p></i>
+V.-Relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à l'article 278 sexies-0 A les livraisons de terrains à bâtir destinés à la construction de locaux faisant l'objet d'une opération taxable au taux réduit conformément au présent article, autres que celles mentionnées au a du 4° du III, lorsque l'acquéreur atteste de cette destination dans l'acte de vente.</p><br/><br/><i>NOTA:<p>Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.<br clear='none'/><br clear='none'/></p></i>
