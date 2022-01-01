@@ -1,3 +1,0 @@
-# Article 158 quindecies
-
-<p>I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le document d'accompagnement mentionné au I de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&idArticle=LEGIARTI000033816283&dateTexte=&categorieLien=id' title='Code des douanes - art. 158 quaterdecies (Ab)'>l'article 158 quaterdecies</a> pour indiquer soit un nouveau destinataire qui doit être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. </p><p>II. - (abrogé)</p><br/><br/><i>NOTA:<p>Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2018.</p></i>
