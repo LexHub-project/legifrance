@@ -2506,9 +2506,9 @@ Elève chirurgien-dentiste</td><td align='center'><br/>
 
 Sergent</td></tr></tbody></table></center><p>Tableau 2 : MILITAIRES, INFIRMIERS ET TECHNICIENS DES HÔPITAUX DES ARMÉES</p><center><table border='1'><tbody><tr><th><br/>
 
-Grades des militaires infirmiers<br/><br/>
+Grades des militaires<br/><br/>
 
-et techniciens des hôpitaux des armées</th><th><br/>
+infirmiers et techniciens des hôpitaux des armées</th><th><br/>
 
 Échelons</th><th><br/>
 
@@ -2516,17 +2516,25 @@ Grade de référence<br/><br/>
 
 de la hiérarchie militaire générale</th></tr><tr><td align='left'><br/>
 
-Directeur des soins hors classe</td><td align='center'><br/>
+Directeur des soins de classe exceptionnelle</td><td align='center'><br/>
 
-A partir du 8e échelon</td><td align='center'><br/>
+A partir du 3e échelon</td><td rowspan='2' align='center'><br/>
 
 Colonel ou capitaine de vaisseau</td></tr><tr><td align='left'><br/>
 
 Directeur des soins hors classe</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 7e échelon inclus</td><td rowspan='6' align='center'><br/>
+A partir du 8e échelon</td></tr><tr><td align='left'><br/>
+
+Directeur des soins de classe exceptionnelle</td><td align='center'><br/>
+
+A partir du 1er et jusqu'au 2e échelon inclus</td><td rowspan='7' align='center'><br/>
 
 Lieutenant-colonel ou capitaine de frégate</td></tr><tr><td align='left'><br/>
+
+Directeur des soins hors classe</td><td align='center'><br/>
+
+A partir du 1er et jusqu'au 7e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Directeur des soins de classe normale</td><td align='center'><br/>
 
@@ -2538,7 +2546,7 @@ A partir du 3e échelon</td></tr><tr><td align='left'><br/>
 
 Cadre supérieur de santé paramédical</td><td align='center'><br/>
 
-A partir du 7e échelon</td></tr><tr><td align='left'><br/>
+A partir du 6e échelon</td></tr><tr><td align='left'><br/>
 
 Psychologue hors classe</td><td align='center'><br/>
 
@@ -2560,11 +2568,11 @@ A partir du 1er et jusqu'au 2e échelon inclus</td></tr><tr><td align='left'><br
 
 Cadre supérieur de santé paramédical</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 6e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Cadre de santé paramédical</td><td align='center'><br/>
 
-A partir du 7e échelon</td></tr><tr><td align='left'><br/>
+A partir du 6e échelon</td></tr><tr><td align='left'><br/>
 
 Psychologue hors classe</td><td align='center'><br/>
 
@@ -2580,7 +2588,7 @@ A partir du 4e et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/
 
 Cadre de santé paramédical</td><td align='center'><br/>
 
-A partir du 4e et jusqu'au 6e échelon inclus</td><td rowspan='3' align='center'><br/>
+A partir du 3e et jusqu'au 5e échelon inclus</td><td rowspan='3' align='center'><br/>
 
 Capitaine ou lieutenant de vaisseau</td></tr><tr><td align='left'><br/>
 
@@ -2594,7 +2602,7 @@ A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br
 
 Cadre de santé paramédical</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 3e échelon inclus</td><td rowspan='2' align='center'><br/>
+A partir du 1er et jusqu'au 2e échelon inclus</td><td rowspan='2' align='center'><br/>
 
 Lieutenant ou enseigne de vaisseau de première classe</td></tr><tr><td align='left'><br/>
 
@@ -2604,7 +2612,7 @@ A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br
 
 Assistant médico-administratif de classe exceptionnelle</td><td align='center'><br/>
 
-A partir du 1er échelon</td><td rowspan='45' align='center'><br/>
+A partir du 1er échelon</td><td rowspan='43' align='center'><br/>
 
 Major</td></tr><tr><td align='left'><br/>
 
@@ -2622,7 +2630,7 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Diététicien de classe normale</td><td align='center'><br/>
 
-A partir du 6e échelon</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td></tr><tr><td align='left'><br/>
 
 Infirmiers anesthésistes des hôpitaux des armées de deuxième grade</td><td align='center'><br/>
 
@@ -2706,7 +2714,7 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Masseurs-kinésithérapeutes des hôpitaux des armées de classe normale</td><td align='center'><br/>
 
-A partir du 5e échelon</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td></tr><tr><td align='left'><br/>
 
 Masseur-kinésithérapeute de classe normale (1)</td><td align='center'><br/>
 
@@ -2750,15 +2758,7 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Préparateur en pharmacie hospitalière de classe normale</td><td align='center'><br/>
 
-A partir du 6e échelon</td></tr><tr><td align='left'><br/>
-
-Puéricultrice de classe supérieure (1)</td><td align='center'><br/>
-
-A partir du 1er échelon</td></tr><tr><td align='left'><br/>
-
-Puéricultrice de classe normale (1)</td><td align='center'><br/>
-
-A partir du 5e échelon</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td></tr><tr><td align='left'><br/>
 
 Sage-femme des hôpitaux du premier grade</td><td align='center'><br/>
 
@@ -2770,9 +2770,9 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Technicien de laboratoire de classe normale</td><td align='center'><br/>
 
-A partir du 6e échelon</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td></tr><tr><td align='left'><br/>
 
-Technicien supérieur hospitalier de 1re classe</td><td align='center'><br/>
+Technicien supérieur hospitalier de 1ère classe</td><td align='center'><br/>
 
 A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
@@ -2786,7 +2786,7 @@ A partir du 11e échelon</td></tr><tr><td align='left'><br/>
 
 Assistant médico-administratif de classe supérieure</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 6e échelon inclus</td><td rowspan='22' align='center'><br/>
+A partir du 1er et jusqu'au 6e échelon inclus</td><td rowspan='21' align='center'><br/>
 
 Adjudant-chef ou maître principal</td></tr><tr><td align='left'><br/>
 
@@ -2796,15 +2796,15 @@ A partir du 5e et jusqu'au 10e échelon inclus</td></tr><tr><td align='left'><br
 
 Aide-soignant de classe supérieure</td><td align='center'><br/>
 
-A partir du 3e échelon</td></tr><tr><td align='left'><br/>
+A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 8e échelon</td></tr><tr><td align='left'><br/>
+A partir du 5e échelon</td></tr><tr><td align='left'><br/>
 
 Diététicien de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Infirmier anesthésiste de classe normale (1)</td><td align='center'><br/>
 
@@ -2832,7 +2832,7 @@ A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br
 
 Masseurs-kinésithérapeutes des hôpitaux des armées de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Masseur-kinésithérapeute de classe normale (1)</td><td align='center'><br/>
 
@@ -2852,19 +2852,15 @@ A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br
 
 Orthoptiste de classe normale (1)</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1e et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Préparateur en pharmacie hospitalière de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
-
-Puéricultrice de classe normale (1)</td><td align='center'><br/>
-
-A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Technicien de laboratoire de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Technicien supérieur hospitalier de 2e classe</td><td align='center'><br/>
 
@@ -2874,15 +2870,11 @@ Technicien hospitalier</td><td align='center'><br/>
 
 A partir du 5e et jusqu'au 10e échelon inclus</td></tr><tr><td align='left'><br/>
 
-Aide-soignant de classe supérieure</td><td align='center'><br/>
-
-A partir du 1er et jusqu'au 2e échelon inclus</td><td rowspan='4' align='center'><br/>
-
-Adjudant ou premier maître</td></tr><tr><td align='left'><br/>
-
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 6e et jusqu'au 7e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td><td rowspan='3' align='center'><br/>
+
+Adjudant ou premier maître</td></tr><tr><td align='left'><br/>
 
 Assistant médico-administratif de classe normale</td><td align='center'><br/>
 
@@ -2894,8 +2886,8 @@ A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br
 
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 5e échelon inclus</td><td align='center'><br/>
+A partir du 1er et jusqu'au 3e échelon inclus</td><td align='center'><br/>
 
-Sergent-chef ou maître</td></tr><tr><td colspan='3' align='center'><br/>
+Sergent-chef ou maître</td></tr><tr><td colspan='3' align='left'><br/>
 
-(1) Corps en extinction.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>(*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".</p><p>Conformément à l’article 1 du décret n° 2021-1811 du 24 décembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.</p></i>
+(1) Corps en extinction.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>(*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".</p><p>Conformément à l’article 1er du décret n° 2022-1745 du 28 décembre 2022, ces dispositions entrent en vigueur le 10 juin 2022.</p></i>
