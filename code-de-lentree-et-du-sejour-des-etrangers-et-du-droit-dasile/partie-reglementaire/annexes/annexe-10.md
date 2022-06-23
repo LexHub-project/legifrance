@@ -206,7 +206,7 @@ L. 421-6</td><td align='justify'><br/>
 
 -l'avis rendu par la plateforme de main d'œuvre étrangère concernant la viabilité du projet d'activité<br/><br/>
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;<br/><br/>
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;<br/><br/>
 
 -s'il s'agit d'une activité réglementée : autorisation d'exercice.<br/><br/>
 
@@ -218,7 +218,7 @@ L. 421-6</td><td align='justify'><br/>
 
 -un bordereau de situation fiscale relatif au paiement de l'impôt sur le revenu en France ;<br/><br/>
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;<br/><br/>
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;<br/><br/>
 
 -s'il s'agit d'une activité réglementée : autorisation d'exercice.<br/><br/>
 
@@ -226,7 +226,7 @@ L. 421-6</td><td align='justify'><br/>
 
 -titre de séjour en cours de validité ;<br/><br/>
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants ;<br/><br/>
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants ;<br/><br/>
 
 -pour continuer l'activité créée : une copie du contrat de bail ou de domiciliation, un bordereau de situation fiscale de l'entreprise (P 237), une attestation d'assurance portant, selon la nature de l'activité, sur le local occupé, sur le véhicule ou sur tout autre bien nécessaire à l'activité, un avis d'imposition sur le revenu, si vous avez le statut de salarié, les fiches de salaire des trois derniers mois ou, en l'absence d'avis d'imposition, des douze derniers mois, ou, si vous n'avez pas le statut de salarié, un extrait du livre de compte établissant la rémunération versée au cours des trois derniers mois ou, en l'absence d'avis d'imposition, des douze derniers mois ;<br/><br/>
 
@@ -364,13 +364,13 @@ L. 421-10</td><td align='justify'><br/>
 
 -attestation employeur ;<br/><br/>
 
--si vous êtes salarié d'une jeune entreprise innovante : tout document fiscal établissant la qualité de jeune entreprise innovante conformément à l'article 44 sexies 0A du <a href='/affichCode.do?cidTexte=LEGITEXT000006069577&dateTexte=&categorieLien=cid'>code général des impôts</a> ;<br/><br/>
+-si vous êtes salarié d'une jeune entreprise innovante : tout document fiscal établissant la qualité de jeune entreprise innovante conformément à l'article 44 sexies 0A du code général des impôts ;<br/><br/>
 
 -si vous êtes salarié d'une entreprise innovante reconnue par un organisme public : attestation de reconnaissance du caractère innovant de l'entreprise établie par le ministre de l'économie et des finances.<br/><br/>
 
 3. Pièces à fournir au renouvellement :<br/><br/>
 
--si vous êtes salarié d'une jeune entreprise innovante : tout document fiscal établissant la qualité de jeune entreprise innovante conformément à l'article 44 sexies 0A du code général des impôts ;<br/><br/>
+-si vous êtes salarié d'une jeune entreprise innovante : tout document fiscal établissant la qualité de jeune entreprise innovante conformément à l'article 44 sexies 0A du <a href='/affichCode.do?cidTexte=LEGITEXT000006069577&dateTexte=&categorieLien=cid'>code général des impôts</a> ;<br/><br/>
 
 -si vous êtes salarié d'une entreprise innovante reconnue par un organisme public : attestation de reconnaissance du caractère innovant de l'entreprise établie par le ministre de l'économie et des finances.<br/><br/>
 
@@ -556,7 +556,7 @@ L. 421-16</td><td align='justify'><br/>
 
 -Diplôme au moins équivalent au grade de master, ou tout document justifiant d'une expérience professionnelle d'au moins 5 ans d'un niveau comparable ;<br/><br/>
 
--Justificatif d'immatriculation de l'entreprise (extrait K ou K bis) ou justificatif de la démarche entreprise ;<br/><br/>
+-Justificatif d'immatriculation de l'entreprise (extrait K ou numéro SIREN) ou justificatif de la démarche entreprise ;<br/><br/>
 
 -Attestation du ministère chargé de l'économie sur le caractère réel et sérieux du projet de création d'entreprise ;<br/><br/>
 
@@ -568,7 +568,7 @@ L. 421-16</td><td align='justify'><br/>
 
 -Diplôme au moins équivalent au grade de master, ou tout document justifiant d'une expérience professionnelle d'au moins 5 ans d'un niveau comparable ;<br/><br/>
 
--Justificatif d'immatriculation de l'entreprise (extrait K ou K bis) (à remettre au moment de la remise du titre) ;<br/><br/>
+-Justificatif d'immatriculation de l'entreprise (extrait K ou numéro SIREN) (à remettre au moment de la remise du titre) ;<br/><br/>
 
 -Attestation du ministère chargé de l'économie sur le caractère réel et sérieux du projet de création d'entreprise ;<br/><br/>
 
@@ -1458,7 +1458,7 @@ L. 423-10</td><td align='justify'><br/>
 
 -justificatifs prouvant que vous êtes le parent de l'enfant français : copie intégrale de l'acte de naissance comportant le lien de filiation ;<br/><br/>
 
--justificatifs établissant que vous contribuez effectivement à l'entretien et à l'éducation de l'enfant (dans les conditions de l'article 371-2 du code civil) depuis sa naissance ou depuis au moins 2 ans ; vous pouvez apporter la preuve par tous moyens : versement d'une pension, achats destinés à l'enfant (de nature alimentaire, vestimentaire, diverse : frais de loisirs, éducatifs, d'agréments, jouets), hébergement régulier, intérêt pour la scolarité de l'enfant, présence affective réelle, témoignages, etc. ;<br/><br/>
+-justificatifs établissant que vous contribuez effectivement à l'entretien et à l'éducation de l'enfant (dans les conditions de l'<a href='/code-civil/livre-ier-des-personnes/titre-ix-de-lautorite-parentale/chapitre-ier-de-lautorite-parentale-relativement-a-la-personne-de-lenfant/371-2.md'>article 371-2 du code civil</a>) depuis sa naissance ou depuis au moins 2 ans ; vous pouvez apporter la preuve par tous moyens : versement d'une pension, achats destinés à l'enfant (de nature alimentaire, vestimentaire, diverse : frais de loisirs, éducatifs, d'agréments, jouets), hébergement régulier, intérêt pour la scolarité de l'enfant, présence affective réelle, témoignages, etc. ;<br/><br/>
 
 -lorsque la filiation à l'égard de l'autre parent résulte d'une reconnaissance de filiation : justificatifs suffisamment probants établissant que le l'autre parent contribue effectivement à l'entretien et à l'éducation de l'enfant dans les conditions de l'article 371-2 du code civil (preuve par tous moyens comme mentionné précédemment) ou, à défaut, décision du juge judiciaire (ordonnance ou jugement) ordonnant au parent français de s'acquitter de ses obligations découlant de l'article 371-2 du code civil (versement d'une pension alimentaire ou d'une contribution financière).<br/><br/>
 
@@ -1470,7 +1470,7 @@ L. 423-10</td><td align='justify'><br/>
 
 -justificatifs prouvant que l'enfant réside en France ; vous pouvez apporter la preuve par tous moyens : certificat de scolarité ou de crèche, présence de l'enfant lors de la demande, etc. ;<br/><br/>
 
--lorsque la filiation à l'égard de l'autre parent résulte d'une reconnaissance de filiation : justificatifs suffisamment probants établissant que l'autre parent contribue effectivement à l'entretien et à l'éducation de l'enfant dans les conditions de l'article 371-2 du code civil (preuve par tous moyens comme mentionné au point 2) ou, à défaut, décision du juge judiciaire (ordonnance ou jugement) ordonnant au parent français de s'acquitter de ses obligations découlant de l'<a href='/code-civil/livre-ier-des-personnes/titre-ix-de-lautorite-parentale/chapitre-ier-de-lautorite-parentale-relativement-a-la-personne-de-lenfant/371-2.md'>article 371-2 du code civil</a> (versement d'une pension alimentaire ou d'une contribution financière).<br/><br/>
+-lorsque la filiation à l'égard de l'autre parent résulte d'une reconnaissance de filiation : justificatifs suffisamment probants établissant que l'autre parent contribue effectivement à l'entretien et à l'éducation de l'enfant dans les conditions de l'article 371-2 du code civil (preuve par tous moyens comme mentionné au point 2) ou, à défaut, décision du juge judiciaire (ordonnance ou jugement) ordonnant au parent français de s'acquitter de ses obligations découlant de l'article 371-2 du code civil (versement d'une pension alimentaire ou d'une contribution financière).<br/><br/>
 
 4. Pièces à fournir pour la délivrance d'une CSP sur le fondement de l'article L. 423-7 :<br/><br/>
 
