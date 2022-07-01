@@ -6,9 +6,7 @@ II. - La consommation d'énergie primaire du bâtiment, calculée pour des condi
 
 III. - La consommation d'énergie primaire non renouvelable du bâtiment, calculée pour des conditions de fonctionnement définies, pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, la mobilité des occupants interne au bâtiment, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, mentionnée au 2° de l'article R. 172-4, est définie par un indicateur noté Cep, nr. La consommation en énergie primaire non renouvelable maximale est notée Cep, nr_max.<br/><br/>
 
-IV. - L'impact sur le changement climatique de la consommation d'énergie primaire, mentionné au 3° de l'article R. 172-4, est défini par un indicateur exprimé en kg équivalent CO2/m2, est défini par un indicateur noté Icénergie. L'impact maximal sur le changement climatique de la consommation d'énergie primaire est noté Icénergie_max.<br/><br/>
-
-V. - L'impact sur le changement climatique lié aux composants du bâtiment, à leur transport, leur installation et l'ensemble du chantier de construction, leur utilisation à l'exclusion des besoins en énergie et en eau de la phase d'exploitation du bâtiment, leur maintenance, leur réparation, leur remplacement et leur fin de vie, évalué sur l'ensemble du cycle de vie du bâtiment, mentionné au 4° de l'article R. 172-4, est défini par un indicateur noté Icconstruction. L'impact maximal sur le changement climatique de la consommation d'énergie primaire est noté Icconstruction_max.<br/><br/>
+IV. - L'impact sur le changement climatique de la consommation d'énergie primaire, mentionné au 3° de l'article R. 172-4, est défini par un indicateur exprimé en kg équivalent CO2/m2, est défini par un indicateur noté Icénergie. L'impact maximal sur le changement climatique de la consommation d'énergie primaire est noté Icénergie_max.</p><p>V.- L'impact sur le changement climatique de la construction, lié à la production des composants du bâtiment, à leur transport, leur installation et l'ensemble du chantier de construction, leur utilisation à l'exclusion des besoins en énergie et en eau de la phase d'exploitation du bâtiment, leur maintenance, leur réparation, leur remplacement et leur fin de vie, évalué sur l'ensemble du cycle de vie du bâtiment, mentionné au 4° de l'article R. 172-4, est défini par un indicateur noté Icconstruction. L'évaluation de cet impact prend en compte les charges et bénéfices liés à la valorisation des composants en fin de vie. L'impact maximal sur le changement climatique de la construction est noté Icconstruction _ max.<br/><br/>
 
 Il correspond à l'impact sur le changement climatique lié à la production des composants du bâtiment, leur transport, leur installation et l'ensemble du chantier de construction, leur utilisation à l'exclusion des besoins en énergie et en eau de la phase d'exploitation du bâtiment, leur maintenance, leur réparation, leurs remplacements et leur fin de vie. L'évaluation de cet impact prend en compte les charges et bénéfices liés à la valorisation des composants en fin de vie.<br/><br/>
 
@@ -72,7 +70,7 @@ Les valeurs de Cep, nr_maxmoyen, Cep_maxmoyen, Icénergie_maxmoyen et des coeffi
 
 III. - La valeur maximale Icconstruction_max du bâtiment est déterminée comme suit :<br/><br/>
 
-Icconstruction_max = Icconstruction_maxmoyen × (1 + Micombles + Misurf) + Migéo + Miinfra + Mivrd + Mided<br/><br/>
+Icconstruction_max = Icconstruction_maxmoyen × (1 + Micombles + Misurf) + Migéo + Miinfra + Mivrd + Mided + Mipv<br/><br/>
 
 Avec :<br/><br/>
 
@@ -86,7 +84,7 @@ Misurf : coefficient de modulation selon :</p><p>- la surface moyenne des logeme
 
 Miinfra : coefficient de modulation selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts - à l'exception des garages des maisons individuelles ou accolées - du bâtiment ou de la partie de bâtiment ;<br/><br/>
 
-Mivrd : coefficient de modulation selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment ;<br/><br/>
+Mivrd : coefficient de modulation selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment ;</p><p>Mipv : coefficient de modulation selon l'impact de l'installation des panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment à usage de bureaux de plus de 1000 m2 d'emprise au sol, au sens de l'article R. 420-1 du code de l'urbanisme ;<br/><br/>
 
 Mided : coefficient de modulation selon l'impact des données environnementales par défaut et valeurs forfaitaires dans l'évaluation du bâtiment ou de la partie de bâtiment.<br/><br/>
 
@@ -118,7 +116,7 @@ Maisons individuelles ou accolées</td><td align='center'><br/>
 
 Logements collectifs</td><td align='center'><br/>
 
-65 points</td></tr></tbody></table></center><p>1. Coefficients de modulation de l'exigence Bbio_max pour les maisons individuelles ou accolées</p><p>Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
+65 points</td></tr><tr><td align='left'><p>Bureaux</p></td><td align='center'>95 points</td></tr><tr><td align='left'><p>Enseignement primaire et secondaire</p></td><td align='center'>68 points</td></tr></tbody></table></center><p>1. Coefficients de modulation de l'exigence Bbio_max pour les maisons individuelles ou accolées</p><p>Le coefficient Mbgéo de modulation du Bbio_max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
 
 < 400m</p></td><td><p align='center'><br/>
 
@@ -264,9 +262,7 @@ BR2, BR3</p></td><td><p align='center'><br/>
 
 0,4</p></td><td><p align='center'><br/>
 
-0,15</p></td></tr></tbody></table><p><br/>
-
-Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Zone de bruit</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
+0,15</p></td></tr></tbody></table><p>Le coefficient Mbcombles de modulation du Bbio_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbsurf_moy de modulation du Bbio_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbsurf_tot de modulation du Bbio_max selon la surface de référence du bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mbbruit de modulation du Bbio_max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Zone de bruit</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
 
 Br1</p></td><td><p align='center'><br/>
 
@@ -302,7 +298,161 @@ BR2, BR3</p></td><td><p align='center'><br/>
 
 0,2</p></td><td><p align='center'><br/>
 
-0,2</p></td></tr></tbody></table><p>II. - Valeurs de Cep, nr_maxmoyen, Cep_maxmoyen et Icénergie _maxmoyen et coefficients de modulation associés à la fixation des exigences sur Cep, nr_max, Cep_max et Icénergie _max</p><p>Les coefficients Cep, nr_maxmoyen et Cep_maxmoyen prennent les valeurs suivantes, en fonction de l'usage de la partie de bâtiment :</p><table border='1' cellpadding='0'><tbody><tr><td><p align='center'><br/><strong>Usage de la partie de bâtiment</strong></p></td><td><p align='center'><br/><strong>Valeur de Cep, nr_maxmoyen</strong></p></td><td><p align='center'><br/><strong>Valeur de Cep_maxmoyen</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
+0,2</p></td></tr></tbody></table><p>3. Coefficients de modulation de l'exigence Bbio _ max pour les bureaux</p><p>Le coefficient Mbgéo de modulation du Bbio _ max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><center><table border='1'><tbody><tr><th><br/>
+
+Zone climatique</th><th rowspan='2'><br/>
+
+H1a</th><th rowspan='2'><br/>
+
+H1b</th><th rowspan='2'><br/>
+
+H1c</th><th rowspan='2'><br/>
+
+H2a</th><th rowspan='2'><br/>
+
+H2b</th><th rowspan='2'><br/>
+
+H2c</th><th rowspan='2'><br/>
+
+H2d</th><th rowspan='2'><br/>
+
+H3</th></tr><tr><th><br/>
+
+Altitude</th></tr><tr><td align='center'><p>< 400m</p></td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+-0,05</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,25</td></tr><tr><td align='center'><br/>
+
+400m-800m</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+-0,05</td></tr><tr><td align='center'><p>> 800m</p></td><td align='center'><br/>
+
+0,45</td><td align='center'><br/>
+
+0,45</td><td align='center'><br/>
+
+0,40</td><td align='center'><br/>
+
+0,40</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,10</td></tr></tbody></table></center><p>Le coefficient Mbcombles de modulation du Bbio _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbsurf _ moy de modulation du Bbio _ max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbsurf _ tot de modulation du Bbio _ max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbbruit de modulation du Bbio _ max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les zones de bruit sont définies au chapitre V) :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+
+BR1</th><th><br/>
+
+BR2/3</th><th><br/>
+
+Cat 3</th></tr><tr><td align='center'><br/>
+
+Mbbruit</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,4</td></tr></tbody></table></center><p>4. Coefficients de modulation de l'exigence Bbio _ max pour l'enseignement primaire ou secondaire</p><p>Le coefficient Mbgéo de modulation du Bbio _ max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><center><table border='1'><tbody><tr><th><br/>
+
+Zone climatique</th><th rowspan='2'><br/>
+
+H1a</th><th rowspan='2'><br/>
+
+H1b</th><th rowspan='2'><br/>
+
+H1c</th><th rowspan='2'><br/>
+
+H2a</th><th rowspan='2'><br/>
+
+H2b</th><th rowspan='2'><br/>
+
+H2c</th><th rowspan='2'><br/>
+
+H2d</th><th rowspan='2'><br/>
+
+H3</th></tr><tr><th><br/>
+
+Altitude</th></tr><tr><td align='center'><p>< 400m</p></td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+-0,10</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,50</td><td align='center'><br/>
+
+0,50</td></tr><tr><td align='center'><br/>
+
+400m-800m</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,25</td></tr><tr><td align='center'><p>> 800m</p></td><td align='center'><br/>
+
+0,45</td><td align='center'><br/>
+
+0,45</td><td align='center'><br/>
+
+0,40</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,20</td></tr></tbody></table></center><p>Le coefficient Mbcombles de modulation du Bbio _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbsurf _ moy de modulation du Bbio _ max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbsurf _ tot de modulation du Bbio _ max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mbbruit de modulation du Bbio _ max selon l'exposition au bruit du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>II. - Valeurs de Cep, nr_maxmoyen, Cep_maxmoyen et Icénergie _maxmoyen et coefficients de modulation associés à la fixation des exigences sur Cep, nr_max, Cep_max et Icénergie _max</p><p>Les coefficients Cep, nr_maxmoyen et Cep_maxmoyen prennent les valeurs suivantes, en fonction de l'usage de la partie de bâtiment :</p><table border='1' cellpadding='0'><tbody><tr><td><p align='center'><br/><strong>Usage de la partie de bâtiment</strong></p></td><td><p align='center'><br/><strong>Valeur de Cep, nr_maxmoyen</strong></p></td><td><p align='center'><br/><strong>Valeur de Cep_maxmoyen</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
 
 55 kWhep/(m2.an)</p></td><td><p align='center'><br/>
 
@@ -310,7 +460,7 @@ BR2, BR3</p></td><td><p align='center'><br/>
 
 70 kWhep/(m2.an)</p></td><td><p align='center'><br/>
 
-85 kWhep/(m2.an)</p></td></tr></tbody></table><p>Le coefficient Icénergie_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment, de l'année à laquelle la demande de permis de construire correspondante est déposée, et de son raccordement ou non à un réseau de chaleur urbain :</p><table border='1' cellpadding='0'><tbody><tr><td></td><td colspan='3'><p align='center'><br/><strong>Valeur de Icénergie_maxmoyen</strong></p></td></tr><tr><td><p align='center'><br/><strong>Usage de la partie de bâtiment et énergie utilisée</strong></p></td><td><p align='center'><br/><strong>Année 2022 à 2024</strong></p></td><td><p align='center'><br/><strong>Années 2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de l'année 2028</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
+85 kWhep/(m2.an)</p></td></tr><tr><td><p>Bureaux</p></td><td align='center'>75 kWhep/ (m2. an)</td><td align='center'>85 kWhep/ (m2. an)</td></tr><tr><td><p>Enseignement primaire</p></td><td align='center'>65 kWhep/ (m2. an)</td><td align='center'>72 kWhep/ (m2. an)</td></tr><tr><td><p>Enseignement secondaire</p></td><td align='center'>63 kWhep/ (m2. an)</td><td align='center'>72 kWhep/ (m2. an)</td></tr></tbody></table><p>Le coefficient Icénergie_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment, de l'année à laquelle la demande de permis de construire correspondante est déposée, et de son raccordement ou non à un réseau de chaleur urbain :</p><table border='1' cellpadding='0'><tbody><tr><td></td><td colspan='3'><p align='center'><br/><strong>Valeur de Icénergie_maxmoyen</strong></p></td></tr><tr><td><p align='center'><br/><strong>Usage de la partie de bâtiment et énergie utilisée</strong></p></td><td><p align='center'><br/><strong>Année 2022 à 2024</strong></p></td><td><p align='center'><br/><strong>Années 2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de l'année 2028</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
 
 160 kq éq. CO2/m2</p></td><td><p align='center'><br/>
 
@@ -328,7 +478,9 @@ BR2, BR3</p></td><td><p align='center'><br/>
 
 260 kq éq. CO2/m2</p></td><td><p align='center'><br/>
 
-260 kq éq. CO2/m2</p></td></tr></tbody></table><p>Pour les maisons individuelles ou accolées, la valeur de Icénergie _ maxmoyen est fixée à 280 kgCO2/ m2, lorsque la demande de permis de construire de la maison est déposée avant le 31 décembre 2023 et l'une des deux conditions suivantes est respectée :<br/><br/>
+260 kq éq. CO2/m2</p></td></tr><tr><td><p>Bureaux raccordés à un réseau de chaleur urbain</p></td><td>280 kg éq. CO2/ m2</td><td>200 kg éq. CO2/ m2</td><td>200 kg éq. CO2/ m2</td></tr><tr><td><p>Bureaux-autres cas</p></td><td>200 kg éq. CO2/ m2</td><td>200 kg éq. CO2/ m2</td><td>200 kg éq. CO2/ m2</td></tr><tr><td><p>Enseignement primaire ou secondaire raccordés à un réseau de chaleur urbain</p></td><td><br/>
+
+240 kg éq. CO2/ m2</td><td>200 kg éq. CO2/ m2</td><td>140 kg éq. CO2/ m2</td></tr><tr><td><p>Enseignement primaire ou secondaire-autres cas</p></td><td>240 kg éq. CO2/ m2</td><td>140 kg éq. CO2/ m2</td><td>140 kg éq. CO2/ m2</td></tr></tbody></table><p>Pour les maisons individuelles ou accolées, la valeur de Icénergie _ maxmoyen est fixée à 280 kgCO2/ m2, lorsque la demande de permis de construire de la maison est déposée avant le 31 décembre 2023 et l'une des deux conditions suivantes est respectée :<br/><br/>
 
 -la parcelle est concernée par un permis d'aménager délivré avant le 1er janvier 2022, prévoyant un raccordement au réseau de gaz ;<br/><br/>
 
@@ -484,13 +636,7 @@ Catégorie 2</p></td><td><p align='center'><br/>
 
 0,3</p></td><td><p align='center'><br/>
 
-0,15</p></td></tr></tbody></table><p>Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Icénergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend les valeurs suivantes, avec NL représentant le nombre de logements du bâtiment :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la surface de référence du bâtiment, ou de la somme des parties de bâtiment ayant pour usage les logements collectifs, prend les valeurs suivantes :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Icénergie_max la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contrainte extérieure sont définies au chapitre V) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Catégorie de contraintes extérieures</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
+0,15</p></td></tr></tbody></table><p>Le coefficient Mccombles de modulation du Cep, nr_max, Cep_max et Icénergie_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mcsurf_moy de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend les valeurs suivantes, avec NL représentant le nombre de logements du bâtiment :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mcsurf_tot de modulation de Cep, nr_max, Cep_max et Icénergie_max selon la surface de référence du bâtiment, ou de la somme des parties de bâtiment ayant pour usage les logements collectifs, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Mccat de modulation de Cep, nr_max, Cep_max et Icénergie_max la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contrainte extérieure sont définies au chapitre V) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Catégorie de contraintes extérieures</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
 
 Catégorie 1</p></td><td><p align='center'><br/>
 
@@ -526,9 +672,157 @@ Catégorie 2</p></td><td><p align='center'><br/>
 
 0,1</p></td><td><p align='center'><br/>
 
-0,1</p></td></tr></tbody></table><p><br/>
+0,1</p></td></tr></tbody></table><p>3. Valeurs des coefficients de modulation des exigences Cep, nr _ max, Cep _ max et de Icénergie _ max pour les bureaux</p><p>Le coefficient Mcgéo de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><center><table border='1'><tbody><tr><th><br/>
 
-III. - Valeurs de Icconstruction_maxmoyen et coefficients de modulation associés à la fixation de l'exigence sur Icconstruction_max</p><p>Le coefficient Icconstruction_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment et de l'année à laquelle la demande de permis de construire correspondante est déposée :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Usage de la partie de bâtiment</strong></p></td><td colspan='4'><p align='center'><br/><strong>Valeur de Icconstruction_maxmoyen</strong></p></td></tr><tr><td><p align='center'><br/><strong>Années 2022 à 2024</strong></p></td><td><p align='center'><br/><strong>Années 2025 à 2027</strong></p></td><td><p align='center'><br/><strong>Années 2028 à 2030</strong></p></td><td><p align='center'><br/><strong>À partir de l'année 2031</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
+Zone climatique</th><th rowspan='2'><br/>
+
+H1a</th><th rowspan='2'><br/>
+
+H1b</th><th rowspan='2'><br/>
+
+H1c</th><th rowspan='2'><br/>
+
+H2a</th><th rowspan='2'><br/>
+
+H2b</th><th rowspan='2'><br/>
+
+H2c</th><th rowspan='2'><br/>
+
+H2d</th><th rowspan='2'><br/>
+
+H3</th></tr><tr><th><br/>
+
+Altitude</th></tr><tr><td align='center'><p>< 400m</p></td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,15</td><td align='center'><br/>
+
+0,15</td></tr><tr><td align='center'><br/>
+
+400m-800m</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,15</td><td align='center'><br/>
+
+0,15</td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+-0,05</td></tr><tr><td align='center'><p>> 800m</p></td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,40</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,25</td><td align='center'><br/>
+
+0,10</td></tr></tbody></table></center><p>Le coefficient Mccombles de modulation du Cep, nr _ max, Cep _ max et Icénergie _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mcsurf _ moy de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mcsurf _ tot de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mccat de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>4. Valeurs des coefficients de modulation des exigences Cep, nr _ max, Cep _ max et de Icénergie _ max pour l'enseignement primaire ou secondaire</p><p>Le coefficient Mcgéo de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la localisation géographique (zone climatique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><center><table border='1'><tbody><tr><th><br/>
+
+Zone climatique</th><th rowspan='2'><br/>
+
+H1a</th><th rowspan='2'><br/>
+
+H1b</th><th rowspan='2'><br/>
+
+H1c</th><th rowspan='2'><br/>
+
+H2a</th><th rowspan='2'><br/>
+
+H2b</th><th rowspan='2'><br/>
+
+H2c</th><th rowspan='2'><br/>
+
+H2d</th><th rowspan='2'><br/>
+
+H3</th></tr><tr><th><br/>
+
+Altitude</th></tr><tr><td align='center'><p>< 400m</p></td><td align='center'><br/>
+
+0,05</td><td align='center'><br/>
+
+0,15</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+-0,05</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+-0,05</td><td align='center'><br/>
+
+0,40</td><td align='center'><br/>
+
+0,30</td></tr><tr><td align='center'><br/>
+
+400m-800m</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,15</td><td align='center'><br/>
+
+0,20</td><td align='center'><br/>
+
+0,10</td><td align='center'><br/>
+
+0,30</td><td align='center'><br/>
+
+0,10</td></tr><tr><td align='center'><p>> 800m</p></td><td align='center'><br/>
+
+0,60</td><td align='center'><br/>
+
+0,60</td><td align='center'><br/>
+
+0,60</td><td align='center'><br/>
+
+0,45</td><td align='center'><br/>
+
+0,50</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,35</td><td align='center'><br/>
+
+0,15</td></tr></tbody></table></center><p>Le coefficient Mccombles de modulation du Cep, nr _ max, Cep _ max et Icénergie _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mcsurf _ moy de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mcsurf _ tot de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la surface de référence du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mccat de modulation de Cep, nr _ max, Cep _ max et Icénergie _ max selon la catégorie de contraintes extérieures du bâtiment ou de la partie de bâtiment prend les valeurs suivantes (les catégories de contrainte extérieure sont définies au chapitre V) :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+
+Cat 1</th><th><br/>
+
+Cat 2</th></tr><tr><td align='center'><br/>
+
+Mccat</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0,05</td></tr></tbody></table></center><p>III. - Valeurs de Icconstruction_maxmoyen et coefficients de modulation associés à la fixation de l'exigence sur Icconstruction_max</p><p>Le coefficient Icconstruction_maxmoyen prend les valeurs suivantes, en fonction de l'usage de la partie de bâtiment et de l'année à laquelle la demande de permis de construire correspondante est déposée :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Usage de la partie de bâtiment</strong></p></td><td colspan='4'><p align='center'><br/><strong>Valeur de Icconstruction_maxmoyen</strong></p></td></tr><tr><td><p align='center'><br/><strong>Années 2022 à 2024</strong></p></td><td><p align='center'><br/><strong>Années 2025 à 2027</strong></p></td><td><p align='center'><br/><strong>Années 2028 à 2030</strong></p></td><td><p align='center'><br/><strong>À partir de l'année 2031</strong></p></td></tr><tr><td><p>Maisons individuelles ou accolées</p></td><td><p align='center'><br/>
 
 640 kq éq. CO2/m2</p></td><td><p align='center'><br/>
 
@@ -544,19 +838,13 @@ III. - Valeurs de Icconstruction_maxmoyen et coefficients de modulation associé
 
 580 kq éq. CO2/m2</p></td><td><p align='center'><br/>
 
-490 kq éq. CO2/m2</p></td></tr></tbody></table><p><br/>
-
-1. Valeurs des coefficients de modulation de l'exigence Icconstruction_max pour les maisons individuelles ou accolées</p><p>Le coefficient Micombles de modulation de Icconstruction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :<br/><br/>
+490 kq éq. CO2/m2</p></td></tr><tr><td><p>Bureaux</p></td><td>980 kg éq. CO2/ m2</td><td>810 kg éq. CO2/ m2</td><td>710 kg éq. CO2/ m2</td><td>600 kg éq. CO2/ m2</td></tr><tr><td><p>Enseignement primaire ou secondaire</p></td><td>900 kg éq. CO2/ m2</td><td>770 kg éq. CO2/ m2</td><td>680 kg éq. CO2/ m2</td><td>590 kg éq. CO2/ m2</td></tr></tbody></table><p>1. Valeurs des coefficients de modulation de l'exigence Icconstruction_max pour les maisons individuelles ou accolées</p><p>Le coefficient Micombles de modulation de Icconstruction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :<br/><br/>
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Où Scombles représente la surface de plancher des combles aménagés dont la hauteur sous plafond est inférieure à 1,8 mètres.<br/><br/>
 
-Le coefficient Misurf de modulation de Icconstruction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment</p><p><br/>
+Le coefficient Misurf de modulation de Icconstruction_max selon la surface moyenne des logements du bâtiment ou de la partie de bâtiment</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
-
-≤ 400m</p></td><td><p align='center'><br/>
+< 400m</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
@@ -574,7 +862,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 30 kg éq. CO2/m2</p></td></tr><tr><td><p align='center'><br/>
 
-> 400m</p></td><td><p align='center'><br/>
+≥ 400m</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
@@ -602,9 +890,7 @@ Si Iclot2 ≤ 40 kg éq. CO2/m2</td><td align='center'><br/>
 
 Si Iclot2 > 40 kg éq. CO2/m2</td><td align='center'><br/>
 
-Iclot2 - 40</td></tr></tbody></table></center><p><br/>
-
-Où</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/><br/>
+Iclot2 - 40</td></tr></tbody></table></center><p>Où</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/><br/>
 
 Le coefficient Mivrd de modulation du Icconstruction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><center><table border='1'><tbody><tr><th><br/>
 
@@ -622,9 +908,7 @@ Iclot1 - 20</td></tr></tbody></table></center><p><br/>
 
 Où<br/><br/>
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.<br/><br/>
-
-Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes selon l'année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='3'><p align='center'><br/><strong>Valeur de Icded</strong></p></td><td colspan='3'><p align='center'><br/><strong>Mided</strong></p></td></tr><tr><td colspan='3'><p align='center'><br/><strong>Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</strong></p></td></tr><tr><td><p align='center'><br/><strong>2022 à 2024</strong></p></td><td><p align='center'><br/><strong>2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de 2028</strong></p></td></tr><tr><td><p align='center'><br/>
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.</p><p>Le coefficient Mipv de modulation de Icconstruction _ max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend la valeur suivante :</p><p>Mipv = 0</p><p>Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes selon l'année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='3'><p align='center'><br/><strong>Valeur de Icded</strong></p></td><td colspan='3'><p align='center'><br/><strong>Mided</strong></p></td></tr><tr><td colspan='3'><p align='center'><br/><strong>Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</strong></p></td></tr><tr><td><p align='center'><br/><strong>2022 à 2024</strong></p></td><td><p align='center'><br/><strong>2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de 2028</strong></p></td></tr><tr><td><p align='center'><br/>
 
 Si Icded ≤ 370 kg éq. CO2/m2</p></td><td><p align='center'><br/>
 
@@ -640,17 +924,9 @@ Si Icded > 370 kg éq. CO2/m2</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
--0,3 × (Icded - 370)</p></td></tr></tbody></table><p><br/>
+-0,3 × (Icded - 370)</p></td></tr></tbody></table><p>Où Icded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1 et 2 tels que définis précédemment.</p><p>2. Valeurs des coefficients de modulation de l'exigence Icconstruction_max pour les logements collectifs</p><p>Le coefficient Micombles de modulation de Icconstruction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Misurf de modulation de Icconstruction_max selon la surface de référence du bâtiment ou de la partie de bâtiment</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
 
-2. Valeurs des coefficients de modulation de l'exigence Icconstruction_max pour les logements collectifs</p><p>Le coefficient Micombles de modulation de Icconstruction_max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment est calculé selon la formule suivante :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Misurf de modulation de Icconstruction_max selon la surface de référence du bâtiment ou de la partie de bâtiment</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>prend les valeurs suivantes :</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>Le coefficient Migéo de modulation de Icconstruction_max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td rowspan='2'><p align='center'><br/><strong>Altitude</strong></p></td><td colspan='8'><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p align='center'><br/><strong>H1a</strong></p></td><td><p align='center'><br/><strong>H1b</strong></p></td><td><p align='center'><br/><strong>H1c</strong></p></td><td><p align='center'><br/><strong>H2a</strong></p></td><td><p align='center'><br/><strong>H2b</strong></p></td><td><p align='center'><br/><strong>H2c</strong></p></td><td><p align='center'><br/><strong>H2d</strong></p></td><td><p align='center'><br/><strong>H3</strong></p></td></tr><tr><td><p align='center'><br/>
-
-≤ 400m</p></td><td><p align='center'><br/>
+< 400m</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
@@ -668,7 +944,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 30 kg éq. CO2/m2</p></td></tr><tr><td><p align='center'><br/>
 
-> 400m</p></td><td><p align='center'><br/>
+≥ 400m</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
@@ -684,9 +960,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 0</p></td><td><p align='center'><br/>
 
-0</p></td></tr></tbody></table><p><br/>
-
-Le coefficient Miinfra de modulation de Icconstruction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnements couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><center><table border='1'><tbody><tr><th><br/>
+0</p></td></tr></tbody></table><p>Le coefficient Miinfra de modulation de Icconstruction_max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnements couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><center><table border='1'><tbody><tr><th><br/>
 
 Valeur de Iclot2</th><th><br/>
 
@@ -698,11 +972,7 @@ Si Iclot2 ≤ 40 kg éq. CO2/m2</td><td align='center'><br/>
 
 Si Iclot2 > 40 kg éq. CO2/m2</td><td align='center'><br/>
 
-Iclot2 - 40</td></tr></tbody></table></center><p><br/>
-
-Où</p><p><br/>
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/><br/>
+Iclot2 - 40</td></tr></tbody></table></center><p>Où</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/><br/>
 
 Le coefficient Mivrd de modulation du Icconstruction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><center><table border='1'><tbody><tr><th><br/>
 
@@ -718,9 +988,7 @@ Si Iclot1 > 10 kg éq. CO2/m2</td><td align='center'><br/>
 
 Iclot1 - 10</td></tr></tbody></table></center><p><br/>
 
-Où</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.<br/><br/>
-
-Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='3'><p align='center'><br/><strong>Valeur de Icded</strong></p></td><td colspan='3'><p align='center'><br/><strong>Mided</strong></p></td></tr><tr><td colspan='3'><p align='center'><br/><strong>Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</strong></p></td></tr><tr><td><p align='center'><br/><strong>2022 à 2024</strong></p></td><td><p align='center'><br/><strong>2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de 2028</strong></p></td></tr><tr><td><p align='center'><br/>
+Où</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0176 du 31/07/2021 accessible à l'adresse suivante : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=Y9LyRJ3tkBWsZEVIQZBXMJOztP5gCXMNFUg5VvtB7GA=</a></p><p>représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.</p><p>Le coefficient Mipv de modulation de Icconstruction _ max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend la valeur suivante :</p><p>Mipv = 0</p><p>Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><table border='1' cellpadding='0'><tbody><tr><td rowspan='3'><p align='center'><br/><strong>Valeur de Icded</strong></p></td><td colspan='3'><p align='center'><br/><strong>Mided</strong></p></td></tr><tr><td colspan='3'><p align='center'><br/><strong>Année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :</strong></p></td></tr><tr><td><p align='center'><br/><strong>2022 à 2024</strong></p></td><td><p align='center'><br/><strong>2025 à 2027</strong></p></td><td><p align='center'><br/><strong>À partir de 2028</strong></p></td></tr><tr><td><p align='center'><br/>
 
 Si Icded ≤ 250 kg éq. CO2/m2</p></td><td><p align='center'><br/>
 
@@ -736,9 +1004,71 @@ Si Icded > 250 kg éq. CO2/m2</p></td><td><p align='center'><br/>
 
 0</p></td><td><p align='center'><br/>
 
--0,3 × (Icded - 250)</p></td></tr></tbody></table><p><br/>
+-0,3 × (Icded - 250)</p></td></tr></tbody></table><p>Où Icded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1 et 2 tels que définis précédemment.</p><p>3. Valeurs des coefficients de modulation de l'exigence Icconstruction _ max pour les bureaux</p><p>Le coefficient Micombles de modulation de Icconstruction _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Misurf de modulation de Icconstruction _ max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Migéo de modulation de Icconstruction _ max selon la localisation géographique (zone géographique et altitude) du bâtiment prend les valeurs suivantes (les zones climatiques sont définies au chapitre IV) :</p><center><table border='1'><tbody><tr><th><br/>
 
-IV. - Valeurs de DH_maxcat</p><p>1. Maisons individuelles ou accolées</p><p>La valeur DHmaxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures de la partie de bâtiment (les catégories de contraintes sont définies au chapitre V) :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+Zone climatique</th><th rowspan='2'><br/>
+
+H1a</th><th rowspan='2'><br/>
+
+H1b</th><th rowspan='2'><br/>
+
+H1c</th><th rowspan='2'><br/>
+
+H2a</th><th rowspan='2'><br/>
+
+H2b</th><th rowspan='2'><br/>
+
+H2c</th><th rowspan='2'><br/>
+
+H2d</th><th rowspan='2'><br/>
+
+H3</th></tr><tr><th><br/>
+
+Altitude</th></tr><tr><td align='center'><p>< 400m</p></td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+50 kg éq. CO2/ m2</td><td align='center'><br/>
+
+50 kg éq. CO2/ m2</td></tr><tr><td align='center'><br/>
+
+≥ 400m</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td><td align='center'><br/>
+
+0</td></tr></tbody></table></center><p>Le coefficient Miinfra de modulation de Icconstruction _ max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnement couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Iclot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/>
+
+Le coefficient Mivrd de modulation du Icconstruction _ max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Iclot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1, intitulé “ VRD-Voiries et réseaux divers ”, se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.<br/>
+
+Le coefficient Mipv de modulation de Icconstruction _ max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Iclot13 représente l'impact sur le changement climatique du lot 13 du bâtiment ou de la partie de bâtiment. Le lot 13 intitulé “ Equipement de production locale d'électricité ” se compose des installations associées au bâtiment, dédiées à la production d'électricité (panneaux, onduleurs, étanchéité …).<br/>
+
+Le coefficient Mided de modulation de Icconstruction _ max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Icded représente :</p><p>-pour les bâtiments ou parties de bâtiment à usage de bureaux dont l'emprise au sol est inférieure ou égale à 1 000m2, au sens de l'article R. 420-1 du code de l'urbanisme, l'impact sur le changement climatique de l'ensemble de composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1 et 2 tels que définis précédemment ;<br/>
+
+-pour les bâtiments ou parties de bâtiment à usage de bureaux dont l'emprise au sol est supérieure à 1 000m2, au sens de l'article R. 420-1 du code de l'urbanisme, l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1,2 et 13 tels que définis précédemment.</p><p>4. Valeurs des coefficients de modulation de l'exigence Icconstruction _ max pour l'enseignement primaire ou secondaire</p><p>Le coefficient Micombles de modulation de Icconstruction _ max selon la présence de combles aménagés dans le bâtiment ou la partie de bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Misurf de modulation de Icconstruction _ max selon la surface de référence du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Migéo de modulation de Icconstruction _ max selon la localisation géographique (zone géographique et altitude) du bâtiment prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Miinfra de modulation de Icconstruction _ max selon l'impact des fondations, des espaces en sous-sol et des parcs de stationnements couverts du bâtiment ou de la partie de bâtiment, prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Iclot2 représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé “ fondations et infrastructure ” se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.<br/>
+
+Le coefficient Mivrd de modulation du Icconstruction _ max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Iclot1 représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé “ VRD-Voiries et réseaux divers ” se compose des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication …), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.</p><p>Le coefficient Mipv de modulation de Icconstruction _ max selon l'impact de l'installation de panneaux photovoltaïques pour un bâtiment ou une partie de bâtiment, prend la valeur suivante :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Le coefficient Mided de modulation de Icconstruction _ max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :</p><p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0052 du 03/03/2022 accessible à l'adresse : <a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=' target='_blank'> https://www.legifrance.gouv.fr/download/pdf?id=LIhsICgDpYJsCxxsL1_RUjXI0r2Oe6OmH9CMfgrLkm4=</a></p><p>Où Icded représente l'impact sur le changement climatique de l'ensemble des composants associés à des données environnementales par défaut ou à des valeurs forfaitaires dans l'évaluation de l'indicateur Icconstruction du bâtiment ou de la partie de bâtiment, à l'exception des composants des lots 1 et 2 tels que définis précédemment.</p><p>IV. - Valeurs de DH_maxcat</p><p>1. Maisons individuelles ou accolées</p><p>La valeur DHmaxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures de la partie de bâtiment (les catégories de contraintes sont définies au chapitre V) :</p><center><table border='1'><tbody><tr><th></th><th><br/>
 
 Catégorie 1</th><th><br/>
 
@@ -772,7 +1102,47 @@ Smoylgt > 60 m2</p></td><td><p align='center'><br/>
 
 1400</p></td><td><p align='center'><br/>
 
-2100</p></td></tr></tbody></table><p align='center'>Chapitre IV : Définition des zones climatiques</p><p>Les huit zones climatiques (H1a, H1b, H1c, H2a, H2b, H2c, H2d et H3) sont définies selon le tableau ci-dessous :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td><p align='center'><br/><strong>Département</strong></p></td><td><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p>01 ― Ain</p></td><td><p align='center'><br/>
+2100</p></td></tr></tbody></table><p align='center'></p><p>3. Bureaux</p><p>La valeur DH _ maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+
+Catégorie 1, sauf parties de bâtiments<br/>
+
+climatisées en zones H2d et H3</th><th><br/>
+
+Catégorie 1 climatisé,<br/>
+
+en zone H2d et H3</th><th><br/>
+
+Catégorie 2</th><th><br/>
+
+Catégorie 3</th></tr><tr><td align='left'><br/>
+
+DH _ maxcat</td><td align='center'><br/>
+
+1150</td><td align='center'><br/>
+
+2400</td><td align='center'><br/>
+
+2600</td><td align='center'><br/>
+
+Pas de seuil</td></tr></tbody></table></center><p>4. Enseignement primaire ou secondaire</p><p>La valeur DH _ maxcat prend les valeurs suivantes, en fonction de la catégorie de contraintes extérieures, de la zone climatique et du caractère climatisé ou non de la partie de bâtiment :</p><center><table border='1'><tbody><tr><th></th><th><br/>
+
+Catégorie 1, sauf parties de bâtiments<br/>
+
+climatisées en zones H2d et H3</th><th><br/>
+
+Catégorie 1 climatisé,<br/>
+
+en zone H2d et H3</th><th><br/>
+
+Catégorie 2</th></tr><tr><td align='center'><br/>
+
+DH _ maxcat</td><td align='center'><br/>
+
+900</td><td align='center'><br/>
+
+1800</td><td align='center'><br/>
+
+2200</td></tr></tbody></table></center><p align='center'></p><p align='center'>Chapitre IV : Définition des zones climatiques</p><p>Les huit zones climatiques (H1a, H1b, H1c, H2a, H2b, H2c, H2d et H3) sont définies selon le tableau ci-dessous :</p><table border='1' cellpadding='0' align='center'><tbody><tr><td><p align='center'><br/><strong>Département</strong></p></td><td><p align='center'><br/><strong>Zone climatique</strong></p></td></tr><tr><td><p>01 ― Ain</p></td><td><p align='center'><br/>
 
 H1c</p></td></tr><tr><td><p>02 ― Aisne</p></td><td><p align='center'><br/>
 
@@ -1414,10 +1784,4 @@ BR1</td></tr></tbody></table></center><p>A défaut d'une détermination détaill
 
 Une partie de bâtiment ou une zone est dite de classe d'exposition au bruit BR2 si toutes les baies des locaux qui la constituent sont exposées au bruit BR2 ou BR3 et si au moins une des baies des locaux qui la constituent est exposée au bruit BR2.<br/><br/>
 
-Une partie de bâtiment est dite de classe d'exposition au bruit BR1 dans les autres cas.</p><p align='center'>Partie II : Définition des catégories de contraintes extérieures</p><p>La catégorie de contraintes extérieures d'une partie de bâtiment thermiquement homogène et d'une zone est définie par la catégorie de contraintes extérieures des locaux qui la constitue.<br/><br/>
-
-Une partie de bâtiment thermiquement homogène ou une zone est de catégorie 2 si tous les locaux autres qu'à occupation passagère qu'elle contient sont de catégorie 2. Elle est de catégorie 1 dans les autres cas.<br/><br/>
-
-Un local est de catégorie 2 s'il est muni d'un système de climatisation et si, simultanément, le local est situé dans une zone à usage d'habitation, ses baies sont exposées au bruit BR2 ou BR3, et le bâtiment est construit en zone climatique H2d ou H3 à une altitude inférieure à 400 m.<br/><br/>
-
-Un local est de catégorie 1 dans les autres cas.</p><p align='center'>Chapitre VI : Définition des composants</p><p>Pour l'application du 4° de l'article R. 172-4, le mot : “ composants ” regroupe les “ produits de construction ”, “ produits de décoration ” et “ équipements électriques, électroniques et de génie climatique ”, au sens de l'article R. 171-15.</p>
+Une partie de bâtiment est dite de classe d'exposition au bruit BR1 dans les autres cas.</p><p align='center'>Partie II : Définition des catégories de contraintes extérieures</p><p>La catégorie de contraintes extérieures d'une partie de bâtiment thermiquement homogène et d'une zone est définie par la catégorie de contraintes extérieures des locaux qui la constitue.</p><p>Une partie de bâtiment thermiquement homogène ou une zone est de catégorie 3 si tous les locaux autres qu'à occupation passagère qu'elle contient sont de catégorie 3.</p><p>Une partie de bâtiment thermiquement homogène ou une zone est de catégorie 2 si elle n'est pas de catégorie 3 et si tous les locaux autres qu'à occupation passagère qu'elle contient sont de catégorie 2 ou 3.</p><p>Elle est de catégorie 1 dans les autres cas.</p><p>Un local est de catégorie 3 si :</p><p>-cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux et les règles d'hygiène et de sécurité interdisent l'ouverture de toutes les baies du local donnant sur l'extérieur ;</p><p>-ou si, cumulativement, il est muni d'un système de climatisation, il est situé dans une zone à usage de bureaux et il est situé dans un immeuble de grande hauteur, au sens de l'article R. 146-3 du code de la construction et de l'habitation.</p><p>Un local est de catégorie 2 s'il n'est pas de catégorie 3 et si, cumulativement :</p><p>-il est muni d'un système de climatisation ;</p><p>-les baies du local sont exposées au bruit BR2 ou BR3 ;</p><p>-le bâtiment est construit en zone climatique H2d ou H3 à une altitude inférieure à 400 m.</p><p>Un local est de catégorie 1 dans les autres cas.</p><p align='center'>Chapitre VI : Définition des composants</p><p>Pour l'application du 4° de l'article R. 172-4, le mot : “ composants ” regroupe les “ produits de construction ”, “ produits de décoration ” et “ équipements électriques, électroniques et de génie climatique ”, au sens de l'article R. 171-15.</p><br/><br/><i>NOTA:<p>Conformément à l'article 3 du décret n° 2022-305 du 1er mars 2022, ces dispositions entrent en vigueur le 1er juillet 2022.</p></i>
