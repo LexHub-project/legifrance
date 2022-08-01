@@ -90,7 +90,7 @@ Encadrement et animation des activités physiques ou sportives à un niveau d'in
 
 A l'exclusion :
 
-<p>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;</p><p>-des pratiques compétitives.</p></td></tr><tr><td colspan='4' align='left'><br/>
+<p>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;</p><p>-des pratiques compétitives.</p></td></tr><tr><td colspan='4' align='left'>Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse</td></tr><tr><td align='left'>Mention complémentaire "encadrement secteur sportif" option "activités physiques pour tous" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Encadrement et animation des activités physiques ou sportives.</td><td align='left'>A l'exclusion des pratiques compétitives.</td></tr><tr><td colspan='4' align='left'><br/>
 
 Diplôme délivré par le ministère chargé des sports</td></tr><tr><td align='left'><br/>
 
@@ -154,7 +154,9 @@ Encadrement de séances collectives d'animation en aqua fitness.
 
 <p>Surveillance et sauvetage en milieu aquatique.</p></td><td align='left'><br/>
 
-Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité.</td></tr><tr><td colspan='4' align='left'><br/>
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité.</td></tr><tr><td colspan='4' align='left'>Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse</td></tr><tr><td align='left'>Mention complémentaire "encadrement secteur sportif" option "activités aquatiques et de la natation" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Encadrement de séances en aqua fitness.<br/><br/>
+
+Surveillance et sauvetage en milieu aquatique.</td><td align='left'>Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité.</td></tr><tr><td colspan='4' align='left'><br/>
 
 Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td align='left'>BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2027.</td><td align='left'><br/>
 
@@ -211,6 +213,16 @@ Licence professionnelle mention " animation, gestion et organisation des activit
 Enseignement du fitness.</td><td align='left'><br/>
 
 A l'exclusion des pratiques compétitives.</td></tr><tr><td colspan='4' align='left'><br/>
+
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse</td></tr><tr><td align='left'>Mention complémentaire "encadrement secteur sportif" option "activités de la forme-haltérophilie, musculation" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Découverte d'activités de loisir et d'animation des activités de la forme.<br/><br/>
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie.</td><td align='left'></td></tr><tr><td align='left'>Mention complémentaire<br/><br/>
+
+"encadrement secteur sportif" option<br/><br/>
+
+"activités de la forme-cours collectifs" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Découverte d'activités de loisir et d'animation des activités de la forme.<br/><br/>
+
+Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
 Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td align='left'><br/>
 
@@ -1486,6 +1498,10 @@ Enseignement de l'haltérophilie, musculation et de la force athlétique.</td><t
 
 A l'exclusion des pratiques compétitives.</td></tr><tr><td colspan='4' align='left'><br/>
 
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse</td></tr><tr><td align='left'>Mention complémentaire "encadrement secteur sportif" option "activités de la forme-haltérophilie, musculation" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Découverte d'activités de loisir et d'animation des activités de la forme.<br/><br/>
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+
 Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td align='left'><br/>
 
 BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 1er janvier 2024.</td><td align='left'><br/>
@@ -1874,7 +1890,9 @@ Enseignement de la natation.</td><td align='left'><br/>
 
 A l'exclusion :
 
-<p>-des pratiques compétitives ;</p><p>-de la surveillance des lieux de pratique.</p></td></tr><tr><td colspan='4' align='left'><br/>
+<p>-des pratiques compétitives ;</p><p>-de la surveillance des lieux de pratique.</p></td></tr><tr><td colspan='4' align='left'>Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse</td></tr><tr><td align='left'>Mention complémentaire "encadrement secteur sportif" option "activités aquatiques et de la natation" délivrée jusqu'au 31 août 2027.</td><td align='left'>4</td><td align='left'>Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.<br/><br/>
+
+Surveillance et sauvetage en milieu aquatique.</td><td align='left'>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité.</td></tr><tr><td colspan='4' align='left'><br/>
 
 Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td align='left'>BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2027.</td><td align='left'><br/>
 
