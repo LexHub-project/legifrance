@@ -1,0 +1,3 @@
+# Article 41 septies N
+
+<p>Les données de paiement mentionnées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069569&idArticle=LEGIARTI000046385476&dateTexte=&categorieLien=cid' title='Code général des impôts, annexe 2, CGIAN2. - art. 242 nonies P (V)'>242 nonies P</a> de l'annexe II au code général des impôts sont conformes aux normes sémantiques précisées par les spécifications externes publiées sur le site internet de l'administration fiscale.</p><br/><br/><i>NOTA:<p>Se reporter aux modalités d’application prévues aux I et II de l’article 3 de l’arrêté du 7 octobre 2022 (NOR : ECOE2218934A).</p></i>
