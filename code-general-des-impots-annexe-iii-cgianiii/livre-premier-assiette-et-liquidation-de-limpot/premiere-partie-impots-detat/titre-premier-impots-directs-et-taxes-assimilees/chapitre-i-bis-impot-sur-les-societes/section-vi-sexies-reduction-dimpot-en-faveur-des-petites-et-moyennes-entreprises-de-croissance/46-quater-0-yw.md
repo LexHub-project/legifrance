@@ -1,3 +1,3 @@
 # Article 46 quater-0 YW
 
-⚠️Missing data from [legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298275)⚠️
+<p>Pour la détermination des dépenses mentionnées au j du <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000044925420&dateTexte=&categorieLien=cid'>3° du III de l'article 220 septdecies du code général des impôts</a>, il y a lieu de retenir les dotations aux amortissements fiscalement déductibles afférentes aux immobilisations détenues par l'entreprise et affectées directement à la publication, la diffusion et l'exploitation commerciale d'œuvres ouvrant droit au crédit d'impôt.</p><br/><br/><i>NOTA:<p>Article périmé en conséquence de la péremption de l'article 220 decies du code général des impôts. </p></i>
