@@ -18,27 +18,19 @@ b) Constituer la première exploitation d'un spectacle caractérisé par une mis
 
 c) Etre interprété par une équipe d'artistes composée à 90 % au moins de professionnels ;<br/><br/>
 
-d) Disposer d'au moins six artistes au plateau ;<br/><br/>
+d) Disposer d'au moins six artistes au plateau justifiant chacun d'au moins vingt services de répétition ;<br/><br/>
 
-e) Etre programmé pour plus de vingt dates sur une période de douze mois consécutifs dans au moins deux lieux différents.<br/><br/>
+e) Etre programmé pour plus de vingt dates, dont la moitié au moins sur le territoire français, sur une période de douze mois consécutifs dans au moins deux lieux différents.<br/><br/>
 
 III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant des dépenses suivantes, engagées jusqu'au 31 décembre 2024, pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :<br/><br/>
 
 1° Pour les dépenses correspondant aux frais de création et d'exploitation du spectacle :<br/><br/>
 
-a) Les frais de personnel permanent de l'entreprise, incluant :</p><p><br/>
+a) Les frais de personnel permanent de l'entreprise, incluant :</p><p>-les salaires et charges sociales afférents au personnel directement concerné par le spectacle : directeurs artistiques, directeurs de production, directeurs de la communication ou des relations publiques, directeurs de la commercialisation, responsables des relations publiques ou de la communication, administrateurs de production, de tournée ou de diffusion, conseillers artistiques, coordinateurs, chargés de production, de diffusion ou de commercialisation, répétiteurs, collaborateurs artistiques, attachés de production ou de diffusion, attachés de presse ou de relations publiques, responsables de la billetterie, gestionnaires de billetterie, responsables de placement, chargés de réservation, attachés à l'accueil, agents de billetterie et d'accueil, webmasters ;<br/><br/>
 
--les salaires et charges sociales afférents au personnel directement concerné par le spectacle : directeurs artistiques, directeurs de production, directeurs de la communication ou des relations publiques, directeurs de la commercialisation, responsables des relations publiques ou de la communication, administrateurs de production, de tournée ou de diffusion, conseillers artistiques, coordinateurs, chargés de production, de diffusion ou de commercialisation, répétiteurs, collaborateurs artistiques, attachés de production ou de diffusion, attachés de presse ou de relations publiques, responsables de la billetterie, gestionnaires de billetterie, responsables de placement, chargés de réservation, attachés à l'accueil, agents de billetterie et d'accueil, webmasters ;<br/><br/>
+-la rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe à la création et à l'exploitation du spectacle. Cette rémunération ne peut excéder un montant fixé par décret, dans la limite d'un plafond de 50 000 € par an. Cette rémunération n'est éligible au crédit d'impôt que pour les petites entreprises, au sens de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;</p><p>b) Les frais de personnel non permanent de l'entreprise incluant :</p><p>-les salaires et charges sociales afférents aux artistes et techniciens affectés au spectacle. Les rémunérations des artistes prises en compte pour le calcul du crédit d'impôt sont plafonnées à cinq fois le montant du salaire minimum conventionnel en vigueur ;<br/><br/>
 
--la rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe à la création et à l'exploitation du spectacle. Cette rémunération ne peut excéder un montant fixé par décret, dans la limite d'un plafond de 50 000 € par an. Cette rémunération n'est éligible au crédit d'impôt que pour les petites entreprises, au sens de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;</p><p><br/>
-
-b) Les frais de personnel non permanent de l'entreprise incluant :</p><p><br/>
-
--les salaires et charges sociales afférents aux artistes et techniciens affectés au spectacle. Les rémunérations des artistes prises en compte pour le calcul du crédit d'impôt sont plafonnées à cinq fois le montant du salaire minimum conventionnel en vigueur ;<br/><br/>
-
--les rémunérations, droits d'auteur, honoraires et prestations versés à des personnes physiques ou morales ayant contribué directement au spectacle : graphiste, créateur de costumes, maquilleur, habilleur, coiffeur, couturier, accessoiriste, créateur de décors, créateur de lumières, créateur d'effets ou d'ambiances sonores, créateur de vidéo ou d'effets spéciaux, metteur en scène, chorégraphe ;</p><p><br/>
-
-c) Les redevances versées aux organismes de gestion collective des droits d'auteur au titre des représentations du spectacle ;<br/><br/>
+-les rémunérations, droits d'auteur, honoraires et prestations versés à des personnes physiques ou morales ayant contribué directement au spectacle : graphiste, créateur de costumes, maquilleur, habilleur, coiffeur, couturier, accessoiriste, créateur de décors, créateur de lumières, créateur d'effets ou d'ambiances sonores, créateur de vidéo ou d'effets spéciaux, metteur en scène, chorégraphe ;</p><p>c) Les redevances versées aux organismes de gestion collective des droits d'auteur au titre des représentations du spectacle ;<br/><br/>
 
 d) Les frais de location de salles de répétition et de salles de spectacles ;<br/><br/>
 
@@ -74,4 +66,4 @@ VII.-Sont déduites des bases de calcul du crédit d'impôt :<br/><br/>
 
 VIII.-Le montant des dépenses éligibles au crédit d'impôt est limité à 500 000 € par spectacle. Le crédit d'impôt est plafonné à 750 000 € par entreprise et par exercice. Lorsque l'exercice est d'une durée inférieure ou supérieure à douze mois, le montant du plafond est diminué ou augmenté dans les mêmes proportions que la durée de l'exercice.<br/><br/>
 
-IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 53 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.</p><br/><br/><i>NOTA:<p>Conformément au III, B de l'article 22 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2021. </p></i>
+IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 53 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.</p><br/><br/><i>NOTA:<p>Conformément au II de l’article 39 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2023.</p></i>
