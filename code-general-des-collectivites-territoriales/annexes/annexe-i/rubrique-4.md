@@ -18,7 +18,7 @@
 
 41. Les marchés publics (7)</p><p><br/>
 
-(7) Le représentant du pouvoir adjudicateur est seul responsable de la computation des seuils prévus par le code de la commande publique notamment au regard du caractère de similitude et d'homogénéité des prestations ou, s'agissant des travaux, de l'ensemble des dépenses concourant à une même opération. En effet, ainsi que le rappelle la jurisprudence le comptable n'est pas responsable de la computation des seuils (C. comptes, 8 mars 2018, n° 2018-0513).</p><p><br/>
+(7) Le représentant du pouvoir adjudicateur est seul responsable de la computation des seuils prévus par le code de la commande publique notamment au regard du caractère de similitude et d'homogénéité des prestations ou, s'agissant des travaux, de l'ensemble des dépenses concourant à une même opération.</p><p><br/>
 
 411. Les marchés publics inférieurs au montant fixé par voie réglementaire en deçà duquel ils n'ont pas l'obligation d'être écrits<br/><br/>
 
@@ -852,4 +852,4 @@ Pièces énumérées aux rubriques 421 et 422 selon les modalités de présentat
 
 1. Délibération, ou décision du directeur de l'établissement public de santé, autorisant la transaction.<br/><br/>
 
-2. Transaction.</p>
+2. Transaction.</p><br/><br/><i>NOTA:<p>Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.</p></i>
