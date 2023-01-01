@@ -1,8 +1,6 @@
 # Article Annexe Tableau IX
 
-<p>SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES, DES CHAMBRES DE PROXIMITÉ, DES TRIBUNAUX DE PREMIÈRE INSTANCE ET DES SECTIONS DÉTACHÉES COMPÉTENTS POUR RECEVOIR ET ENREGISTRER LES DÉCLARATIONS DE NATIONALITÉ FRANÇAISE ET DÉLIVRER LES CERTIFICATS DE NATIONALITÉ FRANÇAISE<br/><br/>
-
-(annexe des articles D. 211-10-3-1 et D. 212-19)</p><center><table border='1'><tbody><tr><th colspan='2'><br/>
+<p>SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES, DES CHAMBRES DE PROXIMITÉ, DES TRIBUNAUX DE PREMIÈRE INSTANCE ET DES SECTIONS DÉTACHÉES COMPÉTENTS POUR RECEVOIR ET ENREGISTRER LES DÉCLARATIONS DE NATIONALITÉ FRANÇAISE ET DÉLIVRER LES CERTIFICATS DE NATIONALITÉ FRANÇAISE</p><p>(annexe des articles <a href='/code-de-lorganisation-judiciaire/partie-reglementaire/livre-ii-juridictions-du-premier-degre/titre-ier-le-tribunal-de-grande-instance/chapitre-ier-institution-et-competence/section-1-competence-materielle/sous-section-2-competence-particuliere-a-certains-tribunaux-de-grande-instance/d211-10-3-1.md'>D. 211-10-3-1 </a>et <a href='/code-de-lorganisation-judiciaire/partie-reglementaire/livre-ii-juridictions-du-premier-degre/titre-ier-le-tribunal-de-grande-instance/chapitre-ii-organisation-et-fonctionnement/section-4-les-chambres-detachees/d212-19.md'>D. 212-19</a>)</p><center><table border='1'><tbody><tr><th colspan='2'><br/>
 
 Siège</th><th rowspan='2'><br/>
 
@@ -1038,31 +1036,11 @@ Hauts-de-Seine</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Antony</td><td align='justify'><br/>
 
-Ressort de la chambre de proximité d'Antony.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Ressort des chambres de proximité d'Antony, Boulogne-Billancourt et Vanves.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Asnières-sur-Seine</td><td align='justify'><br/>
 
-Ressort de la chambre de proximité d'Asnières-sur-Seine.</td></tr><tr><td align='left'></td><td align='left'><br/>
-
-Boulogne-Billancourt</td><td align='justify'><br/>
-
-Ressort de la chambre de proximité de Boulogne-Billancourt.</td></tr><tr><td align='left'></td><td align='left'><br/>
-
-Colombes</td><td align='justify'><br/>
-
-Ressort de la chambre de proximité de Colombes.</td></tr><tr><td align='left'></td><td align='left'><br/>
-
-Courbevoie</td><td align='justify'><br/>
-
-Ressort de la chambre de proximité de Courbevoie.</td></tr><tr><td align='left'></td><td align='left'><br/>
-
-Puteaux</td><td align='justify'><br/>
-
-Ressort de la chambre de proximité de Puteaux.</td></tr><tr><td align='left'></td><td align='left'><br/>
-
-Vanves</td><td align='justify'><br/>
-
-Ressort de la chambre de proximité de Vanves.</td></tr><tr><td colspan='3' align='center'><br/>
+Ressort des chambres de proximité d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux.</td></tr><tr><td colspan='3' align='center'><br/>
 
 Val-d'Oise</td></tr><tr><td align='left'></td><td align='left'><br/>
 
@@ -1110,4 +1088,4 @@ Saint-Pierre-et-Miquelon</td></tr><tr><td align='justify'><br/>
 
 Saint-Pierre</td><td align='left'></td><td align='justify'><br/>
 
-Ressort du tribunal de première instance de Saint-Pierre.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.</p></i>
+Ressort du tribunal de première instance de Saint-Pierre.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 2 du décret n° 2022-918 du 21 juin 2022, ces dispositions s'appliquent aux demandes formées ou aux procédures introduites à compter du 1er janvier 2023.</p></i>
