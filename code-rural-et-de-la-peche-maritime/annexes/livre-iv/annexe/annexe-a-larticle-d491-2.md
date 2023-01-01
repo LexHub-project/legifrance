@@ -576,9 +576,9 @@ Ressort du tribunal judiciaire de Béthune, à l'exception du ressort de la cham
 
 Lens</td><td align='left'><br/>
 
-Ressort de la chambre de proximité de Lens.</td></tr><tr><td align='left'>Boulogne-sur-Mer</td><td align='center'></td><td align='left'>Ressort du tribunal judiciaire de Boulogne-sur-Mer, à l'exception des ressorts des chambres de proximité de Montreuil et Calais</td></tr><tr><td align='center'></td><td align='center'>Calais</td><td align='left'>Ressort de la chambre de proximité de Calais</td></tr><tr><td align='left'></td><td align='center'><br/>
+Ressort de la chambre de proximité de Lens.</td></tr><tr><td align='left'>Boulogne-sur-Mer</td><td align='center'></td><td align='left'>Ressort du tribunal judiciaire de Boulogne-sur-Mer, à l'exception des ressorts des chambres de proximité de Montreuil-sur-Mer et Calais</td></tr><tr><td align='center'></td><td align='center'>Calais</td><td align='left'>Ressort de la chambre de proximité de Calais</td></tr><tr><td align='left'></td><td align='center'><br/>
 
-Montreuil</td><td align='left'>Ressort de la chambre de proximité de Montreuil</td></tr><tr><td align='center'><br/>
+Montreuil-sur-Mer</td><td align='left'>Ressort de la chambre de proximité de Montreuil-sur-Mer</td></tr><tr><td align='center'><br/>
 
 Saint-Omer</td><td align='left'></td><td align='left'><br/>
 
@@ -1364,14 +1364,4 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon</td><td align='justify'><
 
 Saint-Pierre-et-Miquelon</td><td align='justify'><br/>
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 3 du décret n° 2020-1563 du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er septembre 2021.<br clear='none'/><br clear='none'/>
-
-A cette date, les procédures en cours devant le tribunal judiciaire d'Evreux et la chambre de proximité des Andelys sont transférées en l'état à la nouvelle chambre de proximité de Louviers, dans la mesure où elles relèvent désormais de sa compétence.<br clear='none'/><br clear='none'/>
-
-Les convocations, citations et assignations données aux parties et aux témoins délivrées avant le 1er septembre 2021 pour une comparution postérieure à cette date le sont devant la chambre de proximité nouvellement compétente.<br clear='none'/><br clear='none'/>
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le 1er septembre 2021, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas été suivies d'une comparution devant le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys. Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.<br clear='none'/><br clear='none'/>
-
-Le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys informent les parties ayant comparu devant l'un ou l'autre, de ce qu'il leur appartient d'accomplir les actes de la procédure devant la chambre de proximité de Louviers à laquelle la procédure a été transférée.<br clear='none'/><br clear='none'/>
-
-Les archives et les minutes du greffe du tribunal judiciaire d'Evreux antérieurement compétent et de la chambre de proximité des Andelys sont transférées au greffe de la chambre de proximité de Louviers nouvellement compétente. Les frais de transfert de ces archives et minutes sont imputés sur le crédit ouvert à cet effet au budget du ministère de la justice.</p></i>
+Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon.</td></tr></tbody></table></center>

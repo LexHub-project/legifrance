@@ -316,7 +316,7 @@ Gironde</td></tr><tr><td align='left'><br/>
 
 Bordeaux</td><td align='left'></td><td align='justify'><br/>
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac-sur-Garonne, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Arcachon</td><td align='left'><br/>
 
@@ -596,9 +596,9 @@ Boulogne-sur-Mer</td><td align='left'></td><td align='justify'><br/>
 
 Cantons de Boulogne-sur-Mer-Nord-Est, Boulogne-sur-Mer-Nord-Ouest, Boulogne-sur-Mer-Sud, Desvres, Le Portel, Marquise, Outreau et Samer.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
-Montreuil</td><td align='justify'><br/>
+Montreuil-sur-Mer</td><td align='justify'><br/>
 
-Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil.</td></tr><tr><td align='left'></td><td align='left'><br/>
+Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil-sur-Mer.</td></tr><tr><td align='left'></td><td align='left'><br/>
 
 Calais</td><td align='justify'><br/>
 
@@ -1436,4 +1436,4 @@ Cantons de Chevreuse, Maurepas, Montfort-l'Amaury (uniquement les communes de Jo
 
 Saint-Germain-en-Laye</td><td align='justify'><p>Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons-Laffitte, Marly-le-Roi, Saint-Germain-en-Laye-Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.</p></td></tr></tbody></table></center><table border='1' cellpadding='0' cellspacing='0'><tbody><tr><td><p align='center'>Siège du tribunal de première instance</p></td><td><p align='center'>Siège de la section détachée</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Nouméa</p></td></tr><tr><td colspan='3'><p align='center'>Nouvelle-Calédonie</p></td></tr><tr><td rowspan='3'><p>Nouméa</p></td><td><p align='center'></p></td><td><p>Nouvelle-Calédonie.</p></td></tr><tr><td><p>Koné</p></td><td><p>Province Nord.</p></td></tr><tr><td><p>Lifou</p></td><td><p>Province des Îles Loyauté.</p></td></tr><tr><td colspan='3'><p align='center'>Wallis-eft-Futuna</p></td></tr><tr><td colspan='2'><p>Mata-Utu</p></td><td><p align='center'>Territoire des îles Wallis et Futuna.</p></td></tr><tr><td colspan='3'><p align='center'>Cour d'appel de Papeete</p></td></tr><tr><td colspan='3'><p align='center'>Polynésie française</p></td></tr><tr><td rowspan='3'><p>Papeete</p></td><td><p align='center'></p></td><td><p>Collectivité d'outre-mer de la Polynésie française.</p></td></tr><tr><td><p>Uturoa</p></td><td><p>Îles Sous-le-Vent.</p></td></tr><tr><td><p>Nuku-Hiva</p></td><td><p>Îles Marquises.</p></td></tr></tbody></table><table border='1' cellpadding='0' cellspacing='0' align='center'><tbody><tr><td><p align='center'>Siège du tribunal de première instance<br/>
 
-et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2022-685 du 26 avril 2022, ces dispositions sont applicables aux procédures introduites à compter du 1er mai 2022.</p></i>
+et de la juridiction de proximité</p></td><td><p align='center'>Ressort</p></td></tr><tr><td colspan='2'><p align='center'>Tribunal supérieur d'appel de Saint-Pierre</p></td></tr><tr><td colspan='2'><p align='center'>Saint-Pierre-et-Miquelon</p></td></tr><tr><td><p align='left'>Saint-Pierre</p></td><td><p align='left'>Collectivité territoriale de Saint-Pierre-et-Miquelon</p></td></tr></tbody></table>
