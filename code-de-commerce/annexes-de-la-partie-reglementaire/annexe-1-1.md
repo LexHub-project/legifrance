@@ -1,9 +1,0 @@
-# Article Annexe 1-1
-
-<p align='center'>ANNEXE À L'ARTICLE R. 123-30</p><p>Les principaux organismes destinataires des formalités des entreprises selon leur compétence sont :</p><p>1. Greffe du tribunal de commerce ou du tribunal judiciaire statuant commercialement, lequel transmet à l'Institut national de la propriété industrielle (INPI).</p><p>2. Service des impôts des entreprises (SIE) et direction des impôts des non-résidents (DINR) de la direction générale des finances publiques (DGFiP).</p><p>3. Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) ou caisses générales de sécurité sociale.</p><p>4. Organismes du régime général chargés de la gestion de l'assurance vieillesse ainsi que de la tarification et de la prévention des accidents du travail et des maladies professionnelles.</p><p>5. Organismes d'assurance maladie et d'assurance vieillesse des professions artisanales, industrielles, commerciales et libérales.</p><p>6. Caisses départementales ou pluridépartementales de mutualité sociale agricole.</p><p>7. Inspection du travail.</p><p>8. Chambres des métiers et de l'artisanat.</p><p>9. Institut national de la statistique et des études économiques (INSEE).</p><p>10. Assemblée permanente des chambres d'agriculture.<br/><br/>
-
-11. Etablissements départementaux de l'élevage.<br/><br/>
-
-12. Direction générale des douanes et des droits indirects.<br/><br/>
-
-13. Directions départementales des territoires et de la mer.</p><br/><br/><i>NOTA:<p>Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.</p></i>
