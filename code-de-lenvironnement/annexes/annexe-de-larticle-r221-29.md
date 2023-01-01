@@ -1,10 +1,28 @@
 # Article Annexe de l'article R221-29
 
-<table border='1' align='center'><tbody><tr><td><p align='center'>SUBSTANCE</p></td><td><p align='center'>CHEMICAL ABSTRACTS</p><p align='center'>Service (CAS)</p></td><td colspan='2'><p align='center'>VALEUR-GUIDE POUR L'AIR INTÉRIEUR</p></td></tr><tr><td align='left'><p>Formaldéhyde</p></td><td align='left'><p align='center'><br/>
+<center><table border='1'><tbody><tr><th><br/>
 
-50-00-0</p></td><td align='left'><p>30 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2015</p></td><td align='left'><p>10 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2023</p></td></tr><tr><td align='left'><p>Benzène</p></td><td align='left'><p align='center'><br/>
+SUBSTANCE</th><th><br/>
 
-71-43-2</p></td><td align='left'><p>5 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2013</p></td><td align='left'><p>2 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2016</p></td></tr></tbody></table><p align='center'></p><table border='1'><tbody><tr><th><br/>
+CHEMICAL ABSTRACTS<br/><br/>
+
+Service (CAS)</th><th><br/>
+
+VALEUR-GUIDE<br/><br/>
+
+POUR L'AIR INTÉRIEUR</th></tr><tr><td align='center'><br/>
+
+Formaldéhyde</td><td align='left'><br/>
+
+50-00-0</td><td align='center'><br/>
+
+100 µg/m³ pour une exposition à court terme</td></tr><tr><td align='center'><br/>
+
+Benzène</td><td align='left'><br/>
+
+71-43-2</td><td align='center'><br/>
+
+2 µg/m³ pour une exposition de longue durée</td></tr></tbody></table></center><p align='center'></p><table border='1' align='center'><tbody><tr><th><br/>
 
 SUBSTANCE</th><th><br/>
 
@@ -18,4 +36,4 @@ Radon</td><td align='center'><br/>
 
 10043-92-2</td><td align='center'><br/>
 
-300 Bq. m<sup>-3</sup></td></tr></tbody></table>
+300 Bq. m<sup>-3</sup></td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l'article 7 du décret n° 2022-1689 du 27 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.</p></i>
