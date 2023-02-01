@@ -1,3 +1,0 @@
-# Article Annexe 4-27
-
-<p>Aides au parcours d'auteur (article 451-6)</p><p> Liste des documents justificatifs :</p><p> 1° Une note d'intention exposant le projet, le plan de travail correspondant et la manière dont ils s'insèrent dans le parcours du ou des auteurs (5 pages maximum) ;</p><p> 2° Un curriculum vitae du ou des auteurs ;</p><p> 3° La copie d'une pièce d'identité du ou des auteurs ;</p><p> 4° Les justificatifs de l'expérience artistique du ou des auteurs ;</p><p> 5° Le cas échéant, des compléments visuels (5 pages d'illustrations et 3 minutes de vidéo maximum) ;</p><p> 6° Une déclaration sur l'honneur des aides de minimis perçues.</p>
