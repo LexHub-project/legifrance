@@ -1,3 +1,0 @@
-# Article Annexe 7-8
-
-<p>AIDES FINANCIÈRES À LA DISTRIBUTION À L'ÉTRANGER DES ŒUVRES REPRÉSENTATIVES DES CINÉMATOGRAPHIES DU MONDE.-SECOND VERSEMENT (ARTICLE <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000046742125&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 723-10 (Ab)'>723-10</a>) </p><p>Liste des documents justificatifs : </p><p>1° Liste des exploitations effectives des œuvres dans chacun des territoires ; </p><p>2° Bilan quantitatif et qualitatif du projet de distribution ; </p><p>3° Rapport d'activité ; </p><p>4° Factures détaillées ; </p><p>5° Etat récapitulatif des frais.</p>
