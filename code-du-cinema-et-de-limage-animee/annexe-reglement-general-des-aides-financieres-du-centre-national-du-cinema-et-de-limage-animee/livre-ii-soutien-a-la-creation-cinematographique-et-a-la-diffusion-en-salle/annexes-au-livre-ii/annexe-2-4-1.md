@@ -1,3 +1,0 @@
-# Article Annexe 2-4-1
-
-<p>SECONDE AUTORISATION POUR CERTAINES ŒUVRES D'ANIMATION (ARTICLE 211-79-1)</p><p> Liste des documents justificatifs :</p><p> 1° Tout document de nature à justifier que le financement de la production de l'œuvre, hors aides publiques, est confirmé pour au moins 30 % du devis des dépenses de production ;</p><p> 2° En cas de modification, les documents mentionnés aux 1° à 4° de l'annexe 4.</p>
