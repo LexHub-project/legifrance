@@ -1,3 +1,0 @@
-# Article Annexe 5-2
-
-<p>Aides aux actions de préservation patrimoniale des œuvres cinématographiques (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031396391&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 512-9 (Ab)'>512-9</a>) </p><p>Liste des documents justificatifs : </p><p>1° Les factures relatives aux travaux de transfert sur support photochimique ; </p><p>2° Le support photochimique réalisé, accompagné de la justification de l'approbation du réalisateur et, le cas échéant, du chef opérateur.</p>
