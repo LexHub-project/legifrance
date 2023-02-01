@@ -1,3 +1,0 @@
-# Article Annexe 4-26
-
-<p>Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000043111979&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 441-24 (Ab)'>441-24</a>) </p><p>Liste des documents justificatifs : </p><p><br/>1° Les liens hypertextes vers la chaîne numérique et les œuvres produites ; </p><p><br/>2° Un document comptable indiquant le coût définitif détaillé du projet faisant apparaître les dépenses éligibles, ainsi que les moyens de son financement.</p>

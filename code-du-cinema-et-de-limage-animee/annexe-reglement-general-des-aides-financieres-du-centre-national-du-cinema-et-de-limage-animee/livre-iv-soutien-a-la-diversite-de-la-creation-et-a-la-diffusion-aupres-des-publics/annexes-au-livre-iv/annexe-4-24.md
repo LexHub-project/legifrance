@@ -1,3 +1,0 @@
-# Article Annexe 4-24
-
-<p>Aides à la création destinée aux plateformes numériques (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000043111939&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 441-14 (Ab)'>441-14</a>) </p><p>1° Le ou les liens hypertextes vers la ou les œuvres réalisées ; </p><p><br/>2° Un document comptable indiquant le coût définitif détaillé du projet ainsi que les moyens de son financement.</p>
