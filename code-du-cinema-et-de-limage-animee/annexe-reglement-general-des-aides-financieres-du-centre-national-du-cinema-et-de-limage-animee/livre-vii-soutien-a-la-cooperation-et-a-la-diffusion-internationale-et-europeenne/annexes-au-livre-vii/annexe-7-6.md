@@ -1,3 +1,0 @@
-# Article Annexe 7-6
-
-Aides financières à la promotion à l'étranger d'un catalogue (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000033644201&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 722-22 (Ab)'>722-22</a>) <p>Liste des documents justificatifs : </p><p>1° Les factures détaillées émanant du prestataire technique ; </p><p>2° Un exemplaire de chaque support de promotion réalisé ; </p><p>3° En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes précisant la méthode de valorisation retenue.</p>
