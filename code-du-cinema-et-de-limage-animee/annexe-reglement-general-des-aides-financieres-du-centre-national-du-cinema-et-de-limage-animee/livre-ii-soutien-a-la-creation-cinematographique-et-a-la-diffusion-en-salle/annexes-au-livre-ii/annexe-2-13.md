@@ -1,3 +1,0 @@
-# Article Annexe 2-13
-
-<p>Aides à la conception de projets (article 212-15) </p><p>Liste des documents justificatifs : <br/>1° Un résumé court (environ 3 lignes) ; <br/>2° Un exposé du sujet (2 pages de synopsis) ; <br/>3° Une lettre d'intention de développement du projet ; <br/>4° Un curriculum vitae du réalisateur ainsi que celui du ou des auteurs ; <br/>5° Une copie vidéo de l'œuvre cinématographique précédemment réalisée ouvrant droit à candidature ; <br/>6° Dans le cas où le projet est initié par plusieurs coauteurs, une lettre d'accord sur la répartition des droits de chacun.</p>
