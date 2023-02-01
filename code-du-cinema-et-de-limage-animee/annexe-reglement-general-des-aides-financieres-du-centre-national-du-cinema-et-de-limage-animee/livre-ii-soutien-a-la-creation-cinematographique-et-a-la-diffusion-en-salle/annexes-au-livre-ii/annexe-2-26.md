@@ -1,3 +1,0 @@
-# Article Annexe 2-26
-
-<p>Pour chaque œuvre composant le programme annuel de distribution (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031348065&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 221-49 (Ab)'>221-49</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Une copie du mandat de distribution de l'œuvre concernée inscrit au registre public du cinéma et de l'audiovisuel ; <br/>2° Un plan et un budget détaillés de sortie ; <br/>3° Tout document présentant le matériel publicitaire et promotionnel ; <br/>4° Un ou plusieurs supports de visionnage de l'œuvre sous-titrés en français.</p>

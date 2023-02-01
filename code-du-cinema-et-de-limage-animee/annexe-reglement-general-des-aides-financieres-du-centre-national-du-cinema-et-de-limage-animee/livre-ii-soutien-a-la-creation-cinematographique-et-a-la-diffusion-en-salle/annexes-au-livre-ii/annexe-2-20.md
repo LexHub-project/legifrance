@@ -1,3 +1,0 @@
-# Article Annexe 2-20
-
-<p>Agrément de distribution (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031347939&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 221-17 (Ab)'>221-17</a>) </p><p><br/>Liste des documents justificatifs : <br/>I.-Mobilisation en minimum garanti distributeur : une copie du mandat de distribution, préalablement enregistré au registre public du cinéma et de l'audiovisuel. <br/>II.-Mobilisation en dépenses de distribution : <br/>1° Une copie du mandat de distribution salle, préalablement enregistré au registre public du cinéma et de l'audiovisuel ; <br/>2° Un devis des dépenses de distribution.</p>

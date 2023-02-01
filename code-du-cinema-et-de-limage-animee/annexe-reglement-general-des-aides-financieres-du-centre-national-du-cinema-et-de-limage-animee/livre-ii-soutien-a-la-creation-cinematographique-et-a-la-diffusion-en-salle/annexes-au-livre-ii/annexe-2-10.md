@@ -1,3 +1,0 @@
-# Article Annexe 2-10
-
-<p>Décision d'attribution à titre définitif de l'aide à la production après réalisation (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031345245&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 211-136 (Ab)'>211-136</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Un document certifié par un expert-comptable indiquant le coût définitif de production ; <br/>2° Le plan de financement signé et daté par l'entreprise de production ; <br/>3° Les attestations de comptes à jour délivrées par les organismes de protection sociale (URSSAF, congés spectacles, Pôle emploi, AFDAS, Audiens).</p>

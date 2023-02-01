@@ -1,3 +1,0 @@
-# Article Annexe 6-1
-
-<p>Autorisation d'investissement (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031359767&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 611-18 (Ab)'>611-18</a>) </p><p>Liste des documents justificatifs : </p><p><br/>1° Un exemplaire du contrat d'acquisition des droits d'édition vidéographique, accompagné de la justification de l'inscription au registre public du cinéma et de l'audiovisuel et, le cas échéant, d'une déclaration du montant de l'acquisition des droits d'édition vidéo en cas de mandats groupés ; </p><p><br/>2° Un budget détaillé.</p>

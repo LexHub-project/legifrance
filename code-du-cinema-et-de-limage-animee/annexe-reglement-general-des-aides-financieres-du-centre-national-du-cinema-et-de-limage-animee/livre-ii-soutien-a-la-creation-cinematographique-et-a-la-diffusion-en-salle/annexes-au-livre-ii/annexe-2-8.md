@@ -1,3 +1,0 @@
-# Article Annexe 2-8
-
-<p>Aides à l'élaboration de documents préparatoires à la réalisation (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031345225&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 211-123 (Ab)'>211-123</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Une lettre indiquant le montant de l'aide sollicitée ; <br/>2° Un devis détaillé des dépenses de fabrication du document ; <br/>3° Une copie du contrat de cession ou d'option portant sur les droits de propriété littéraire et artistique du ou des auteurs, y compris, le cas échéant, du ou des auteurs de l'œuvre originaire.</p>

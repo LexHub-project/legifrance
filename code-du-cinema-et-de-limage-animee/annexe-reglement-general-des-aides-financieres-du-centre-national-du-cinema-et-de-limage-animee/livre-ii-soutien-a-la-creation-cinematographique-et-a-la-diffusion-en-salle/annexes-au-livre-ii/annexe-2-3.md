@@ -1,3 +1,0 @@
-# Article Annexe 2-3
-
-<p>Autorisation d'investissement (article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000031345148&dateTexte=&categorieLien=id' title='Code du cinéma et de l'image animée - art. 211-72 (Ab)'>211-72</a>) </p><p><br/>Liste des documents justificatifs : <br/>1° Le ou les contrats de cession de droits de propriété littéraire et artistique des auteurs ; <br/>2° Les coordonnées bancaires du compte spécialement ouvert pour l'œuvre ; <br/>3° Un synopsis détaillé ou un scénario (à fournir uniquement dans le cas d'une demande d'aide majorée).</p>
