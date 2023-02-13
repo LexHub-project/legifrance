@@ -1,3 +1,3 @@
 # Article 111 H duodecies
 
-L'expéditeur peut annuler le document administratif électronique mentionné à l'<a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-iii-contributions-indirectes-et-taxes-diverses/chapitre-0i-alcools-boissons-alcooliques-et-tabacs-manufactures/11-formalites-et-regime-fiscal-applicables-a-la-circulation-des-produits/302-m-ter.md'>article 302 M ter du code général des impôts</a> avant l'expédition des produits soumis à accise.
+<p>L'expéditeur peut annuler le document administratif électronique mentionné à l'article 302 M du code général des impôts avant l'expédition des produits soumis à accise.</p><br/><br/><i>NOTA:<p>Conformément à l’article 5 du décret n°2023-82 du 9 février 2023, ces dispositions entrent en vigueur le 13 février 2023.</p></i>
