@@ -40,15 +40,11 @@ II.-1. L'entreprise bénéficiaire de la souscription mentionnée au I satisfait
 
 a) Soit l'une des activités mentionnées au 1° ou au 3° de l'article L. 365-1 du code de la construction et de l'habitation ;<br/><br/>
 
-b) Soit une activité d'acquisition et de gestion par bail rural de tous biens ruraux bâtis et non bâtis, dans le respect des conditions suivantes :</p><p><br/>
-
--l'activité répond aux objectifs mentionnés au 1° du I de l'article L. 141-1 du code rural et de la pêche maritime et l'entreprise n'exerce pas d'activité d'exploitation ;<br/><br/>
+b) Soit une activité d'acquisition et de gestion par bail rural de tous biens ruraux bâtis et non bâtis, dans le respect des conditions suivantes :</p><p>-l'activité répond aux objectifs mentionnés au 1° du I de l'article L. 141-1 du code rural et de la pêche maritime et l'entreprise n'exerce pas d'activité d'exploitation ;<br/><br/>
 
 -les baux ruraux sont conclus avec des preneurs répondant aux conditions mentionnées au 3° du présent 1 et comportent des clauses mentionnées au troisième alinéa de l'article L. 411-27 du code rural et de la pêche maritime ;<br/><br/>
 
--l'entreprise s'engage dans ses statuts à ne pas céder à titre onéreux les biens ruraux acquis pour l'exercice de son activité pendant une durée minimale de vingt ans, sauf à titre exceptionnel, lorsque le bien se révèle impropre à la culture ou doit être cédé dans le cadre d'un aménagement foncier ou pour faire face à de graves difficultés économiques conjoncturelles, après information du ministère de l'agriculture et pour un prix de cession n'excédant pas la valeur nette comptable dudit bien ;</p><p><br/>
-
-3° Elle exerce son activité en faveur de personnes en situation de fragilité du fait de leur situation économique ou sociale au sens du 1° de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire.<br/><br/>
+-l'entreprise s'engage dans ses statuts à ne pas céder à titre onéreux les biens ruraux acquis pour l'exercice de son activité pendant une durée minimale de vingt ans, sauf à titre exceptionnel, lorsque le bien se révèle impropre à la culture ou doit être cédé dans le cadre d'un aménagement foncier ou pour faire face à de graves difficultés économiques conjoncturelles, après information du ministère de l'agriculture et pour un prix de cession n'excédant pas la valeur nette comptable dudit bien ;</p><p>3° Elle exerce son activité en faveur de personnes en situation de fragilité du fait de leur situation économique ou sociale au sens du 1° de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire.<br/><br/>
 
 Un décret précise, pour chaque secteur d'activité mentionné au 2° du présent 1, les critères de définition de ces publics, en fonction de leur niveau de ressources.<br/><br/>
 
@@ -58,25 +54,17 @@ Un arrêté, pris conjointement par le ministre chargé de l'économie et par le
 
 Les missions effectuées par l'entreprise bénéficiaire pour l'exécution du service mentionné au premier alinéa du présent 4°, ainsi que les obligations correspondantes, sont décrites par une convention qui tient lieu de mandat au sens de l'article 4 de la décision 2012/21/ UE précitée. Cette convention est conclue pour une durée n'excédant pas dix ans et est reconductible par périodes de dix ans.<br/><br/>
 
-Un décret précise :</p><p><br/>
-
--les différents marchés de référence, en distinguant ceux des entreprises qui accomplissent des services sociaux relatifs au logement social mentionnés à l'article L. 365-1 du code de la construction et de l'habitation, ceux des autres entreprises intervenant en matière de logement et ceux des entreprises qui exercent l'activité mentionnée au b du 2° du présent 1 ;<br/><br/>
+Un décret précise :</p><p>-les différents marchés de référence, en distinguant ceux des entreprises qui accomplissent des services sociaux relatifs au logement social mentionnés à l'article L. 365-1 du code de la construction et de l'habitation, ceux des autres entreprises intervenant en matière de logement et ceux des entreprises qui exercent l'activité mentionnée au b du 2° du présent 1 ;<br/><br/>
 
 -les modalités de détermination de la différence entre le tarif de mise à disposition par l'entreprise bénéficiaire et le tarif de référence sur le marché dans lequel elle intervient ;<br/><br/>
 
--le contenu de la convention mentionnée au deuxième alinéa du présent 4° ;</p><p><br/>
-
-5° Les titres financiers ou parts sociales ayant fait l'objet des souscriptions ouvrant droit à la réduction d'impôt sont soumis aux exigences suivantes :<br/><br/>
+-le contenu de la convention mentionnée au deuxième alinéa du présent 4° ;</p><p>5° Les titres financiers ou parts sociales ayant fait l'objet des souscriptions ouvrant droit à la réduction d'impôt sont soumis aux exigences suivantes :<br/><br/>
 
 a) L'entreprise ne procède pas à la distribution de dividendes ;<br/><br/>
 
-b) Ces titres ou parts sont incessibles à un prix excédant leur valeur d'acquisition, majorée d'un taux de rendement annuel qui ne peut être supérieur à un plafond défini comme la somme entre :</p><p><br/>
+b) Ces titres ou parts sont incessibles à un prix excédant leur valeur d'acquisition, majorée d'un taux de rendement annuel qui ne peut être supérieur à un plafond défini comme la somme entre :</p><p>-le taux du livret A en vigueur au premier jour du mois de la date de la cession ;<br/><br/>
 
--le taux du livret A en vigueur au premier jour du mois de la date de la cession ;<br/><br/>
-
--et, le cas échéant, une majoration, définie par arrêté du ministre de l'économie, dans la limite de 1,25 % ;</p><p><br/>
-
-c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les modalités de revalorisation de ces titres ou parts ;<br/><br/>
+-et, le cas échéant, une majoration, définie par arrêté du ministre de l'économie, dans la limite de 1,25 % ;</p><p>c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les modalités de revalorisation de ces titres ou parts ;<br/><br/>
 
 6° Elle délivre au souscripteur qui lui en fait la demande le récépissé prévu au 6° du 2 du I du présent article ; elle tient un registre des souscriptions ayant donné lieu à délivrance d'un récépissé dont le contenu et les modalités de conservation sont précisées par arrêté du ministre chargé du budget ;<br/><br/>
 
@@ -86,19 +74,11 @@ c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les
 
 1° Un montant égal au rapport entre :<br/><br/>
 
-a) Au numérateur :</p><p><br/>
+a) Au numérateur :</p><p>-la somme du produit, pour chaque marché sur lequel l'entreprise est intervenue en application du 4° du 1 du présent II au cours de l'avant-dernier exercice clos :</p><p>i) de la surface mise à la disposition des personnes mentionnées au 3° du même 1 au cours de ce même exercice ;<br/><br/>
 
--la somme du produit, pour chaque marché sur lequel l'entreprise est intervenue en application du 4° du 1 du présent II au cours de l'avant-dernier exercice clos :</p><p><br/>
+ii) par la différence de tarif prévue au premier alinéa du 4° dudit 1 constatée au cours dudit exercice ;</p><p>-majorée d'un montant forfaitaire représentatif du surcroît de charges d'exploitation mobilisées par l'entreprise pour l'accompagnement spécifique prévu au même premier alinéa, dont les modalités de calcul sont fixées par la convention prévue au deuxième alinéa du même 4° ;<br/><br/>
 
-i) de la surface mise à la disposition des personnes mentionnées au 3° du même 1 au cours de ce même exercice ;<br/><br/>
-
-ii) par la différence de tarif prévue au premier alinéa du 4° dudit 1 constatée au cours dudit exercice ;</p><p><br/>
-
--majorée d'un montant forfaitaire représentatif du surcroît de charges d'exploitation mobilisées par l'entreprise pour l'accompagnement spécifique prévu au même premier alinéa, dont les modalités de calcul sont fixées par la convention prévue au deuxième alinéa du même 4° ;<br/><br/>
-
--et minorée, le cas échéant, des autres aides publiques spécifiques destinées à compenser les coûts liés à l'exécution du service d'intérêt économique général défini au premier alinéa dudit 4° ;</p><p><br/>
-
-b) Au dénominateur, le taux de la réduction d'impôt définie au 1 du I applicable au titre de l'exercice de souscription ;<br/><br/>
+-et minorée, le cas échéant, des autres aides publiques spécifiques destinées à compenser les coûts liés à l'exécution du service d'intérêt économique général défini au premier alinéa dudit 4° ;</p><p>b) Au dénominateur, le taux de la réduction d'impôt définie au 1 du I applicable au titre de l'exercice de souscription ;<br/><br/>
 
 2° Un montant :<br/><br/>
 
@@ -108,6 +88,6 @@ b) De 15 millions d'euros, s'agissant des entreprises qui exercent l'activité m
 
 Un décret précise la nature et les obligations de transmission par l'entreprise des informations nécessaires à la justification du calcul du plafond défini au 1° du présent 2 ainsi que les modalités de leur exploitation par l'administration.<br/><br/>
 
-III.-La réduction d'impôt prévue au I ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A ou 199 terdecies-0 B du présent code.<br/><br/>
+III.-La réduction d'impôt prévue au I ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A ou 199 terdecies-0 B du présent code.<br/><br/>
 
 IV.-Le bénéfice de la réduction d'impôt prévue au I est subordonné au respect de la décision 2012/21/ UE de la Commission du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.</p><br/><br/><i>NOTA:<p>Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter du 1er janvier 2020. Toutefois, par dérogation au A du présent V, le dernier alinéa du b du 2° et le c du 5° du 1 du II de l'article 199 terdecies-0 AB, dans leur rédaction résultant de la présente loi, entrent en vigueur à compter du 1er janvier 2021. Le b du même 5° ne s'applique qu'aux titres ou parts souscrits à compter de cette même échéance.</p><p>Aux termes du IV du même article, pour les versements effectués jusqu'au 31 décembre 2021, le taux de la réduction d'impôt prévue à l'article 199 terdecies-0 AB est fixé à 25 %.</p></i>
