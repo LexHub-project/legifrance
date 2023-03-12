@@ -1,8 +1,6 @@
 # Article Annexe II-2-1
 
-<p><br/>
-
-CAHIER DES CHARGES</p><p><br/>
+<p>CAHIER DES CHARGES</p><p><br/>
 
 Titre, qualité, coordonnées du déclarant :</p><p>Partie 1 : CLAUSES GÉNÉRALES</p><p>1-1. - L'identification de l'organisme de formation :</p><p>- raison sociale : dénomination, adresse, téléphone, courriel ;<br/><br/>
 
@@ -58,7 +56,7 @@ Les éléments fournis sous forme de fiches par l'organisme de formation doivent
 
 - présenter les moyens pédagogiques affectés à la réalisation d'une session (matériel mobile et permanent, espaces, équipements informatiques…) ;<br/><br/>
 
-- avis de la commission départementale de sécurité et d'accessibilité.</p><p>2-2. - La capacité de l'organisme de formation à identifier des objectifs pédagogiques pertinents au regard des certifications concernées, à mettre en œuvre une formation complète présentant toutes les unités capitalisables constitutives du diplôme, et à adapter son offre au public formé et à l'emploi visé, ainsi qu'à être cohérent dans ses moyens pédagogiques, techniques et d'encadrement dédiés à la formation :</p><p>- présenter le public ciblé, les critères de sélection envisagés, les modalités du positionnement, et démontrer la capacité à intégrer des stagiaires en parcours partiel ;<br/><br/>
+- avis de la commission départementale de sécurité et d'accessibilité.</p><p>2-2. - La capacité de l'organisme de formation à identifier des objectifs pédagogiques pertinents au regard des certifications concernées, à mettre en œuvre une formation complète présentant toutes les unités capitalisables constitutives du diplôme, et à adapter son offre au public formé et à l'emploi visé, ainsi qu'à être cohérent dans ses moyens pédagogiques, techniques et d'encadrement dédiés à la formation :</p><p>- présenter le public ciblé, les modalités d'organisation des épreuves de sélection complémentaires mentionnées à l'article R. 212-10-18, leurs contenus et les critères de sélection retenus pour départager les candidats visés à l'article R. 212-10-18, les modalités du positionnement, l'intégration des stagiaires en parcours partiel ;<br/><br/>
 
 - décrire les éventuels services annexes (restauration, hébergement, salles de repos, de convivialité, accessibilité…) permettant d'offrir un environnement favorable aux apprentissages ;<br/><br/>
 
