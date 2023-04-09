@@ -480,61 +480,7 @@ Mâcon</td><td align='left'><br/>
 
 Ressort du tribunal judiciaire de Mâcon.</td></tr><tr><td colspan='4' align='center'><br/>
 
-Cour d'appel de Douai</td></tr><tr><td rowspan='10' align='center'><br/>
-
-Nord</td><td align='center'><br/>
-
-Avesnes-sur-Helpe</td><td align='center'><br/>
-
-Avesnes-sur-Helpe</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire d'Avesnes-sur-Helpe.</td></tr><tr><td align='center'><br/>
-
-Cambrai</td><td align='center'><br/>
-
-Cambrai</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire de Cambrai.</td></tr><tr><td align='center'><br/>
-
-Douai</td><td align='center'><br/>
-
-Douai</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire de Douai.</td></tr><tr><td rowspan='2' align='center'><br/>
-
-Dunkerque</td><td align='center'><br/>
-
-Dunkerque</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire de Dunkerque, à l'exception du ressort de la chambre de proximité de Hazebrouck.</td></tr><tr><td align='center'><br/>
-
-Hazebrouck</td><td align='left'><br/>
-
-Ressort de la chambre de proximité de Hazebrouck.</td></tr><tr><td rowspan='4' align='center'><br/>
-
-Lille</td><td align='center'><br/>
-
-Lannoy</td><td align='left'><br/>
-
-Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.</td></tr><tr><td align='center'><br/>
-
-Lille</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire de Lille, à l'exception des ressorts des chambres de proximité de Roubaix et Tourcoing, et des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud.</td></tr><tr><td align='center'><br/>
-
-Roubaix</td><td align='left'><br/>
-
-Ressort de la chambre de proximité de Roubaix.</td></tr><tr><td align='center'><br/>
-
-Tourcoing</td><td align='left'><br/>
-
-Ressort de la chambre de proximité de Tourcoing et des communes de Comines et Wervicq-Sud.</td></tr><tr><td align='center'><br/>
-
-Valenciennes</td><td align='center'><br/>
-
-Valenciennes</td><td align='left'><br/>
-
-Ressort du tribunal judiciaire de Valenciennes.</td></tr><tr><td rowspan='6' align='center'><br/>
+Cour d'appel de Douai</td></tr><tr><td rowspan='10' align='center'>Nord</td><td align='center'>Avesnes-sur-Helpe</td><td align='center'>Avesnes-sur-Helpe</td><td align='left'>Ressort du tribunal judiciaire d'Avesnes-sur-Helpe.</td></tr><tr><td align='center'>Cambrai</td><td align='center'>Cambrai</td><td align='left'>Ressort du tribunal judiciaire de Cambrai.</td></tr><tr><td align='center'>Douai</td><td align='center'>Douai</td><td align='left'>Ressort du tribunal judiciaire de Douai.</td></tr><tr><td rowspan='2' align='center'>Dunkerque</td><td align='center'>Dunkerque</td><td align='left'>Ressort du tribunal judiciaire de Dunkerque, à l'exception du ressort de la chambre de proximité de Hazebrouck.</td></tr><tr><td align='center'>Hazebrouck</td><td align='left'><p>Ressort de la chambre de proximité de Hazebrouck.</p></td></tr><tr><td rowspan='4' align='center'>Lille</td><td align='center'>Lys-Lez-Lannoy</td><td align='left'>Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.</td></tr><tr><td align='center'>Lille</td><td align='left'>Ressort du tribunal judiciaire de Lille, à l'exception des ressorts des chambres de proximité de Roubaix et Tourcoing, et des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud.</td></tr><tr><td align='center'>Roubaix</td><td align='left'>Ressort de la chambre de proximité de Roubaix.</td></tr><tr><td align='center'>Tourcoing</td><td align='left'>Ressort de la chambre de proximité de Tourcoing et des communes de Comines et Wervicq-Sud.</td></tr><tr><td align='center'>Valenciennes</td><td align='center'>Valenciennes</td><td align='left'>Ressort du tribunal judiciaire de Valenciennes.</td></tr><tr><td rowspan='6' align='center'><br/>
 
 Pas-de-Calais</td><td align='center'><br/>
 
@@ -1434,4 +1380,4 @@ Saint-Pierre</td><td align='left'><br/>
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.</td></tr><tr><td colspan='4' align='left'><br/>
 
-(*) Siège à compter du 1er janvier 2022.</td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2021-886 du 2 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.</p><p><font color='black'>Conformément aux dispositions du II de l'article 18 du décret n° 2011-338 du 29 mars 2011 modifié en dernier lieu par le décret n° 2018-122 du 20 février 2018, </font> l'installation du conseil des prud'hommes à Mayotte, créé par l'article 9 dudit décret, sera effective à compter d'une date fixée par décret et au plus tard à la date mentionnée au II de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à-dire au plus tard à compter du 1er janvier 2022.</p></i>
+(*) Siège à compter du 1er janvier 2022.</td></tr></tbody></table><br/><br/><i>NOTA:<p>Conformément à l’article 2 du décret n° 2023-38 du 27 janvier 2023, ces dispositions entrent en vigueur le 9 avril 2023.</p></i>
