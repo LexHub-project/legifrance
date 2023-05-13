@@ -1,3 +1,0 @@
-# Article 49 septies ZR
-
-En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt prévu à <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/premiere-partie-impots-detat/titre-premier-impots-directs-et-taxes-assimilees/chapitre-iv-dispositions-communes-aux-impots-et-taxes-revenus-et-benefices-vises-aux-chapitres-i-a-iii/section-ii-impot-sur-le-revenu-et-impot-sur-les-societes/244-quater-q.md'>l'article 244 quater Q</a> du code général des impôts est calculé en prenant en compte les dépenses éligibles exposées au titre de la dernière année civile écoulée.
