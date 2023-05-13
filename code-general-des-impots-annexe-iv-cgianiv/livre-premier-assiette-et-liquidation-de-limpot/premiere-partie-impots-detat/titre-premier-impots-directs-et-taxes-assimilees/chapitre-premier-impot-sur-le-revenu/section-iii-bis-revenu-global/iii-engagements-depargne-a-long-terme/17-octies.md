@@ -1,3 +1,0 @@
-# Article 17 octies
-
-Pour l'application de <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069576&idArticle=LEGIARTI000006301243&dateTexte=&categorieLien=id' title='Code général des impôts, annexe 4, CGIAN4. - art. 17 septies (Ab)'>l'article 17 septies</a>, les établissements de crédits constitués sous forme de sociétés à responsabilité limitée sont assimilés aux établissements de crédits constitués sous forme de sociétés par actions.
