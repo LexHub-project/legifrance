@@ -1,3 +1,0 @@
-# Article 121 V quinquies
-
-Les demandes d'agrément présentées au titre de <a href='/code-general-des-impots-cgi/assiette-et-liquidation-de-limpot/impots-detat/impots-directs-et-taxes-assimilees/impot-sur-les-benefices-des-societes-et-autres-personnes-morales/champ-dapplication-de-limpot/208-quater.md'>l'article 208 quater</a> du code général des impôts sont établies en quatre exemplaires conformément à un modèle fixé par la commission centrale et adressées préalablement à la constitution de la société, ou à la création d'une activité nouvelle au directeur des services fiscaux du département ou sera réalisé l'investissement. Ce dernier en accuse réception et en effectue la transmission au secrétariat de la commission locale.
