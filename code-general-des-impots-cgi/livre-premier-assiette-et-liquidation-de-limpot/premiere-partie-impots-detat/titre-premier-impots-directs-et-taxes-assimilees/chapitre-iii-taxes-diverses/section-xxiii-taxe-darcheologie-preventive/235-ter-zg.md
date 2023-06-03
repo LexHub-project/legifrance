@@ -12,13 +12,13 @@ III.-Sont exonérés de la taxe d'archéologie préventive :<br/><br/>
 
 Le bénéfice de l'exonération de la taxe d'archéologie préventive des constructions et aménagements mentionnés aux 2° à 4° du I de l'article 1635 quater D est subordonné au respect des mêmes dispositions que celles appliquées pour l'exonération de la taxe d'aménagement.<br/><br/>
 
-IV.-Sans préjudice de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&idArticle=LEGIARTI000045917477&dateTexte=&categorieLien=id' title='Code du patrimoine - art. L524-4 (V)'>avant-dernier alinéa de l'article L. 524-4 du code du patrimoine</a>, le fait générateur de la taxe d'archéologie préventive est celui mentionné au I de l'article 1635 quater F, y compris pour les aménagements situés dans le domaine public maritime jusqu'à un mille calculé à compter de la laisse de basse mer.<br/><br/>
+IV.-Sans préjudice de l'<a href='/code-du-patrimoine/partie-legislative/livre-v-archeologie/titre-ii-archeologie-preventive/chapitre-4-financement-de-larcheologie-preventive/l524-4.md'>avant-dernier alinéa de l'article L. 524-4 du code du patrimoine</a>, le fait générateur de la taxe d'archéologie préventive est celui mentionné au I de l'article 1635 quater F, y compris pour les aménagements situés dans le domaine public maritime jusqu'à un mille calculé à compter de la laisse de basse mer.<br/><br/>
 
 La taxe est liquidée selon les mêmes modalités que celles prévues au II du même article pour la taxe d'aménagement.<br/><br/>
 
 V.-La taxe d'archéologie préventive est exigible à la date d'achèvement des opérations imposables dans les conditions prévues à l'article 1635 quater G.<br/><br/>
 
-VI.-L'assiette de la taxe d'archéologie préventive est constituée par la valeur de l'ensemble immobilier servant d'assiette à la taxe d'aménagement déterminée selon les modalités prévues aux articles 1635 quater H à 1635 quater K ;<br/><br/>
+VI.-L'assiette de la taxe d'archéologie préventive est constituée par la valeur de l'ensemble immobilier servant d'assiette à la taxe d'aménagement déterminée selon les modalités prévues aux articles 1635 quater H à 1635 quater K.<br/><br/>
 
 Son taux est égal à 0,40 %.<br/><br/>
 
