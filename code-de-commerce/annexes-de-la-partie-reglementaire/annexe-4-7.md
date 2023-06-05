@@ -1860,7 +1860,7 @@ Elaboration du bilan économique, social et environnemental et assistance apport
 
 3</td><td><br clear='none'/>
 
-Réunion des comités de créanciers</td></tr><tr><td align='center'><br clear='none'/>
+Constitution des classes de parties affectées et préparation des opérations de vote</td></tr><tr><td align='center'><br clear='none'/>
 
 4</td><td><br clear='none'/>
 
@@ -1876,7 +1876,7 @@ Mission d'administration de l'entreprise au cours d'une procédure de redresseme
 
 7</td><td><br clear='none'/>
 
-Arrêté d'un plan conforme au projet adopté par les comités mentionnés au numéro 3 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
+Arrêté d'un plan conforme au projet adopté par les classes de parties affectées mentionnées au numéro 3 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
 8</td><td><br clear='none'/>
 
@@ -1888,7 +1888,7 @@ Arrêté d'un plan de cession au cours d'une procédure de redressement ou de li
 
 10</td><td><br clear='none'/>
 
-Augmentation des fonds propres prévue par un plan de sauvegarde ou de redressement</td></tr><tr><td align='center'><br clear='none'/>
+Augmentation des fonds propres prévue par un plan de sauvegarde ou de redressement</td></tr><tr><td align='center'>10-1</td><td>Apports de trésorerie nécessaires à la poursuite de l'activité pendant la période d'observation et à l'exécution du plan de sauvegarde ou de redressement</td></tr><tr><td align='center'><br clear='none'/>
 
 11</td><td><br clear='none'/>
 
@@ -1906,11 +1906,11 @@ Mission de surveillance de l'exécution du plan, actions engagées ou poursuivie
 
 2</td><td><br clear='none'/>
 
-Assistance du débiteur dans la préparation d'un projet ayant pour objet une modification substantielle dans les objectifs ou les moyens du plan</td></tr><tr><td align='center'><br clear='none'/>
+Assistance du débiteur dans la préparation d'un projet ayant pour objet une modification substantielle dans les objectifs ou les moyens du plan</td></tr><tr><td align='center'>2-1</td><td>Assistance du débiteur lors d'une modification à titre exceptionnel des classes de parties affectées dans le cadre de la préparation d'un projet ayant pour objet une modification substantielle dans les objectifs et les moyens du plan</td></tr><tr><td align='center'><br clear='none'/>
 
 3</td><td><br clear='none'/>
 
-Présentation au tribunal d'une demande en résolution du plan</td></tr><tr><td align='center'><br clear='none'/>
+Présentation au tribunal d'une demande en résolution du plan</td></tr><tr><td align='center'>3-1</td><td>Apports de trésorerie nécessaires pour l'exécution du plan modifié par le tribunal</td></tr><tr><td align='center'><br clear='none'/>
 
 4</td><td><br clear='none'/>
 
@@ -1952,7 +1952,7 @@ Contestation des créances autres que salariales dont l'admission ou le rejet a 
 
 7</td><td><br clear='none'/>
 
-Contentieux portant sur une demande en revendication ou en restitution ayant donné lieu à une décision du juge-commissaire</td></tr><tr><td align='center'><br clear='none'/>
+Contentieux portant sur une demande en revendication ou en restitution ayant donné lieu à une décision du juge-commissaire</td></tr><tr><td align='center'>7-1</td><td>Décision du juge-commissaire ou du tribunal statuant sur une requête en contestation de la qualité de partie affectée, des modalités de répartitions en classes et du calcul des voix correspondant aux créances ou droits permettant d'exprimer un vote, formée en application de l'article R. 626-58-1</td></tr><tr><td align='center'><br clear='none'/>
 
 8</td><td><br clear='none'/>
 
@@ -3702,4 +3702,4 @@ Incidents</td><td align='left'><br clear='none'/>
 
 Incidents</td><td colspan='2' align='left'><br clear='none'/>
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center>
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles d'exécution )</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 18 du décret n° 2023-434 du 3 juin 2023, ces dispositions s'appliquent aux procédures ouvertes à compter du 1er octobre 2021 et qui ne sont pas encore clôturées à la date de publication dudit décret. Les émoluments déjà arrêtés demeurent acquis. Les administrateurs judiciaires et mandataires judiciaires peuvent demander à bénéficier d'un complément de rémunération au titre de l'application des nouveaux tarifs prévus par ces mêmes articles.</p></i>
