@@ -720,7 +720,9 @@ Encadrement du canoë-kayak en eau calme et en mer, sur tout support ou embarcat
 
 Jusqu'à 1 mille d'un abri.
 
-<p>Par vent de force 3 Beaufort maximum sur le site d'évolution.</p></td></tr><tr><td colspan='4' align='left'><br/>
+<p>Par vent de force 3 Beaufort maximum sur le site d'évolution.</p></td></tr><tr><td align='left'>CQP "accompagnateur de raft et nage en eau vive", délivrée (**) du 24 avril 2023 au 24 avril 2026.</td><td align='left'>3</td><td align='left'>Conduite de séance d'animation en nage en eau vive ou en raft au sein d'un convoi, à des fins de découverte ou d'initiation.</td><td align='left'><p>Sur des rivières naturelles jusqu'en classe 3 ;</p>
+
+Sous la responsabilité d'un titulaire d'un diplôme a minima de niveau 4 présent dans le convoi.</td></tr><tr><td colspan='4' align='left'><br/>
 
 CANOË-KAYAK-ENVIRONNEMENT SPÉCIFIQUE (rivière de classe supérieure à trois conformément aux normes de classement technique édictées par la fédération délégataire)</td></tr><tr><td colspan='4' align='left'><br/>
 
@@ -1610,7 +1612,7 @@ DES JEPS, spécialité " performance sportive " mention " motocyclisme ", déliv
 
 6</td><td align='left'><br/>
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><p>Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)</p></td></tr><tr><td align='left'>CQP "initiateur en motocyclisme", du 24 avril 2023 au 24 avril 2026 (**).</td><td align='left'>4</td><td align='left'>Conduite de séances de découverte, d'initiation, d'apprentissage et accompagnement de randonnées dans les activités du motocyclisme, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (2,3,4 roues ou chenille) et conformément à l'article R. 221-1 du code de la route.</td><td align='left'>A l'exclusion des pratiques compétitives.</td></tr><tr><td colspan='4' align='left'><br/>
 
 MOTONAUTISME
 
@@ -1756,13 +1758,9 @@ Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td align
 
 4</td><td align='left'><br/>
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'>PARACHUTISME ASCENSIONNEL NAUTIQUE
 
-PARACHUTISME ASCENSIONNEL NAUTIQUE
-
-<p>y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</p></td></tr><tr><td colspan='4' align='left'><br/>
-
-Diplômes délivrés par le ministère chargé des sports</td></tr><tr><td colspan='4' align='left'><br/>
+<p>y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.</p></td></tr><tr><td colspan='4' align='left'><p>Diplômes délivrés par le ministère chargé des sports</p></td></tr><tr><td colspan='4' align='left'><p>Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)</p></td></tr><tr><td align='left'><p>CQP "moniteur de parachutisme ascensionnel nautique", du 24 avril 2023 au 24 avril 2026 (**).</p></td><td align='left'>3</td><td align='left'>Conduite de séance de découverte et d'initiation au parachutisme ascensionnel nautique</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
 
 PÊCHE
 
@@ -1908,7 +1906,7 @@ DES JEPS, spécialité " performance sportive " mention " roller-skating ", dél
 
 6</td><td align='left'><br/>
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><p>Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)</p></td></tr><tr><td align='left'>CQP "moniteur de roller", du 24 avril 2023 au 24 avril 2026 (**).</td><td align='left'>3</td><td align='left'>Conduite de séance de découverte, d'initiation et d'apprentissage aux activités du roller.</td><td align='left'><p>Dans la limite de 20 pratiquants sur une même séance et un même lieu</p></td></tr><tr><td colspan='4' align='left'><br/>
 
 RUGBY à XIII
 
@@ -2484,7 +2482,7 @@ DES JEPS, spécialité " performance sportive ", mention " tir sportif ", déliv
 
 6</td><td align='left'><br/>
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><br/>
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'><p>Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)</p></td></tr><tr><td align='left'><p>CQP "moniteur de tir sportif", du 24 avril 2023 au 24 avril 2026 (**).</p></td><td align='left'>3</td><td align='left'>Conduite de séance de découverte et d'initiation au tir sportif</td><td align='left'>Pour l'activité découverte : dans la limite de 6 pratiquants sur le même pas de tir. Pour l'activité d'initiation : dans la limite de 10 pratiquants sur le même pas de tir.</td></tr><tr><td colspan='4' align='left'><br/>
 
 TRIATHLON
 
@@ -2692,4 +2690,4 @@ BP JEPS, spécialité " éducateur sportif ", mention " karaté, wushu et discip
 
 4</td><td align='left'><br/>
 
-Encadrement, animation initiation et préparation aux grades du 1er au 4e dan. Conduite de cycles d'apprentissage en karaté, wushu et disciplines associées.</td><td align='left'></td></tr><tr><td align='left'>DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td><td align='left'>5</td><td align='left'>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td align='left'>DES JEPS, spécialité " performance sportive " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td><td align='left'>6</td><td align='left'>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'>Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'>CQP " moniteur d'arts martiaux " option " arts énérgétiques chinois ", délivré du 25 février 2022 au 25 février 2024</td><td align='left'>3</td><td align='left'>Encadrement de séances de découverte et d'animation des activités d'arts énergétiques chinois</td><td align='left'></td></tr><tr><td align='left'>CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024</td><td align='left'>3</td><td align='left'>Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes</td><td align='left'></td></tr><tr><td colspan='4' align='left'>Titre à finalité professionnelle délivré par la Fédération française de karaté</td></tr><tr><td align='left'>Moniteur professionnel de karaté wushu et disciplines associées, délivré jusqu'au 24 octobre 2024.</td><td align='left'>3</td><td align='left'>Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées.</td><td align='left'></td></tr></tbody></table></center>
+Encadrement, animation initiation et préparation aux grades du 1er au 4e dan. Conduite de cycles d'apprentissage en karaté, wushu et disciplines associées.</td><td align='left'></td></tr><tr><td align='left'>DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td><td align='left'>5</td><td align='left'>Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td align='left'>DES JEPS, spécialité " performance sportive " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024.</td><td align='left'>6</td><td align='left'>Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.</td><td align='left'></td></tr><tr><td colspan='4' align='left'>Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport</td></tr><tr><td align='left'>CQP " moniteur d'arts martiaux " option " arts énérgétiques chinois ", délivré du 25 février 2022 au 25 février 2024</td><td align='left'>3</td><td align='left'>Encadrement de séances de découverte et d'animation des activités d'arts énergétiques chinois</td><td align='left'></td></tr><tr><td align='left'>CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024</td><td align='left'>3</td><td align='left'>Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes</td><td align='left'></td></tr><tr><td colspan='4' align='left'>Titre à finalité professionnelle délivré par la Fédération française de karaté</td></tr><tr><td align='left'>Moniteur professionnel de karaté wushu et disciplines associées, délivré jusqu'au 24 octobre 2024.</td><td align='left'>3</td><td align='left'>Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées.</td><td align='left'></td></tr></tbody></table></center><p>(**) La personne entrée en formation au plus tard à la date limite de l'inscription du CQP à l'annexe II-1 ou la personne titulaire d'un avis de recevabilité à la validation des acquis de l'expérience obtenu au plus tard jusqu'à cette même date limite peut, à l'obtention du CQP se prévaloir de l'inscription de celui-ci dans le répertoire national des certifications professionnelles et demander à obtenir une carte professionnelle d'éducateur sportif.</p>
