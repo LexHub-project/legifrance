@@ -118,7 +118,7 @@ III. - En cas d'urgence, dans l'attente de l'intervention d'un médecin</td><td 
 
 LISTE DES CLASSES THÉRAPEUTIQUES OU DES MÉDICAMENTS AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL<br/><br/>
 
-OU LEUR PRESCRIPTION AUPRÈS DES NOUVEAU-NÉS</th></tr><tr><td rowspan='10' align='justify'><br/>
+OU LEUR PRESCRIPTION AUPRÈS DES NOUVEAU-NÉS</th></tr><tr><td rowspan='12' align='justify'><br/>
 
 I. - En primo-prescription</td><td align='justify'><br/>
 
@@ -152,7 +152,7 @@ I. - En primo-prescription</td><td align='justify'><br/>
 
 - soluté de gluconate de calcium à 10 %.</td></tr><tr><td align='justify'><br/>
 
-10° Pansements gastro-intestinaux.</td></tr><tr><td rowspan='2' align='justify'><br/>
+10° Pansements gastro-intestinaux.</td></tr><tr><td align='justify'><p>11° Nirsévimab.</p></td></tr><tr><td align='justify'><p>12° Immunoglobulines spécifiques anti-HBs en association avec le vaccin contre l'hépatite B chez le nouveau-né de mère porteuse de l'antigène HBs.</p></td></tr><tr><td rowspan='2' align='justify'><br/>
 
 II. - En cas d'urgence et en l'attente du médecin</td><td align='justify'><br/>
 
