@@ -2506,9 +2506,9 @@ Elève chirurgien-dentiste</td><td align='center'><br/>
 
 Sergent</td></tr></tbody></table></center><p>Tableau 2 : MILITAIRES, INFIRMIERS ET TECHNICIENS DES HÔPITAUX DES ARMÉES</p><center><table border='1'><tbody><tr><th><br/>
 
-Grades des militaires<br/><br/>
+Grades des militaires infirmiers et techniciens<br/><br/>
 
-infirmiers et techniciens des hôpitaux des armées</th><th><br/>
+des hôpitaux des armées</th><th><br/>
 
 Échelons</th><th><br/>
 
@@ -2618,7 +2618,7 @@ Major</td></tr><tr><td align='left'><br/>
 
 Assistant médico-administratif de classe supérieure</td><td align='center'><br/>
 
-A partir du 7e échelon</td></tr><tr><td align='left'><br/>
+A partir du 6e échelon</td></tr><tr><td align='left'><br/>
 
 Assistant médico-administratif de classe normale</td><td align='center'><br/>
 
@@ -2778,7 +2778,7 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Technicien supérieur hospitalier de 2e classe</td><td align='center'><br/>
 
-A partir du 7e échelon</td></tr><tr><td align='left'><br/>
+A partir du 6e échelon</td></tr><tr><td align='left'><br/>
 
 Technicien hospitalier</td><td align='center'><br/>
 
@@ -2786,7 +2786,7 @@ A partir du 11e échelon</td></tr><tr><td align='left'><br/>
 
 Assistant médico-administratif de classe supérieure</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 6e échelon inclus</td><td rowspan='21' align='center'><br/>
+A partir du 1er et jusqu'au 5e échelon inclus</td><td rowspan='21' align='center'><br/>
 
 Adjudant-chef ou maître principal</td></tr><tr><td align='left'><br/>
 
@@ -2800,7 +2800,7 @@ A partir du 1er échelon</td></tr><tr><td align='left'><br/>
 
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 5e échelon</td></tr><tr><td align='left'><br/>
+A partir du 4e échelon</td></tr><tr><td align='left'><br/>
 
 Diététicien de classe normale</td><td align='center'><br/>
 
@@ -2864,7 +2864,7 @@ A partir du 1er et jusqu'au 3e échelon inclus</td></tr><tr><td align='left'><br
 
 Technicien supérieur hospitalier de 2e classe</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 6e échelon inclus</td></tr><tr><td align='left'><br/>
+A partir du 1er et jusqu'au 5e échelon inclus</td></tr><tr><td align='left'><br/>
 
 Technicien hospitalier</td><td align='center'><br/>
 
@@ -2872,7 +2872,7 @@ A partir du 5e et jusqu'au 10e échelon inclus</td></tr><tr><td align='left'><br
 
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 4e échelon</td><td rowspan='3' align='center'><br/>
+A partir du 3e échelon</td><td rowspan='3' align='center'><br/>
 
 Adjudant ou premier maître</td></tr><tr><td align='left'><br/>
 
@@ -2886,8 +2886,8 @@ A partir du 1er et jusqu'au 4e échelon inclus</td></tr><tr><td align='left'><br
 
 Aide-soignant de classe normale</td><td align='center'><br/>
 
-A partir du 1er et jusqu'au 3e échelon inclus</td><td align='center'><br/>
+A partir du 1er et jusqu'au 2e échelon inclus</td><td align='center'><br/>
 
-Sergent-chef ou maître</td></tr><tr><td colspan='3' align='left'><br/>
+Sergent-chef ou maître</td></tr><tr><td colspan='3' align='center'><br/>
 
-(1) Corps en extinction.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>(*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".</p><p>Conformément à l’article 1er du décret n° 2022-1745 du 28 décembre 2022, ces dispositions entrent en vigueur le 10 juin 2022.</p></i>
+(1) Corps en extinction.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>(*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".</p><p>Conformément à l'article 1 du décret n°2023-905 du 30 septembre 2023, le tableau 2 du III de cette annexe est applicable à compter du 14 décembre 2022.</p></i>
