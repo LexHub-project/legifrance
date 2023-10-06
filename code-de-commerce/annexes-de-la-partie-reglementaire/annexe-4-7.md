@@ -102,625 +102,405 @@ Nature de la prestation</th></tr><tr><td align='center'><br clear='none'/>
 
 Actes judiciaires</td><td rowspan='9' align='center'><br clear='none'/>
 
-Générique</td><td><br clear='none'/>
+Générique</td><td>Acte de greffe</td></tr><tr><td align='center'><br clear='none'/>
 
-Acte de greffe</td></tr><tr><td align='center'><br clear='none'/>
+2</td><td>Certificat</td></tr><tr><td align='center'><br clear='none'/>
 
-2</td><td><br clear='none'/>
+3</td><td>Envoi et exécution d'une commission rogatoire</td></tr><tr><td align='center'><br clear='none'/>
 
-Certificat</td></tr><tr><td align='center'><br clear='none'/>
+5</td><td>Copie</td></tr><tr><td align='center'><br clear='none'/>
 
-3</td><td><br clear='none'/>
+6</td><td>Vérification de dépens</td></tr><tr><td align='center'><br clear='none'/>
 
-Envoi et exécution d'une commission rogatoire</td></tr><tr><td align='center'><br clear='none'/>
+7</td><td>Saisine en matière de contentieux des registres de commerce</td></tr><tr><td align='center'><br clear='none'/>
 
-5</td><td><br clear='none'/>
+8</td><td>Diligences liées à l'expertise</td></tr><tr><td align='center'><br clear='none'/>
 
-Copie</td></tr><tr><td align='center'><br clear='none'/>
+9</td><td>Convocation ou avis</td></tr><tr><td align='center'><br clear='none'/>
 
-6</td><td><br clear='none'/>
-
-Vérification de dépens</td></tr><tr><td align='center'><br clear='none'/>
-
-7</td><td><br clear='none'/>
-
-Saisine en matière de contentieux des registres de commerce</td></tr><tr><td align='center'><br clear='none'/>
-
-8</td><td><br clear='none'/>
-
-Diligences liées à l'expertise</td></tr><tr><td align='center'><br clear='none'/>
-
-9</td><td><br clear='none'/>
-
-Convocation ou avis</td></tr><tr><td align='center'><br clear='none'/>
-
-10</td><td><br clear='none'/>
-
-Visa, cote et paraphe des livres</td></tr><tr><td align='center'><br clear='none'/>
+10</td><td>Visa, cote et paraphe des livres</td></tr><tr><td align='center'><br clear='none'/>
 
 11</td><td rowspan='3'><br clear='none'/>
 
-Copies certifiées conformes en dehors de toute procédure</td><td><br clear='none'/>
+Copies certifiées conformes en dehors de toute procédure</td><td>Copie d'un jugement</td></tr><tr><td align='center'><br clear='none'/>
 
-Copie d'un jugement</td></tr><tr><td align='center'><br clear='none'/>
+12</td><td>Copie d'une ordonnance</td></tr><tr><td align='center'><br clear='none'/>
 
-12</td><td><br clear='none'/>
-
-Copie d'une ordonnance</td></tr><tr><td align='center'><br clear='none'/>
-
-13</td><td><br clear='none'/>
-
-Seconde copie certifiée conforme revêtue de la formule exécutoire</td></tr><tr><td align='center'><br clear='none'/>
+13</td><td>Seconde copie certifiée conforme revêtue de la formule exécutoire</td></tr><tr><td align='center'><br clear='none'/>
 
 14</td><td rowspan='4'><br clear='none'/>
 
-Actes de procédure d'injonction de payer</td><td><br clear='none'/>
+Actes de procédure d'injonction de payer</td><td>Ordonnance d'injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
 
-Ordonnance d'injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
+15</td><td>Transmission de l'ordonnance d'injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
 
-15</td><td><br clear='none'/>
+16</td><td>Diligences relatives à l'ordonnance d'injonction de payer, y compris l'extrait d'immatriculation (K bis ou L bis) ou un certificat de non-inscription, la réception et la conservation de la requête</td></tr><tr><td align='center'><br clear='none'/>
 
-Transmission de l'ordonnance d'injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
-
-16</td><td><br clear='none'/>
-
-Diligences relatives à l'ordonnance d'injonction de payer, y compris l'extrait d'immatriculation (K bis ou L bis) ou un certificat de non-inscription, la réception et la conservation de la requête</td></tr><tr><td align='center'><br clear='none'/>
-
-17</td><td><br clear='none'/>
-
-Opposition à injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
+17</td><td>Opposition à injonction de payer</td></tr><tr><td align='center'><br clear='none'/>
 
 18</td><td rowspan='3' align='center'><br clear='none'/>
 
 Actes relatifs
 
-<p>au jugement</p></td><td><br clear='none'/>
+<p>au jugement</p></td><td>Enrôlement, tenue des audiences, mise en forme, avis aux parties dans le cadre d'un jugement, quel que soit le nombre de renvois, pour deux parties</td></tr><tr><td align='center'><br clear='none'/>
 
-Enrôlement, tenue des audiences, mise en forme, avis aux parties dans le cadre d'un jugement, quel que soit le nombre de renvois, pour deux parties</td></tr><tr><td align='center'><br clear='none'/>
+19</td><td>Actes visés au numéro 18 du présent tableau, par partie supplémentaire au-delà de deux parties</td></tr><tr><td align='center'><br clear='none'/>
 
-19</td><td><br clear='none'/>
-
-Actes visés au numéro 18 du présent tableau, par partie supplémentaire au-delà de deux parties</td></tr><tr><td align='center'><br clear='none'/>
-
-20</td><td><br clear='none'/>
-
-Transmission d'un jugement, par partie</td></tr><tr><td align='center'><br clear='none'/>
+20</td><td>Transmission d'un jugement, par partie</td></tr><tr><td align='center'><br clear='none'/>
 
 21</td><td rowspan='4' align='center'><br clear='none'/>
 
 Actes d'instruction
 
-<p>avant jugement</p></td><td><br clear='none'/>
+<p>avant jugement</p></td><td>Procédure devant un juge rapporteur</td></tr><tr><td align='center'><br clear='none'/>
 
-Procédure devant un juge rapporteur</td></tr><tr><td align='center'><br clear='none'/>
+22</td><td>Contrat ou calendrier de procédure</td></tr><tr><td align='center'><br clear='none'/>
 
-22</td><td><br clear='none'/>
+23</td><td>Ordonnances autres que de référés et d'injonctions de payer</td></tr><tr><td align='center'><br clear='none'/>
 
-Contrat ou calendrier de procédure</td></tr><tr><td align='center'><br clear='none'/>
-
-23</td><td><br clear='none'/>
-
-Ordonnances autres que de référés et d'injonctions de payer</td></tr><tr><td align='center'><br clear='none'/>
-
-24</td><td><br clear='none'/>
-
-Prestation de serment</td></tr><tr><td align='center'><br clear='none'/>
+24</td><td>Prestation de serment</td></tr><tr><td align='center'><br clear='none'/>
 
 25</td><td rowspan='3' align='center'><br clear='none'/>
 
 Actes relatifs
 
-<p>aux référés</p></td><td><br clear='none'/>
+<p>aux référés</p></td><td>Enrôlement, tenue des audiences, mise en forme, avis aux parties dans le cadre d'une ordonnance de référé, quel que soit le nombre de renvois, pour deux parties</td></tr><tr><td align='center'><br clear='none'/>
 
-Enrôlement, tenue des audiences, mise en forme, avis aux parties dans le cadre d'une ordonnance de référé, quel que soit le nombre de renvois, pour deux parties</td></tr><tr><td align='center'><br clear='none'/>
+26</td><td>Actes visés au numéro 25 du présent tableau, par partie supplémentaire au-delà de deux parties</td></tr><tr><td align='center'><br clear='none'/>
 
-26</td><td><br clear='none'/>
-
-Actes visés au numéro 25 du présent tableau, par partie supplémentaire au-delà de deux parties</td></tr><tr><td align='center'><br clear='none'/>
-
-27</td><td><br clear='none'/>
-
-Transmission d'une ordonnance de référé, par partie</td></tr><tr><td align='center'><br clear='none'/>
+27</td><td>Transmission d'une ordonnance de référé, par partie</td></tr><tr><td align='center'><br clear='none'/>
 
 28</td><td rowspan='11'><br clear='none'/>
 
-Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce </td><td><br clear='none'/>
+Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce </td><td>Diligences en matière d'enquête en application du troisième alinéa de l'article L. 621-1 et de l'article L. 651-4, hors la délivrance des copies ou extraits et des avis, notifications, convocations et communications</td></tr><tr><td align='center'><br clear='none'/>
 
-Diligences en matière d'enquête en application du troisième alinéa de l'article L. 621-1 et de l'article L. 651-4, hors la délivrance des copies ou extraits et des avis, notifications, convocations et communications</td></tr><tr><td align='center'><br clear='none'/>
+29</td><td>Réception de la demande de mandat ad hoc, de conciliation, de sauvegarde, de redressement judiciaire et de liquidations judiciaires, conformément aux articles R. 611-18, R. 611-22, R. 621-1, R. 631-1 et R. 640-1, hors la délivrance des copies ou extraits</td></tr><tr><td align='center'><br clear='none'/>
 
-29</td><td><br clear='none'/>
+30</td><td>Diligences en cas de saisine d'office ou à la requête du procureur de la République, hors la délivrance des copies ou extraits</td></tr><tr><td align='center'><br clear='none'/>
 
-Réception de la demande de mandat ad hoc, de conciliation, de sauvegarde, de redressement judiciaire et de liquidations judiciaires, conformément aux articles R. 611-18, R. 611-22, R. 621-1, R. 631-1 et R. 640-1, hors la délivrance des copies ou extraits</td></tr><tr><td align='center'><br clear='none'/>
+31</td><td>Convocation devant le juge-commissaire</td></tr><tr><td align='center'><br clear='none'/>
 
-30</td><td><br clear='none'/>
+32</td><td>Convocation devant le président du tribunal pour un mandat ad hoc ou une conciliation en application des articles R. 611-19 et R. 611-23, ou devant le tribunal</td></tr><tr><td align='center'><br clear='none'/>
 
-Diligences en cas de saisine d'office ou à la requête du procureur de la République, hors la délivrance des copies ou extraits</td></tr><tr><td align='center'><br clear='none'/>
+33</td><td>Avis au créancier en matière d'admission de créances sans débat contradictoire</td></tr><tr><td align='center'><br clear='none'/>
 
-31</td><td><br clear='none'/>
+34</td><td>Ordonnances du juge-commissaire après débat contradictoire</td></tr><tr><td align='center'><br clear='none'/>
 
-Convocation devant le juge-commissaire</td></tr><tr><td align='center'><br clear='none'/>
+35</td><td>Diligences relatives à la notification des jugements et des requêtes, aux significations et aux convocations par voie d'huissier</td></tr><tr><td align='center'><br clear='none'/>
 
-32</td><td><br clear='none'/>
+36</td><td>Mention sur l'état des créances</td></tr><tr><td align='center'><br clear='none'/>
 
-Convocation devant le président du tribunal pour un mandat ad hoc ou une conciliation en application des articles R. 611-19 et R. 611-23, ou devant le tribunal</td></tr><tr><td align='center'><br clear='none'/>
+37</td><td>Dépôt et la conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration</td></tr><tr><td align='center'><br clear='none'/>
 
-33</td><td><br clear='none'/>
+38</td><td>Extrait établi en vue des mesures de publicité</td></tr><tr><td align='center'><br clear='none'/>
 
-Avis au créancier en matière d'admission de créances sans débat contradictoire</td></tr><tr><td align='center'><br clear='none'/>
-
-34</td><td><br clear='none'/>
-
-Ordonnances du juge-commissaire après débat contradictoire</td></tr><tr><td align='center'><br clear='none'/>
-
-35</td><td><br clear='none'/>
-
-Diligences relatives à la notification des jugements et des requêtes, aux significations et aux convocations par voie d'huissier</td></tr><tr><td align='center'><br clear='none'/>
-
-36</td><td><br clear='none'/>
-
-Mention sur l'état des créances</td></tr><tr><td align='center'><br clear='none'/>
-
-37</td><td><br clear='none'/>
-
-Dépôt et la conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration</td></tr><tr><td align='center'><br clear='none'/>
-
-38</td><td><br clear='none'/>
-
-Extrait établi en vue des mesures de publicité</td></tr><tr><td align='center'><br clear='none'/>
-
-39</td><td rowspan='48' align='center'><br clear='none'/>
+39</td><td rowspan='47' align='center'><br clear='none'/>
 
 Prestations relatives aux registres</td><td rowspan='21'><br clear='none'/>
 
-Prestations relatives au registre du commerce et des sociétés</td><td><br clear='none'/>
+Prestations relatives au registre du commerce et des sociétés</td><td>Immatriculation principale, immatriculation secondaire, inscription complémentaire, et radiation d'une personne physique</td></tr><tr><td align='center'><br clear='none'/>
 
-Immatriculation principale, immatriculation secondaire, inscription complémentaire, et radiation d'une personne physique</td></tr><tr><td align='center'><br clear='none'/>
+40</td><td>Immatriculation principale, immatriculation secondaire, inscription complémentaire, et radiation d'une personne morale : groupements d'intérêt économique, sociétés commerciales, sociétés non commerciales, établissements publics</td></tr><tr><td align='center'><br clear='none'/>
 
-40</td><td><br clear='none'/>
+41</td><td>Immatriculation principale par création d'une entreprise, personne physique</td></tr><tr><td align='center'><br clear='none'/>
 
-Immatriculation principale, immatriculation secondaire, inscription complémentaire, et radiation d'une personne morale : groupements d'intérêt économique, sociétés commerciales, sociétés non commerciales, établissements publics</td></tr><tr><td align='center'><br clear='none'/>
+42</td><td>Immatriculation principale, par création de sociétés commerciales</td></tr><tr><td align='center'><br clear='none'/>
 
-41</td><td><br clear='none'/>
+43</td><td>Inscription modificative pour les personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
-Immatriculation principale par création d'une entreprise, personne physique</td></tr><tr><td align='center'><br clear='none'/>
+44</td><td>Inscription modificative pour les personnes visées au numéro 40 du présent tableau, ainsi que les mentions d'office, sous réserve des  cas prévus par l'article R. 743-145 </td></tr><tr><td align='center'><br clear='none'/>
 
-42</td><td><br clear='none'/>
+45</td><td>Diligences spécifiques en cas de transformation de sociétés</td></tr><tr><td align='center'><br clear='none'/>
 
-Immatriculation principale, par création de sociétés commerciales</td></tr><tr><td align='center'><br clear='none'/>
+46</td><td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales des personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
-43</td><td><br clear='none'/>
+47</td><td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales des personnes visées au numéro 40 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
-Inscription modificative pour les personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
+48</td><td>Notification des mises à jour des immatriculations principales et secondaires des personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
-44</td><td><br clear='none'/>
+49</td><td>Notification des mises à jour des immatriculations principales et secondaires des personnes visées au numéro 40 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
 
-Inscription modificative pour les personnes visées au numéro 40 du présent tableau, ainsi que les mentions d'office, sous réserve des  cas prévus par l'article R. 743-145 </td></tr><tr><td align='center'><br clear='none'/>
+50</td><td>Dépôt des comptes annuels</td></tr><tr><td align='center'><br clear='none'/>
 
-45</td><td><br clear='none'/>
+51</td><td>Dépôt des comptes annuels assortis d'une déclaration de confidentialité</td></tr><tr><td align='center'><br clear='none'/>
 
-Diligences spécifiques en cas de transformation de sociétés</td></tr><tr><td align='center'><br clear='none'/>
+52</td><td>Dépôt d'actes ou de pièces pour la publicité des sociétés, y compris le certificat de dépôt</td></tr><tr><td align='center'><br clear='none'/>
 
-46</td><td><br clear='none'/>
+53</td><td>Certificat négatif d'immatriculation, communication d'actes ou de pièces déposées</td></tr><tr><td align='center'><br clear='none'/>
 
-Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales des personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
+54</td><td>Certificat attestant que les comptes annuels ont été déposés mais ne sont pas rendus publics</td></tr><tr><td align='center'><br clear='none'/>
 
-47</td><td><br clear='none'/>
+55</td><td>Extrait du registre du commerce et des sociétés</td></tr><tr><td align='center'><br clear='none'/>
 
-Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales des personnes visées au numéro 40 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
+56</td><td>Relevé historique des événements au registre du commerce et des sociétés</td></tr><tr><td align='center'><br clear='none'/>
 
-48</td><td><br clear='none'/>
+57</td><td>Copie des comptes et rapports annuels (quel que soit le nombre de page)</td></tr><tr><td align='center'><br clear='none'/>
 
-Notification des mises à jour des immatriculations principales et secondaires des personnes visées au numéro 39 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
+58</td><td>Copie certifiée conforme (par page)</td></tr><tr><td align='center'><br clear='none'/>
 
-49</td><td><br clear='none'/>
+59</td><td>Copie de statuts, actes ou de pièces déposées (forfait)</td></tr><tr><td align='center'><br clear='none'/>
 
-Notification des mises à jour des immatriculations principales et secondaires des personnes visées au numéro 40 du présent tableau</td></tr><tr><td align='center'><br clear='none'/>
-
-50</td><td><br clear='none'/>
-
-Dépôt des comptes annuels</td></tr><tr><td align='center'><br clear='none'/>
-
-51</td><td><br clear='none'/>
-
-Dépôt des comptes annuels assortis d'une déclaration de confidentialité</td></tr><tr><td align='center'><br clear='none'/>
-
-52</td><td><br clear='none'/>
-
-Dépôt d'actes ou de pièces pour la publicité des sociétés, y compris le certificat de dépôt</td></tr><tr><td align='center'><br clear='none'/>
-
-53</td><td><br clear='none'/>
-
-Certificat négatif d'immatriculation, communication d'actes ou de pièces déposées</td></tr><tr><td align='center'><br clear='none'/>
-
-54</td><td><br clear='none'/>
-
-Certificat attestant que les comptes annuels ont été déposés mais ne sont pas rendus publics</td></tr><tr><td align='center'><br clear='none'/>
-
-55</td><td><br clear='none'/>
-
-Extrait du registre du commerce et des sociétés</td></tr><tr><td align='center'><br clear='none'/>
-
-56</td><td><br clear='none'/>
-
-Relevé historique des événements au registre du commerce et des sociétés</td></tr><tr><td align='center'><br clear='none'/>
-
-57</td><td><br clear='none'/>
-
-Copie des comptes et rapports annuels (quel que soit le nombre de page)</td></tr><tr><td align='center'><br clear='none'/>
-
-58</td><td><br clear='none'/>
-
-Copie certifiée conforme (par page)</td></tr><tr><td align='center'><br clear='none'/>
-
-59</td><td><br clear='none'/>
-
-Copie de statuts, actes ou de pièces déposées (forfait)</td></tr><tr><td align='center'><br clear='none'/>
-
-60</td><td align='left'></td><td><br clear='none'/>
-
-Copie de la déclaration de confidentialité des comptes annuels</td></tr><tr><td align='center'><br clear='none'/>
+60</td><td align='left'></td><td>Copie de la déclaration de confidentialité des comptes annuels</td></tr><tr><td align='center'><br clear='none'/>
 
 61</td><td rowspan='3'><br clear='none'/>
 
-Prestations relatives au registre des agents commerciaux</td><td><br clear='none'/>
+Prestations relatives au registre des agents commerciaux</td><td>Immatriculation, y compris la radiation</td></tr><tr><td align='center'><br clear='none'/>
 
-Immatriculation, y compris la radiation</td></tr><tr><td align='center'><br clear='none'/>
+62</td><td>Inscription modificative</td></tr><tr><td align='center'><br clear='none'/>
 
-62</td><td><br clear='none'/>
-
-Inscription modificative</td></tr><tr><td align='center'><br clear='none'/>
-
-63</td><td><br clear='none'/>
-
-Extrait d'inscription de la déclaration</td></tr><tr><td align='center'><br clear='none'/>
+63</td><td>Extrait d'inscription de la déclaration</td></tr><tr><td align='center'><br clear='none'/>
 
 64</td><td rowspan='8'><br clear='none'/>
 
-Dépôts effectués au registre du commerce et des sociétés par les entrepreneurs individuels à responsabilité limitée</td><td><br clear='none'/>
+Dépôts effectués au registre du commerce et des sociétés par les entrepreneurs individuels à responsabilité limitée</td><td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévu aux articles L. 526-7 et au II de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévu aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
+65</td><td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
 
-65</td><td><br clear='none'/>
+66</td><td>Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
+67</td><td>Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
 
-66</td><td><br clear='none'/>
+68</td><td>Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
+69</td><td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux fins de mentions</td></tr><tr><td align='center'><br clear='none'/>
 
-67</td><td><br clear='none'/>
+70</td><td>Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
-
-68</td><td><br clear='none'/>
-
-Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire</td></tr><tr><td align='center'><br clear='none'/>
-
-69</td><td><br clear='none'/>
-
-Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux fins de mentions</td></tr><tr><td align='center'><br clear='none'/>
-
-70</td><td><br clear='none'/>
-
-Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
-
-71</td><td><br clear='none'/>
-
-Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
+71</td><td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
 
 72</td><td rowspan='6'><br clear='none'/>
 
-Dépôts effectués au registre des agents commerciaux par les entrepreneurs individuels à responsabilité limitée</td><td><br clear='none'/>
+Dépôts effectués au registre des agents commerciaux par les entrepreneurs individuels à responsabilité limitée</td><td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévus aux articles L. 526-7 et au II de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévus aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
+73</td><td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
 
-73</td><td><br clear='none'/>
+74</td><td>Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
+75</td><td>Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
 
-74</td><td><br clear='none'/>
+76</td><td>Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
+77</td><td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
 
-75</td><td><br clear='none'/>
+78</td><td rowspan='6'><br clear='none'/>
 
-Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
+Prestations relatives au registre des entrepreneurs individuels à responsabilité limitée visés au 3° de l'article L. 526-7</td><td>Inscription après reprise ou transfert respectivement prévus à l'article L. 526-7 et au II de l'article L. 526-17 du présent code, comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation.</td></tr><tr><td align='center'><br clear='none'/>
 
-76</td><td><br clear='none'/>
+80</td><td>Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
 
-Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
+81</td><td>Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
 
-77</td><td><br clear='none'/>
+82</td><td>Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
 
-Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
+83</td><td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
 
-78</td><td rowspan='7'><br clear='none'/>
-
-Prestations relatives au registre des entrepreneurs individuels à responsabilité limitée visés au 3° de l'article L. 526-7</td><td><br clear='none'/>
-
-Immatriculation y compris après reprise ou transfert respectivement prévus aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code, comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation</td></tr><tr><td align='center'><br clear='none'/>
-
-79</td><td><br clear='none'/>
-
-Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
-
-80</td><td><br clear='none'/>
-
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre</td></tr><tr><td align='center'><br clear='none'/>
-
-81</td><td><br clear='none'/>
-
-Dépôt des comptes annuels ou du document comptable simplifié mentionné à l'article L. 526-14 du présent code au registre.</td></tr><tr><td align='center'><br clear='none'/>
-
-82</td><td><br clear='none'/>
-
-Avis au bulletin officiel des annonces civiles et commerciales relatif à la cession, y compris la délivrance du certificat, en application de l'article L. 526-17 du présent code.</td></tr><tr><td align='center'><br clear='none'/>
-
-83</td><td><br clear='none'/>
-
-Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation</td></tr><tr><td align='center'><br clear='none'/>
-
-84</td><td><br clear='none'/>
-
-Extrait du registre des entrepreneurs individuels à responsabilité limitée</td></tr><tr><td align='center'><br clear='none'/>
+84</td><td>Extrait du registre des entrepreneurs individuels à responsabilité limitée</td></tr><tr><td align='center'><br clear='none'/>
 
 84-1</td><td rowspan='2' align='center'>Prestations relatives au registre<br clear='none'/>
 
 des bénéficiaires effectifs</td><td>Déclaration relative au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale</td></tr><tr><td align='center'>84-2</td><td>Déclaration modificative ou complémentaire à la déclaration relative au bénéficiaire effectif mentionnée au deuxième alinéa de l'article L. 561-46 du code monétaire et financier</td></tr><tr><td align='center'><br clear='none'/>
 
-85</td><td rowspan='30' align='center'><br clear='none'/>
+85</td><td rowspan='39' align='center'><br clear='none'/>
 
-Privilèges et sûretés</td><td rowspan='4' align='center'><br clear='none'/>
+Registre des sûretés mobilières et autres opérations connexes</td><td rowspan='3' align='center'><br clear='none'/>
 
-Privilège du Trésor
+Gage sans dépossession à l'exception des gages mentionnés au second alinéa de l'article 2338 du code civil</td><td>Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-<p>en matière fiscale</p></td><td><br clear='none'/>
+86</td><td>Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
-Première inscription, la radiation totale ou partielle d'une inscription non périmée</td></tr><tr><td align='center'><br clear='none'/>
+87</td><td>Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-86</td><td><br clear='none'/>
+88</td><td align='center'>Nantissements conventionnels de parts de sociétés civiles, de sociétés à responsabilité limitée et de sociétés en nom collectif</td><td><br clear='none'/>
 
-Inscription suivante, le renouvellement d'une inscription ou la subrogation</td></tr><tr><td align='center'><br clear='none'/>
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de gage sans dépossession.</td></tr><tr><td align='center'><br clear='none'/>
 
-87</td><td><br clear='none'/>
+89</td><td><br clear='none'/>
 
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées</td></tr><tr><td align='center'><br clear='none'/>
+Privilège du vendeur de fonds de commerce</td><td>Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce.</td></tr><tr><td align='center'><br clear='none'/>
 
-88</td><td><br clear='none'/>
+90</td><td rowspan='4'>Nantissement conventionnel ou judiciaire du fonds de commerce y compris nantissement de fonds agricole et artisanal</td><td>Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-Mention d'une contestation en marge d'une inscription</td></tr><tr><td align='center'><br clear='none'/>
+91</td><td>Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
-89</td><td rowspan='6'><br clear='none'/>
+92</td><td>Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-Privilège de la sécurité sociale et des régimes complémentaires</td><td><br clear='none'/>
+93</td><td>Les certificats d'inscription au sens de l'article R. 521-9 du code de commerce</td></tr><tr><td align='center'><br clear='none'/>
 
-Inscription, y compris radiation totale d'une inscription non périmée</td></tr><tr><td align='center'><br clear='none'/>
-
-90</td><td><br clear='none'/>
-
-Radiation partielle d'une inscription non périmée</td></tr><tr><td align='center'><br clear='none'/>
-
-91</td><td><br clear='none'/>
-
-Renouvellement d'une inscription, subrogation</td></tr><tr><td align='center'><br clear='none'/>
-
-92</td><td><br clear='none'/>
-
-Mention d'une saisie en marge des différentes inscriptions concernant un même débiteur, la radiation partielle ou totale de ces inscriptions</td></tr><tr><td align='center'><br clear='none'/>
-
-93</td><td><br clear='none'/>
-
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées</td></tr><tr><td align='center'><br clear='none'/>
-
-94</td><td><br clear='none'/>
-
-Délivrance d'un certificat de subrogation, de mention de saisie, de radiation de cette mention, de radiation d'inscription</td></tr><tr><td align='center'><br clear='none'/>
-
-95</td><td rowspan='9'><br clear='none'/>
-
-Actes de vente et nantissement des fonds de commerce</td><td><br clear='none'/>
-
-Inscription, y compris radiation totale d'une inscription non périmée</td></tr><tr><td align='center'><br clear='none'/>
-
-96</td><td><br clear='none'/>
-
-Radiation partielle d'une inscription non périmée</td></tr><tr><td align='center'><br clear='none'/>
-
-97</td><td><br clear='none'/>
-
-Mention d'antériorité ou de subrogation, le renouvellement d'inscription</td></tr><tr><td align='center'><br clear='none'/>
-
-98</td><td><br clear='none'/>
-
-Ensemble des formalités liées au procès-verbal de dépôt, certificat de dépôt et certificat constatant une transcription, une cession d'antériorité ou de radiation</td></tr><tr><td align='center'><br clear='none'/>
-
-99</td><td><br clear='none'/>
-
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées</td></tr><tr><td align='center'><br clear='none'/>
-
-100</td><td><br clear='none'/>
+94</td><td>Déclarations de créances en application de l'article L. 141-22 du code de commerce</td><td><br clear='none'/>
 
 Rédaction de la déclaration de créance et le certificat constatant cette déclaration</td></tr><tr><td align='center'><br clear='none'/>
 
-101</td><td><br clear='none'/>
+95</td><td rowspan='3'><br clear='none'/>
 
-Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles industriels</td></tr><tr><td align='center'><br clear='none'/>
+Hypothèques maritimes à l'exclusion de celles qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports</td><td><br clear='none'/>
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
+
+96</td><td><br clear='none'/>
+
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
+
+97</td><td><br clear='none'/>
+
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert</td></tr><tr><td align='center'><br clear='none'/>
+
+98</td><td rowspan='2'>Actes de saisie sur les navires à l'exclusion de ceux qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports</td><td><br clear='none'/>
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
+
+99</td><td><br clear='none'/>
+
+Les autres prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques maritimes</td></tr><tr><td align='center'><br clear='none'/>
+
+100</td><td>Tout acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droits réels portant sur un bateau au sens de l'article L. 4111-1 du code des transports</td><td><br clear='none'/>
+
+Les autres prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques fluviales</td></tr><tr><td align='center'><br clear='none'/>
+
+101</td><td rowspan='3'>Hypothèques fluviales</td><td><br clear='none'/><br clear='none'/>
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
 102</td><td><br clear='none'/>
 
-Délivrance des copies de bordereaux d'inscription et des actes de vente sous seing privé déposés au greffe</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 103</td><td><br clear='none'/>
 
-Copie certifiée conforme</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert</td></tr><tr><td align='center'><br clear='none'/>
 
 104</td><td><br clear='none'/>
 
-Actes de nantissement d'un fonds agricole ou d'un fonds artisanal</td><td><br clear='none'/>
+Actes de saisie de bateaux</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement de fonds agricole ou artisanal.</td></tr><tr><td align='center'><br clear='none'/>
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques fluviales</td></tr><tr><td align='center'><br clear='none'/>
 
-105</td><td><br clear='none'/>
+105</td><td rowspan='3'><br clear='none'/>
 
-Actes de nantissement judiciaire</td><td><br clear='none'/>
+Mesures d'inaliénabilité</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement judiciaire.</td></tr><tr><td align='center'><br clear='none'/>
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-106</td><td align='center'><br clear='none'/>
+106</td><td><br clear='none'/>
 
-Actes de gage
-
-<p>des stocks</p></td><td><br clear='none'/>
-
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un gage de stocks.</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 107</td><td><br clear='none'/>
 
-Actes de nantissement d'outillage ou de matériel</td><td><br clear='none'/>
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert</td></tr><tr><td align='center'><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement d'outillage ou de matériel.</td></tr><tr><td align='center'><br clear='none'/>
+108</td><td rowspan='3' align='center'><br clear='none'/>
 
-108</td><td align='center'><br clear='none'/>
+Contrats portant sur un bien qui ont fait l'objet d'une publicité, conformément aux dispositions de l'article L. 624-10 du présent code et dans les conditions fixées par l'article R. 624-15 du même code</td><td><br clear='none'/>
 
-Actes de gage
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-<p>sur meubles corporels</p></td><td><br clear='none'/>
+109</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un gage sur meubles corporels prévu à l' article 2338 du code civil .</td></tr><tr><td align='center'><br clear='none'/>
-
-109</td><td rowspan='6'><br clear='none'/>
-
-Prestations relatives aux warrants autres qu'agricoles</td><td><br clear='none'/>
-
-Etablissement du warrant, y compris sa radiation (ensemble le volant, la souche et la transcription du premier endossement)</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 110</td><td><br clear='none'/>
 
-Radiation partielle</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-111</td><td><br clear='none'/>
+111</td><td rowspan='3'><br clear='none'/>
 
-Renouvellement du warrant et l'inscription d'avis d'escompte</td></tr><tr><td align='center'><br clear='none'/>
+Privilège du Trésor</td><td><br clear='none'/>
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
 112</td><td><br clear='none'/>
 
-Délivrance d'un état de transcription ou d'un état négatif</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 113</td><td><br clear='none'/>
 
-Certificat de radiation</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-114</td><td><br clear='none'/>
+114</td><td rowspan='2'><br clear='none'/><br clear='none'/>
 
-Rédaction de lettre recommandée en cas de formalité obligatoire</td></tr><tr><td align='center'><br clear='none'/>
+Privilège de la sécurité sociale et des régimes complémentaires prévus à l'article L. 243-5 du code de la sécurité sociale</td><td><br clear='none'/>
 
-115</td><td align='left'></td><td><br clear='none'/>
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-Actes de nantissement de parts sociales ou de meubles incorporels</td><td><br clear='none'/>
+115</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement de parts sociales ou de meubles incorporels.</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-116</td><td rowspan='21' align='center'><br clear='none'/>
+116</td><td rowspan='4'><br clear='none'/><br clear='none'/>
 
-Publicités diverses</td><td rowspan='5'><br clear='none'/>
+Warrants agricoles</td><td><br clear='none'/>
 
-Publicité de crédit-bail en matière mobilière</td><td><br clear='none'/>
-
-Inscription principale, y compris la radiation</td></tr><tr><td align='center'><br clear='none'/>
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
 117</td><td><br clear='none'/>
 
-Modification de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 118</td><td><br clear='none'/>
 
-Report d'inscription par le greffier</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
 119</td><td><br clear='none'/>
 
-Délivrance de tout état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions</td></tr><tr><td align='center'><br clear='none'/>
+En cas de formalités obligatoires : rédaction de lettre recommandée et mention correspondantes</td></tr><tr><td align='center'><br clear='none'/>
 
-120</td><td><br clear='none'/>
+120</td><td rowspan='3'><br clear='none'/>
 
-Certificat de radiation</td></tr><tr><td align='center'><br clear='none'/>
+Opérations de crédit-bail en matière mobilière</td><td><br clear='none'/>
 
-121</td><td align='center'><br clear='none'/>
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
-Publicité de contrat
+121</td><td><br clear='none'/>
 
-<p>de location</p></td><td><br clear='none'/>
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre d'une publicité de contrat de location.</td></tr><tr><td align='center'><br clear='none'/>
+Renouvellement</td></tr><tr><td align='center'><br clear='none'/>
 
 122</td><td><br clear='none'/>
 
-Inscription sur le registre spécial des prêts et délais</td><td><br clear='none'/>
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre d'une inscription sur le registre spécial des prêts et délais.</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
 123</td><td><br clear='none'/>
 
-Publicité de clause de réserve de propriété</td><td><br clear='none'/>
+Arrêtés de traitement de l'insalubrité et de mise en sécurité pris en application du chapitre 1 du titre I du livre V du code de la construction et de l'habitation, ainsi que les arrêtés pris en application de l'article L. 184-1 du même code, lorsqu'ils portent sur un fonds de commerce exploité à des fins d'hébergement</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre de la publicité d'une clause de réserve de propriété.</td></tr><tr><td align='center'><br clear='none'/>
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des nantissements de fonds de commerce</td></tr><tr><td align='center'><br clear='none'/>
 
-124</td><td><br clear='none'/>
+124</td><td align='center'></td><td><br clear='none'/>
 
-Publicité de clause d'inaliénabilité</td><td><br clear='none'/>
+Etats certifiés au sens de l'article R. 521-31 du code de commerce</td><td><br clear='none'/>
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre de la publicité d'une clause d'inaliénabilité.</td></tr><tr><td align='center'><br clear='none'/>
+Délivrance d'un état certifié des inscriptions</td></tr><tr><td align='center'><br clear='none'/>
 
-125</td><td rowspan='2'><br clear='none'/>
+125</td><td rowspan='6' align='center'>Publicités diverses</td><td rowspan='2'><br clear='none'/><br clear='none'/>
 
 Publicité des protêts et des certificats de non-paiement des chèques postaux</td><td><br clear='none'/>
 
-Inscription d'un protêt, y compris la radiation</td></tr><tr><td align='center'><br clear='none'/>
+Inscription d'un protêt y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
 126</td><td><br clear='none'/>
 
 Délivrance d'un extrait de registre des protêts positif ou négatif</td></tr><tr><td align='center'><br clear='none'/>
 
-127</td><td rowspan='10'><br clear='none'/>
+127</td><td rowspan='4'><br clear='none'/>
 
-Immatriculation des bateaux de rivière</td><td><br clear='none'/>
+Inscription sur le registre spécial des prêts et délais</td><td><br clear='none'/>
 
-Inscription et la radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel</td></tr><tr><td align='center'><br clear='none'/>
+Inscription principale y compris radiation totale d'une inscription non périmée (hors radiation d'office)</td></tr><tr><td align='center'><br clear='none'/>
 
 128</td><td><br clear='none'/>
 
-Mention de radiation totale ou partielle d'une inscription hypothécaire</td></tr><tr><td align='center'><br clear='none'/>
+Modification de l'inscription ou radiation partielle de l'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
 129</td><td><br clear='none'/>
 
-Mention d'antériorité ou de subrogation, et le renouvellement d'inscription</td></tr><tr><td align='center'><br clear='none'/>
+Report d'inscription par le greffier</td></tr><tr><td align='center'><br clear='none'/>
 
 130</td><td><br clear='none'/>
 
-Déclarations prévues au  troisième alinéa de l'article R. 4124-6 du code des transports , la mention des changements de domicile élu</td></tr><tr><td align='center'><br clear='none'/>
+Délivrance de tout état d'inscription positif ou négatif, quel que soit le nombre d'inscription</td></tr><tr><td align='center'><br clear='none'/>
 
-131</td><td><br clear='none'/>
+131</td><td align='center'></td><td></td><td><br clear='none'/>
 
-Acte de déclaration de propriété faite sous serment devant le tribunal de commerce prévu à l' article 101 du code du domaine public fluvial et de la navigation intérieure  </td></tr><tr><td align='center'><br clear='none'/>
-
-132</td><td><br clear='none'/>
-
-Dépôt de procès-verbal de saisie</td></tr><tr><td align='center'><br clear='none'/>
-
-133</td><td><br clear='none'/>
-
-Délivrance de tout état d'inscription positif ou négatif prévu à l' article R. 4121-4 du code des transports  </td></tr><tr><td align='center'><br clear='none'/>
-
-134</td><td><br clear='none'/>
-
-Délivrance de tout certificat</td></tr><tr><td align='center'><br clear='none'/>
-
-135</td><td><br clear='none'/>
-
-Délivrance des copies de tous actes déposés au greffe en application du  code du domaine public fluvial et de la navigation intérieure  </td></tr><tr><td align='center'><br clear='none'/>
-
-136</td><td><br clear='none'/>
-
-Formalités consécutives au transfert d'immatriculation au greffier du lieu de l'inscription et au greffier de la nouvelle immatriculation</td></tr><tr><td align='center'><br clear='none'/>
+Certificat de radiation</td></tr><tr><td align='center'><br clear='none'/>
 
 137</td><td><br clear='none'/>
 
@@ -938,7 +718,7 @@ Dénonciation au tiers saisi de l'acte de conversion en saisie-vente de la saisi
 
 Mesures conservatoires et sûretés judiciaires réalisées dans le cadre des sûretés</td><td><br clear='none'/>
 
-Dénonciation au débiteur du dépôt des bordereaux d'inscription ou de la signification du nantissement, prévue à l' article R. 532-5 du code des procédures civiles d'exécution  </td></tr><tr><td align='center'><br clear='none'/>
+Dénonciation au débiteur du dépôt des bordereaux d'inscription ou de la signification du nantissement, prévue à l' article R. 532-5 du code des procédures civiles d'exécution </td></tr><tr><td align='center'><br clear='none'/>
 
 33</td><td align='center'><br clear='none'/>
 
@@ -960,7 +740,7 @@ Dénonciation au créancier inscrit de la demande en résiliation de bail de l'i
 
 36</td><td><br clear='none'/>
 
-Dénonciation à la caution du commandement de payer les loyers et sommation de payer, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la  loi n° 86-1290 du 23 décembre 1986  </td></tr><tr><td align='center'><br clear='none'/>
+Dénonciation à la caution du commandement de payer les loyers et sommation de payer, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 </td></tr><tr><td align='center'><br clear='none'/>
 
 37</td><td><br clear='none'/>
 
@@ -2010,9 +1790,9 @@ Sous-ensemble</td><td align='center'><br clear='none'/>
 
 Nature de la prestation</td></tr><tr><td align='center'><br clear='none'/>
 
-1</td><td rowspan='188' align='center'><br clear='none'/>
+1</td><td rowspan='189' align='center'><br clear='none'/>
 
-Actes</td><td rowspan='45' align='center'><br clear='none'/>
+Actes</td><td rowspan='46' align='center'><br clear='none'/>
 
 Actes relatifs principalement à la famille</td><td rowspan='24'><br clear='none'/>
 
@@ -2176,7 +1956,7 @@ Renonciation, par le mandataire, au mandat posthume ou au mandat de protection f
 
 Examen des comptes du mandataire désigné au titre d'un mandat de protection future, en application de l' article 491 du code civil  </td></tr><tr><td align='center'><br clear='none'/>
 
-40</td><td rowspan='5'><br clear='none'/>
+40</td><td rowspan='6'><br clear='none'/>
 
 Actes relatifs à la pérennité des liens familiaux</td><td><br clear='none'/>
 
@@ -2192,7 +1972,7 @@ Elaboration d'un projet de liquidation du régime matrimonial, prévue au  10° 
 
 43</td><td><br clear='none'/>
 
-Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l' article 311-20 du code civil  </td></tr><tr><td align='center'>43-1</td><td>Consentement à l'adoption réalisé en application de l'article 348-3 du code civil </td></tr><tr><td align='center'><br clear='none'/>
+Recueil du consentement dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l'article 342-10 du code civil</td></tr><tr><td align='center'>43-1</td><td>Consentement à l'adoption réalisé en application de l'article 348-3 du code civil </td></tr><tr><td align='center'>43-2</td><td>Reconnaissance conjointe anticipée prévue à l'article 342-11 du code civil et reconnaissance de paternité ou de maternité faite par acte authentique prévue à l'article 316 du même code</td></tr><tr><td align='center'><br clear='none'/>
 
 44</td><td rowspan='57'><br clear='none'/>
 
