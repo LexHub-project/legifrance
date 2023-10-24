@@ -348,11 +348,9 @@ Avignon.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Cour d'appel d'Orléans</td></tr><tr><td colspan='2' align='center'><br/>
 
-Indre-et-Loir</td></tr><tr><td align='center'><br/>
+Indre-et-Loire</td></tr><tr><td align='center'><br/>
 
-Tours</td><td align='center'><br/>
-
-Joué-les-Tours.</td></tr><tr><td colspan='2' align='center'><br/>
+Tours</td><td align='center'>Tours.</td></tr><tr><td colspan='2' align='center'><br/>
 
 Loir-et-Cher</td></tr><tr><td align='center'><br/>
 
@@ -520,4 +518,4 @@ Yvelines</td></tr><tr><td align='center'><br/>
 
 Versailles</td><td align='center'><br/>
 
-Les Mureaux, Trappes.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l'article 3 de l'arrêté du 11 août 2023 (NOR : JUSB2321197A), ces dispositions entrent en vigueur le 1er septembre 2023.</p></i>
+Les Mureaux, Trappes.</td></tr></tbody></table></center><br/><br/><i>NOTA:<p>Conformément à l’article 3 de l’arrêté du 3 octobre 2023 (NOR : JUSB2325356A), ces dispositions entrent en vigueur le 24 octobre 2023.</p></i>
