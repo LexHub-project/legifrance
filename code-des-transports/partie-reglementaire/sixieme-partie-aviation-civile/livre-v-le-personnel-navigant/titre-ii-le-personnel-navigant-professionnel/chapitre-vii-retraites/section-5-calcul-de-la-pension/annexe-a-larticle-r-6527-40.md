@@ -1,0 +1,11 @@
+# Article Annexe à l'article R. 6527-40
+
+<p><br/>Annexe à l'article R. 6527-40 : tableau de la valeur de « a » :</p><p><div align='center'><center><table border='1'><tr><th><br/>Année de prise d'effet de la pension<br/>(du 1er janvier au 31 décembre)</th><th><br/>a est égal à la valeur la plus faible entre le nombre de jours ayant donné lieu
+
+<br/>
+
+au versement ou au rachat de cotisations, au sens des articles R. 6527-31
+
+<br/>
+
+à R. 6527-35 et la valeur du tableau</th></tr><tr><td valign='middle' align='center'><br/>2012</td><td valign='middle' align='center'><br/>9 360</td></tr><tr><td valign='middle' align='center'><br/>2013</td><td valign='middle' align='center'><br/>9 720</td></tr><tr><td valign='middle' align='center'><br/>2014</td><td valign='middle' align='center'><br/>10 080</td></tr><tr><td valign='middle' align='center'><br/>2015</td><td valign='middle' align='center'><br/>10 440</td></tr><tr><td valign='middle' align='center'><br/>2016</td><td valign='middle' align='center'><br/>10 800</td></tr><tr><td valign='middle' align='center'><br/>2017</td><td valign='middle' align='center'><br/>11 160</td></tr><tr><td valign='middle' align='center'><br/>2018</td><td valign='middle' align='center'><br/>11 520</td></tr><tr><td valign='middle' align='center'><br/>2019</td><td valign='middle' align='center'><br/>11 880</td></tr><tr><td valign='middle' align='center'><br/>2020</td><td valign='middle' align='center'><br/>12 240</td></tr><tr><td valign='middle' align='center'><br/>2021</td><td valign='middle' align='center'><br/>12 600</td></tr><tr><td valign='middle' align='center'><br/>2022</td><td valign='middle' align='center'><br/>12 960</td></tr><tr><td valign='middle' align='center'><br/>2023</td><td valign='middle' align='center'><br/>13 320</td></tr><tr><td valign='middle' align='center'><br/>2024</td><td valign='middle' align='center'><br/>13 680</td></tr><tr><td valign='middle' align='center'><br/>2025</td><td valign='middle' align='center'><br/>14 040</td></tr><tr><td valign='middle' align='center'><br/>2026</td><td valign='middle' align='center'><br/>14 400</td></tr></table></center></div></p>
