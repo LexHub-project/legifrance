@@ -2,15 +2,17 @@
 
 <p>COMPÉTENCES MATÉRIELLES DES CHAMBRES DE PROXIMITÉ NON MENTIONNÉES AU TABLEAU IV-III<br/><br/>
 
-(annexe de l'article D. 212-19-1)</p><table border='1'><tbody><tr><th>COUR D'APPEL</th><th><br/>
+(annexe de l'article D. 212-19-1)</p><center><table border='1'><tbody><tr><th><br/>
 
-TRIBUNAL JUDICIAIRE</th><th><br/>
+Cour d'appel</th><th><br/>
 
-CHAMBRES<br/><br/>
+Tribunal judiciaire</th><th><br/>
 
-DE PROXIMITE</th><th><br/>
+Chambres<br/><br/>
 
-COMPETENCE MATERIELLE</th></tr><tr><td rowspan='3' align='left'><br/>
+de proximité</th><th><br/>
+
+Compétence matérielle</th></tr><tr><td rowspan='3' align='left'><br/>
 
 Agen</td><td align='left'><br/>
 
@@ -58,7 +60,7 @@ Villeneuve-sur-Lot.</td><td rowspan='69' align='justify'><br/>
 
 20° Contestations relatives aux indemnités auxquelles peuvent donner lieu, conformément à l'article L. 215-5 du code de l'environnement, l'élargissement ou l'ouverture du nouveau lit des cours d'eau non domaniaux ;<br/><br/>
 
-21° Contestations relatives aux indemnités dues à raison des servitudes aéronautiques de balisage prévues aux articles D. 243-1 et suivants du code de l'aviation civile ;<br/><br/>
+21° Contestations relatives aux indemnités dues à raison des servitudes aéronautiques de balisage prévues aux articles R. 6351-32 et suivants du code des transports ;<br/><br/>
 
 22° Contestations relatives aux indemnités dues à raison des servitudes prévues par l'article L. 171-10 du code de la voirie routière ;<br/><br/>
 
@@ -84,71 +86,67 @@ Villeneuve-sur-Lot.</td><td rowspan='69' align='justify'><br/>
 
 33° Des demandes formées en application de l'article R. 2234-103 du code de la défense ;<br/><br/>
 
-34° Des contestations formées contre les saisies pour contrefaçon d'un brevet, dessin ou modèle prévues à aux articles R. 123-8 et suivants du code de l'aviation civile ;<br/><br/>
+34° De la suspension d'un permis de chasser prévues à aux articles L. 428-16 et suivants du code de l'environnement ;<br/><br/>
 
-35° De la suspension d'un permis de chasser prévues à aux articles L. 428-16 et suivants du code de l'environnement ;<br/><br/>
+35° Des demandes de désignation d'expert prévues à l'article L. 429-32 du code de l'environnement ;<br/><br/>
 
-36° Des demandes de désignation d'expert prévues à l'article L. 429-32 du code de l'environnement ;<br/><br/>
+36° Des actions mentionnées aux articles R. 113-7 à R. 113-10 du code de la construction et de l'habitation ;<br/><br/>
 
-37° Des actions mentionnées aux articles R. 113-7 à R. 113-10 du code de la construction et de l'habitation ;<br/><br/>
+37° Des actions mentionnées à l'article L. 271-5 du code de l'action sociale et des familles ;<br/><br/>
 
-38° Des actions mentionnées à l'article L. 271-5 du code de l'action sociale et des familles ;<br/><br/>
+38° Des actions en responsabilités prévues à l'article L. 2333-35 du code général des collectivités territoriales ;<br/><br/>
 
-39° Des actions en responsabilités prévues à l'article L. 2333-35 du code général des collectivités territoriales ;<br/><br/>
+39° Des désignations d'experts prévues à l'article 5 de la Loi du 17 juillet 1856 relative au drainage ;<br/><br/>
 
-40° Des désignations d'experts prévues à l'article 5 de la Loi du 17 juillet 1856 relative au drainage ;<br/><br/>
+40° Des actions prévues à l'article 2 de la Loi n° 73-1230 du 31 décembre 1973 réglementant la location du droit de pêche dans certains étangs salés privés du littoral ;<br/><br/>
 
-41° Des actions prévues à l'article 2 de la Loi n° 73-1230 du 31 décembre 1973 réglementant la location du droit de pêche dans certains étangs salés privés du littoral ;<br/><br/>
+41° Des actions prévues aux articles L. 313-63 et L. 314-20 du code de la consommation ;<br/><br/>
 
-42° Des actions prévues aux articles L. 313-63 et L. 314-20 du code de la consommation ;<br/><br/>
+42° Des actes de notoriété prévus à l'article R. 39 du code des pensions civiles et militaires de retraite ;<br/><br/>
 
-43° Des actes de notoriété prévus à l'article R. 39 du code des pensions civiles et militaires de retraite ;<br/><br/>
+43° Des demandes formées en application de l'article L. 106 du Livre des procédures fiscales ;<br/><br/>
 
-44° Des demandes formées en application de l'article L. 106 du Livre des procédures fiscales ;<br/><br/>
+44° Cotes et paraphes des registres des sociétés civiles de placement immobilier, sociétés d'épargne forestière et groupements forestiers d'investissement prévu à l'article R. 214-148 du code monétaire et financier ;<br/><br/>
 
-45° Cotes et paraphes des registres des sociétés civiles de placement immobilier, sociétés d'épargne forestière et groupements forestiers d'investissement prévu à l'article R. 214-148 du code monétaire et financier ;<br/><br/>
+45° Cotes et paraphes des registres des professions libérales R. 4113-2 et R. 4131-14 du code de la santé publique ;<br/><br/>
 
-46° Cotes et paraphes des registres des professions libérales R. 4113-2 et R. 4131-14 du code de la santé publique ;<br/><br/>
+46° De la réception des testaments faits en application des articles 985 et 986 du code civil ;<br/><br/>
 
-47° De la réception des testaments faits en application des articles 985 et 986 du code civil ;<br/><br/>
+47° Des demandes d'indemnités dues à raison des servitudes aéronautiques de balisage prévues à l'article R. 6351-36 du code des transports ;<br/><br/>
 
-48° Des demandes de mainlevée de saisie d'aéronef prévues aux articles R. 123-8 et suivants du code de l'aviation civile ;<br/><br/>
+48° Des demandes d'indemnisations des témoins et des jurés prévus aux articles R. 134 et R. 146 du code de procédure pénale ;<br/><br/>
 
-49° Des demandes d'indemnités dues à raison des servitudes aéronautiques de balisage prévues de l'article D. 243-5 du code de l'aviation civile ;<br/><br/>
+49° Des demandes de mainlevée provisoire de la mise sous séquestre des animaux et des objets périssables prévues à l'article R. 149 du code de procédure pénale ;<br/><br/>
 
-50° Des demandes d'indemnisations des témoins et des jurés prévus aux articles R. 134 et R. 146 du code de procédure pénale ;<br/><br/>
+50° Des actions prévues à l'article R. 421-14 du code des assurances dont le montant n'excède pas 10 000 euros ;<br/><br/>
 
-51° Des demandes de mainlevée provisoire de la mise sous séquestre des animaux et des objets périssables prévues à l'article R. 149 du code de procédure pénale ;<br/><br/>
+51° Cote et paraphe du registre spécial tenu au siège de la société civile de l'article 1845 du code civil et prévu à l'article 45 du Décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du code civil ;<br/><br/>
 
-52° Des actions prévues à l'article R. 421-14 du code des assurances dont le montant n'excède pas 10 000 euros ;<br/><br/>
+52° Cote et paraphe du registre spécial des délibérations du conseil d'administration de la Compagnie française d'assurance pour le commerce extérieur (Coface) prévu à l'article 18 du Décret du 20 janvier 1948 portant approbation des statuts de la Compagnie française d'assurance pour le commerce extérieur ;<br/><br/>
 
-53° Cote et paraphe du registre spécial tenu au siège de la société civile de l'article 1845 du code civil et prévu à l'article 45 du Décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du code civil ;<br/><br/>
+53° Demandes présentées en application des articles L. 471-3 à L. 471-7 du code rural et de la pêche maritime ;<br/><br/>
 
-54° Cote et paraphe du registre spécial des délibérations du conseil d'administration de la Compagnie française d'assurance pour le commerce extérieur (Coface) prévu à l'article 18 du Décret du 20 janvier 1948 portant approbation des statuts de la Compagnie française d'assurance pour le commerce extérieur ;<br/><br/>
+54° Demandes présentées en application de l'article R. 124-13 du code rural et de la pêche maritime ;<br/><br/>
 
-55° Demandes présentées en application des articles L. 471-3 à L. 471-7 du code rural et de la pêche maritime ;<br/><br/>
+55° Demandes présentées en application de l'article R. 125-10 du code rural et de la pêche maritime ;<br/><br/>
 
-56° Demandes présentées en application de l'article R. 124-13 du code rural et de la pêche maritime ;<br/><br/>
+56° Demandes présentées en application de l'article R. 135-5 du code rural et de la pêche maritime ;<br/><br/>
 
-57° Demandes présentées en application de l'article R. 125-10 du code rural et de la pêche maritime ;<br/><br/>
+57° Contestations mentionnées aux articles R. 152-26, R. 152-27 et R. 152-28 du code rural et de la pêche maritime ;<br/><br/>
 
-58° Demandes présentées en application de l'article R. 135-5 du code rural et de la pêche maritime ;<br/><br/>
+58° Demandes présentées en application de l'article R. 213-3 du code rural et de la pêche maritime ;<br/><br/>
 
-59° Contestations mentionnées aux articles R. 152-26, R. 152-27 et R. 152-28 du code rural et de la pêche maritime ;<br/><br/>
+59° Demandes présentées en application de l'article D. 554-12 du code rural et de la pêche maritime ;<br/><br/>
 
-60° Demandes présentées en application de l'article R. 213-3 du code rural et de la pêche maritime ;<br/><br/>
+60° Demandes tendant au paiement du capital mentionnées à l'article R. 361-4 du code de la sécurité sociale ;<br/><br/>
 
-61° Demandes présentées en application de l'article D. 554-12 du code rural et de la pêche maritime ;<br/><br/>
+61° Contestations relatives au contrat mentionné à l'article L. 442-1 du code de l'action sociale et des familles ;<br/><br/>
 
-62° Demandes tendant au paiement du capital mentionnées à l'article R. 361-4 du code de la sécurité sociale ;<br/><br/>
+62° Contestations relatives à la décision du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi relative à la détermination du nombre et du périmètre des établissements distincts mentionnée aux articles R. 2313-2 et R. 2313-5 du code du travail ;<br/><br/>
 
-63° Contestations relatives au contrat mentionné à l'article L. 442-1 du code de l'action sociale et des familles ;<br/><br/>
+63° Actions en fixation du montant de la subvention de fonctionnement mentionnées à l'article R. 2315-32 du code du travail ;<br/><br/>
 
-64° Contestations relatives à la décision du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi relative à la détermination du nombre et du périmètre des établissements distincts mentionnée aux articles R. 2313-2 et R. 2313-5 du code du travail ;<br/><br/>
-
-65° Actions en fixation du montant de la subvention de fonctionnement mentionnées à l'article R. 2315-32 du code du travail ;<br/><br/>
-
-66° Actions en dommages et intérêts envers le régime d'assurance chômage mentionnées à l'article D. 3141-2 du code du travail.</td></tr><tr><td align='left'><br/>
+64° Actions en dommages et intérêts envers le régime d'assurance chômage mentionnées à l'article D. 3141-2 du code du travail.</td></tr><tr><td align='left'><br/>
 
 Auch</td><td align='left'><br/>
 
@@ -470,4 +468,4 @@ Gonesse, Montmorency, Sannois.</td></tr><tr><td align='left'><br/>
 
 Versailles</td><td align='left'><br/>
 
-Mantes-la-Jolie, Poissy, Rambouillet, Saint-Germain-en-Laye.</td></tr></tbody></table>
+Mantes-la-Jolie, Poissy, Rambouillet, Saint-Germain-en-Laye.</td></tr></tbody></table></center>
