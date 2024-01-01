@@ -1,3 +1,0 @@
-# Article 1770 decies
-
-<p>Tout manquement, erreur ou omission au titre des obligations prévues au II de <a href='/code-general-des-impots-cgi/livre-premier-assiette-et-liquidation-de-limpot/deuxieme-partie-impositions-percues-au-profit-des-collectivites-locales-et-de-divers-organismes/titre-ii-impositions-departementales/chapitre-premier-impots-directs-et-taxes-assimilees/i-bis-cotisation-sur-la-valeur-ajoutee-des-entreprises/1586-octies.md'>l'article 1586 octies</a> est sanctionné par une amende égale à 200 € par salarié concerné, dans la limite d'un montant fixé à 100 000 €.</p>
